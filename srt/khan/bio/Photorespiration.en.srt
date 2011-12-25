@@ -1,0 +1,1681 @@
+1
+00:00:00,000 --> 00:00:00,046
+
+
+2
+00:00:00,046 --> 00:00:03,041
+Let's review the Calvin
+cycle a little bit.
+
+3
+00:00:03,041 --> 00:00:05,041
+Maybe I'm going to go into a
+little bit more detail than
+
+4
+00:00:05,041 --> 00:00:06,046
+the last video.
+
+5
+00:00:06,046 --> 00:00:10,010
+And by doing that, we'll be
+able to appreciate an
+
+6
+00:00:10,010 --> 00:00:13,048
+inefficiency, or what we think
+is an inefficiency that occurs
+
+7
+00:00:13,048 --> 00:00:15,064
+in many photosynthetic plants.
+
+8
+00:00:15,064 --> 00:00:18,035
+So just to review the Calvin
+cycle, you start
+
+9
+00:00:18,035 --> 00:00:20,050
+off with some CO2.
+
+10
+00:00:20,050 --> 00:00:23,094
+In the last video, I had six
+molecules of CO2 and six
+
+11
+00:00:23,094 --> 00:00:27,014
+molecules of ribulose
+bisphosphate.
+
+12
+00:00:27,014 --> 00:00:28,058
+But in this one, just to show
+you that I could have
+
+13
+00:00:28,058 --> 00:00:32,042
+literally just divided that last
+cycle by two, I'm going
+
+14
+00:00:32,042 --> 00:00:34,021
+to start with three and three.
+
+15
+00:00:34,021 --> 00:00:36,064
+Three molecules of
+carbon dioxide.
+
+16
+00:00:36,064 --> 00:00:40,014
+Three molecules of ribulose
+bisphosphate.
+
+17
+00:00:40,014 --> 00:00:43,002
+If you don't remember what
+ribulose bisphosphate was, it
+
+18
+00:00:43,002 --> 00:00:48,040
+was just a 5-carbon molecule.
+
+19
+00:00:48,040 --> 00:00:50,009
+It had two phosphates on it.
+
+20
+00:00:50,009 --> 00:00:51,079
+I can draw the phosphates.
+
+21
+00:00:51,079 --> 00:00:54,050
+So you have a phosphate there.
+
+22
+00:00:54,050 --> 00:00:57,007
+And you have a phosphate
+there.
+
+23
+00:00:57,007 --> 00:00:59,067
+And we saw on the last video--
+and here I'm going to do a
+
+24
+00:00:59,067 --> 00:01:01,042
+little bit more detail.
+
+25
+00:01:01,042 --> 00:01:03,074
+Of course carbon dioxide,
+there's only one carbon.
+
+26
+00:01:03,074 --> 00:01:05,031
+I can just draw a carbon
+like that.
+
+27
+00:01:05,031 --> 00:01:07,029
+I mean, I don't want to draw
+the oxygens right now.
+
+28
+00:01:07,029 --> 00:01:09,051
+I just want to focus on just
+the carbons and maybe the
+
+29
+00:01:09,051 --> 00:01:10,045
+phosphates.
+
+30
+00:01:10,045 --> 00:01:13,020
+But in the last video we saw
+that these two merged.
+
+31
+00:01:13,020 --> 00:01:16,006
+Or these two reacted.
+
+32
+00:01:16,006 --> 00:01:21,095
+They reacted in the presence
+of ribulose bisphosphate
+
+33
+00:01:21,095 --> 00:01:24,018
+carbocylase, which
+is this enzyme.
+
+34
+00:01:24,018 --> 00:01:27,023
+It was that big protein that I
+showed you in the last video.
+
+35
+00:01:27,023 --> 00:01:29,042
+And it's called RuBisCo
+for short.
+
+36
+00:01:29,042 --> 00:01:32,039
+So I'm going to write RuBisCo
+in the middle
+
+37
+00:01:32,039 --> 00:01:33,035
+of this whole cycle.
+
+38
+00:01:33,035 --> 00:01:37,068
+Because all of this is going
+on with the RuBisCo enzyme.
+
+39
+00:01:37,068 --> 00:01:40,073
+These molecules are joining on
+to the RuBisCo enzyme and then
+
+40
+00:01:40,073 --> 00:01:43,085
+the ATP and the NADHs are
+reacting on different parts.
+
+41
+00:01:43,085 --> 00:01:46,081
+And that's essentially what's
+driving the whole reaction.
+
+42
+00:01:46,081 --> 00:01:49,064
+So you have all of this is
+happening with that big
+
+43
+00:01:49,064 --> 00:01:55,037
+RuBisCo protein, or enzyme, or
+whatever you want to call it.
+
+44
+00:01:55,037 --> 00:01:56,037
+And this just stands for
+ribulose bisphosphate
+
+45
+00:01:56,037 --> 00:01:58,073
+carboxylate.
+
+46
+00:01:58,073 --> 00:02:02,021
+So it essentially telling you
+that it merges a carbon onto
+
+47
+00:02:02,021 --> 00:02:04,020
+ribulose bisphosphate.
+
+48
+00:02:04,020 --> 00:02:07,045
+And the last video, I just did
+a very hand-wavey, I didn't
+
+49
+00:02:07,045 --> 00:02:08,046
+show you all of the
+intermediates.
+
+50
+00:02:08,046 --> 00:02:11,087
+But I showed you, look, if in
+this situation you end up
+
+51
+00:02:11,087 --> 00:02:15,056
+using six ATPs and six NADHs,
+you'll end up with
+
+52
+00:02:15,056 --> 00:02:17,058
+glyceraldehyde 3-phosphate.
+
+53
+00:02:17,058 --> 00:02:21,043
+Or G3P.
+
+54
+00:02:21,043 --> 00:02:24,003
+Or that's also called
+phosphoglyceraldehyde so you
+
+55
+00:02:24,003 --> 00:02:26,033
+can also write it as PGAL.
+
+56
+00:02:26,033 --> 00:02:28,078
+But a very easy way to visualize
+it as just a
+
+57
+00:02:28,078 --> 00:02:32,093
+3-carbon chain with
+a phosphate.
+
+58
+00:02:32,093 --> 00:02:34,093
+With a phosphate group.
+
+59
+00:02:34,093 --> 00:02:40,062
+And the last video when I
+started with six carbon
+
+60
+00:02:40,062 --> 00:02:43,059
+dioxides and six ribulose
+bisphosphates.
+
+61
+00:02:43,059 --> 00:02:46,006
+And I ended up with
+12 of these.
+
+62
+00:02:46,006 --> 00:02:47,077
+Now I have three and three.
+
+63
+00:02:47,077 --> 00:02:49,031
+Now I'm going to end up
+with six of these.
+
+64
+00:02:49,031 --> 00:02:51,081
+So I'm going to end
+up with six G3Ps.
+
+65
+00:02:51,081 --> 00:02:53,011
+And the math works out, right?
+
+66
+00:02:53,011 --> 00:02:56,071
+I have three carbons plus three
+times five carbons.
+
+67
+00:02:56,071 --> 00:02:59,009
+That's a total of 18 carbons.
+
+68
+00:02:59,009 --> 00:03:01,025
+And here I have six times
+three carbons.
+
+69
+00:03:01,025 --> 00:03:02,069
+Or 18 carbons.
+
+70
+00:03:02,069 --> 00:03:04,011
+And that's what I showed you in
+the last video, but there
+
+71
+00:03:04,011 --> 00:03:08,012
+are actually some intermediary
+steps.
+
+72
+00:03:08,012 --> 00:03:11,071
+So the very first thing that's
+actually formed is
+
+73
+00:03:11,071 --> 00:03:12,096
+3-phosphoglycerate.
+
+74
+00:03:12,096 --> 00:03:20,062
+
+
+75
+00:03:20,062 --> 00:03:23,018
+And the whole reason why I'm
+showing you this detail, and
+
+76
+00:03:23,018 --> 00:03:25,037
+maybe you're taking a biology
+class where they actually go
+
+77
+00:03:25,037 --> 00:03:28,040
+into this level of details, is
+I want to show that this
+
+78
+00:03:28,040 --> 00:03:32,027
+compound also gets produced in
+that inefficient cycle that
+
+79
+00:03:32,027 --> 00:03:33,096
+we're going to explore
+in this video.
+
+80
+00:03:33,096 --> 00:03:36,021
+So you get 3-phosphoglycerate,
+which is
+
+81
+00:03:36,021 --> 00:03:37,038
+also a 3-carbon chain.
+
+82
+00:03:37,038 --> 00:03:38,063
+But it's a different
+one than this.
+
+83
+00:03:38,063 --> 00:03:41,053
+And this isn't ready to produce
+glucose just yet.
+
+84
+00:03:41,053 --> 00:03:44,078
+But you could also imagine that
+as a 3-carbon chain with
+
+85
+00:03:44,078 --> 00:03:46,036
+a phosphate group.
+
+86
+00:03:46,036 --> 00:03:50,025
+And then, and course you're
+going to produce six of these.
+
+87
+00:03:50,025 --> 00:03:51,090
+Just to make sure all the carbon
+gets accounted for.
+
+88
+00:03:51,090 --> 00:03:55,020
+You have 18 carbons here, you
+have 18 carbons here.
+
+89
+00:03:55,020 --> 00:03:56,083
+So you're going to
+have six of these
+
+90
+00:03:56,083 --> 00:04:00,058
+3-phosphoglycerates get produced.
+
+91
+00:04:00,058 --> 00:04:04,059
+And then each of those gets
+a phosphate from ATP.
+
+92
+00:04:04,059 --> 00:04:07,099
+So you're going to have
+six ATPs come in.
+
+93
+00:04:07,099 --> 00:04:10,046
+Remember these ATPs got
+produced in the light
+
+94
+00:04:10,046 --> 00:04:14,046
+dependent reactions that occur
+in the membrane of our
+
+95
+00:04:14,046 --> 00:04:16,012
+thylakoids.
+
+96
+00:04:16,012 --> 00:04:19,018
+Anyway, we have these ATPs.
+
+97
+00:04:19,018 --> 00:04:22,000
+You have six ATPs.
+
+98
+00:04:22,000 --> 00:04:24,081
+And then they become six ADPs.
+
+99
+00:04:24,081 --> 00:04:26,077
+So essentially they have given
+away their phosphate groups.
+
+100
+00:04:26,077 --> 00:04:29,004
+So they're going to give one
+phosphate group to each of
+
+101
+00:04:29,004 --> 00:04:34,010
+these six 3-phosphoglycerates.
+
+102
+00:04:34,010 --> 00:04:36,087
+And then you're going to end
+up with this, right here.
+
+103
+00:04:36,087 --> 00:04:37,092
+I'm running out of space.
+
+104
+00:04:37,092 --> 00:04:40,063
+Maybe I didn't do it as neatly
+as I should have.
+
+105
+00:04:40,063 --> 00:04:44,024
+But you're going to end up with
+this three chain carbon,
+
+106
+00:04:44,024 --> 00:04:45,057
+or 3-carbon compound.
+
+107
+00:04:45,057 --> 00:04:47,079
+It's going to have two
+phosphates then.
+
+108
+00:04:47,079 --> 00:04:49,092
+And this, you could
+know the name.
+
+109
+00:04:49,092 --> 00:04:51,017
+This is 1 3-bisphosphoglycerate.
+
+110
+00:04:51,017 --> 00:04:53,087
+
+
+111
+00:04:53,087 --> 00:04:55,088
+This was just
+3-phosphoglycerate, which
+
+112
+00:04:55,088 --> 00:04:58,022
+means that the phosphate
+is on the third carbon.
+
+113
+00:04:58,022 --> 00:05:01,018
+Now we have 1
+3-bisphophoglycerate.
+
+114
+00:05:01,018 --> 00:05:04,016
+We have a phosphate on the
+1-carbon and the 3-carbon.
+
+115
+00:05:04,016 --> 00:05:05,001
+We have two of them.
+
+116
+00:05:05,001 --> 00:05:06,026
+So it's bisphosphoglycerate.
+
+117
+00:05:06,026 --> 00:05:09,007
+
+
+118
+00:05:09,007 --> 00:05:11,005
+So that's to get
+us right there.
+
+119
+00:05:11,005 --> 00:05:14,001
+And then to get from the 1
+3-biposphoglycerate, and of
+
+120
+00:05:14,001 --> 00:05:16,011
+course we have six
+of these as well.
+
+121
+00:05:16,011 --> 00:05:17,082
+Six of these turn into
+six of these.
+
+122
+00:05:17,082 --> 00:05:22,043
+And to turn these six 1
+3-phosphoglycerate into our
+
+123
+00:05:22,043 --> 00:05:25,068
+three glyceraldehyde
+3 phosphates, or
+
+124
+00:05:25,068 --> 00:05:28,043
+phosphoglyceraldehyde the
+names are very daunting.
+
+125
+00:05:28,043 --> 00:05:35,092
+This is where we're actually
+going to oxidize our NADPH.
+
+126
+00:05:35,092 --> 00:05:39,002
+Remember oxidizing is losing
+electrons or losing hydrogens
+
+127
+00:05:39,002 --> 00:05:41,027
+with their electrons,
+either way.
+
+128
+00:05:41,027 --> 00:05:46,017
+So here, on this step right
+here, two things are going to
+
+129
+00:05:46,017 --> 00:05:47,056
+happen, actually.
+
+130
+00:05:47,056 --> 00:05:57,075
+You're going to have six NADPHs
+become six NAD pluses.
+
+131
+00:05:57,075 --> 00:06:00,022
+So they're losing that hydrogen
+and the electrons.
+
+132
+00:06:00,022 --> 00:06:03,044
+And also one phosphate is going
+to be lost from each of
+
+133
+00:06:03,044 --> 00:06:04,093
+these molecules.
+
+134
+00:06:04,093 --> 00:06:07,029
+And then you're going to
+also have plus six of
+
+135
+00:06:07,029 --> 00:06:08,013
+the phosphate groups.
+
+136
+00:06:08,013 --> 00:06:09,043
+The phosphate groups don't
+get lost here.
+
+137
+00:06:09,043 --> 00:06:12,018
+They get added onto these
+molecules right there.
+
+138
+00:06:12,018 --> 00:06:16,036
+And then we end up with our
+sixth glyceraldehyde
+
+139
+00:06:16,036 --> 00:06:19,031
+3-phosphates, which we learned
+in the last video, we can then
+
+140
+00:06:19,031 --> 00:06:22,072
+use to produce fuel or
+glucose or other
+
+141
+00:06:22,072 --> 00:06:24,037
+carbohydrates in the cell.
+
+142
+00:06:24,037 --> 00:06:27,074
+But we also learned that this
+is called the Calvin cycle.
+
+143
+00:06:27,074 --> 00:06:32,037
+So all of it doesn't get used
+to produce actual glucose or
+
+144
+00:06:32,037 --> 00:06:34,085
+other carbohydrates.
+
+145
+00:06:34,085 --> 00:06:43,031
+Most of it, out of the six, five
+of them are going to be
+
+146
+00:06:43,031 --> 00:06:47,018
+used to produce our three
+ribulose bisphosphates.
+
+147
+00:06:47,018 --> 00:06:49,087
+So let me do it like this.
+
+148
+00:06:49,087 --> 00:06:55,043
+So you're going to have five
+G3Ps go in that direction.
+
+149
+00:06:55,043 --> 00:06:59,002
+So for every six G3Ps you
+produce, five go back into the
+
+150
+00:06:59,002 --> 00:07:01,067
+cycle and then one
+exits the cycle.
+
+151
+00:07:01,067 --> 00:07:02,057
+We saw this in the last video.
+
+152
+00:07:02,057 --> 00:07:04,082
+In the last video I had 12
+here, so 10 went in this
+
+153
+00:07:04,082 --> 00:07:06,042
+direction and two in
+this direction.
+
+154
+00:07:06,042 --> 00:07:08,024
+I'm just dividing everything
+by two in this video.
+
+155
+00:07:08,024 --> 00:07:10,097
+And the whole reason why I
+multiplied by two in the last
+
+156
+00:07:10,097 --> 00:07:13,036
+video is so that we end up
+with two going into this
+
+157
+00:07:13,036 --> 00:07:15,017
+direction because two
+is enough to produce
+
+158
+00:07:15,017 --> 00:07:16,031
+at least one glucose.
+
+159
+00:07:16,031 --> 00:07:17,026
+But we don't have to have two.
+
+160
+00:07:17,026 --> 00:07:20,025
+We could just say we do this
+whole cycle twice to get two.
+
+161
+00:07:20,025 --> 00:07:24,075
+But anyway, I have one
+glyceraldehyde 3-phosphate
+
+162
+00:07:24,075 --> 00:07:26,025
+coming out of this end.
+
+163
+00:07:26,025 --> 00:07:29,055
+And then these five
+glyceraldehyde 3-phosphates
+
+164
+00:07:29,055 --> 00:07:31,041
+that stay in the cycle.
+
+165
+00:07:31,041 --> 00:07:33,094
+Remember those are
+just 3-carbons
+
+166
+00:07:33,094 --> 00:07:34,088
+with a phosphate group.
+
+167
+00:07:34,088 --> 00:07:36,056
+I drew it over here already.
+
+168
+00:07:36,056 --> 00:07:42,043
+They will then use another
+three ATP.
+
+169
+00:07:42,043 --> 00:07:51,060
+
+
+170
+00:07:51,060 --> 00:07:54,062
+So we end up with three ADPs.
+
+171
+00:07:54,062 --> 00:07:56,049
+And the phosphate groups
+actually end up on the
+
+172
+00:07:56,049 --> 00:08:00,012
+ribulose bisphosphate and they
+get essentially recycled into
+
+173
+00:08:00,012 --> 00:08:03,060
+ribulose bisphosphate for the
+whole cycle to happen again.
+
+174
+00:08:03,060 --> 00:08:05,082
+Remember when all this is
+happening you can kind of
+
+175
+00:08:05,082 --> 00:08:09,014
+imagine in or on the surface
+of this big enzyme.
+
+176
+00:08:09,014 --> 00:08:10,039
+This ribulose bisphosphate
+carboxylase.
+
+177
+00:08:10,039 --> 00:08:12,098
+
+
+178
+00:08:12,098 --> 00:08:16,093
+And actually, just so you know
+a piece of terminology, this
+
+179
+00:08:16,093 --> 00:08:20,001
+type of photosynthesis is called
+C3 photosynthesis.
+
+180
+00:08:20,001 --> 00:08:26,064
+
+
+181
+00:08:26,064 --> 00:08:30,025
+And the whole reason why it's
+called C3 photosynthesis is
+
+182
+00:08:30,025 --> 00:08:35,040
+because the very first product
+that you get when you react
+
+183
+00:08:35,040 --> 00:08:38,084
+with carbon dioxide, when the
+first time you fix your carbon
+
+184
+00:08:38,084 --> 00:08:41,085
+dioxide-- remember carbon
+dioxide fixation is when you
+
+185
+00:08:41,085 --> 00:08:43,045
+take it in its gaseous
+form and you actually
+
+186
+00:08:43,045 --> 00:08:45,060
+put it into a molecule.
+
+187
+00:08:45,060 --> 00:08:48,047
+The very first carbon molecule
+you get once the carbon
+
+188
+00:08:48,047 --> 00:08:51,033
+dioxide gets fixed is
+a 3-carbon molecule.
+
+189
+00:08:51,033 --> 00:08:53,001
+It's phosphoglycerate.
+
+190
+00:08:53,001 --> 00:08:54,016
+That's why I showed
+it to you there.
+
+191
+00:08:54,016 --> 00:08:57,080
+Because that's where
+the three in the C3
+
+192
+00:08:57,080 --> 00:08:59,091
+photosynthesis comes from.
+
+193
+00:08:59,091 --> 00:09:03,084
+Now, everything I've just done
+is a review of what we did in
+
+194
+00:09:03,084 --> 00:09:04,074
+the last video.
+
+195
+00:09:04,074 --> 00:09:06,025
+Maybe with a little
+bit more detail.
+
+196
+00:09:06,025 --> 00:09:07,047
+And I showed you that you
+don't have to start
+
+197
+00:09:07,047 --> 00:09:08,025
+with six and six.
+
+198
+00:09:08,025 --> 00:09:10,096
+You could start with three and
+three and just have five go
+
+199
+00:09:10,096 --> 00:09:13,062
+down here and one go down
+here instead of doubling
+
+200
+00:09:13,062 --> 00:09:14,006
+everything.
+
+201
+00:09:14,006 --> 00:09:17,023
+But what I want to show you now
+is an inefficiency that
+
+202
+00:09:17,023 --> 00:09:18,055
+goes on in plants.
+
+203
+00:09:18,055 --> 00:09:22,077
+This RuBisCo doesn't
+necessarily
+
+204
+00:09:22,077 --> 00:09:25,063
+just fix carbon dioxide.
+
+205
+00:09:25,063 --> 00:09:29,029
+It can also react with oxygen.
+
+206
+00:09:29,029 --> 00:09:31,013
+And actually, its name is
+ribulose bisphosphate
+
+207
+00:09:31,013 --> 00:09:36,057
+carboxylase oxygenase, which
+means it can react
+
+208
+00:09:36,057 --> 00:09:39,002
+with carbon or oxygen.
+
+209
+00:09:39,002 --> 00:09:41,082
+And this mechanism-- so let's
+say you have your ribulose
+
+210
+00:09:41,082 --> 00:09:43,074
+bisphosphate hanging around.
+
+211
+00:09:43,074 --> 00:09:50,037
+You know we're in the stroma
+of our chloroplast.
+
+212
+00:09:50,037 --> 00:09:53,061
+So let's say we have our five
+ribulose bisphosphates.
+
+213
+00:09:53,061 --> 00:10:03,007
+
+
+214
+00:10:03,007 --> 00:10:07,080
+And instead of reacting with
+carbon it can actually react
+
+215
+00:10:07,080 --> 00:10:10,035
+with oxygen.
+
+216
+00:10:10,035 --> 00:10:12,082
+So instead of having carbon
+dioxide here, I can have O2
+
+217
+00:10:12,082 --> 00:10:14,017
+coming in here.
+
+218
+00:10:14,017 --> 00:10:15,094
+We have oxygen coming in here.
+
+219
+00:10:15,094 --> 00:10:19,055
+And all of this, once again, is
+occurring on the surface or
+
+220
+00:10:19,055 --> 00:10:23,050
+with the assistance
+of the RuBisCo.
+
+221
+00:10:23,050 --> 00:10:27,028
+The exact same, the
+RuBisCo enzyme.
+
+222
+00:10:27,028 --> 00:10:28,053
+Ribulose bisphosphate
+carboxylase oxygenase.
+
+223
+00:10:28,053 --> 00:10:31,071
+
+
+224
+00:10:31,071 --> 00:10:32,021
+That's why.
+
+225
+00:10:32,021 --> 00:10:34,052
+Because it can also
+fix oxygen.
+
+226
+00:10:34,052 --> 00:10:38,079
+And when these two things react,
+you don't get useful
+
+227
+00:10:38,079 --> 00:10:42,080
+things that can be used for
+fuel and all of that.
+
+228
+00:10:42,080 --> 00:10:47,092
+You end up with-- and my drawing
+is a little messy--
+
+229
+00:10:47,092 --> 00:10:52,024
+you end up with-- well when
+these two guys react-- you'll
+
+230
+00:10:52,024 --> 00:10:59,033
+end up with five molecules
+of this guy right here.
+
+231
+00:10:59,033 --> 00:11:03,097
+Five molecules of this
+
+232
+00:11:03,097 --> 00:11:07,030
+3-phosphoglycerate right there.
+
+233
+00:11:07,030 --> 00:11:08,079
+Remember here we ended
+up with six of them.
+
+234
+00:11:08,079 --> 00:11:10,037
+But now we're only going
+to end up with five
+
+235
+00:11:10,037 --> 00:11:11,062
+phosphoglycerates.
+
+236
+00:11:11,062 --> 00:11:17,076
+
+
+237
+00:11:17,076 --> 00:11:20,007
+I know the names are
+all very confusing.
+
+238
+00:11:20,007 --> 00:11:22,054
+But the basic idea is to
+remember that what's happening
+
+239
+00:11:22,054 --> 00:11:25,095
+here is if carbon dioxide isn't
+getting fixed, oxygen
+
+240
+00:11:25,095 --> 00:11:26,062
+can get fixed.
+
+241
+00:11:26,062 --> 00:11:28,087
+And you end up with five
+phosphoglycerates.
+
+242
+00:11:28,087 --> 00:11:32,037
+And you actually also end up
+with five-- this is called
+
+243
+00:11:32,037 --> 00:11:34,062
+phosphoglycolate.
+
+244
+00:11:34,062 --> 00:11:37,039
+I know these are very
+daunting names.
+
+245
+00:11:37,039 --> 00:11:44,029
+Phosphoglycolate, which is
+a 2-carbon molecule.
+
+246
+00:11:44,029 --> 00:11:46,037
+Which makes sense because we
+only have five carbons to
+
+247
+00:11:46,037 --> 00:11:47,035
+start with.
+
+248
+00:11:47,035 --> 00:11:51,064
+This thing right here is
+a 3-carbon molecule.
+
+249
+00:11:51,064 --> 00:11:55,008
+That's a 3-carbon molecule
+and this right here
+
+250
+00:11:55,008 --> 00:11:56,075
+is a 2-carbon molecule.
+
+251
+00:11:56,075 --> 00:12:00,000
+So this right here is going to
+be a 2-carbon molecule and it
+
+252
+00:12:00,000 --> 00:12:01,087
+has a phosphate group.
+
+253
+00:12:01,087 --> 00:12:04,075
+So as you can imagine, in this
+situation we're not going to
+
+254
+00:12:04,075 --> 00:12:07,071
+be able to keep going forward
+and produce our glyceraldehyde
+
+255
+00:12:07,071 --> 00:12:11,010
+3-phosphate, which we can then
+use to make up carbohydrates.
+
+256
+00:12:11,010 --> 00:12:11,095
+We're stuck.
+
+257
+00:12:11,095 --> 00:12:13,092
+We just have these five
+phosphoglycerates.
+
+258
+00:12:13,092 --> 00:12:16,096
+
+
+259
+00:12:16,096 --> 00:12:20,041
+These can go on and some
+percentage of them, but the
+
+260
+00:12:20,041 --> 00:12:21,075
+ratios are all getting
+messed up.
+
+261
+00:12:21,075 --> 00:12:23,069
+But everything doesn't
+necessarily happen this
+
+262
+00:12:23,069 --> 00:12:24,075
+cleanly in the cell.
+
+263
+00:12:24,075 --> 00:12:28,060
+These things can go on, but we
+have one less being produced.
+
+264
+00:12:28,060 --> 00:12:31,085
+And this thing right here, it's
+actually using up some of
+
+265
+00:12:31,085 --> 00:12:35,075
+our carbon from our ribulose
+bisphosphate.
+
+266
+00:12:35,075 --> 00:12:37,078
+And if this thing kept going
+up, all of our ribulose
+
+267
+00:12:37,078 --> 00:12:39,090
+bisphosphate is going
+to get eaten up.
+
+268
+00:12:39,090 --> 00:12:43,039
+We're not going to be able to
+continue on into this cycle
+
+269
+00:12:43,039 --> 00:12:44,045
+over and over again.
+
+270
+00:12:44,045 --> 00:12:47,079
+And actually this is kind
+of a waste product.
+
+271
+00:12:47,079 --> 00:12:51,070
+Right here this is
+a waste product.
+
+272
+00:12:51,070 --> 00:12:53,040
+Or we think it's a
+waste product.
+
+273
+00:12:53,040 --> 00:12:56,076
+And this actually has to exit
+your chloroplast and actually
+
+274
+00:12:56,076 --> 00:12:59,076
+get processed by other
+organelles in the plant cells.
+
+275
+00:12:59,076 --> 00:13:04,005
+And these are called, these
+waste processing organelles in
+
+276
+00:13:04,005 --> 00:13:08,035
+your cells, these are
+peroxisomes I know there's a
+
+277
+00:13:08,035 --> 00:13:11,005
+lot of complicated
+terminology here.
+
+278
+00:13:11,005 --> 00:13:15,069
+But the important thing to
+remember, when RuBisCo fixes
+
+279
+00:13:15,069 --> 00:13:19,020
+oxygen, this is actually called
+photorespiration.
+
+280
+00:13:19,020 --> 00:13:21,022
+That's an important
+word to know.
+
+281
+00:13:21,022 --> 00:13:22,047
+Photorespiration.
+
+282
+00:13:22,047 --> 00:13:24,086
+
+
+283
+00:13:24,086 --> 00:13:28,066
+All of a sudden, instead of
+being able to carry forward
+
+284
+00:13:28,066 --> 00:13:32,003
+with your Calvin cycle and
+produce a lot of sugar,
+
+285
+00:13:32,003 --> 00:13:34,029
+instead you are depleting
+your RuBisCo.
+
+286
+00:13:34,029 --> 00:13:36,005
+So this is a very bad process.
+
+287
+00:13:36,005 --> 00:13:38,000
+This is going to get in the
+way of your Calvin cycle.
+
+288
+00:13:38,000 --> 00:13:44,022
+And remember how important
+each of these G3Ps are.
+
+289
+00:13:44,022 --> 00:13:46,050
+Because for every turn of the
+Calvin cycle, or at least the
+
+290
+00:13:46,050 --> 00:13:49,063
+way I did it, we only produce
+one G3P that actually gets
+
+291
+00:13:49,063 --> 00:13:51,022
+used for something useful.
+
+292
+00:13:51,022 --> 00:13:58,052
+The other five G3Ps have to go
+back to produce ribulose
+
+293
+00:13:58,052 --> 00:14:00,048
+bisphosphate.
+
+294
+00:14:00,048 --> 00:14:02,032
+RuBisCo of course
+is the enzyme.
+
+295
+00:14:02,032 --> 00:14:05,061
+So in this situation we only
+have five phosphoglycerates to
+
+296
+00:14:05,061 --> 00:14:06,023
+begin with.
+
+297
+00:14:06,023 --> 00:14:10,064
+Maybe if we have our ATP or an
+NADH, we can convert these
+
+298
+00:14:10,064 --> 00:14:13,076
+five-- and it doesn't have to
+go in this direction-- but
+
+299
+00:14:13,076 --> 00:14:17,087
+maybe we can convert these five
+phosphoglycerates into
+
+300
+00:14:17,087 --> 00:14:20,061
+five glyceraldehyde
+3-phosphates.
+
+301
+00:14:20,061 --> 00:14:21,092
+G3Ps.
+
+302
+00:14:21,092 --> 00:14:26,029
+Then all of these are going to
+be used back to produce our
+
+303
+00:14:26,029 --> 00:14:28,015
+ribulose bisphosphate.
+
+304
+00:14:28,015 --> 00:14:30,069
+So to go from here to here,
+we actually had to
+
+305
+00:14:30,069 --> 00:14:33,015
+use up ATP and NADH.
+
+306
+00:14:33,015 --> 00:14:36,009
+And then to go from here to
+here, we have to use more ATP.
+
+307
+00:14:36,009 --> 00:14:38,035
+But we went through this whole
+cycle and we didn't produce
+
+308
+00:14:38,035 --> 00:14:41,082
+anything, in terms of useful
+things that can be used to--
+
+309
+00:14:41,082 --> 00:14:44,004
+essentially sugars or
+carbohydrates that can be used
+
+310
+00:14:44,004 --> 00:14:47,094
+to fuel or provide structure
+for the plant in any way.
+
+311
+00:14:47,094 --> 00:14:50,049
+So this is a completely--
+or we think-- this
+
+312
+00:14:50,049 --> 00:14:51,076
+is a wasteful process.
+
+313
+00:14:51,076 --> 00:14:55,099
+
+
+314
+00:14:55,099 --> 00:15:00,003
+So people wonder, when you
+look a lot of biological
+
+315
+00:15:00,003 --> 00:15:02,055
+systems you don't see wasteful
+processes all the time.
+
+316
+00:15:02,055 --> 00:15:05,024
+You would say, well wouldn't
+natural selection have
+
+317
+00:15:05,024 --> 00:15:06,048
+selected against this?
+
+318
+00:15:06,048 --> 00:15:09,049
+And some people believe that
+this is just a remnant from
+
+319
+00:15:09,049 --> 00:15:13,050
+our evolutionary past, or our
+plants' evolutionary past,
+
+320
+00:15:13,050 --> 00:15:15,086
+where there wasn't a lot of
+oxygen in the atmosphere.
+
+321
+00:15:15,086 --> 00:15:21,003
+And if there wasn't a lot of
+oxygen in the atmosphere, this
+
+322
+00:15:21,003 --> 00:15:23,002
+was not that likely
+of an occurrence.
+
+323
+00:15:23,002 --> 00:15:25,062
+But there's some people who
+actually believe that no, this
+
+324
+00:15:25,062 --> 00:15:27,076
+might actually have
+been selected
+
+325
+00:15:27,076 --> 00:15:29,010
+for in natural selection.
+
+326
+00:15:29,010 --> 00:15:31,083
+Because if there is a lot of
+oxygen hanging around in the
+
+327
+00:15:31,083 --> 00:15:37,071
+cell, more than you need, that
+oxygen might actually react
+
+328
+00:15:37,071 --> 00:15:41,019
+with your ATP and create other
+harmful compounds in the cell.
+
+329
+00:15:41,019 --> 00:15:45,002
+And this might be a way of
+sopping up the harmful oxygen
+
+330
+00:15:45,002 --> 00:15:47,011
+that's actually hanging
+around the cell.
+
+331
+00:15:47,011 --> 00:15:48,004
+So who knows?
+
+332
+00:15:48,004 --> 00:15:49,038
+But it's interesting idea.
+
+333
+00:15:49,038 --> 00:15:53,023
+That you have this one enzyme
+that can react with ribulose
+
+334
+00:15:53,023 --> 00:15:56,021
+bisphosphate and
+carbon dioxide.
+
+335
+00:15:56,021 --> 00:15:59,032
+And if that happens, we just get
+our regular Calvin cycle.
+
+336
+00:15:59,032 --> 00:16:04,025
+Or it can react with ribulose
+bisphosphate and oxygen and
+
+337
+00:16:04,025 --> 00:16:07,030
+actually fix oxygen into
+these two molecules.
+
+338
+00:16:07,030 --> 00:16:09,061
+Especially the phosphoglycolate
+which we
+
+339
+00:16:09,061 --> 00:16:11,012
+think is a waste compound.
+
+340
+00:16:11,012 --> 00:16:14,032
+And if you just went on and on
+in the Calvin cycle in this
+
+341
+00:16:14,032 --> 00:16:19,046
+way, you will not produce
+any useful sugars.
+
+342
+00:16:19,046 --> 00:16:21,096
+So in the next video, what I
+want to do is study some
+
+343
+00:16:21,096 --> 00:16:25,030
+plants that have been
+able to get by this
+
+344
+00:16:25,030 --> 00:16:26,085
+photorespiration problem.
+
+345
+00:16:26,085 --> 00:16:28,085
+And you could imagine,
+photorespiration could be a
+
+346
+00:16:28,085 --> 00:16:33,020
+really big deal or it could be
+very harmful in situations
+
+347
+00:16:33,020 --> 00:16:37,003
+where, one, it's very important
+for a plant to be
+
+348
+00:16:37,003 --> 00:16:38,073
+very productive of sugars.
+
+349
+00:16:38,073 --> 00:16:41,088
+And it can also, we'll see,
+it can be a problem-- it's
+
+350
+00:16:41,088 --> 00:16:43,054
+definitely a problem if there's
+a huge amount of
+
+351
+00:16:43,054 --> 00:16:44,044
+oxygen content.
+
+352
+00:16:44,044 --> 00:16:46,088
+But in the next video I'm going
+to show you plants that
+
+353
+00:16:46,088 --> 00:16:50,060
+have gotten around this
+problem by, instead of
+
+354
+00:16:50,060 --> 00:16:55,002
+performing C-3 photosynthesis,
+which is the classic Calvin
+
+355
+00:16:55,002 --> 00:16:58,032
+cycle that I just showed
+you, they perform C-4
+
+356
+00:16:58,032 --> 00:16:59,012
+photosynthesis.
+
+357
+00:16:59,012 --> 00:17:01,084
+And I'll show you what that
+means in the next video.
+
+358
+00:17:01,084 --> 00:17:02,055
+

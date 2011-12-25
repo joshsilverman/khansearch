@@ -1,0 +1,1428 @@
+1
+00:00:00,000 --> 00:00:00,040
+
+
+2
+00:00:00,040 --> 00:00:04,025
+In my humble opinion, the
+single most important
+
+3
+00:00:04,025 --> 00:00:11,053
+biochemical reaction, especially
+to us, is cellular
+
+4
+00:00:11,053 --> 00:00:13,064
+respiration.
+
+5
+00:00:13,064 --> 00:00:17,048
+And the reason why I feel so
+strongly about that is because
+
+6
+00:00:17,048 --> 00:00:21,017
+this is how we derive
+energy from what we
+
+7
+00:00:21,017 --> 00:00:22,062
+eat, or from our fuel.
+
+8
+00:00:22,062 --> 00:00:25,028
+Or if we want to be specific,
+from glucose.
+
+9
+00:00:25,028 --> 00:00:27,026
+At the end of the day, most of
+what we eat, or at least
+
+10
+00:00:27,026 --> 00:00:29,028
+carbohydrates, end
+up as glucose.
+
+11
+00:00:29,028 --> 00:00:32,018
+In future videos I'll talk about
+how we derive energy
+
+12
+00:00:32,018 --> 00:00:33,063
+from fats or proteins.
+
+13
+00:00:33,063 --> 00:00:40,068
+But cellular respiration, let's
+us go from glucose to
+
+14
+00:00:40,068 --> 00:00:43,035
+energy and some other
+byproducts.
+
+15
+00:00:43,035 --> 00:00:45,017
+And to be a little bit more
+specific about it, let me
+
+16
+00:00:45,017 --> 00:00:47,053
+write the chemical reaction
+right here.
+
+17
+00:00:47,053 --> 00:00:51,084
+So the chemical formula for
+glucose, you're going to have
+
+18
+00:00:51,084 --> 00:00:57,035
+six carbons, twelve hydrogens
+and six oxygens.
+
+19
+00:00:57,035 --> 00:00:59,099
+So that's your glucose
+right there.
+
+20
+00:00:59,099 --> 00:01:02,088
+So if you had one mole of
+glucose-- let me write that,
+
+21
+00:01:02,088 --> 00:01:06,087
+that's your glucose right
+there-- and then to that one
+
+22
+00:01:06,087 --> 00:01:12,001
+mole of glucose, if you had six
+moles of molecular oxygen
+
+23
+00:01:12,001 --> 00:01:16,007
+running around the cell, then--
+and this is kind of a
+
+24
+00:01:16,007 --> 00:01:19,010
+gross simplification for
+cellular respiration.
+
+25
+00:01:19,010 --> 00:01:20,065
+I think you're going to
+appreciate over the course of
+
+26
+00:01:20,065 --> 00:01:25,001
+the next few videos, that one
+can get as involved into this
+
+27
+00:01:25,001 --> 00:01:26,020
+mechanism as possible.
+
+28
+00:01:26,020 --> 00:01:27,071
+But I think it's nice to
+get the big picture.
+
+29
+00:01:27,071 --> 00:01:30,018
+But if you give me some glucose,
+if you have one mole
+
+30
+00:01:30,018 --> 00:01:34,018
+of glucose and six moles of
+oxygen, through the process of
+
+31
+00:01:34,018 --> 00:01:37,029
+cellular respiration-- and so
+I'm just writing it as kind of
+
+32
+00:01:37,029 --> 00:01:40,045
+a big black box right now,
+let me pick a nice color.
+
+33
+00:01:40,045 --> 00:01:45,015
+So this is cellular
+respiration.
+
+34
+00:01:45,015 --> 00:01:47,003
+Which we'll see is
+quite involved.
+
+35
+00:01:47,003 --> 00:01:49,048
+But I guess anything can be, if
+you want to be particular
+
+36
+00:01:49,048 --> 00:01:50,070
+enough about it.
+
+37
+00:01:50,070 --> 00:01:54,023
+Through cellular respiration
+we're going to produce six
+
+38
+00:01:54,023 --> 00:01:58,040
+moles of carbon dioxide.
+
+39
+00:01:58,040 --> 00:02:01,046
+Six moles of water.
+
+40
+00:02:01,046 --> 00:02:05,078
+And-- this is the
+super-important part-- we're
+
+41
+00:02:05,078 --> 00:02:08,081
+going to produce energy.
+
+42
+00:02:08,081 --> 00:02:09,093
+We're going to produce energy.
+
+43
+00:02:09,093 --> 00:02:14,053
+And this is the energy that can
+be used to do useful work,
+
+44
+00:02:14,053 --> 00:02:18,075
+to heat our bodies, to
+provide electrical
+
+45
+00:02:18,075 --> 00:02:20,000
+impulses in our brains.
+
+46
+00:02:20,000 --> 00:02:23,059
+Whatever energy, especially a
+human body needs, but it's not
+
+47
+00:02:23,059 --> 00:02:25,090
+just humans, is provided
+by this
+
+48
+00:02:25,090 --> 00:02:28,059
+cellular respiration mechanism.
+
+49
+00:02:28,059 --> 00:02:31,012
+And when you say energy, you
+might say, hey Sal, on the
+
+50
+00:02:31,012 --> 00:02:33,072
+last video didn't you just--
+well, if that was the last
+
+51
+00:02:33,072 --> 00:02:38,087
+video you watched, you probably
+saw that I said ATP
+
+52
+00:02:38,087 --> 00:02:48,008
+is the energy currency for
+biological systems. And so you
+
+53
+00:02:48,008 --> 00:02:50,028
+might say, hey, well it looks
+like glucose is the energy
+
+54
+00:02:50,028 --> 00:02:53,059
+currency for biological systems.
+And to some degree,
+
+55
+00:02:53,059 --> 00:02:56,096
+both answers would be correct.
+
+56
+00:02:56,096 --> 00:03:00,043
+But to just see how it fits
+together is that the process
+
+57
+00:03:00,043 --> 00:03:03,081
+of cellular respiration, it does
+produce energy directly.
+
+58
+00:03:03,081 --> 00:03:07,068
+But that energy is used
+to produce ATP.
+
+59
+00:03:07,068 --> 00:03:11,027
+So if I were to break down
+this energy portion of
+
+60
+00:03:11,027 --> 00:03:13,078
+cellular respiration right
+there, some of it
+
+61
+00:03:13,078 --> 00:03:15,008
+would just be heat.
+
+62
+00:03:15,008 --> 00:03:16,099
+You know, it just warms
+up the cell.
+
+63
+00:03:16,099 --> 00:03:19,071
+And then some of it is used--
+and this is what the textbooks
+
+64
+00:03:19,071 --> 00:03:20,022
+will tell you.
+
+65
+00:03:20,022 --> 00:03:25,000
+The textbooks will say
+it produces 38 ATPs.
+
+66
+00:03:25,000 --> 00:03:28,078
+It can be more readily used by
+cells to contract muscles or
+
+67
+00:03:28,078 --> 00:03:33,008
+to generate nerve impulses or
+do whatever else-- grow, or
+
+68
+00:03:33,008 --> 00:03:35,034
+divide, or whatever else
+the cell might need.
+
+69
+00:03:35,034 --> 00:03:37,003
+So really, cellular respiration,
+to say it
+
+70
+00:03:37,003 --> 00:03:39,019
+produces energy, a little
+disingenuous.
+
+71
+00:03:39,019 --> 00:03:42,019
+It's really the process of
+taking glucose and producing
+
+72
+00:03:42,019 --> 00:03:44,080
+ATPs, with maybe heat
+as a byproduct.
+
+73
+00:03:44,080 --> 00:03:46,094
+But it's probably nice to
+have that heat around.
+
+74
+00:03:46,094 --> 00:03:50,003
+We need to be reasonably warm
+in order for our cells to
+
+75
+00:03:50,003 --> 00:03:51,028
+operate correctly.
+
+76
+00:03:51,028 --> 00:03:55,046
+So the whole point is really to
+go from glucose, from one
+
+77
+00:03:55,046 --> 00:03:57,002
+mole of glucose-- and
+the textbooks will
+
+78
+00:03:57,002 --> 00:04:01,027
+tell you-- to 38 ATPs.
+
+79
+00:04:01,027 --> 00:04:05,053
+And the reality is, this is in
+the ideal circumstances that
+
+80
+00:04:05,053 --> 00:04:07,091
+you'll produce 38 ATPs.
+
+81
+00:04:07,091 --> 00:04:10,024
+I was reading up a little bit
+before doing this video.
+
+82
+00:04:10,024 --> 00:04:13,062
+And the reality is, depending on
+the efficiency of the cell
+
+83
+00:04:13,062 --> 00:04:17,056
+in performing cellular
+respiration, it'll probably be
+
+84
+00:04:17,056 --> 00:04:20,057
+more on the order of
+29 to 30 ATPs.
+
+85
+00:04:20,057 --> 00:04:23,030
+But there's a huge variation
+here and people are really
+
+86
+00:04:23,030 --> 00:04:25,054
+still studying this idea.
+
+87
+00:04:25,054 --> 00:04:27,047
+But this is all cellular
+respiration is.
+
+88
+00:04:27,047 --> 00:04:29,045
+In the next few videos we're
+going to break it down into
+
+89
+00:04:29,045 --> 00:04:31,030
+its kind of constituent parts.
+
+90
+00:04:31,030 --> 00:04:33,025
+And I'm going to introduce them
+to you right now, just so
+
+91
+00:04:33,025 --> 00:04:36,050
+you realize that these are parts
+of cellular respiration.
+
+92
+00:04:36,050 --> 00:04:37,083
+The first stage is called
+glycolysis.
+
+93
+00:04:37,083 --> 00:04:43,014
+
+
+94
+00:04:43,014 --> 00:04:45,087
+Which literally means
+breaking up glucose.
+
+95
+00:04:45,087 --> 00:04:49,018
+And just so you know, this part,
+the glyco for glucose
+
+96
+00:04:49,018 --> 00:04:56,051
+and then lysis means
+to break up.
+
+97
+00:04:56,051 --> 00:04:59,050
+When you saw hydrolysis, it
+means using water to break up
+
+98
+00:04:59,050 --> 00:05:00,048
+a molecule.
+
+99
+00:05:00,048 --> 00:05:03,044
+Glycolysis means we're going
+to be breaking up glucose.
+
+100
+00:05:03,044 --> 00:05:06,049
+And in case you care about
+things like word origins,
+
+101
+00:05:06,049 --> 00:05:12,004
+glucose comes from, the gluc
+part of glucose comes from
+
+102
+00:05:12,004 --> 00:05:13,098
+Greek for sweet.
+
+103
+00:05:13,098 --> 00:05:16,036
+And glucose is indeed sweet.
+
+104
+00:05:16,036 --> 00:05:20,036
+And then all sugars, we
+put this ose ending.
+
+105
+00:05:20,036 --> 00:05:22,094
+So that just means sugar.
+
+106
+00:05:22,094 --> 00:05:24,093
+So you might think it's kind
+of a redundant statement to
+
+107
+00:05:24,093 --> 00:05:25,085
+say sweet sugar.
+
+108
+00:05:25,085 --> 00:05:27,055
+But there are some sugars
+that aren't sweet.
+
+109
+00:05:27,055 --> 00:05:29,062
+For example, lactose.
+
+110
+00:05:29,062 --> 00:05:32,094
+Milk, it might be a little bit,
+but when you actually
+
+111
+00:05:32,094 --> 00:05:35,086
+digest lactose then you can turn
+it into an actual sweet
+
+112
+00:05:35,086 --> 00:05:39,081
+sugar, but it doesn't taste
+sweet like glucose or fructose
+
+113
+00:05:39,081 --> 00:05:41,076
+or sucrose would taste.
+
+114
+00:05:41,076 --> 00:05:44,043
+But anyway, that's an aside.
+
+115
+00:05:44,043 --> 00:05:47,037
+But the first step of cellular
+respiration is glycolysis,
+
+116
+00:05:47,037 --> 00:05:48,082
+breaking up of glucose.
+
+117
+00:05:48,082 --> 00:05:53,095
+What it does is, it breaks up
+the glucose from a 6-carbon
+
+118
+00:05:53,095 --> 00:05:57,035
+molecule-- so it literally
+takes it from a 6-carbon
+
+119
+00:05:57,035 --> 00:06:02,051
+molecule-- let me draw it like
+this-- a 6-carbon molecule
+
+120
+00:06:02,051 --> 00:06:03,049
+that looks like this.
+
+121
+00:06:03,049 --> 00:06:04,049
+And it's actually a cycle.
+
+122
+00:06:04,049 --> 00:06:08,000
+Let me show you what glucose
+actually looks like.
+
+123
+00:06:08,000 --> 00:06:09,097
+This is glucose right here.
+
+124
+00:06:09,097 --> 00:06:13,083
+And notice you have
+one, two, three,
+
+125
+00:06:13,083 --> 00:06:16,023
+four, five, six carbons.
+
+126
+00:06:16,023 --> 00:06:17,048
+I got this off of Wikipedia.
+
+127
+00:06:17,048 --> 00:06:20,029
+Just look up glucose and you
+can see this diagram if you
+
+128
+00:06:20,029 --> 00:06:22,056
+want to kind of see
+the details.
+
+129
+00:06:22,056 --> 00:06:25,064
+You can see you have six
+carbons, six oxygens.
+
+130
+00:06:25,064 --> 00:06:28,026
+That's one, two, three,
+four, five, six.
+
+131
+00:06:28,026 --> 00:06:29,085
+And then all these
+little small blue
+
+132
+00:06:29,085 --> 00:06:31,062
+things are my hydrogens.
+
+133
+00:06:31,062 --> 00:06:34,025
+So that's what glucose
+actually looks like.
+
+134
+00:06:34,025 --> 00:06:37,006
+But the process of glycolysis,
+you're essentially just
+
+135
+00:06:37,006 --> 00:06:40,027
+taking-- I'm writing it out
+as a string, but you could
+
+136
+00:06:40,027 --> 00:06:43,038
+imagine it as a chain-- and it
+has oxygens and hydrogens
+
+137
+00:06:43,038 --> 00:06:45,041
+added to each of
+these carbons.
+
+138
+00:06:45,041 --> 00:06:47,051
+But it has a carbon backbone.
+
+139
+00:06:47,051 --> 00:06:49,091
+And it breaks that carbon
+backbone in two.
+
+140
+00:06:49,091 --> 00:06:54,004
+
+
+141
+00:06:54,004 --> 00:06:57,018
+That's what glycolysis
+does, right there.
+
+142
+00:06:57,018 --> 00:07:00,024
+So you've kind of lysed
+the glucose and
+
+143
+00:07:00,024 --> 00:07:01,026
+each of these things.
+
+144
+00:07:01,026 --> 00:07:02,061
+And I haven't drawn all
+the other stuff
+
+145
+00:07:02,061 --> 00:07:03,064
+that's added on to that.
+
+146
+00:07:03,064 --> 00:07:06,042
+You know, these things are all
+bonded to other things, with
+
+147
+00:07:06,042 --> 00:07:08,000
+oxygens and hydrogens
+and whatever.
+
+148
+00:07:08,000 --> 00:07:10,039
+But each of these 3-carbon
+backbone
+
+149
+00:07:10,039 --> 00:07:11,087
+molecules are called pyruvate.
+
+150
+00:07:11,087 --> 00:07:13,036
+We'll go into a lot more
+detail on that.
+
+151
+00:07:13,036 --> 00:07:20,000
+But glycolysis, it by itself
+generates-- well,
+
+152
+00:07:20,000 --> 00:07:21,037
+it needs two ATPs.
+
+153
+00:07:21,037 --> 00:07:26,007
+
+
+154
+00:07:26,007 --> 00:07:32,024
+And it generates four ATPs.
+
+155
+00:07:32,024 --> 00:07:38,016
+So on a net basis, it generates
+two-- let me write
+
+156
+00:07:38,016 --> 00:07:46,092
+this in a different color--
+it generates two net ATPs.
+
+157
+00:07:46,092 --> 00:07:47,099
+So that's the first stage.
+
+158
+00:07:47,099 --> 00:07:51,018
+And this can occur completely
+in the absence of oxygen.
+
+159
+00:07:51,018 --> 00:07:53,089
+I'll do a whole video on
+glycolysis in the future.
+
+160
+00:07:53,089 --> 00:07:55,054
+Then these byproducts, they get
+
+161
+00:07:55,054 --> 00:07:56,063
+re-engineered a little bit.
+
+162
+00:07:56,063 --> 00:07:59,005
+And then they enter into what's
+called the Krebs cycle.
+
+163
+00:07:59,005 --> 00:08:05,010
+
+
+164
+00:08:05,010 --> 00:08:09,081
+Which generates another
+two ATPs.
+
+165
+00:08:09,081 --> 00:08:12,074
+And then, and this is kind of
+the interesting point, there's
+
+166
+00:08:12,074 --> 00:08:15,032
+another process that
+you can say happens
+
+167
+00:08:15,032 --> 00:08:16,039
+after the Krebs cycle.
+
+168
+00:08:16,039 --> 00:08:18,037
+But we're in a cell and
+everything's bumping into
+
+169
+00:08:18,037 --> 00:08:19,054
+everything all of the time.
+
+170
+00:08:19,054 --> 00:08:23,013
+But it's normally viewed
+to be after glycolysis
+
+171
+00:08:23,013 --> 00:08:23,057
+and the Krebs cycle.
+
+172
+00:08:23,057 --> 00:08:26,047
+And this requires oxygen.
+
+173
+00:08:26,047 --> 00:08:31,066
+
+
+174
+00:08:31,066 --> 00:08:33,095
+So let me be clear, glycolysis,
+this first step,
+
+175
+00:08:33,095 --> 00:08:36,075
+no oxygen required.
+
+176
+00:08:36,075 --> 00:08:40,051
+Doesn't need oxygen.
+
+177
+00:08:40,051 --> 00:08:42,038
+It can occur with oxygen
+or without it.
+
+178
+00:08:42,038 --> 00:08:44,030
+Oxygen not needed.
+
+179
+00:08:44,030 --> 00:08:47,040
+
+
+180
+00:08:47,040 --> 00:08:49,084
+Or you could say this is called
+an anaerobic process.
+
+181
+00:08:49,084 --> 00:08:52,067
+This is the anaerobic part
+of the respiration.
+
+182
+00:08:52,067 --> 00:08:54,058
+Let me write that down too.
+
+183
+00:08:54,058 --> 00:08:55,063
+Anaerobic.
+
+184
+00:08:55,063 --> 00:08:57,010
+Maybe I'll write
+that down here.
+
+185
+00:08:57,010 --> 00:09:02,071
+Glycolysis, since it doesn't
+need oxygen, we
+
+186
+00:09:02,071 --> 00:09:05,045
+can say it's anaerobic.
+
+187
+00:09:05,045 --> 00:09:09,025
+You might be familiar with the
+idea of aerobic exercise.
+
+188
+00:09:09,025 --> 00:09:11,045
+The whole idea of aerobic
+exercise is to make you
+
+189
+00:09:11,045 --> 00:09:13,062
+breathe hard because you
+need a lot of oxygen
+
+190
+00:09:13,062 --> 00:09:15,050
+to do aerobic exercise.
+
+191
+00:09:15,050 --> 00:09:17,089
+So anaerobic means you
+don't need oxygen.
+
+192
+00:09:17,089 --> 00:09:19,049
+Aerobic means it needs oxygen.
+
+193
+00:09:19,049 --> 00:09:20,088
+Anaerobic means the opposite.
+
+194
+00:09:20,088 --> 00:09:22,012
+You don't need oxygen.
+
+195
+00:09:22,012 --> 00:09:24,044
+So, glycolysis anaerobic.
+
+196
+00:09:24,044 --> 00:09:29,023
+And it produces two ATPs net.
+
+197
+00:09:29,023 --> 00:09:35,016
+And then you go to the Krebs
+cycle, there's a little bit of
+
+198
+00:09:35,016 --> 00:09:36,014
+setup involved here.
+
+199
+00:09:36,014 --> 00:09:38,030
+And we'll do the detail
+of that in the future.
+
+200
+00:09:38,030 --> 00:09:43,075
+But then you move over to the
+Krebs cycle, which is aerobic.
+
+201
+00:09:43,075 --> 00:09:44,085
+It is aerobic.
+
+202
+00:09:44,085 --> 00:09:48,014
+It requires oxygen
+to be around.
+
+203
+00:09:48,014 --> 00:09:51,044
+And then this produces
+two ATPs.
+
+204
+00:09:51,044 --> 00:09:53,064
+And then this is the part that,
+frankly, when I first
+
+205
+00:09:53,064 --> 00:09:54,077
+learned it, confused me a lot.
+
+206
+00:09:54,077 --> 00:09:57,009
+But I'll just write it
+in order the way it's
+
+207
+00:09:57,009 --> 00:09:57,088
+traditionally written.
+
+208
+00:09:57,088 --> 00:10:00,028
+Then you have something called--
+we're using the same
+
+209
+00:10:00,028 --> 00:10:03,028
+colors too much-- you have
+something called the electron
+
+210
+00:10:03,028 --> 00:10:04,053
+transport chain.
+
+211
+00:10:04,053 --> 00:10:11,065
+
+
+212
+00:10:11,065 --> 00:10:13,091
+And this part gets credit
+for producing
+
+213
+00:10:13,091 --> 00:10:16,034
+the bulk of the ATPs.
+
+214
+00:10:16,034 --> 00:10:19,022
+34 ATPs.
+
+215
+00:10:19,022 --> 00:10:22,045
+And this is also aerobic.
+
+216
+00:10:22,045 --> 00:10:23,071
+It requires oxygen.
+
+217
+00:10:23,071 --> 00:10:26,046
+So you can see, if you had no
+oxygen, if the cells weren't
+
+218
+00:10:26,046 --> 00:10:28,046
+getting enough oxygen,
+you can produce a
+
+219
+00:10:28,046 --> 00:10:30,079
+little bit of energy.
+
+220
+00:10:30,079 --> 00:10:34,048
+But it's nowhere near as much
+as you can produce once you
+
+221
+00:10:34,048 --> 00:10:35,098
+have the oxygen.
+
+222
+00:10:35,098 --> 00:10:39,023
+And actually when you start
+running out of oxygen, this
+
+223
+00:10:39,023 --> 00:10:42,050
+can't proceed forward, so what
+happens is some of these
+
+224
+00:10:42,050 --> 00:10:45,072
+byproducts of glycolysis,
+instead of going into the
+
+225
+00:10:45,072 --> 00:10:48,000
+Krebs cycle and the electron
+transport chain, where they
+
+226
+00:10:48,000 --> 00:10:51,062
+need oxygen, instead they go
+through a side process called
+
+227
+00:10:51,062 --> 00:10:52,087
+fermentation.
+
+228
+00:10:52,087 --> 00:10:55,048
+
+
+229
+00:10:55,048 --> 00:10:58,055
+For some organisms, this process
+of fermentation takes
+
+230
+00:10:58,055 --> 00:11:00,047
+your byproducts of
+glycolysis and
+
+231
+00:11:00,047 --> 00:11:02,010
+literally produces alcohol.
+
+232
+00:11:02,010 --> 00:11:04,025
+That's where alcohol
+comes from.
+
+233
+00:11:04,025 --> 00:11:06,050
+That's called alcohol
+fermentation.
+
+234
+00:11:06,050 --> 00:11:09,012
+And we, as human beings,
+I guess fortunately or
+
+235
+00:11:09,012 --> 00:11:12,040
+unfortunately, our muscles do
+not directly produce alcohol.
+
+236
+00:11:12,040 --> 00:11:13,089
+They produce lactic acid.
+
+237
+00:11:13,089 --> 00:11:17,003
+So we do lactic acid
+fermentation.
+
+238
+00:11:17,003 --> 00:11:18,014
+Let me write that down.
+
+239
+00:11:18,014 --> 00:11:19,025
+Lactic acid.
+
+240
+00:11:19,025 --> 00:11:23,053
+That's humans and probably
+other mammals.
+
+241
+00:11:23,053 --> 00:11:30,023
+But other things like yeast will
+do alcohol fermentation.
+
+242
+00:11:30,023 --> 00:11:34,051
+
+
+243
+00:11:34,051 --> 00:11:35,064
+So this is when you
+don't have oxygen.
+
+244
+00:11:35,064 --> 00:11:38,084
+It's actually this lactic acid
+that if I were to sprint
+
+245
+00:11:38,084 --> 00:11:41,007
+really hard and not be able to
+get enough oxygen, that my
+
+246
+00:11:41,007 --> 00:11:43,088
+muscles start to ache because
+this lactic acid
+
+247
+00:11:43,088 --> 00:11:45,037
+starts to build up.
+
+248
+00:11:45,037 --> 00:11:46,027
+But that's just a side thing.
+
+249
+00:11:46,027 --> 00:11:49,004
+If we have oxygen we can move
+to the Krebs cycle, get our
+
+250
+00:11:49,004 --> 00:11:51,095
+two ATPs, and then go on to the
+electron transport chain
+
+251
+00:11:51,095 --> 00:11:56,021
+and produce 34 ATPs, which is
+really the bulk of what
+
+252
+00:11:56,021 --> 00:11:57,092
+happens in respiration.
+
+253
+00:11:57,092 --> 00:12:00,008
+Now I said this as an
+aside, that to some
+
+254
+00:12:00,008 --> 00:12:01,050
+degree this isn't fair.
+
+255
+00:12:01,050 --> 00:12:05,004
+Because while these guys are
+operating they're also
+
+256
+00:12:05,004 --> 00:12:06,079
+producing these other
+molecules.
+
+257
+00:12:06,079 --> 00:12:08,066
+They're not producing them
+entirely, but what they're
+
+258
+00:12:08,066 --> 00:12:11,049
+doing is, they're taking-- and
+I know this gets complicated
+
+259
+00:12:11,049 --> 00:12:13,047
+here, but I think over the
+course of the next few videos
+
+260
+00:12:13,047 --> 00:12:16,088
+we'll get an intuition for it--
+in these two parts of the
+
+261
+00:12:16,088 --> 00:12:20,011
+reaction, glycolysis and the
+Krebs cycle, we're constantly
+
+262
+00:12:20,011 --> 00:12:24,082
+taking NAD-- I'll write it as
+NAD plus-- and we're adding
+
+263
+00:12:24,082 --> 00:12:28,047
+hydrogens to it to form NADH.
+
+264
+00:12:28,047 --> 00:12:32,066
+And this actually happens for
+one molecule of glucose, this
+
+265
+00:12:32,066 --> 00:12:34,052
+happens to 10 NADs.
+
+266
+00:12:34,052 --> 00:12:38,003
+Or 10 NAD plusses
+to become NADHs.
+
+267
+00:12:38,003 --> 00:12:40,000
+And those are actually
+what drive the
+
+268
+00:12:40,000 --> 00:12:41,033
+electron transport chain.
+
+269
+00:12:41,033 --> 00:12:43,087
+And I'll talk a lot more about
+it and kind of how that
+
+270
+00:12:43,087 --> 00:12:47,045
+happens and why is energy being
+derived and how is this
+
+271
+00:12:47,045 --> 00:12:49,021
+an oxidative reaction
+and all of that.
+
+272
+00:12:49,021 --> 00:12:51,050
+And what's getting oxidized
+and what's being reduced.
+
+273
+00:12:51,050 --> 00:12:52,075
+But I just wanted to
+give due credit.
+
+274
+00:12:52,075 --> 00:12:56,019
+These guys aren't just producing
+two ATPs in each of
+
+275
+00:12:56,019 --> 00:12:56,067
+these stages.
+
+276
+00:12:56,067 --> 00:13:00,092
+They're also producing, actually
+combined, 10 NADHs,
+
+277
+00:13:00,092 --> 00:13:06,053
+which each produce three ATPs
+in an ideal situation, the
+
+278
+00:13:06,053 --> 00:13:07,087
+electron transport chain.
+
+279
+00:13:07,087 --> 00:13:12,004
+And they're also doing it to
+this other molecule, FAD,
+
+280
+00:13:12,004 --> 00:13:13,050
+which is very similar.
+
+281
+00:13:13,050 --> 00:13:15,002
+But they're producing FADH.
+
+282
+00:13:15,002 --> 00:13:17,061
+
+
+283
+00:13:17,061 --> 00:13:19,028
+Now I know all of this
+is very complicated.
+
+284
+00:13:19,028 --> 00:13:21,000
+I'll make videos on this
+in the future.
+
+285
+00:13:21,000 --> 00:13:24,002
+But the important thing to
+remember is cellular
+
+286
+00:13:24,002 --> 00:13:28,035
+respiration, all it is is taking
+glucose and kind of
+
+287
+00:13:28,035 --> 00:13:31,057
+repackaging the energy in
+glucose, and repackaging it in
+
+288
+00:13:31,057 --> 00:13:34,034
+the form of, your textbooks
+will tell you, 38 ATPs.
+
+289
+00:13:34,034 --> 00:13:36,083
+If you're doing an exam, that's
+a good number to write.
+
+290
+00:13:36,083 --> 00:13:39,034
+It tends to, in reality
+be a smaller number.
+
+291
+00:13:39,034 --> 00:13:40,044
+It's also going to
+produce heat.
+
+292
+00:13:40,044 --> 00:13:42,007
+Actually most of it is
+going to be heat.
+
+293
+00:13:42,007 --> 00:13:45,067
+But 38 ATPs, and it does it
+through three stages.
+
+294
+00:13:45,067 --> 00:13:48,054
+The first stage is glycolysis,
+where you're just literally
+
+295
+00:13:48,054 --> 00:13:51,025
+splitting the glucose
+into two.
+
+296
+00:13:51,025 --> 00:13:52,094
+You're generating some ATPs.
+
+297
+00:13:52,094 --> 00:13:54,072
+But the more important thing
+is, you're generating some
+
+298
+00:13:54,072 --> 00:13:57,039
+NADHs that are going to be used
+later in the electron
+
+299
+00:13:57,039 --> 00:13:58,066
+transport chain.
+
+300
+00:13:58,066 --> 00:14:01,035
+Then those byproducts are split
+even more in the Krebs
+
+301
+00:14:01,035 --> 00:14:04,024
+cycle, directly producing
+two ATPs.
+
+302
+00:14:04,024 --> 00:14:06,026
+But that produces a
+lot more NADHs.
+
+303
+00:14:06,026 --> 00:14:09,071
+And all of those NADHs are used
+in the electron transport
+
+304
+00:14:09,071 --> 00:14:13,082
+chain to produce the
+bulk of your energy
+
+305
+00:14:13,082 --> 00:14:17,096
+currency, or your 34 ATPs.
+
+306
+00:14:17,096 --> 00:14:18,055
+

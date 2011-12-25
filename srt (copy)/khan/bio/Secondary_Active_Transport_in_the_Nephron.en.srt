@@ -1,0 +1,1451 @@
+1
+00:00:00,000 --> 00:00:00,051
+
+
+2
+00:00:00,051 --> 00:00:03,012
+In the last video on the
+nephron, we talked about the
+
+3
+00:00:03,012 --> 00:00:08,068
+different parts of the nephron
+and what, I guess, molecules
+
+4
+00:00:08,068 --> 00:00:11,075
+are reabsorbed by the body
+and the different parts.
+
+5
+00:00:11,075 --> 00:00:15,089
+If you remember, in the proximal
+convoluted tubule, we
+
+6
+00:00:15,089 --> 00:00:20,025
+talked about maybe glucose and
+amino acids and sodium being
+
+7
+00:00:20,025 --> 00:00:21,023
+reabsorbed.
+
+8
+00:00:21,023 --> 00:00:24,050
+We talked about the ascending
+part of the loop of Henle.
+
+9
+00:00:24,050 --> 00:00:29,010
+We talked about salts, so that
+sodium, potassium, chlorine
+
+10
+00:00:29,010 --> 00:00:30,046
+being reabsorbed.
+
+11
+00:00:30,046 --> 00:00:33,029
+In the distal convoluted
+tubule, it was
+
+12
+00:00:33,029 --> 00:00:35,021
+calcium, other things.
+
+13
+00:00:35,021 --> 00:00:38,085
+But at least in my mind, when I
+first learned it, I said how
+
+14
+00:00:38,085 --> 00:00:39,057
+does that happen?
+
+15
+00:00:39,057 --> 00:00:42,075
+How do we actively pump out
+these things, especially
+
+16
+00:00:42,075 --> 00:00:45,036
+against their own concentration
+gradients?
+
+17
+00:00:45,036 --> 00:00:47,017
+What I want to do in this video
+is get a little bit more
+
+18
+00:00:47,017 --> 00:00:50,077
+depth on exactly what's
+happening on the borders of
+
+19
+00:00:50,077 --> 00:00:54,000
+these tubules to actually
+allow these ions to be
+
+20
+00:00:54,000 --> 00:00:59,052
+selectively transported out of
+the lumen or the inside of
+
+21
+00:00:59,052 --> 00:01:00,075
+these tubes or to be
+
+22
+00:01:00,075 --> 00:01:05,040
+reabsorbed out of the filtrate.
+
+23
+00:01:05,040 --> 00:01:08,056
+The mechanism's actually
+reasonably similar in the
+
+24
+00:01:08,056 --> 00:01:10,050
+different parts of the nephron,
+but let's look at
+
+25
+00:01:10,050 --> 00:01:12,093
+each of the parts, because
+they're each reabsorbing
+
+26
+00:01:12,093 --> 00:01:14,017
+different types of molecules.
+
+27
+00:01:14,017 --> 00:01:15,079
+And I won't go through all of
+the molecules, but I'll just
+
+28
+00:01:15,079 --> 00:01:16,089
+give you a sense of things.
+
+29
+00:01:16,089 --> 00:01:20,031
+Let's start with the proximal
+tubule right here.
+
+30
+00:01:20,031 --> 00:01:25,051
+So let's say if we were to zoom
+in right over on that
+
+31
+00:01:25,051 --> 00:01:30,026
+part-- so let me draw the
+inside of the nephron.
+
+32
+00:01:30,026 --> 00:01:31,078
+The inside of the nephron
+maybe looks
+
+33
+00:01:31,078 --> 00:01:34,037
+something like this.
+
+34
+00:01:34,037 --> 00:01:35,045
+So this the inside.
+
+35
+00:01:35,045 --> 00:01:39,040
+This is where our filtrate
+is right here.
+
+36
+00:01:39,040 --> 00:01:40,068
+Actually, let me draw
+it a little bit
+
+37
+00:01:40,068 --> 00:01:41,089
+different than that.
+
+38
+00:01:41,089 --> 00:01:46,010
+So the inside, I'm going to draw
+it like this because the
+
+39
+00:01:46,010 --> 00:01:49,084
+proximal tubule has these little
+things that stick out,
+
+40
+00:01:49,084 --> 00:01:53,034
+sometimes referred to
+as a brush border.
+
+41
+00:01:53,034 --> 00:01:57,029
+So this inside right here,
+this is our lumen.
+
+42
+00:01:57,029 --> 00:02:01,062
+
+
+43
+00:02:01,062 --> 00:02:05,009
+That is where the filtrate is.
+
+44
+00:02:05,009 --> 00:02:07,040
+The glomerular filtrate is
+coming in this direction.
+
+45
+00:02:07,040 --> 00:02:10,081
+
+
+46
+00:02:10,081 --> 00:02:14,081
+This is, you can imagine, the
+inside of the nephron.
+
+47
+00:02:14,081 --> 00:02:18,028
+And then the border of
+the tubule is made up
+
+48
+00:02:18,028 --> 00:02:19,033
+by a bunch of cells.
+
+49
+00:02:19,033 --> 00:02:22,078
+So maybe this is one cell right
+here, this is another
+
+50
+00:02:22,078 --> 00:02:25,075
+cell right here, that's
+another cell.
+
+51
+00:02:25,075 --> 00:02:26,086
+Obviously, this is
+a cross-section.
+
+52
+00:02:26,086 --> 00:02:28,015
+It would be actually
+more of a cylinder.
+
+53
+00:02:28,015 --> 00:02:29,040
+It would go around like that.
+
+54
+00:02:29,040 --> 00:02:30,087
+This is to give an idea.
+
+55
+00:02:30,087 --> 00:02:32,040
+That's another cell
+right there.
+
+56
+00:02:32,040 --> 00:02:37,081
+And maybe this is their basal
+side right there.
+
+57
+00:02:37,081 --> 00:02:39,091
+And when we say basal, we can
+imagine that's kind of the
+
+58
+00:02:39,091 --> 00:02:42,011
+base of the cell.
+
+59
+00:02:42,011 --> 00:02:44,090
+Those are good words to
+know, fancy words.
+
+60
+00:02:44,090 --> 00:02:48,096
+So the side of the cells that
+are facing the lumen, or kind
+
+61
+00:02:48,096 --> 00:02:51,093
+of facing the inside of our
+tubule, this is called the
+
+62
+00:02:51,093 --> 00:02:53,018
+apical side.
+
+63
+00:02:53,018 --> 00:02:57,003
+
+
+64
+00:02:57,003 --> 00:03:00,041
+And then this side is normally
+referred to the basal lateral
+
+65
+00:03:00,041 --> 00:03:04,062
+side, or this membrane, if you
+view this as a membrane, this
+
+66
+00:03:04,062 --> 00:03:08,044
+would be the basolateral
+membrane.
+
+67
+00:03:08,044 --> 00:03:11,080
+This is true regardless of what
+part of the nephron we're
+
+68
+00:03:11,080 --> 00:03:14,003
+in, whether the proximal,
+whether the loop of Henle, or
+
+69
+00:03:14,003 --> 00:03:16,002
+whether we're in the
+distal part.
+
+70
+00:03:16,002 --> 00:03:19,003
+What we have here, and on the
+other sides of these cells,
+
+71
+00:03:19,003 --> 00:03:21,090
+we'll have our peritubular
+capillaries.
+
+72
+00:03:21,090 --> 00:03:23,084
+That's another fancy word.
+
+73
+00:03:23,084 --> 00:03:26,062
+So our peritubular capillaries
+will look something like this.
+
+74
+00:03:26,062 --> 00:03:28,022
+They're actually
+cells as well.
+
+75
+00:03:28,022 --> 00:03:31,037
+
+
+76
+00:03:31,037 --> 00:03:33,002
+Actually, instead of drawing the
+cells, I'll just draw it
+
+77
+00:03:33,002 --> 00:03:36,034
+as kind of the tube of-- I'll
+just draw it like this.
+
+78
+00:03:36,034 --> 00:03:37,093
+They're porous.
+
+79
+00:03:37,093 --> 00:03:40,074
+So this is actually blood
+flow right here.
+
+80
+00:03:40,074 --> 00:03:41,091
+This is blood right here.
+
+81
+00:03:41,091 --> 00:03:44,028
+This is blood right here.
+
+82
+00:03:44,028 --> 00:03:46,087
+I'm not going to do too much
+detail on the actual cells of
+
+83
+00:03:46,087 --> 00:03:48,093
+the capillary walls.
+
+84
+00:03:48,093 --> 00:03:50,078
+I really want to give you the
+idea of how things are
+
+85
+00:03:50,078 --> 00:03:53,040
+transported out of the lumen,
+how they're selectively
+
+86
+00:03:53,040 --> 00:03:54,065
+reabsorbed.
+
+87
+00:03:54,065 --> 00:03:56,041
+
+
+88
+00:03:56,041 --> 00:04:03,044
+So this is the peritubular
+capillary.
+
+89
+00:04:03,044 --> 00:04:05,097
+And once again, fancy
+word, but peri means
+
+90
+00:04:05,097 --> 00:04:07,046
+around, like perimeter.
+
+91
+00:04:07,046 --> 00:04:08,093
+So it's around the tubes.
+
+92
+00:04:08,093 --> 00:04:10,047
+These capillaries go
+around the tubes.
+
+93
+00:04:10,047 --> 00:04:12,043
+If I were overlay it on this
+picture, we have these
+
+94
+00:04:12,043 --> 00:04:15,013
+capillaries that are going
+all around the tubes.
+
+95
+00:04:15,013 --> 00:04:17,081
+So when things get secreted
+or reabsorbed out of the
+
+96
+00:04:17,081 --> 00:04:21,008
+nephrons, they're going into
+those capillaries.
+
+97
+00:04:21,008 --> 00:04:24,062
+So this is our proximal
+convoluted
+
+98
+00:04:24,062 --> 00:04:25,097
+membrane right here.
+
+99
+00:04:25,097 --> 00:04:28,054
+Let's think about what happens
+with the glucose.
+
+100
+00:04:28,054 --> 00:04:33,075
+So what happens is we actually
+have sodium-potassium pumps on
+
+101
+00:04:33,075 --> 00:04:37,051
+the basolateral side
+of these cells.
+
+102
+00:04:37,051 --> 00:04:39,004
+So this is sodium-potassium
+pumps.
+
+103
+00:04:39,004 --> 00:04:41,037
+I'll just draw one right here.
+
+104
+00:04:41,037 --> 00:04:42,073
+You might want to watch
+the video on
+
+105
+00:04:42,073 --> 00:04:44,060
+sodium-potassium pumps.
+
+106
+00:04:44,060 --> 00:04:46,025
+I have a whole video on it.
+
+107
+00:04:46,025 --> 00:04:51,088
+But the idea here is that
+sodium, maybe I'll draw as
+
+108
+00:04:51,088 --> 00:04:55,081
+plus particles right there,
+they'll attach on the inside
+
+109
+00:04:55,081 --> 00:04:58,024
+right here, ATP will
+come along.
+
+110
+00:04:58,024 --> 00:05:02,014
+When ATP attaches to the right
+part of this protein, it'll
+
+111
+00:05:02,014 --> 00:05:05,087
+change its shape, its
+conformation, and then the
+
+112
+00:05:05,087 --> 00:05:09,031
+protein will essentially close
+on this side and open on that
+
+113
+00:05:09,031 --> 00:05:14,068
+side, and then when it's in that
+conformation, the sodium
+
+114
+00:05:14,068 --> 00:05:18,000
+doesn't want to bond as much to
+the protein and it will go
+
+115
+00:05:18,000 --> 00:05:21,008
+outside or it'll cross the
+basolateral membrane and
+
+116
+00:05:21,008 --> 00:05:24,013
+eventually make its way
+into the blood.
+
+117
+00:05:24,013 --> 00:05:27,036
+And then on the other side, it's
+a sodium-potassium pump.
+
+118
+00:05:27,036 --> 00:05:29,081
+When it's in this kind of open
+configuration-- I'll draw it
+
+119
+00:05:29,081 --> 00:05:36,077
+over here; I have a whole video
+on this-- at that point,
+
+120
+00:05:36,077 --> 00:05:39,031
+potassium likes to bond to it.
+
+121
+00:05:39,031 --> 00:05:42,007
+So potassium likes
+to bond to it.
+
+122
+00:05:42,007 --> 00:05:43,070
+Maybe it bonds to
+it over here.
+
+123
+00:05:43,070 --> 00:05:45,057
+This is a gross
+oversimplification.
+
+124
+00:05:45,057 --> 00:05:48,000
+That causes the protein to
+change its conformation.
+
+125
+00:05:48,000 --> 00:05:50,060
+It doesn't require ATP at that
+point, and it goes back to
+
+126
+00:05:50,060 --> 00:05:53,062
+this conformation, and then the
+potassium doesn't want to
+
+127
+00:05:53,062 --> 00:05:56,087
+bond anymore, and then it gets
+released, because the protein
+
+128
+00:05:56,087 --> 00:05:57,086
+is now a different shape.
+
+129
+00:05:57,086 --> 00:06:00,086
+So the general idea:
+Sodium bonds.
+
+130
+00:06:00,086 --> 00:06:02,008
+ATP bonds.
+
+131
+00:06:02,008 --> 00:06:05,049
+The ATP gets its phosphate
+popped off of it.
+
+132
+00:06:05,049 --> 00:06:07,082
+That changes the shape of
+the protein to this.
+
+133
+00:06:07,082 --> 00:06:10,091
+Now the sodium wants to get
+released, and now potassium
+
+134
+00:06:10,091 --> 00:06:11,087
+wants to join.
+
+135
+00:06:11,087 --> 00:06:14,037
+When potassium joins, we get
+to our original one.
+
+136
+00:06:14,037 --> 00:06:18,031
+The end product of this is
+we're having sodium being
+
+137
+00:06:18,031 --> 00:06:21,057
+pumped out of the cell and we're
+having potassium being
+
+138
+00:06:21,057 --> 00:06:24,010
+pumped into the cell, and this
+is active transport.
+
+139
+00:06:24,010 --> 00:06:27,038
+
+
+140
+00:06:27,038 --> 00:06:29,019
+Why is it active transport?
+
+141
+00:06:29,019 --> 00:06:33,016
+Because we're using ATP to
+drive sodium against its
+
+142
+00:06:33,016 --> 00:06:36,099
+concentration gradient to keep
+pumping the sodium out of the
+
+143
+00:06:36,099 --> 00:06:40,002
+cell, and then potassium kind of
+comes in, you could almost
+
+144
+00:06:40,002 --> 00:06:40,092
+imagine, passively.
+
+145
+00:06:40,092 --> 00:06:42,094
+It doesn't require ATP.
+
+146
+00:06:42,094 --> 00:06:46,085
+And that's why this is often
+called a sodium-potassium
+
+147
+00:06:46,085 --> 00:06:51,062
+ATPase, which means it's a
+protein or an enzyme that
+
+148
+00:06:51,062 --> 00:06:52,051
+breaks ATP.
+
+149
+00:06:52,051 --> 00:06:55,007
+But it breaks ATP, it uses
+that energy to change its
+
+150
+00:06:55,007 --> 00:06:58,031
+shape to pump sodium out
+and potassium in.
+
+151
+00:06:58,031 --> 00:07:00,051
+Well, anyway, this is all a
+review of what we learned in
+
+152
+00:07:00,051 --> 00:07:03,056
+those videos, but how does that
+help us, for example, get
+
+153
+00:07:03,056 --> 00:07:06,001
+glucose out of our lumen?
+
+154
+00:07:06,001 --> 00:07:10,037
+Well, what we have over here
+is we have other proteins.
+
+155
+00:07:10,037 --> 00:07:12,025
+I'll just do the example
+of glucose.
+
+156
+00:07:12,025 --> 00:07:15,075
+Let's say we have
+a protein here.
+
+157
+00:07:15,075 --> 00:07:17,027
+There's a very general
+term for this.
+
+158
+00:07:17,027 --> 00:07:19,062
+It's a cotransporter
+or a symporter.
+
+159
+00:07:19,062 --> 00:07:26,052
+
+
+160
+00:07:26,052 --> 00:07:31,011
+Symporter means it transfers two
+types of molecules in the
+
+161
+00:07:31,011 --> 00:07:31,079
+same direction.
+
+162
+00:07:31,079 --> 00:07:34,057
+Cotransporter means one molecule
+wants to go through
+
+163
+00:07:34,057 --> 00:07:36,085
+because of its concentration
+gradient and the other
+
+164
+00:07:36,085 --> 00:07:39,070
+molecule kind of goes
+along for the ride.
+
+165
+00:07:39,070 --> 00:07:43,026
+So you can imagine, we're
+actively pumping out sodium.
+
+166
+00:07:43,026 --> 00:07:46,045
+So if we're actively pumping
+out sodium over here on the
+
+167
+00:07:46,045 --> 00:07:49,088
+basolateral side, then we're
+going to have a low sodium
+
+168
+00:07:49,088 --> 00:07:51,013
+concentration here.
+
+169
+00:07:51,013 --> 00:07:54,055
+
+
+170
+00:07:54,055 --> 00:07:56,092
+The more we pump out, the lower
+this is, and eventually
+
+171
+00:07:56,092 --> 00:07:58,049
+it's going to be lower
+than the sodium
+
+172
+00:07:58,049 --> 00:08:00,012
+concentration in the lumen.
+
+173
+00:08:00,012 --> 00:08:03,014
+So the sodium concentration
+gradient, if there was no
+
+174
+00:08:03,014 --> 00:08:06,094
+membrane here, sodium would want
+to go across this to kind
+
+175
+00:08:06,094 --> 00:08:09,060
+of make up for all of the
+lost sodiums over here.
+
+176
+00:08:09,060 --> 00:08:13,018
+Sodium would want to cross that
+if there was no barrier.
+
+177
+00:08:13,018 --> 00:08:15,099
+These cells here take advantage
+of sodium wanting to
+
+178
+00:08:15,099 --> 00:08:18,043
+move down its concentration
+gradient, which is happening
+
+179
+00:08:18,043 --> 00:08:20,099
+because of this active transport
+over here, but it
+
+180
+00:08:20,099 --> 00:08:23,093
+uses that energy of sodium going
+down its concentration
+
+181
+00:08:23,093 --> 00:08:30,056
+gradient to actually also
+transport, in this case, maybe
+
+182
+00:08:30,056 --> 00:08:32,013
+some glucose.
+
+183
+00:08:32,013 --> 00:08:35,005
+So if you had to visualize it,
+you could imagine a protein
+
+184
+00:08:35,005 --> 00:08:37,015
+that's on this apical
+membrane right here.
+
+185
+00:08:37,015 --> 00:08:41,089
+
+
+186
+00:08:41,089 --> 00:08:43,025
+Maybe it looks something
+like this.
+
+187
+00:08:43,025 --> 00:08:45,077
+This is to get some type
+of visualization.
+
+188
+00:08:45,077 --> 00:08:50,009
+Maybe you have more sodium on
+this side than you have on
+
+189
+00:08:50,009 --> 00:08:53,035
+this side, so sodium is more
+likely to bond here.
+
+190
+00:08:53,035 --> 00:08:57,012
+Maybe glucose will bond here.
+
+191
+00:08:57,012 --> 00:08:59,095
+This is just a simplification,
+but when they bond, this
+
+192
+00:08:59,095 --> 00:09:05,022
+protein is going to change its
+shape to look something more
+
+193
+00:09:05,022 --> 00:09:10,020
+like this when they bond, and
+now the sodium is going to be
+
+194
+00:09:10,020 --> 00:09:12,062
+here and the glucose is
+going to be here.
+
+195
+00:09:12,062 --> 00:09:15,068
+We're essentially on the inside
+of the cell now, and in
+
+196
+00:09:15,068 --> 00:09:18,019
+this conformation, they don't
+want to bond as much to the
+
+197
+00:09:18,019 --> 00:09:20,099
+amino acids or whatever else
+is in the protein, and then
+
+198
+00:09:20,099 --> 00:09:22,001
+they get released.
+
+199
+00:09:22,001 --> 00:09:24,036
+And when they get released, then
+the protein will change
+
+200
+00:09:24,036 --> 00:09:27,019
+its shape back to this right
+here and we can do this cycle
+
+201
+00:09:27,019 --> 00:09:27,097
+over again.
+
+202
+00:09:27,097 --> 00:09:31,094
+But this is all stipulated on
+the idea that there's more
+
+203
+00:09:31,094 --> 00:09:35,025
+sodium over here to bump into
+this point to make this
+
+204
+00:09:35,025 --> 00:09:36,019
+reaction happen.
+
+205
+00:09:36,019 --> 00:09:38,025
+So sodium's going to go down in
+its concentration gradient.
+
+206
+00:09:38,025 --> 00:09:41,066
+It's taking glucose
+for the ride.
+
+207
+00:09:41,066 --> 00:09:44,001
+And so essentially glucose
+concentration will go up high
+
+208
+00:09:44,001 --> 00:09:47,050
+here, and then if we make this
+porous to glucose so glucose
+
+209
+00:09:47,050 --> 00:09:50,030
+can go through, then glucose
+will eventually, if this gets
+
+210
+00:09:50,030 --> 00:09:52,025
+high enough, it'll just go
+down its concentration
+
+211
+00:09:52,025 --> 00:09:55,000
+gradient eventually
+into the blood.
+
+212
+00:09:55,000 --> 00:09:58,051
+And this same exact process is
+happening, maybe not exactly
+
+213
+00:09:58,051 --> 00:10:01,024
+with glucose, but throughout
+the entire nephron.
+
+214
+00:10:01,024 --> 00:10:04,038
+If we go to the loop of Henle,
+if we go to the ascending part
+
+215
+00:10:04,038 --> 00:10:07,017
+right here, where we're trying
+to get the salts out of the
+
+216
+00:10:07,017 --> 00:10:08,087
+picture, same idea.
+
+217
+00:10:08,087 --> 00:10:12,048
+
+
+218
+00:10:12,048 --> 00:10:15,065
+So let's say that that right
+there is the lumen.
+
+219
+00:10:15,065 --> 00:10:22,050
+This is a cell that makes up
+the wall of the lumen.
+
+220
+00:10:22,050 --> 00:10:25,050
+We're in the loop of Henle
+now and you have a
+
+221
+00:10:25,050 --> 00:10:28,033
+sodium-potassium
+pump out here.
+
+222
+00:10:28,033 --> 00:10:31,023
+You have sodium being
+pumped out.
+
+223
+00:10:31,023 --> 00:10:34,012
+You have potassium gets pumped
+in, but actually, potassium
+
+224
+00:10:34,012 --> 00:10:36,089
+channels are leaky, so potassium
+can often make its
+
+225
+00:10:36,089 --> 00:10:38,055
+way back out in either
+direction.
+
+226
+00:10:38,055 --> 00:10:39,084
+So what's happening to
+
+227
+00:10:39,084 --> 00:10:42,038
+potassium isn't that important.
+
+228
+00:10:42,038 --> 00:10:44,073
+But so sodium concentration
+becomes low here.
+
+229
+00:10:44,073 --> 00:10:51,051
+So what we have are symporters
+over here, just like we had
+
+230
+00:10:51,051 --> 00:10:54,021
+with glucose, but in this case,
+sodium wants to enter
+
+231
+00:10:54,021 --> 00:10:57,024
+just as the case with glucose,
+but here we're trying to
+
+232
+00:10:57,024 --> 00:10:59,095
+transport chlorine and
+potassium ions.
+
+233
+00:10:59,095 --> 00:11:01,067
+So that's what we're
+going to join.
+
+234
+00:11:01,067 --> 00:11:03,051
+That's what's going to take
+advantage of sodium's
+
+235
+00:11:03,051 --> 00:11:04,078
+concentration gradient.
+
+236
+00:11:04,078 --> 00:11:08,024
+We're going to have potassium
+and we're going to have
+
+237
+00:11:08,024 --> 00:11:09,066
+chlorine ions.
+
+238
+00:11:09,066 --> 00:11:11,092
+And actually, this symporter
+right here, it's called the
+
+239
+00:11:11,092 --> 00:11:16,015
+sodium-potassium-chlorine
+cotransporter, and it's
+
+240
+00:11:16,015 --> 00:11:19,001
+actually the second variation
+that you actually get in the
+
+241
+00:11:19,001 --> 00:11:20,025
+ascending loop of Henle.
+
+242
+00:11:20,025 --> 00:11:22,037
+So eventually, you're going to
+end up with a lot of chlorine
+
+243
+00:11:22,037 --> 00:11:25,026
+here-- actually, potassium from
+both directions-- but as
+
+244
+00:11:25,026 --> 00:11:27,040
+long as this is porous
+to chlorine, if this
+
+245
+00:11:27,040 --> 00:11:29,029
+concentration gets high enough,
+the chlorine is going
+
+246
+00:11:29,029 --> 00:11:32,059
+to make its way out and help
+make the medulla that much
+
+247
+00:11:32,059 --> 00:11:35,046
+saltier along with the sodium.
+
+248
+00:11:35,046 --> 00:11:38,024
+Same thing in the distal
+convoluted tubule.
+
+249
+00:11:38,024 --> 00:11:39,044
+There, calcium.
+
+250
+00:11:39,044 --> 00:11:40,075
+It's a little bit different.
+
+251
+00:11:40,075 --> 00:11:46,032
+So if we're in the distal
+convoluted tubule, these kind
+
+252
+00:11:46,032 --> 00:11:48,069
+of villi, these things that
+stick out-- this is only in
+
+253
+00:11:48,069 --> 00:11:53,059
+the proximal convoluted tubule,
+those brush borders.
+
+254
+00:11:53,059 --> 00:11:56,025
+But over there-- and just so
+you know, this idea where
+
+255
+00:11:56,025 --> 00:11:58,090
+we're using a concentration
+gradient that's driven by some
+
+256
+00:11:58,090 --> 00:12:02,012
+type of active transport to
+transport other things, this
+
+257
+00:12:02,012 --> 00:12:04,022
+is called secondary
+active transport.
+
+258
+00:12:04,022 --> 00:12:11,027
+
+
+259
+00:12:11,027 --> 00:12:12,019
+That's nice to know.
+
+260
+00:12:12,019 --> 00:12:15,087
+And then just finishing up at
+the distal convoluted tubule.
+
+261
+00:12:15,087 --> 00:12:16,055
+So this was the lumen.
+
+262
+00:12:16,055 --> 00:12:20,012
+Let's say that this is the lumen
+right here, so we have
+
+263
+00:12:20,012 --> 00:12:21,086
+cells on either side of that.
+
+264
+00:12:21,086 --> 00:12:23,034
+I think you get the
+general idea.
+
+265
+00:12:23,034 --> 00:12:25,033
+The distal's a little bit
+different so let's say this is
+
+266
+00:12:25,033 --> 00:12:28,057
+a cell, and let's say that
+this is a peritubular
+
+267
+00:12:28,057 --> 00:12:29,039
+capillary right here.
+
+268
+00:12:29,039 --> 00:12:31,042
+This is our blood.
+
+269
+00:12:31,042 --> 00:12:34,007
+What we have here is
+once again, we're
+
+270
+00:12:34,007 --> 00:12:38,039
+pumping sodium out.
+
+271
+00:12:38,039 --> 00:12:38,091
+Sodium-potassium pumps.
+
+272
+00:12:38,091 --> 00:12:41,086
+I have a whole video on that,
+and that pumps potassium in,
+
+273
+00:12:41,086 --> 00:12:46,087
+so you end up with a lot
+of sodiums over here.
+
+274
+00:12:46,087 --> 00:12:49,064
+The apical membrane that
+faces the lumen,
+
+275
+00:12:49,064 --> 00:12:51,087
+it's porous to calcium.
+
+276
+00:12:51,087 --> 00:12:53,034
+Whatever the concentration
+of calcium here,
+
+277
+00:12:53,034 --> 00:12:54,059
+it's going to be here.
+
+278
+00:12:54,059 --> 00:12:56,090
+So maybe you have calcium.
+
+279
+00:12:56,090 --> 00:13:01,003
+These are calcium ions just
+like that floating around.
+
+280
+00:13:01,003 --> 00:13:04,001
+And right here, what you
+have is an antiporter.
+
+281
+00:13:04,001 --> 00:13:06,063
+So our concentration in the
+blood of sodium is going to be
+
+282
+00:13:06,063 --> 00:13:09,014
+higher because we keep
+pumping it out.
+
+283
+00:13:09,014 --> 00:13:12,038
+And so sodium, if you let it
+go down its concentration
+
+284
+00:13:12,038 --> 00:13:14,007
+gradient, it would go back in.
+
+285
+00:13:14,007 --> 00:13:18,049
+And so maybe right here you have
+some sodium going down,
+
+286
+00:13:18,049 --> 00:13:21,083
+its concentration gradient going
+back in, and then when
+
+287
+00:13:21,083 --> 00:13:24,012
+that goes in, that you can
+almost imagine it's some type
+
+288
+00:13:24,012 --> 00:13:28,053
+of a rotating door, it makes
+the calcium go out.
+
+289
+00:13:28,053 --> 00:13:30,075
+You can try to visualize it
+yourself how a protein would
+
+290
+00:13:30,075 --> 00:13:31,025
+actually do that.
+
+291
+00:13:31,025 --> 00:13:32,070
+I kind of imagine a
+revolving door.
+
+292
+00:13:32,070 --> 00:13:34,039
+The sodium makes the
+door revolve.
+
+293
+00:13:34,039 --> 00:13:35,096
+The calcium is at the other
+part of the door and
+
+294
+00:13:35,096 --> 00:13:37,033
+it gets spit out.
+
+295
+00:13:37,033 --> 00:13:39,011
+So this is called an antiporter
+because they're
+
+296
+00:13:39,011 --> 00:13:43,085
+going in different directions,
+but once again, it's secondary
+
+297
+00:13:43,085 --> 00:13:46,039
+active transport, because the
+only way that this could work
+
+298
+00:13:46,039 --> 00:13:50,036
+is if we have active transport
+using ATP of the sodium out of
+
+299
+00:13:50,036 --> 00:13:53,065
+the basolateral membrane in
+every one of these cases.
+
+300
+00:13:53,065 --> 00:13:55,059
+Anyway, hopefully, you
+found that useful.
+
+301
+00:13:55,059 --> 00:13:58,037
+It's more detailed than you
+normally get on how the
+
+302
+00:13:58,037 --> 00:14:02,099
+nephron is actually pumping
+things out of the lumen into
+
+303
+00:14:02,099 --> 00:14:05,094
+the peritubular capillaries, but
+for me, it made things a
+
+304
+00:14:05,094 --> 00:14:07,001
+lot more concrete.
+
+305
+00:14:07,001 --> 00:14:09,095
+It helps me really kind of
+internalize what the
+
+306
+00:14:09,095 --> 00:14:12,020
+nephron is up to.
+
+307
+00:14:12,020 --> 00:14:12,033
+

@@ -1,0 +1,1916 @@
+1
+00:00:00,000 --> 00:00:00,059
+
+
+2
+00:00:00,059 --> 00:00:04,025
+In talking about the adaptive
+immune system, we've already
+
+3
+00:00:04,025 --> 00:00:05,083
+seen that there's a
+couple of actors.
+
+4
+00:00:05,083 --> 00:00:16,025
+
+
+5
+00:00:16,025 --> 00:00:20,007
+You have your humoral
+response.
+
+6
+00:00:20,007 --> 00:00:22,037
+So this is responding to things
+that are floating
+
+7
+00:00:22,037 --> 00:00:24,058
+around in the fluids of the
+body and not necessarily
+
+8
+00:00:24,058 --> 00:00:27,082
+things that have infiltrated
+your body cells and then you
+
+9
+00:00:27,082 --> 00:00:31,024
+have your cell mediated
+response.
+
+10
+00:00:31,024 --> 00:00:35,074
+
+
+11
+00:00:35,074 --> 00:00:38,020
+And then in the humoral
+response-- and we're talking
+
+12
+00:00:38,020 --> 00:00:40,067
+about specific humoral
+response-- this is where the B
+
+13
+00:00:40,067 --> 00:00:45,021
+cells, the B lymphocytes are
+at their most active.
+
+14
+00:00:45,021 --> 00:00:48,053
+And essentially what they do
+is, you got a B cell here.
+
+15
+00:00:48,053 --> 00:00:52,089
+It has a very specific antibody,
+specific to just
+
+16
+00:00:52,089 --> 00:00:55,064
+this B cell, not B
+cells in general.
+
+17
+00:00:55,064 --> 00:00:59,000
+If this happens to be the one
+of the billions of B cells
+
+18
+00:00:59,000 --> 00:01:02,054
+that happens to have the
+matching key-- or maybe I
+
+19
+00:01:02,054 --> 00:01:05,092
+should say the matching lock
+for the key that is the
+
+20
+00:01:05,092 --> 00:01:09,026
+intruding pathogen--
+that pathogen will
+
+21
+00:01:09,026 --> 00:01:11,056
+bind to that B cell.
+
+22
+00:01:11,056 --> 00:01:14,042
+Maybe it's a virus, maybe
+it's a bacteria.
+
+23
+00:01:14,042 --> 00:01:17,089
+And then the B cell will get
+activated and we'll talk about
+
+24
+00:01:17,089 --> 00:01:19,045
+in this video that
+the activation
+
+25
+00:01:19,045 --> 00:01:20,062
+doesn't always happen.
+
+26
+00:01:20,062 --> 00:01:23,073
+In fact, it usually doesn't
+happen just from this, but so
+
+27
+00:01:23,073 --> 00:01:28,085
+far we've said it gets
+activated, it goes into memory
+
+28
+00:01:28,085 --> 00:01:31,031
+B cells, which are essentially
+multiple versions of this
+
+29
+00:01:31,031 --> 00:01:33,045
+original B cell-- just saying,
+hey, let's have multiple
+
+30
+00:01:33,045 --> 00:01:36,064
+versions of this-- because it
+tends to recognize this virus.
+
+31
+00:01:36,064 --> 00:01:39,015
+So in the future if we get this
+virus, those multiple
+
+32
+00:01:39,015 --> 00:01:42,045
+versions, those memory cells are
+going to be there to have
+
+33
+00:01:42,045 --> 00:01:43,023
+this interaction.
+
+34
+00:01:43,023 --> 00:01:45,053
+This interaction's going to be
+more likely to happen in the
+
+35
+00:01:45,053 --> 00:01:47,020
+future because I'm going
+to have more of this
+
+36
+00:01:47,020 --> 00:01:48,064
+variety of B cell.
+
+37
+00:01:48,064 --> 00:01:49,098
+And then you have
+effector cells.
+
+38
+00:01:49,098 --> 00:01:53,031
+
+
+39
+00:01:53,031 --> 00:01:56,073
+And these are essentially-- so
+both of these are B cells.
+
+40
+00:01:56,073 --> 00:02:00,023
+So this guy, once he gets
+activated, he proliferates,
+
+41
+00:02:00,023 --> 00:02:02,043
+keeps dividing and
+cloning himself.
+
+42
+00:02:02,043 --> 00:02:05,090
+The memory cells just stick
+around waiting to be activated
+
+43
+00:02:05,090 --> 00:02:06,089
+in the future.
+
+44
+00:02:06,089 --> 00:02:10,056
+And I'm only drawing one
+of these membrane bound
+
+45
+00:02:10,056 --> 00:02:13,053
+antibodies, but there are
+actually 10,000 on them.
+
+46
+00:02:13,053 --> 00:02:15,000
+I mean, I could draw
+a bunch of these.
+
+47
+00:02:15,000 --> 00:02:17,030
+I don't have to just draw one.
+
+48
+00:02:17,030 --> 00:02:19,012
+The memories just wade around
+in the future, but there's
+
+49
+00:02:19,012 --> 00:02:19,084
+more of them now.
+
+50
+00:02:19,084 --> 00:02:23,061
+So in the future, if we get
+this virus again, this
+
+51
+00:02:23,061 --> 00:02:26,034
+interaction's going to happen
+faster and so they're going to
+
+52
+00:02:26,034 --> 00:02:27,080
+get activated faster.
+
+53
+00:02:27,080 --> 00:02:32,030
+And then the effector B
+cells essentially turn
+
+54
+00:02:32,030 --> 00:02:35,099
+into antibody factories.
+
+55
+00:02:35,099 --> 00:02:39,009
+This antibody goes in and it
+says, let me just produce--
+
+56
+00:02:39,009 --> 00:02:39,087
+I've been activated.
+
+57
+00:02:39,087 --> 00:02:42,019
+Let me produce many,
+many more versions
+
+58
+00:02:42,019 --> 00:02:44,046
+of that exact antibody.
+
+59
+00:02:44,046 --> 00:02:46,071
+So they get spit out.
+
+60
+00:02:46,071 --> 00:02:48,066
+I drew that one little wrong.
+
+61
+00:02:48,066 --> 00:02:53,003
+So that exact antibody, that
+can then be spit out to go
+
+62
+00:02:53,003 --> 00:02:57,016
+disable or tag antigens-- and
+not just any antigen-- this
+
+63
+00:02:57,016 --> 00:03:00,028
+antigen right here.
+
+64
+00:03:00,028 --> 00:03:03,055
+And we also saw that the other
+thing that the B cell does is
+
+65
+00:03:03,055 --> 00:03:06,018
+it becomes an antigen
+presenting cell.
+
+66
+00:03:06,018 --> 00:03:11,066
+So what it does is, as soon as
+it recognizes this, it's had
+
+67
+00:03:11,066 --> 00:03:14,059
+this interaction with an antigen
+that just matches the
+
+68
+00:03:14,059 --> 00:03:17,071
+variable portion of its membrane
+bound antibody.
+
+69
+00:03:17,071 --> 00:03:19,087
+It endocytosizes that.
+
+70
+00:03:19,087 --> 00:03:22,034
+It brings that into itself.
+
+71
+00:03:22,034 --> 00:03:25,041
+It's membrane facilitated so it
+just kind of pulls it in,
+
+72
+00:03:25,041 --> 00:03:27,077
+chunks it up, and then presents
+a piece of that
+
+73
+00:03:27,077 --> 00:03:31,091
+antibody on an MHC
+II molecule.
+
+74
+00:03:31,091 --> 00:03:33,024
+We saw that in the last video.
+
+75
+00:03:33,024 --> 00:03:36,021
+So it cuts that up and presents
+a piece of it right
+
+76
+00:03:36,021 --> 00:03:39,052
+there and that's why we call it
+an antigen presenting cell.
+
+77
+00:03:39,052 --> 00:03:42,031
+Now in this video, we're going
+to talk about why we even have
+
+78
+00:03:42,031 --> 00:03:44,011
+these MHC II molecules.
+
+79
+00:03:44,011 --> 00:03:47,000
+What are we presenting
+these antigens to?
+
+80
+00:03:47,000 --> 00:03:48,050
+So we're going to start
+talking about the cell
+
+81
+00:03:48,050 --> 00:03:50,036
+mediated-- and actually, even
+more than the cell mediated,
+
+82
+00:03:50,036 --> 00:03:51,076
+we're going to talk
+about T cells.
+
+83
+00:03:51,076 --> 00:03:56,028
+
+
+84
+00:03:56,028 --> 00:03:59,012
+And I said in the first video,
+they're called T cells because
+
+85
+00:03:59,012 --> 00:04:00,043
+they mature in the thymus.
+
+86
+00:04:00,043 --> 00:04:07,011
+
+
+87
+00:04:07,011 --> 00:04:09,093
+And there are two types of
+T cells and it's all very
+
+88
+00:04:09,093 --> 00:04:11,081
+confusing because you have B
+cells and T cells, but then
+
+89
+00:04:11,081 --> 00:04:13,056
+there are two types
+of T cells.
+
+90
+00:04:13,056 --> 00:04:18,093
+You have helper T cells-- and
+most people just write T with
+
+91
+00:04:18,093 --> 00:04:21,043
+a lower-case or subscript
+h there.
+
+92
+00:04:21,043 --> 00:04:26,037
+And then you have cytotoxic T
+cells-- or T cells that kill
+
+93
+00:04:26,037 --> 00:04:27,062
+other cells.
+
+94
+00:04:27,062 --> 00:04:32,076
+
+
+95
+00:04:32,076 --> 00:04:36,056
+Now just so that you have a big,
+overarching impression of
+
+96
+00:04:36,056 --> 00:04:39,007
+what does what-- B cells.
+
+97
+00:04:39,007 --> 00:04:43,063
+When they are activated, they
+generate antibodies.
+
+98
+00:04:43,063 --> 00:04:46,041
+At 30,000 feet, that's the
+best summary of what an
+
+99
+00:04:46,041 --> 00:04:47,062
+activated B cell does.
+
+100
+00:04:47,062 --> 00:04:49,069
+It actually generate
+antibodies.
+
+101
+00:04:49,069 --> 00:04:53,018
+Those antibodies attach to
+viruses and bacteria and other
+
+102
+00:04:53,018 --> 00:04:55,092
+types of pathogens and disables
+them-- either tags
+
+103
+00:04:55,092 --> 00:05:02,031
+them so that macrophages can go
+and eat them up or just by
+
+104
+00:05:02,031 --> 00:05:06,004
+throwing all of those antibodies
+on to the surface
+
+105
+00:05:06,004 --> 00:05:08,050
+of the pathogen in question.
+
+106
+00:05:08,050 --> 00:05:11,086
+It might disable the pathogens
+or essentially bundle them
+
+107
+00:05:11,086 --> 00:05:14,085
+altogether so that it'll be
+easier for macrophages to pick
+
+108
+00:05:14,085 --> 00:05:17,081
+them up, but this is only
+effective for things that are
+
+109
+00:05:17,081 --> 00:05:19,039
+floating around.
+
+110
+00:05:19,039 --> 00:05:21,070
+Free floating antibodies are
+only effective for things that
+
+111
+00:05:21,070 --> 00:05:24,016
+are floating around.
+
+112
+00:05:24,016 --> 00:05:27,048
+Cytotoxic T cells, which I'll
+cover in more detail in a
+
+113
+00:05:27,048 --> 00:05:32,000
+future video-- these actually
+attack cells that have been
+
+114
+00:05:32,000 --> 00:05:34,025
+infiltrated.
+
+115
+00:05:34,025 --> 00:05:42,086
+So this is attack, kill,
+infiltrated cells-- and when I
+
+116
+00:05:42,086 --> 00:05:45,032
+say infiltrated, it could be a
+cell that a virus has gone
+
+117
+00:05:45,032 --> 00:05:47,052
+into or some bacteria
+has penetrated it.
+
+118
+00:05:47,052 --> 00:05:49,025
+And when I say infiltrated, it
+doesn't necessarily even mean
+
+119
+00:05:49,025 --> 00:05:50,011
+something from the outside.
+
+120
+00:05:50,011 --> 00:05:53,001
+It could even be a cancerous
+cell that shows itself to be
+
+121
+00:05:53,001 --> 00:05:57,032
+abnormal in some way and so the
+cytotoxic T cells will at
+
+122
+00:05:57,032 --> 00:05:59,025
+least attempt to kill them.
+
+123
+00:05:59,025 --> 00:06:02,050
+But what I want to focus on--
+out of the three types of
+
+124
+00:06:02,050 --> 00:06:06,062
+lymphocytes-- remember,
+everything we've been talking
+
+125
+00:06:06,062 --> 00:06:09,057
+about was leukocytes, white
+blood cells, but lymphocytes
+
+126
+00:06:09,057 --> 00:06:12,064
+are a subset of that and these
+three are lymphocytes.
+
+127
+00:06:12,064 --> 00:06:14,087
+And they're called that because
+they began their
+
+128
+00:06:14,087 --> 00:06:18,066
+development in the
+bone marrow.
+
+129
+00:06:18,066 --> 00:06:24,025
+So this guy and this guy
+actually do stuff.
+
+130
+00:06:24,025 --> 00:06:27,039
+This guy generates antibodies
+that attach to pathogens
+
+131
+00:06:27,039 --> 00:06:28,054
+floating around.
+
+132
+00:06:28,054 --> 00:06:31,008
+This guy directly attacks
+cells that are
+
+133
+00:06:31,008 --> 00:06:32,000
+broken in some way.
+
+134
+00:06:32,000 --> 00:06:34,069
+They've either been infiltrated,
+they're abnormal,
+
+135
+00:06:34,069 --> 00:06:36,073
+they're cancerous--
+who knows what.
+
+136
+00:06:36,073 --> 00:06:39,073
+And I'll do a whole video on
+that, but that leads us to a
+
+137
+00:06:39,073 --> 00:06:40,076
+very obvious question.
+
+138
+00:06:40,076 --> 00:06:42,042
+What does this guy do?
+
+139
+00:06:42,042 --> 00:06:47,064
+What does the helper T cell
+do if he doesn't directly
+
+140
+00:06:47,064 --> 00:06:50,068
+interface either with pathogens
+or produce things
+
+141
+00:06:50,068 --> 00:06:53,018
+that interface with pathogens--
+or if he himself
+
+142
+00:06:53,018 --> 00:06:55,035
+doesn't go and directly
+kill cells?
+
+143
+00:06:55,035 --> 00:06:58,051
+And the answer is that the
+helper T cell's kind of the
+
+144
+00:06:58,051 --> 00:07:01,013
+alarm of the immune system.
+
+145
+00:07:01,013 --> 00:07:03,062
+And on some level, it's almost
+the most important.
+
+146
+00:07:03,062 --> 00:07:08,023
+So we talked already in the
+last video about antigen
+
+147
+00:07:08,023 --> 00:07:11,042
+presenting cells-- that either
+when a macrophage or a
+
+148
+00:07:11,042 --> 00:07:15,029
+dendritic cell takes things
+in, it cuts them up and
+
+149
+00:07:15,029 --> 00:07:19,075
+presents it on its surface as
+these MHC II proteins or in
+
+150
+00:07:19,075 --> 00:07:24,023
+complex with these MHC II
+complexes or proteins.
+
+151
+00:07:24,023 --> 00:07:27,006
+And so do B cells.
+
+152
+00:07:27,006 --> 00:07:28,093
+B cells are more specific.
+
+153
+00:07:28,093 --> 00:07:33,000
+Now, once something is
+presented, now the helper T
+
+154
+00:07:33,000 --> 00:07:34,099
+cell can come into
+the picture.
+
+155
+00:07:34,099 --> 00:07:39,099
+So this is a-- let me do a
+dendritic cell-- and I'm doing
+
+156
+00:07:39,099 --> 00:07:42,070
+dendritic cells actually on
+purpose because dendritic
+
+157
+00:07:42,070 --> 00:07:45,033
+cells are actually
+the best cells at
+
+158
+00:07:45,033 --> 00:07:46,081
+activating helper T cells.
+
+159
+00:07:46,081 --> 00:07:49,043
+We're going to talk about in a
+second what happens when a
+
+160
+00:07:49,043 --> 00:07:51,054
+helper T cell gets activated.
+
+161
+00:07:51,054 --> 00:07:54,008
+So let's say I have this
+dendritic cell.
+
+162
+00:07:54,008 --> 00:07:55,075
+It's called dendritic so
+it looks like it has
+
+163
+00:07:55,075 --> 00:07:57,000
+dendrites on it.
+
+164
+00:07:57,000 --> 00:08:01,037
+
+
+165
+00:08:01,037 --> 00:08:03,036
+So I have this dendritic
+cell here.
+
+166
+00:08:03,036 --> 00:08:06,004
+It's a phagocyte.
+
+167
+00:08:06,004 --> 00:08:10,018
+Let's say it's already consumed
+some type of bacteria
+
+168
+00:08:10,018 --> 00:08:14,072
+or virus and it's cut it up and
+now it's presenting kind
+
+169
+00:08:14,072 --> 00:08:19,027
+of the body parts of that virus
+on the MHC II complex.
+
+170
+00:08:19,027 --> 00:08:23,064
+
+
+171
+00:08:23,064 --> 00:08:25,082
+It's kind of its way of saying,
+hey, I found this
+
+172
+00:08:25,082 --> 00:08:29,008
+shady thing floating around
+in the body's tissues.
+
+173
+00:08:29,008 --> 00:08:32,017
+Maybe someone ought
+to raise an alarm.
+
+174
+00:08:32,017 --> 00:08:35,010
+Maybe this is part of some type
+of bigger thing going on
+
+175
+00:08:35,010 --> 00:08:37,066
+and some type of alarm bell
+has to be released.
+
+176
+00:08:37,066 --> 00:08:40,041
+And that's what the helper
+T cell does.
+
+177
+00:08:40,041 --> 00:08:42,008
+So let's say this guy--
+he's presented it.
+
+178
+00:08:42,008 --> 00:08:43,009
+He says, I found this thing.
+
+179
+00:08:43,009 --> 00:08:43,061
+I killed it.
+
+180
+00:08:43,061 --> 00:08:44,099
+Here's a part of it.
+
+181
+00:08:44,099 --> 00:08:49,027
+The helper T cell has a
+T cell receptor on it.
+
+182
+00:08:49,027 --> 00:08:51,048
+Let's say this is the helper
+T cell right here.
+
+183
+00:08:51,048 --> 00:08:55,019
+
+
+184
+00:08:55,019 --> 00:09:00,061
+And it has a T cell receptor on
+it and the T cell receptors
+
+185
+00:09:00,061 --> 00:09:03,023
+bond to-- and I'll be very
+particular here.
+
+186
+00:09:03,023 --> 00:09:04,071
+So this is the T
+cell receptor.
+
+187
+00:09:04,071 --> 00:09:07,021
+
+
+188
+00:09:07,021 --> 00:09:11,079
+It's just like a protein, but
+like the membrane bound
+
+189
+00:09:11,079 --> 00:09:16,026
+antibodies on B cells that every
+B cell or almost every B
+
+190
+00:09:16,026 --> 00:09:18,087
+cell has a different version,
+different variable chain,
+
+191
+00:09:18,087 --> 00:09:24,024
+that's also true of helper T
+cells-- that just like the B
+
+192
+00:09:24,024 --> 00:09:27,065
+cells, this has some variation
+in where it binds.
+
+193
+00:09:27,065 --> 00:09:31,002
+So this right here is going to
+be variable from one helper T
+
+194
+00:09:31,002 --> 00:09:31,080
+cell to another.
+
+195
+00:09:31,080 --> 00:09:35,059
+For example, I might have
+another helper T cell here.
+
+196
+00:09:35,059 --> 00:09:41,037
+That also has a T cell receptor,
+but the variable
+
+197
+00:09:41,037 --> 00:09:47,002
+portion on that T cell receptor
+is different than the
+
+198
+00:09:47,002 --> 00:09:49,010
+variable portion on this
+T cell receptor.
+
+199
+00:09:49,010 --> 00:09:55,037
+So this helper T cell will not
+bind to this dendritic cell or
+
+200
+00:09:55,037 --> 00:09:58,012
+the MHC II complex of
+this dendritic cell.
+
+201
+00:09:58,012 --> 00:09:59,050
+Only this one would.
+
+202
+00:09:59,050 --> 00:10:02,060
+And the mechanism of how you
+get this variation is very
+
+203
+00:10:02,060 --> 00:10:05,028
+similar to the mechanism in how
+you get the variation on
+
+204
+00:10:05,028 --> 00:10:07,016
+the antibodies and
+the B cells.
+
+205
+00:10:07,016 --> 00:10:12,011
+During these helper T cells'
+development, at some point the
+
+206
+00:10:12,011 --> 00:10:15,094
+genes that code for this part of
+this receptor get shuffled
+
+207
+00:10:15,094 --> 00:10:18,079
+around and they get shuffled
+around intentionally so that
+
+208
+00:10:18,079 --> 00:10:23,009
+each T cell has a certain
+specificity to a combination
+
+209
+00:10:23,009 --> 00:10:28,017
+of an MHC II complex and a
+certain polypeptide, a certain
+
+210
+00:10:28,017 --> 00:10:29,052
+part of a virus.
+
+211
+00:10:29,052 --> 00:10:32,072
+So only this guy's going to be
+activated, not this guy.
+
+212
+00:10:32,072 --> 00:10:35,048
+So this is why we call it the
+specific immune system.
+
+213
+00:10:35,048 --> 00:10:36,066
+Now we said, what does
+that helper T
+
+214
+00:10:36,066 --> 00:10:40,005
+cell do at that point?
+
+215
+00:10:40,005 --> 00:10:44,004
+He said, hey, I happen to be the
+one helper T cell that can
+
+216
+00:10:44,004 --> 00:10:46,092
+bond to this guy, this antigen
+that's presented.
+
+217
+00:10:46,092 --> 00:10:49,045
+It becomes activated.
+
+218
+00:10:49,045 --> 00:10:51,067
+And I won't go into the details,
+but in general,
+
+219
+00:10:51,067 --> 00:10:54,029
+dendritic cells are the best
+ones at activating it,
+
+220
+00:10:54,029 --> 00:10:57,005
+especially a naive T cell.
+
+221
+00:10:57,005 --> 00:11:02,077
+
+
+222
+00:11:02,077 --> 00:11:05,059
+In general, when we talk about
+a naive B cell or a naive
+
+223
+00:11:05,059 --> 00:11:08,037
+helper T cell, these are cells
+that are non-memory,
+
+224
+00:11:08,037 --> 00:11:11,082
+non-effector, that have never
+been touched by-- they've
+
+225
+00:11:11,082 --> 00:11:14,075
+never been activated, in
+the case of a B cell.
+
+226
+00:11:14,075 --> 00:11:18,041
+They've never been activated by
+something binding to their
+
+227
+00:11:18,041 --> 00:11:23,003
+membrane bound antibody-- or
+a naive helper T cell is a
+
+228
+00:11:23,003 --> 00:11:26,074
+non-effector, non-memory helper
+T cell that's never had
+
+229
+00:11:26,074 --> 00:11:28,017
+anything bound to it.
+
+230
+00:11:28,017 --> 00:11:33,069
+So if this guy is naive and then
+he finally has a reaction
+
+231
+00:11:33,069 --> 00:11:37,047
+with this antigen presenting
+cell, he becomes non-naive.
+
+232
+00:11:37,047 --> 00:11:41,052
+He becomes activated and when
+activated, two things happen.
+
+233
+00:11:41,052 --> 00:11:44,087
+Well, just like with B cells,
+he proliferates many, many,
+
+234
+00:11:44,087 --> 00:11:48,083
+many copies of himself and some
+subset of those copies
+
+235
+00:11:48,083 --> 00:11:51,065
+differentiate into
+effector cells.
+
+236
+00:11:51,065 --> 00:11:54,036
+
+
+237
+00:11:54,036 --> 00:11:56,016
+And effector just means
+it does something.
+
+238
+00:11:56,016 --> 00:11:58,013
+It does something now instead
+of saving the memory.
+
+239
+00:11:58,013 --> 00:12:01,012
+
+
+240
+00:12:01,012 --> 00:12:08,037
+And then some subset of them
+become memory helper T cells
+
+241
+00:12:08,037 --> 00:12:12,002
+after getting activated.
+
+242
+00:12:12,002 --> 00:12:15,001
+Now the memory T cells, just
+like memory B cells-- now you
+
+243
+00:12:15,001 --> 00:12:16,012
+have more copies of this.
+
+244
+00:12:16,012 --> 00:12:17,096
+So in 10 years in the future,
+if something like this
+
+245
+00:12:17,096 --> 00:12:19,062
+happens, this interaction's
+going to be
+
+246
+00:12:19,062 --> 00:12:20,076
+more likely to happen.
+
+247
+00:12:20,076 --> 00:12:25,012
+These guys have the same T cell
+receptor as their parent.
+
+248
+00:12:25,012 --> 00:12:33,071
+
+
+249
+00:12:33,071 --> 00:12:36,026
+It's just that the memory T
+cells-- or actually even the
+
+250
+00:12:36,026 --> 00:12:38,027
+memory B cells-- they
+last longer.
+
+251
+00:12:38,027 --> 00:12:39,023
+They don't kill themselves.
+
+252
+00:12:39,023 --> 00:12:42,037
+They'll last for years so that
+if 10 years later, something
+
+253
+00:12:42,037 --> 00:12:44,010
+like this starts presenting
+itself, you're going to have
+
+254
+00:12:44,010 --> 00:12:47,055
+more of these guys around to
+bump into this guy so that you
+
+255
+00:12:47,055 --> 00:12:49,070
+can raise the alarm bells.
+
+256
+00:12:49,070 --> 00:12:56,090
+This guy's also going to have
+the same chain right there.
+
+257
+00:12:56,090 --> 00:12:57,062
+So you're saying, fine.
+
+258
+00:12:57,062 --> 00:12:58,087
+I have these memory cells.
+
+259
+00:12:58,087 --> 00:13:00,060
+They're going to stick around
+so that this reaction can
+
+260
+00:13:00,060 --> 00:13:02,038
+happen in the future, but I
+still haven't answered the
+
+261
+00:13:02,038 --> 00:13:05,079
+question, what does the
+effector T cell do?
+
+262
+00:13:05,079 --> 00:13:09,003
+What the effector T cell does
+is it raises the alarm.
+
+263
+00:13:09,003 --> 00:13:16,040
+
+
+264
+00:13:16,040 --> 00:13:18,045
+So there's an effector T cell.
+
+265
+00:13:18,045 --> 00:13:19,070
+It has been activated.
+
+266
+00:13:19,070 --> 00:13:22,042
+
+
+267
+00:13:22,042 --> 00:13:23,075
+Remember, this is
+very particular.
+
+268
+00:13:23,075 --> 00:13:27,025
+Only this version of T cells,
+but once it got activated, it
+
+269
+00:13:27,025 --> 00:13:29,030
+produced many copies of itself
+because it says, hey, I'm
+
+270
+00:13:29,030 --> 00:13:32,017
+responding to a particular
+type of pathogen.
+
+271
+00:13:32,017 --> 00:13:34,033
+So that this is a
+helper T cell.
+
+272
+00:13:34,033 --> 00:13:37,046
+This is an effector.
+
+273
+00:13:37,046 --> 00:13:39,069
+And what these do is they
+start releasing these
+
+274
+00:13:39,069 --> 00:13:42,024
+molecules called cytokines.
+
+275
+00:13:42,024 --> 00:13:43,079
+So they start releasing
+cytokines.
+
+276
+00:13:43,079 --> 00:13:50,032
+
+
+277
+00:13:50,032 --> 00:13:52,062
+There are many, many different
+types of cytokines and I'm not
+
+278
+00:13:52,062 --> 00:13:56,015
+going to go into detail on all
+that, but what cytokines do is
+
+279
+00:13:56,015 --> 00:13:58,002
+that they really raise
+the alarm.
+
+280
+00:13:58,002 --> 00:14:03,008
+So if you have other activated
+lymphatic cells or other
+
+281
+00:14:03,008 --> 00:14:07,000
+activated immunological cells--
+when the cytokines
+
+282
+00:14:07,000 --> 00:14:08,060
+enter those cells-- remember,
+cytokines
+
+283
+00:14:08,060 --> 00:14:10,085
+are really just proteins.
+
+284
+00:14:10,085 --> 00:14:14,061
+When the cytokines enter-- or
+polypeptides-- when they enter
+
+285
+00:14:14,061 --> 00:14:17,037
+those cells, it makes
+them get in gear.
+
+286
+00:14:17,037 --> 00:14:21,087
+It makes them multiply more
+often or it makes them get
+
+287
+00:14:21,087 --> 00:14:24,023
+more active in their
+immune response.
+
+288
+00:14:24,023 --> 00:14:26,074
+So what this does-- these
+cytokines you can view as
+
+289
+00:14:26,074 --> 00:14:34,042
+chemical alarm bells chemical
+or peptide alarm bells alarm
+
+290
+00:14:34,042 --> 00:14:38,002
+bells it it tells everyone
+to get in gear.
+
+291
+00:14:38,002 --> 00:14:40,030
+So that's one role, and so you
+can see this is actually a
+
+292
+00:14:40,030 --> 00:14:45,004
+very central role and it'll tell
+both activated cytotoxic
+
+293
+00:14:45,004 --> 00:14:47,075
+T cells to get in gear, which
+we haven't talked about yet.
+
+294
+00:14:47,075 --> 00:14:50,055
+And it'll also tell B cells
+to keep proliferating.
+
+295
+00:14:50,055 --> 00:14:53,094
+So when an activated B cell gets
+some of-- so this is an
+
+296
+00:14:53,094 --> 00:14:55,088
+activated B cell.
+
+297
+00:14:55,088 --> 00:14:58,023
+When it gets some of these
+cytokines, that maybe come
+
+298
+00:14:58,023 --> 00:15:01,079
+from a local helper T cell,
+it'll tell it, hey no, divide
+
+299
+00:15:01,079 --> 00:15:02,041
+more often.
+
+300
+00:15:02,041 --> 00:15:03,026
+Divide more often.
+
+301
+00:15:03,026 --> 00:15:04,075
+Only if you've been
+activated already.
+
+302
+00:15:04,075 --> 00:15:07,063
+And we'll talk more about why
+it has to be that case,
+
+303
+00:15:07,063 --> 00:15:10,037
+because you don't want all the
+B cells to be activated.
+
+304
+00:15:10,037 --> 00:15:13,022
+And the other thing that the
+effector T cell does-- in the
+
+305
+00:15:13,022 --> 00:15:21,046
+B cell discussion, I said, OK,
+if I have a B cell, and it has
+
+306
+00:15:21,046 --> 00:15:24,012
+its membrane bound
+antibody, has its
+
+307
+00:15:24,012 --> 00:15:25,050
+membrane bound antibody.
+
+308
+00:15:25,050 --> 00:15:29,037
+And remember, this is a
+particular version, it has its
+
+309
+00:15:29,037 --> 00:15:31,083
+particular variable
+chain right here.
+
+310
+00:15:31,083 --> 00:15:34,064
+And this guy binds
+to a pathogen.
+
+311
+00:15:34,064 --> 00:15:36,029
+So this binds to a pathogen.
+
+312
+00:15:36,029 --> 00:15:38,042
+Maybe it's a virus
+right there.
+
+313
+00:15:38,042 --> 00:15:41,067
+Up to now, I've been saying
+that this guy's activated.
+
+314
+00:15:41,067 --> 00:15:44,058
+And he's going to-- well, when
+he binds to the pathogen he'll
+
+315
+00:15:44,058 --> 00:15:49,098
+take this in and he'll take part
+of the pathogen and cut
+
+316
+00:15:49,098 --> 00:15:55,075
+it up and place it on
+an MHC II molecule.
+
+317
+00:15:55,075 --> 00:15:57,040
+And we said, then he'll
+be activated.
+
+318
+00:15:57,040 --> 00:16:00,023
+He'll proliferate and he'll
+differentiate into memory and
+
+319
+00:16:00,023 --> 00:16:02,092
+effector B cells-- but that's
+not quite true.
+
+320
+00:16:02,092 --> 00:16:04,035
+This first stage happens.
+
+321
+00:16:04,035 --> 00:16:05,060
+This guy bonds.
+
+322
+00:16:05,060 --> 00:16:08,077
+This B cell happened to be
+specific to this virus.
+
+323
+00:16:08,077 --> 00:16:10,034
+Cuts up the virus.
+
+324
+00:16:10,034 --> 00:16:13,083
+Puts parts of the virus on its
+surface and presents parts of
+
+325
+00:16:13,083 --> 00:16:14,073
+the antigen.
+
+326
+00:16:14,073 --> 00:16:19,062
+But in most cases, this B cell
+isn't yet activated.
+
+327
+00:16:19,062 --> 00:16:22,038
+You can kind of view it as in
+its resting state, ready to be
+
+328
+00:16:22,038 --> 00:16:24,058
+activated, but it hasn't started
+proliferating and
+
+329
+00:16:24,058 --> 00:16:27,061
+differentiating into effector
+and memory molecules yet.
+
+330
+00:16:27,061 --> 00:16:36,062
+And in order for that to happen,
+an activated helper T
+
+331
+00:16:36,062 --> 00:16:40,058
+cell that is also specific to
+this very same virus-- so you
+
+332
+00:16:40,058 --> 00:16:45,000
+could imagine someplace else in
+the cell-- this virus was
+
+333
+00:16:45,000 --> 00:16:46,042
+eaten by a dendritic cell.
+
+334
+00:16:46,042 --> 00:16:52,013
+
+
+335
+00:16:52,013 --> 00:16:55,094
+So this exact same virus, this
+exact same species of virus,
+
+336
+00:16:55,094 --> 00:16:59,049
+is eaten by that dendritic cell
+and so the dendritic cell
+
+337
+00:16:59,049 --> 00:17:05,090
+eats it up, it cuts it up, and
+then it presents it-- it's
+
+338
+00:17:05,090 --> 00:17:10,033
+antigen presenting so it
+presents it just like that.
+
+339
+00:17:10,033 --> 00:17:12,075
+Then this will activate
+a very specific T
+
+340
+00:17:12,075 --> 00:17:14,056
+cell, maybe that one.
+
+341
+00:17:14,056 --> 00:17:20,098
+So a very specific T cell will
+come and bump into it.
+
+342
+00:17:20,098 --> 00:17:23,000
+Not just any T cell,
+the one with the
+
+343
+00:17:23,000 --> 00:17:24,028
+right variable portion.
+
+344
+00:17:24,028 --> 00:17:25,082
+So think about what's
+happening.
+
+345
+00:17:25,082 --> 00:17:33,026
+The variable portion for this
+T cell, it connects to this
+
+346
+00:17:33,026 --> 00:17:38,017
+part of the virus plus the MHC
+II, but it's really reacting
+
+347
+00:17:38,017 --> 00:17:39,028
+to the same virus.
+
+348
+00:17:39,028 --> 00:17:40,078
+It might be a different part.
+
+349
+00:17:40,078 --> 00:17:43,075
+This little part that was cut
+off might be someplace inside
+
+350
+00:17:43,075 --> 00:17:47,081
+the virus while the epitope for
+the B cell might be some
+
+351
+00:17:47,081 --> 00:17:50,033
+place on the outside of the
+virus, but they're both
+
+352
+00:17:50,033 --> 00:17:53,001
+specific to the same virus.
+
+353
+00:17:53,001 --> 00:17:56,099
+Now once this guy gets activated
+and he starts
+
+354
+00:17:56,099 --> 00:17:59,076
+producing memory and effector
+cells-- or they're descended
+
+355
+00:17:59,076 --> 00:18:02,022
+from him, one of those effector
+cells specific to
+
+356
+00:18:02,022 --> 00:18:06,056
+this virus are needed to
+come bind to this guy.
+
+357
+00:18:06,056 --> 00:18:09,034
+So then this guy could then go
+along and bump around and
+
+358
+00:18:09,034 --> 00:18:11,041
+eventually end up here.
+
+359
+00:18:11,041 --> 00:18:14,009
+And he is also specific
+to this virus.
+
+360
+00:18:14,009 --> 00:18:16,063
+So this binding site right
+here is the same as this
+
+361
+00:18:16,063 --> 00:18:17,014
+binding site.
+
+362
+00:18:17,014 --> 00:18:21,094
+This combination of antigen
+plus MHC II.
+
+363
+00:18:21,094 --> 00:18:29,043
+And so when this guy binds--
+and remember, this binding
+
+364
+00:18:29,043 --> 00:18:31,085
+site is the same as this and
+it only binds to this
+
+365
+00:18:31,085 --> 00:18:36,031
+combination right here-- this
+is what activates the B cell
+
+366
+00:18:36,031 --> 00:18:37,088
+in most cases.
+
+367
+00:18:37,088 --> 00:18:41,035
+This is T-dependent
+activation, which
+
+368
+00:18:41,035 --> 00:18:42,074
+is usually the case.
+
+369
+00:18:42,074 --> 00:18:45,030
+Sometimes all you need is this
+first thing, but in general
+
+370
+00:18:45,030 --> 00:18:48,083
+you need the first thing and
+then you also need a T cell to
+
+371
+00:18:48,083 --> 00:18:52,082
+come and activate it, and only
+then will the B cell get
+
+372
+00:18:52,082 --> 00:18:55,053
+activated and start
+proliferating and dividing and
+
+373
+00:18:55,053 --> 00:18:58,024
+differentiating itself and
+producing-- when its effector
+
+374
+00:18:58,024 --> 00:19:00,024
+cells will produce a
+lot of antibodies.
+
+375
+00:19:00,024 --> 00:19:01,040
+And so there's a natural
+question.
+
+376
+00:19:01,040 --> 00:19:04,000
+Why do biological systems--
+or why do we
+
+377
+00:19:04,000 --> 00:19:05,088
+have this double system?
+
+378
+00:19:05,088 --> 00:19:10,001
+And at least my sense of it is,
+it's a failsafe mechanism.
+
+379
+00:19:10,001 --> 00:19:13,063
+If every time a virus came and
+attached this, this guy just
+
+380
+00:19:13,063 --> 00:19:15,094
+started going crazy and
+producing antibodies against
+
+381
+00:19:15,094 --> 00:19:20,095
+this thing, there's some
+chance that maybe after
+
+382
+00:19:20,095 --> 00:19:26,044
+development, this chain right
+here or his genes for
+
+383
+00:19:26,044 --> 00:19:30,032
+generating these chains become
+specific, not for foreign
+
+384
+00:19:30,032 --> 00:19:35,018
+pathogens, but maybe they
+become specific for self
+
+385
+00:19:35,018 --> 00:19:37,018
+molecules, molecules
+that are naturally
+
+386
+00:19:37,018 --> 00:19:38,035
+produced within the body.
+
+387
+00:19:38,035 --> 00:19:40,099
+It's just a random mutation, but
+if he started going crazy
+
+388
+00:19:40,099 --> 00:19:45,008
+for that, his antibodies will
+start attacking molecules that
+
+389
+00:19:45,008 --> 00:19:47,028
+are naturally in the body and
+then that could really hurt.
+
+390
+00:19:47,028 --> 00:19:51,024
+That what causes autoimmune
+diseases, where your own
+
+391
+00:19:51,024 --> 00:19:53,020
+immune cells start activating
+yourself.
+
+392
+00:19:53,020 --> 00:19:55,046
+But if you have this double
+handshake system where this
+
+393
+00:19:55,046 --> 00:19:59,010
+has to happen and this has to
+happen, the likelihood of both
+
+394
+00:19:59,010 --> 00:20:03,004
+of these guys after they leave
+their development stage
+
+395
+00:20:03,004 --> 00:20:09,010
+becoming specific to a self
+protein or a self cell or a
+
+396
+00:20:09,010 --> 00:20:12,000
+self molecule is
+very unlikely.
+
+397
+00:20:12,000 --> 00:20:15,038
+So it kind of inhibits this guy
+from going wild, even if
+
+398
+00:20:15,038 --> 00:20:17,018
+he has some type
+of a mutation.
+
+399
+00:20:17,018 --> 00:20:19,034
+Anyway, hopefully that explains
+a little bit of what
+
+400
+00:20:19,034 --> 00:20:20,051
+helper T cells do.
+
+401
+00:20:20,051 --> 00:20:22,010
+We'll talk a lot
+more about it.
+
+402
+00:20:22,010 --> 00:20:23,097
+I know it can be a little
+bit confusing.
+
+403
+00:20:23,097 --> 00:20:27,036
+In the next video, we'll talk
+about cytotoxic T cells.
+
+404
+00:20:27,036 --> 00:20:32,083
+

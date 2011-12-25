@@ -1,0 +1,1810 @@
+1
+00:00:00,046 --> 00:00:02,093
+Công ty TNHH Công Nghệ Sinh Học ATC
+
+2
+00:00:02,093 --> 00:00:08,034
+
+
+3
+00:00:08,034 --> 00:00:11,046
+And we normally associate
+it with negative things.
+
+4
+00:00:11,046 --> 00:00:14,064
+You say bacteria, those are
+germs. So we normally
+
+5
+00:00:14,064 --> 00:00:18,080
+associate those with germs, and
+they indeed are germs, and
+
+6
+00:00:18,080 --> 00:00:20,060
+they cause a whole set
+of negative things.
+
+7
+00:00:20,060 --> 00:00:24,053
+Or at least from the standard
+point of view, people believe
+
+8
+00:00:24,053 --> 00:00:26,046
+that they cause a whole bunch
+of negative things.
+
+9
+00:00:26,046 --> 00:00:30,012
+So let's just list them all
+just to make sure we know
+
+10
+00:00:30,012 --> 00:00:31,066
+about them, we're all
+on the same page.
+
+11
+00:00:31,066 --> 00:00:35,002
+So the bad things they do, they
+cause a lot of diseases:
+
+12
+00:00:35,002 --> 00:00:39,067
+tuberculosis, Lyme disease.
+
+13
+00:00:39,067 --> 00:00:44,056
+
+
+14
+00:00:44,056 --> 00:00:45,099
+I mean, I could go on and on.
+
+15
+00:00:45,099 --> 00:00:48,006
+You know, pretty much
+any time-- well,
+
+16
+00:00:48,006 --> 00:00:48,079
+I'll be careful here.
+
+17
+00:00:48,079 --> 00:00:52,007
+Whenever people talk about an
+infection, it's often caused
+
+18
+00:00:52,007 --> 00:00:52,074
+by a bacteria.
+
+19
+00:00:52,074 --> 00:00:54,035
+It can also be caused
+by a virus.
+
+20
+00:00:54,035 --> 00:00:57,056
+An infection is, in general,
+anything entering you and
+
+21
+00:00:57,056 --> 00:01:00,017
+taking advantage of your body
+to kind of replicate itself,
+
+22
+00:01:00,017 --> 00:01:02,003
+and in the process,
+making you sick.
+
+23
+00:01:02,003 --> 00:01:04,084
+But bacterial infections,
+let me write that down.
+
+24
+00:01:04,084 --> 00:01:10,093
+
+
+25
+00:01:10,093 --> 00:01:14,071
+And this whole perception of
+bacteria being a bad thing is
+
+26
+00:01:14,071 --> 00:01:18,026
+probably a good reason why
+almost any soap you see now
+
+27
+00:01:18,026 --> 00:01:20,049
+will say antibacterial on it.
+
+28
+00:01:20,049 --> 00:01:24,015
+
+
+29
+00:01:24,015 --> 00:01:28,075
+Because the makers of the soap
+know that in conventional
+
+30
+00:01:28,075 --> 00:01:32,009
+thinking, bacteria are viewed
+as a negative thing.
+
+31
+00:01:32,009 --> 00:01:33,045
+And you're like, OK,
+Sal, I know where
+
+32
+00:01:33,045 --> 00:01:34,048
+you're going with this.
+
+33
+00:01:34,048 --> 00:01:36,046
+Bacteria isn't all bad.
+
+34
+00:01:36,046 --> 00:01:41,001
+There are some good traits
+of bacteria.
+
+35
+00:01:41,001 --> 00:01:45,053
+For example, I could stick some
+yogurt in some-- or I
+
+36
+00:01:45,053 --> 00:01:48,051
+could stick some bacteria in
+some milk and it'll help
+
+37
+00:01:48,051 --> 00:01:53,054
+produce some yogurt, sometimes
+spelled yoghurt.
+
+38
+00:01:53,054 --> 00:01:57,070
+
+
+39
+00:01:57,070 --> 00:01:59,020
+And that's obviously
+a good thing.
+
+40
+00:01:59,020 --> 00:02:01,093
+It's a delicious thing to eat.
+
+41
+00:02:01,093 --> 00:02:07,012
+You say, well, I know I have
+bacteria in my gut.
+
+42
+00:02:07,012 --> 00:02:09,074
+It helps me digest food.
+
+43
+00:02:09,074 --> 00:02:11,056
+And these are all true, but
+you're like, look, you know,
+
+44
+00:02:11,056 --> 00:02:16,066
+on balance, I still think
+bacteria is a bad thing.
+
+45
+00:02:16,066 --> 00:02:19,062
+I'm not going to take sides on
+that debate, as I tend to
+
+46
+00:02:19,062 --> 00:02:22,053
+avoid taking sides on debates
+in these science videos.
+
+47
+00:02:22,053 --> 00:02:25,036
+Maybe I'll do a whole playlist
+where I do nothing but take
+
+48
+00:02:25,036 --> 00:02:28,021
+sides on debates, but here I
+won't take any sides on that.
+
+49
+00:02:28,021 --> 00:02:32,018
+But I'll just point out that you
+are to a large degree made
+
+50
+00:02:32,018 --> 00:02:33,025
+up of bacteria.
+
+51
+00:02:33,025 --> 00:02:35,068
+It's not just your gut.
+
+52
+00:02:35,068 --> 00:02:39,033
+It's not just the gut or the
+yogurt you might eat or the
+
+53
+00:02:39,033 --> 00:02:43,078
+plaque on your teeth, which
+is caused by bacteria.
+
+54
+00:02:43,078 --> 00:02:46,084
+It's this kind of film that's
+created by bacteria that
+
+55
+00:02:46,084 --> 00:02:48,091
+eventually causes cavities
+and whatever else.
+
+56
+00:02:48,091 --> 00:02:51,006
+And it's not just the pimples
+on your face.
+
+57
+00:02:51,006 --> 00:02:54,003
+
+
+58
+00:02:54,003 --> 00:02:58,074
+Bacteria actually represents
+a majority of the
+
+59
+00:02:58,074 --> 00:03:00,096
+cells on your body.
+
+60
+00:03:00,096 --> 00:03:04,093
+So for every-- and this is kind
+of an astounding fact.
+
+61
+00:03:04,093 --> 00:03:08,021
+For every one cell on the human
+body, every one human
+
+62
+00:03:08,021 --> 00:03:14,022
+cell-- so these are all cells
+that all have your DNA in them
+
+63
+00:03:14,022 --> 00:03:16,056
+and they'll have nucleuses, and
+I'll talk about that in a
+
+64
+00:03:16,056 --> 00:03:24,040
+second-- you have 20 bacteria.
+
+65
+00:03:24,040 --> 00:03:27,009
+Now, your response there is to
+say, OK, that's fair enough,
+
+66
+00:03:27,009 --> 00:03:30,062
+but these bacteria must be much
+smaller than the human
+
+67
+00:03:30,062 --> 00:03:34,040
+cell, so it must be a very small
+fraction of my mass.
+
+68
+00:03:34,040 --> 00:03:35,006
+And you're right.
+
+69
+00:03:35,006 --> 00:03:37,088
+It's not like we're mostly
+bacteria by mass, although we
+
+70
+00:03:37,088 --> 00:03:41,063
+are mostly bacteria
+by actual cells.
+
+71
+00:03:41,063 --> 00:03:43,094
+But even if you were to take out
+all of the water in your
+
+72
+00:03:43,094 --> 00:03:47,084
+body, then by mass, bacteria
+is going to be
+
+73
+00:03:47,084 --> 00:03:53,061
+roughly 10% of your mass.
+
+74
+00:03:53,061 --> 00:03:57,090
+So I weigh about 150 pounds,
+I've got 15 pounds of bacteria
+
+75
+00:03:57,090 --> 00:03:59,046
+walking around with me.
+
+76
+00:03:59,046 --> 00:04:02,068
+So we always kind of think of
+ourselves as like the bacteria
+
+77
+00:04:02,068 --> 00:04:04,093
+is riding on us, but
+to a large degree,
+
+78
+00:04:04,093 --> 00:04:06,097
+we're kind of in symbiosis.
+
+79
+00:04:06,097 --> 00:04:09,096
+We're kind of two creatures, or
+not just two creatures, two
+
+80
+00:04:09,096 --> 00:04:12,053
+types of creatures living
+together, because I don't have
+
+81
+00:04:12,053 --> 00:04:14,015
+just one type of
+bacteria on me.
+
+82
+00:04:14,015 --> 00:04:16,080
+I have thousands of types
+of bacteria on me.
+
+83
+00:04:16,080 --> 00:04:19,006
+There's a huge amount of
+diversity, and we're just
+
+84
+00:04:19,006 --> 00:04:23,014
+scratching the surface in terms
+of the number and types
+
+85
+00:04:23,014 --> 00:04:25,039
+and diversity of bacteria
+that exist.
+
+86
+00:04:25,039 --> 00:04:27,098
+So I've talked a lot about
+bacteria, and hopefully, this
+
+87
+00:04:27,098 --> 00:04:31,002
+fact right here will make you
+realize that they're super
+
+88
+00:04:31,002 --> 00:04:33,042
+important to just our
+everyday existence.
+
+89
+00:04:33,042 --> 00:04:35,074
+Just to make sure we understand
+the magnitude of
+
+90
+00:04:35,074 --> 00:04:39,027
+this, in a previous video, and
+I looked this up again, we
+
+91
+00:04:39,027 --> 00:04:43,012
+have on the order of 10
+to a 100 trillion
+
+92
+00:04:43,012 --> 00:04:44,037
+cells, human cells.
+
+93
+00:04:44,037 --> 00:04:47,091
+
+
+94
+00:04:47,091 --> 00:04:51,067
+So for every one of these we
+have 20 bacteria, we're
+
+95
+00:04:51,067 --> 00:04:59,069
+talking about having on the
+order of 200 to 2,000 trillion
+
+96
+00:04:59,069 --> 00:05:01,044
+bacteria on us at any time.
+
+97
+00:05:01,044 --> 00:05:04,067
+
+
+98
+00:05:04,067 --> 00:05:06,085
+And I'm a hygienic person.
+
+99
+00:05:06,085 --> 00:05:09,006
+I take showers daily,
+and that's even me.
+
+100
+00:05:09,006 --> 00:05:10,093
+It's not like you can somehow
+eliminate them.
+
+101
+00:05:10,093 --> 00:05:12,050
+And even more, it's not
+like you even want
+
+102
+00:05:12,050 --> 00:05:13,042
+to eliminate them.
+
+103
+00:05:13,042 --> 00:05:14,038
+But that's fair enough.
+
+104
+00:05:14,038 --> 00:05:16,031
+You're probably asking, OK,
+Sal, I'm convinced that
+
+105
+00:05:16,031 --> 00:05:17,026
+bacteria are important.
+
+106
+00:05:17,026 --> 00:05:18,082
+What do they actually
+look like?
+
+107
+00:05:18,082 --> 00:05:23,069
+And they're these small
+unicellular organisms. That's
+
+108
+00:05:23,069 --> 00:05:25,058
+my bacteria right there.
+
+109
+00:05:25,058 --> 00:05:29,008
+And they're different from the
+cells that make up us.
+
+110
+00:05:29,008 --> 00:05:32,091
+When I say us, I'll throw in
+all plants, animals and
+
+111
+00:05:32,091 --> 00:05:35,077
+funguses, fungi.
+
+112
+00:05:35,077 --> 00:05:39,007
+And the big difference, or the
+one that people noticed first,
+
+113
+00:05:39,007 --> 00:05:47,001
+is that all of the Eukarya,
+which includes plants, animals
+
+114
+00:05:47,001 --> 00:05:52,066
+and fungi, all of their DNA
+is inside of a nucleus, a
+
+115
+00:05:52,066 --> 00:05:54,067
+cellular nucleus.
+
+116
+00:05:54,067 --> 00:05:56,060
+So that's the nucleus
+right there.
+
+117
+00:05:56,060 --> 00:05:59,043
+
+
+118
+00:05:59,043 --> 00:06:01,012
+And all of our DNA,
+it's normally in
+
+119
+00:06:01,012 --> 00:06:02,013
+its chromatin form.
+
+120
+00:06:02,013 --> 00:06:07,081
+It's all just spread around
+something like that.
+
+121
+00:06:07,081 --> 00:06:11,077
+In bacteria, which are what
+people originally just
+
+122
+00:06:11,077 --> 00:06:16,004
+classify it on whether or not
+you have a nucleus, in
+
+123
+00:06:16,004 --> 00:06:20,054
+bacteria, there is no membrane
+surrounding the DNA.
+
+124
+00:06:20,054 --> 00:06:25,094
+So what they have is just
+a big bundle of DNA.
+
+125
+00:06:25,094 --> 00:06:29,092
+They just have this
+big bundle of DNA.
+
+126
+00:06:29,092 --> 00:06:32,075
+It's sometimes in a
+loop all in one
+
+127
+00:06:32,075 --> 00:06:34,024
+circle called a nucleoid.
+
+128
+00:06:34,024 --> 00:06:40,058
+
+
+129
+00:06:40,058 --> 00:06:43,097
+Now, whenever we look at
+something, and we say, oh, we
+
+130
+00:06:43,097 --> 00:06:46,062
+have this thing; it doesn't;
+there's this assumption that
+
+131
+00:06:46,062 --> 00:06:51,013
+somehow we're superior or we're
+more advanced beings.
+
+132
+00:06:51,013 --> 00:06:54,085
+But the reality is that bacteria
+have infiltrated far
+
+133
+00:06:54,085 --> 00:06:58,076
+more ecosystems in every part
+of the planet than Eukarya
+
+134
+00:06:58,076 --> 00:07:04,070
+have, and there's far more
+diversity in bacteria than
+
+135
+00:07:04,070 --> 00:07:05,076
+there is in Eukarya.
+
+136
+00:07:05,076 --> 00:07:09,050
+So when you really think about
+it, these are the more
+
+137
+00:07:09,050 --> 00:07:16,025
+successful organisms. If a comet
+were to hit the Earth--
+
+138
+00:07:16,025 --> 00:07:19,068
+God forbid-- the organisms more
+likely to survive are
+
+139
+00:07:19,068 --> 00:07:22,011
+going to be the bacteria than
+the Eukarya, than the ones
+
+140
+00:07:22,011 --> 00:07:27,001
+with the larger-- not always
+larger, but the organisms that
+
+141
+00:07:27,001 --> 00:07:30,070
+do have this nucleus and have
+membrane-bound organelles like
+
+142
+00:07:30,070 --> 00:07:31,089
+mitochondria and all that.
+
+143
+00:07:31,089 --> 00:07:33,069
+We'll talk more about
+it in the future.
+
+144
+00:07:33,069 --> 00:07:34,086
+Bacteria, for the
+most part, are
+
+145
+00:07:34,086 --> 00:07:36,027
+just big bags of cytoplasm.
+
+146
+00:07:36,027 --> 00:07:37,016
+They have their DNA there.
+
+147
+00:07:37,016 --> 00:07:41,005
+They do have ribosomes because
+they have to code for proteins
+
+148
+00:07:41,005 --> 00:07:42,024
+just like the rest of us do.
+
+149
+00:07:42,024 --> 00:07:45,004
+Some of those proteins, they'll
+make some from--
+
+150
+00:07:45,004 --> 00:07:47,050
+bacteria, they'll make these
+flagella, which are tails that
+
+151
+00:07:47,050 --> 00:07:48,075
+allow them to move around.
+
+152
+00:07:48,075 --> 00:07:51,049
+
+
+153
+00:07:51,049 --> 00:07:54,025
+They also have these
+things called pili.
+
+154
+00:07:54,025 --> 00:08:00,064
+Pili is plural for pilus or
+pee-lus, so these pili.
+
+155
+00:08:00,064 --> 00:08:03,094
+And we'll see in a second that
+the pili are kind of how the
+
+156
+00:08:03,094 --> 00:08:07,097
+bacteria are able to do one form
+of introducing genetic
+
+157
+00:08:07,097 --> 00:08:13,092
+variation into their
+populations.
+
+158
+00:08:13,092 --> 00:08:15,055
+Actually, I'll take a little
+side note here.
+
+159
+00:08:15,055 --> 00:08:17,087
+I'm pointing out bacteria as
+not having a cell wall.
+
+160
+00:08:17,087 --> 00:08:20,055
+There's actually another class
+that used to be categorized as
+
+161
+00:08:20,055 --> 00:08:23,007
+type of a bacteria, and they're
+called Archaea.
+
+162
+00:08:23,007 --> 00:08:25,018
+I should give them a little
+bit of justice.
+
+163
+00:08:25,018 --> 00:08:26,043
+They're always kind
+of the stepchild.
+
+164
+00:08:26,043 --> 00:08:30,063
+
+
+165
+00:08:30,063 --> 00:08:33,034
+They used to be called Archaea
+bacteria, but now people
+
+166
+00:08:33,034 --> 00:08:35,019
+realize, they've actually looked
+at the DNA, because
+
+167
+00:08:35,019 --> 00:08:37,037
+when they originally looked at
+these, they said, OK, these
+
+168
+00:08:37,037 --> 00:08:41,078
+guys also have no nucleus and a
+bunch of DNA running around.
+
+169
+00:08:41,078 --> 00:08:43,037
+These must be a form
+of bacteria.
+
+170
+00:08:43,037 --> 00:08:46,000
+But now that we've actually been
+able to look into the DNA
+
+171
+00:08:46,000 --> 00:08:47,015
+of the things, we've
+seen that they're
+
+172
+00:08:47,015 --> 00:08:48,075
+actually quite different.
+
+173
+00:08:48,075 --> 00:08:53,015
+But all of these, both bacteria
+and Archaea, are
+
+174
+00:08:53,015 --> 00:08:54,040
+considered prokaryotes.
+
+175
+00:08:54,040 --> 00:08:58,037
+
+
+176
+00:08:58,037 --> 00:09:01,097
+And this just means
+no nucleus.
+
+177
+00:09:01,097 --> 00:09:04,035
+No nucleus, and more generally,
+this is what most
+
+178
+00:09:04,035 --> 00:09:06,074
+people refer to, but more
+generally, they don't have
+
+179
+00:09:06,074 --> 00:09:10,029
+these membrane-bound organelles
+that our cells
+
+180
+00:09:10,029 --> 00:09:11,040
+have.
+
+181
+00:09:11,040 --> 00:09:14,033
+Now, the next question you might
+say is, well, how do
+
+182
+00:09:14,033 --> 00:09:16,029
+these bacteria reproduce?
+
+183
+00:09:16,029 --> 00:09:19,072
+And for the most part, they do
+something not completely
+
+184
+00:09:19,072 --> 00:09:21,029
+different from mitosis,
+although I
+
+185
+00:09:21,029 --> 00:09:22,041
+want to call it mitosis.
+
+186
+00:09:22,041 --> 00:09:23,089
+We call it binary fission.
+
+187
+00:09:23,089 --> 00:09:31,025
+
+
+188
+00:09:31,025 --> 00:09:33,039
+I'm not going to go into the
+deep mechanism here, but the
+
+189
+00:09:33,039 --> 00:09:34,042
+idea is fairly simple.
+
+190
+00:09:34,042 --> 00:09:37,071
+I have a bacteria right here.
+
+191
+00:09:37,071 --> 00:09:42,050
+It replicates its DNA, so
+it'll have two of these
+
+192
+00:09:42,050 --> 00:09:46,066
+nucleoids here, and then the
+cytoplasm essentially splits,
+
+193
+00:09:46,066 --> 00:09:49,091
+or it's kind of a form of
+cleavage right there.
+
+194
+00:09:49,091 --> 00:09:53,032
+It splits and then you
+have two of them.
+
+195
+00:09:53,032 --> 00:09:55,044
+You have two of them then.
+
+196
+00:09:55,044 --> 00:09:58,097
+And then each of them, they
+can code for the proteins
+
+197
+00:09:58,097 --> 00:10:02,026
+necessary to produce all of
+their extra appendages, the
+
+198
+00:10:02,026 --> 00:10:04,058
+flagellum, which is this
+long tail-like thing
+
+199
+00:10:04,058 --> 00:10:06,002
+that can help it move.
+
+200
+00:10:06,002 --> 00:10:08,034
+And it's actually fascinating
+because it's operating at such
+
+201
+00:10:08,034 --> 00:10:11,089
+a small scale, but you can still
+kind of get this motor
+
+202
+00:10:11,089 --> 00:10:12,095
+movement going on.
+
+203
+00:10:12,095 --> 00:10:16,007
+Even at this very, very small
+scale, using very primitive--
+
+204
+00:10:16,007 --> 00:10:18,012
+I won't say primitive, because
+that's making a value judgment
+
+205
+00:10:18,012 --> 00:10:21,006
+on these things, but using-- you
+know, these flagellum are
+
+206
+00:10:21,006 --> 00:10:23,064
+on the order of several
+nanometers, on the order of
+
+207
+00:10:23,064 --> 00:10:25,001
+tens of nanometers wide.
+
+208
+00:10:25,001 --> 00:10:28,001
+So you don't have a lot of atoms
+to deal with, but you're
+
+209
+00:10:28,001 --> 00:10:32,000
+still able to get this kind of
+wave-like motion that can move
+
+210
+00:10:32,000 --> 00:10:33,017
+the bacteria around.
+
+211
+00:10:33,017 --> 00:10:36,065
+Now, you're saying, hey, Sal,
+in that first video on
+
+212
+00:10:36,065 --> 00:10:40,012
+evolution, you told me that we
+see evolution every day and
+
+213
+00:10:40,012 --> 00:10:42,000
+bacteria is one example.
+
+214
+00:10:42,000 --> 00:10:45,010
+When we use antibiotics, we
+think it'll help eliminate
+
+215
+00:10:45,010 --> 00:10:47,079
+bacteria, but that one bacteria
+that has some type of
+
+216
+00:10:47,079 --> 00:10:50,065
+resistance, it'll survive,
+so it is more fit.
+
+217
+00:10:50,065 --> 00:10:53,012
+How did these guys
+get variation?
+
+218
+00:10:53,012 --> 00:10:55,000
+Well, the one way, and this is
+the way everything can get
+
+219
+00:10:55,000 --> 00:10:58,073
+variation, is they can
+get mutations.
+
+220
+00:10:58,073 --> 00:11:02,060
+And bacteria replicate so
+quickly, they reproduce so
+
+221
+00:11:02,060 --> 00:11:05,080
+quickly that even if you have a
+mutation that's one in every
+
+222
+00:11:05,080 --> 00:11:07,070
+thousand times, by the time you
+have a million bacteria,
+
+223
+00:11:07,070 --> 00:11:09,036
+you'll have a thousand
+mutations.
+
+224
+00:11:09,036 --> 00:11:12,063
+So they have mutations, but
+they also have this form.
+
+225
+00:11:12,063 --> 00:11:15,004
+I don't want to call it sexual
+reproduction, because it's not
+
+226
+00:11:15,004 --> 00:11:15,085
+sexual reproduction.
+
+227
+00:11:15,085 --> 00:11:18,016
+They don't form gametes and the
+gametes don't fertilize
+
+228
+00:11:18,016 --> 00:11:20,009
+each other and then
+produces a zygote.
+
+229
+00:11:20,009 --> 00:11:29,084
+But two bacteria can get near
+each other and then one of
+
+230
+00:11:29,084 --> 00:11:35,072
+their piluses-- I'll
+do that right here.
+
+231
+00:11:35,072 --> 00:11:38,083
+So the piluses are these little
+structures on the side
+
+232
+00:11:38,083 --> 00:11:39,069
+of the bacteria.
+
+233
+00:11:39,069 --> 00:11:42,025
+They're these little
+tubes, really.
+
+234
+00:11:42,025 --> 00:11:46,034
+One of the piluses can connect
+from one bacteria to another,
+
+235
+00:11:46,034 --> 00:11:49,071
+and then essentially you have a
+mixing of what's inside one
+
+236
+00:11:49,071 --> 00:11:50,078
+bacteria with another.
+
+237
+00:11:50,078 --> 00:11:52,052
+So let me draw their
+nucleoids.
+
+238
+00:11:52,052 --> 00:11:55,097
+
+
+239
+00:11:55,097 --> 00:11:59,057
+And then they have these other
+pieces of just DNA that hangs
+
+240
+00:11:59,057 --> 00:12:01,030
+out called plasmids.
+
+241
+00:12:01,030 --> 00:12:04,071
+These are just circular
+pieces of DNA.
+
+242
+00:12:04,071 --> 00:12:07,046
+Maybe this guy has got this
+extra neat plasmid.
+
+243
+00:12:07,046 --> 00:12:10,053
+He got it from someplace, and
+it's making him able to do
+
+244
+00:12:10,053 --> 00:12:11,078
+things that this guy
+couldn't do.
+
+245
+00:12:11,078 --> 00:12:17,003
+Maybe this is the R plasmid,
+which is known for making a
+
+246
+00:12:17,003 --> 00:12:19,052
+bacteria resistant to a
+lot of antibiotics.
+
+247
+00:12:19,052 --> 00:12:21,026
+And what happens is, that
+bacteria-- and actually,
+
+248
+00:12:21,026 --> 00:12:23,052
+there's mechanisms where the
+bacteria know that, hey, this
+
+249
+00:12:23,052 --> 00:12:24,085
+guy doesn't have
+the R plasmid.
+
+250
+00:12:24,085 --> 00:12:26,094
+And we're just beginning to
+understand how it actually
+
+251
+00:12:26,094 --> 00:12:30,089
+works, but this will actually
+replicate itself and give this
+
+252
+00:12:30,089 --> 00:12:33,028
+guy a version of
+the R plasmid.
+
+253
+00:12:33,028 --> 00:12:35,054
+You could also have these
+things, transposons, and I
+
+254
+00:12:35,054 --> 00:12:37,024
+should make a whole video
+on this because we have
+
+255
+00:12:37,024 --> 00:12:38,010
+transposons, too.
+
+256
+00:12:38,010 --> 00:12:41,015
+But there's parts of DNA that
+can jump from one part of a
+
+257
+00:12:41,015 --> 00:12:43,087
+fragment of DNA to another, and
+these can also end up in
+
+258
+00:12:43,087 --> 00:12:44,075
+the other one.
+
+259
+00:12:44,075 --> 00:12:47,023
+So what you have is kind of--
+it's not formal sexual
+
+260
+00:12:47,023 --> 00:12:48,088
+reproduction, but what you
+essentially have is a
+
+261
+00:12:48,088 --> 00:12:52,019
+connection, and these bacteria
+are just constantly swapping
+
+262
+00:12:52,019 --> 00:12:55,073
+DNA with each other and DNA is
+jumping back and forth, so you
+
+263
+00:12:55,073 --> 00:12:58,049
+can imagine all sorts of
+combinations of DNA happen
+
+264
+00:12:58,049 --> 00:13:02,084
+even within what you used to
+call one bacterial species and
+
+265
+00:13:02,084 --> 00:13:05,012
+very quickly can turn to
+multiple species and become
+
+266
+00:13:05,012 --> 00:13:06,029
+resistant to different things.
+
+267
+00:13:06,029 --> 00:13:08,082
+If this makes it resistant to
+an antibiotic, then it can
+
+268
+00:13:08,082 --> 00:13:13,014
+kind of spread the information
+to produce those resistant
+
+269
+00:13:13,014 --> 00:13:15,085
+proteins or whatever to
+the other bacteria.
+
+270
+00:13:15,085 --> 00:13:19,046
+So this is kind of a form of
+introducing variation.
+
+271
+00:13:19,046 --> 00:13:23,094
+And so when you transfer stuff
+via this pilus, or the plural
+
+272
+00:13:23,094 --> 00:13:27,065
+is pili, this is called
+conjugation, bacterial
+
+273
+00:13:27,065 --> 00:13:28,090
+conjugation.
+
+274
+00:13:28,090 --> 00:13:32,051
+
+
+275
+00:13:32,051 --> 00:13:34,063
+Now, the last thing I want to
+talk about, because it's
+
+276
+00:13:34,063 --> 00:13:38,099
+something that you've heard a
+lot about, are antibiotics.
+
+277
+00:13:38,099 --> 00:13:39,092
+A lot of people,
+they get sick.
+
+278
+00:13:39,092 --> 00:13:41,054
+The first thing they want
+to get is an antibiotic.
+
+279
+00:13:41,054 --> 00:13:44,067
+
+
+280
+00:13:44,067 --> 00:13:47,083
+And an antibiotic is just a
+whole class of chemicals and
+
+281
+00:13:47,083 --> 00:13:49,099
+compounds, some of them
+naturally derived, some of
+
+282
+00:13:49,099 --> 00:13:54,080
+them not, that kill bacteria.
+
+283
+00:13:54,080 --> 00:13:58,065
+So now if someone is undergoing
+a surgery and they
+
+284
+00:13:58,065 --> 00:14:01,066
+get a cut, instead of them
+having to worry about getting
+
+285
+00:14:01,066 --> 00:14:04,024
+an infection, they'll take some
+antibiotics to prevent
+
+286
+00:14:04,024 --> 00:14:06,098
+the bacteria from
+growing on them.
+
+287
+00:14:06,098 --> 00:14:11,011
+But the question is how was this
+discovered or where does
+
+288
+00:14:11,011 --> 00:14:12,004
+it come from?
+
+289
+00:14:12,004 --> 00:14:16,014
+It actually came from
+Alexander Fleming.
+
+290
+00:14:16,014 --> 00:14:17,000
+Let me write him down.
+
+291
+00:14:17,000 --> 00:14:20,030
+Very important, because the
+discovery of antibiotics is,
+
+292
+00:14:20,030 --> 00:14:22,037
+in my opinion, the most
+important discovery in
+
+293
+00:14:22,037 --> 00:14:23,034
+medicine so far.
+
+294
+00:14:23,034 --> 00:14:27,028
+So, Alexander Fleming.
+
+295
+00:14:27,028 --> 00:14:30,014
+
+
+296
+00:14:30,014 --> 00:14:33,012
+He was studying-- I think
+it was Staphylococcus.
+
+297
+00:14:33,012 --> 00:14:34,091
+I forget which bacteria
+it was, but it
+
+298
+00:14:34,091 --> 00:14:36,022
+was in a Petri dish.
+
+299
+00:14:36,022 --> 00:14:37,076
+He was using a Petri dish.
+
+300
+00:14:37,076 --> 00:14:38,098
+Let me draw a Petri dish.
+
+301
+00:14:38,098 --> 00:14:40,046
+There's a little circle.
+
+302
+00:14:40,046 --> 00:14:42,078
+There's some nutrients that
+the bacteria can grow on.
+
+303
+00:14:42,078 --> 00:14:46,017
+So let's say the bacteria, you
+know, it's growing on this
+
+304
+00:14:46,017 --> 00:14:47,016
+Petri dish.
+
+305
+00:14:47,016 --> 00:14:49,050
+And he went out, and he came
+back into the room, and he saw
+
+306
+00:14:49,050 --> 00:14:56,087
+that some mold, some fungus had
+grown on this, kind of a
+
+307
+00:14:56,087 --> 00:15:01,030
+bluish-greenish fungus had grown
+on the center of his
+
+308
+00:15:01,030 --> 00:15:04,041
+Petri dish.
+
+309
+00:15:04,041 --> 00:15:06,069
+And the bacteria, there was kind
+of this space around it,
+
+310
+00:15:06,069 --> 00:15:08,079
+and the bacteria couldn't
+get close to it.
+
+311
+00:15:08,079 --> 00:15:14,058
+And this mold, this fungus was
+called Penicillium, the
+
+312
+00:15:14,058 --> 00:15:15,073
+Penicillium fungus.
+
+313
+00:15:15,073 --> 00:15:16,067
+He was able to figure
+that out.
+
+314
+00:15:16,067 --> 00:15:18,075
+He took a sample of this and
+then he cultured it, which
+
+315
+00:15:18,075 --> 00:15:21,029
+means letting it grow and
+then seeing what it is.
+
+316
+00:15:21,029 --> 00:15:22,080
+This was Penicillium.
+
+317
+00:15:22,080 --> 00:15:26,064
+And he figured out that, gee,
+this fungus must have
+
+318
+00:15:26,064 --> 00:15:28,073
+something, some chemical that
+it's emitting that's
+
+319
+00:15:28,073 --> 00:15:31,007
+essentially killing the bacteria
+around it, that's not
+
+320
+00:15:31,007 --> 00:15:33,095
+allowing the bacteria
+to get near it.
+
+321
+00:15:33,095 --> 00:15:36,077
+And so that led to the discovery
+of penicillin.
+
+322
+00:15:36,077 --> 00:15:47,065
+
+
+323
+00:15:47,065 --> 00:15:51,062
+This was in the late
+20s, 1920s.
+
+324
+00:15:51,062 --> 00:15:54,041
+By the time World War II came
+around, now people had gunshot
+
+325
+00:15:54,041 --> 00:15:56,088
+wounds and they had to get
+things amputated, whatnot, but
+
+326
+00:15:56,088 --> 00:15:58,085
+for the first time, they could
+actually give people
+
+327
+00:15:58,085 --> 00:16:02,097
+antibiotics and not worry
+about-- or they probably still
+
+328
+00:16:02,097 --> 00:16:05,099
+worried about it, but didn't
+have to worry about this thing
+
+329
+00:16:05,099 --> 00:16:07,066
+as much as they did before.
+
+330
+00:16:07,066 --> 00:16:09,097
+And now, you know, if you have
+bacteria, if you have
+
+331
+00:16:09,097 --> 00:16:14,053
+tuberculosis or Lyme disease or
+anything, the treatment all
+
+332
+00:16:14,053 --> 00:16:16,038
+involves taking antibiotics.
+
+333
+00:16:16,038 --> 00:16:18,060
+And there are many, many more
+types of antibiotics now
+
+334
+00:16:18,060 --> 00:16:21,013
+coming from many, many more
+different sources, but the
+
+335
+00:16:21,013 --> 00:16:22,057
+general idea is the same.
+
+336
+00:16:22,057 --> 00:16:24,051
+You want to kill bacteria.
+
+337
+00:16:24,051 --> 00:16:25,088
+Although you don't want to kill
+all bacteria, because
+
+338
+00:16:25,088 --> 00:16:26,054
+some of it's good.
+
+339
+00:16:26,054 --> 00:16:30,019
+In fact, we are made up a
+whole lot of bacteria.
+
+340
+00:16:30,019 --> 00:16:31,013
+I don't know if I even
+mentioned this
+
+341
+00:16:31,013 --> 00:16:31,050
+earlier in the video.
+
+342
+00:16:31,050 --> 00:16:34,053
+There's bacteria in our skin
+that helps take up oil and
+
+343
+00:16:34,053 --> 00:16:37,046
+moisturizes and make our
+skin nice and supple.
+
+344
+00:16:37,046 --> 00:16:38,092
+So, you know, the way you think
+about it, you could view
+
+345
+00:16:38,092 --> 00:16:41,000
+them as negative or you could
+view them as positive or you
+
+346
+00:16:41,000 --> 00:16:43,004
+could view them as something
+in between, but the really
+
+347
+00:16:43,004 --> 00:16:45,082
+amazing thing, at least in my
+mind, is that we're living in
+
+348
+00:16:45,082 --> 00:16:46,098
+symbiosis with them.
+
+349
+00:16:46,098 --> 00:16:50,004
+I remember I saw a Star Trek
+episode once where you had
+
+350
+00:16:50,004 --> 00:16:52,070
+these people.
+
+351
+00:16:52,070 --> 00:16:56,067
+You had these people, and they
+were some alien race.
+
+352
+00:16:56,067 --> 00:16:59,042
+Jean-Luc Picard had--
+they ran into them.
+
+353
+00:16:59,042 --> 00:17:02,047
+They looked very humanoid
+like that.
+
+354
+00:17:02,047 --> 00:17:05,010
+But it turns out-- let me draw
+this human-- that they had
+
+355
+00:17:05,010 --> 00:17:07,057
+these little bugs in
+their brain stem.
+
+356
+00:17:07,057 --> 00:17:10,000
+So they had these big insects in
+their brain stem and these
+
+357
+00:17:10,000 --> 00:17:14,030
+insects started infecting the
+crew of the Enterprise, and
+
+358
+00:17:14,030 --> 00:17:17,009
+they were controlling their
+brains and making them act
+
+359
+00:17:17,009 --> 00:17:19,045
+weird and whatever not, and
+this seemed like a very
+
+360
+00:17:19,045 --> 00:17:24,006
+bizarre alien concept of some
+creepy-crawlie living in us
+
+361
+00:17:24,006 --> 00:17:26,089
+and affecting our brains and
+affecting us in some ways.
+
+362
+00:17:26,089 --> 00:17:29,005
+But if you really think about
+it, we are doing this, and
+
+363
+00:17:29,005 --> 00:17:31,068
+it's not just with one
+little bug, it's on
+
+364
+00:17:31,068 --> 00:17:32,096
+the order of trillions.
+
+365
+00:17:32,096 --> 00:17:36,053
+Hundreds of trillions of bugs
+are with us every day and they
+
+366
+00:17:36,053 --> 00:17:37,053
+make us us.
+
+367
+00:17:37,053 --> 00:17:40,075
+I mean, I'm here recording
+videos along with-- or maybe I
+
+368
+00:17:40,075 --> 00:17:44,003
+should even say the bacteria
+is recording videos or it's
+
+369
+00:17:44,003 --> 00:17:46,025
+maybe partially responsible
+for controlling bacteria.
+
+370
+00:17:46,025 --> 00:17:48,086
+And it's known that the bacteria
+can even affect our
+
+371
+00:17:48,086 --> 00:17:49,091
+mental state.
+
+372
+00:17:49,091 --> 00:17:52,022
+There's a whole bunch of
+research now that certain
+
+373
+00:17:52,022 --> 00:17:54,065
+types of bacteria can
+cause schizophrenia.
+
+374
+00:17:54,065 --> 00:17:56,077
+Actually, syphilis does.
+
+375
+00:17:56,077 --> 00:17:58,092
+Bacteria can cause depression.
+
+376
+00:17:58,092 --> 00:18:03,040
+Lyme disease, it's known that
+when you go into later phases
+
+377
+00:18:03,040 --> 00:18:07,066
+of Lyme disease, it can affect
+the mental condition of the
+
+378
+00:18:07,066 --> 00:18:11,031
+person who has the infection,
+so it affects every part of
+
+379
+00:18:11,031 --> 00:18:11,092
+who we are.
+
+380
+00:18:11,092 --> 00:18:15,009
+I mean, it would be hard to
+even talk of being a human
+
+381
+00:18:15,009 --> 00:18:20,069
+being without the 10% of our
+mass or the 2,000 trillion
+
+382
+00:18:20,069 --> 00:18:23,067
+cells or 2,000 trillion
+bacteria that
+
+383
+00:18:23,067 --> 00:18:25,088
+really make us us.

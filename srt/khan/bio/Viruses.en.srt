@@ -1,0 +1,2448 @@
+1
+00:00:00,047 --> 00:00:03,020
+Considerando que eu tenho um resfriado
+agora, eu não posso imaginar um
+
+2
+00:00:03,020 --> 00:00:08,010
+tópico mais apropriado para fazer um vídeo em que um vírus.
+
+3
+00:00:08,010 --> 00:00:09,092
+E eu não queria
+torná-lo que de espessura.
+
+4
+00:00:09,092 --> 00:00:11,038
+A virus, or viruses.
+
+5
+00:00:11,038 --> 00:00:14,075
+
+
+6
+00:00:14,075 --> 00:00:19,007
+And in my opinion, viruses are,
+on some level, the most
+
+7
+00:00:19,007 --> 00:00:21,044
+fascinating thing in
+all of biology.
+
+8
+00:00:21,044 --> 00:00:25,055
+Because they really blur the
+boundary between what is an
+
+9
+00:00:25,055 --> 00:00:27,044
+inanimate object and
+what is life?
+
+10
+00:00:27,044 --> 00:00:30,007
+
+
+11
+00:00:30,007 --> 00:00:33,040
+I mean if we look at ourselves,
+or life as one of
+
+12
+00:00:33,040 --> 00:00:35,021
+those things that you know
+it when you see it.
+
+13
+00:00:35,021 --> 00:00:39,029
+If you see something that,
+it's born, it grows, it's
+
+14
+00:00:39,029 --> 00:00:40,046
+constantly changing.
+
+15
+00:00:40,046 --> 00:00:41,050
+Maybe it moves around.
+
+16
+00:00:41,050 --> 00:00:42,025
+Maybe it doesn't.
+
+17
+00:00:42,025 --> 00:00:44,039
+But it's metabolizing things
+around itself.
+
+18
+00:00:44,039 --> 00:00:46,031
+It reproduces and
+then it dies.
+
+19
+00:00:46,031 --> 00:00:48,029
+You say, hey, that's
+probably life.
+
+20
+00:00:48,029 --> 00:00:50,096
+And in this, we throw most
+things that we see-- or we
+
+21
+00:00:50,096 --> 00:00:52,081
+throw in, us.
+
+22
+00:00:52,081 --> 00:00:55,035
+We throw in bacteria.
+
+23
+00:00:55,035 --> 00:00:57,011
+We throw in plants.
+
+24
+00:00:57,011 --> 00:01:00,082
+I mean, I could-- I'm kind of
+butchering the taxonomy system
+
+25
+00:01:00,082 --> 00:01:03,027
+here, but we tend to know
+life when we see it.
+
+26
+00:01:03,027 --> 00:01:07,048
+But all viruses are, they're
+just a bunch of genetic
+
+27
+00:01:07,048 --> 00:01:09,073
+information inside
+of a protein.
+
+28
+00:01:09,073 --> 00:01:11,023
+Inside of a protein capsule.
+
+29
+00:01:11,023 --> 00:01:13,048
+So let me draw.
+
+30
+00:01:13,048 --> 00:01:16,034
+And the genetic information
+can come in any form.
+
+31
+00:01:16,034 --> 00:01:22,023
+So it can be an RNA, it could
+be DNA, it could be
+
+32
+00:01:22,023 --> 00:01:24,067
+single-stranded RNA,
+double-stranded RNA.
+
+33
+00:01:24,067 --> 00:01:27,026
+Sometimes for single stranded
+they'll write these two little
+
+34
+00:01:27,026 --> 00:01:29,025
+S's in front of it.
+
+35
+00:01:29,025 --> 00:01:30,095
+Let's say they are talking about
+double stranded DNA,
+
+36
+00:01:30,095 --> 00:01:32,090
+they'll put a ds
+in front of it.
+
+37
+00:01:32,090 --> 00:01:35,032
+But the general idea-- and
+viruses can come in all of
+
+38
+00:01:35,032 --> 00:01:38,010
+these forms-- is that they have
+some genetic information,
+
+39
+00:01:38,010 --> 00:01:40,053
+some chain of nucleic acids.
+
+40
+00:01:40,053 --> 00:01:43,073
+Either as single or double
+stranded RNA or single or
+
+41
+00:01:43,073 --> 00:01:44,056
+double stranded DNA.
+
+42
+00:01:44,056 --> 00:01:47,096
+And it's just contained inside
+some type of protein
+
+43
+00:01:47,096 --> 00:01:49,087
+structure, which is
+called the capsid.
+
+44
+00:01:49,087 --> 00:01:53,023
+And kind of the classic
+drawing is kind of an
+
+45
+00:01:53,023 --> 00:01:56,065
+icosahedron type
+looking thing.
+
+46
+00:01:56,065 --> 00:01:58,020
+Let me see if I can
+do justice to it.
+
+47
+00:01:58,020 --> 00:02:00,060
+It looks something like this.
+
+48
+00:02:00,060 --> 00:02:02,079
+And not all viruses have to
+look exactly like this.
+
+49
+00:02:02,079 --> 00:02:05,015
+There's thousands of
+types of viruses.
+
+50
+00:02:05,015 --> 00:02:06,084
+And we're really just scratching
+the surface and
+
+51
+00:02:06,084 --> 00:02:09,062
+understanding even what viruses
+are out there and all
+
+52
+00:02:09,062 --> 00:02:14,080
+of the different ways that they
+can essentially replicate
+
+53
+00:02:14,080 --> 00:02:15,021
+themselves.
+
+54
+00:02:15,021 --> 00:02:16,062
+We'll talk more about
+that in the future.
+
+55
+00:02:16,062 --> 00:02:19,011
+And I would suspect that pretty
+much any possible way
+
+56
+00:02:19,011 --> 00:02:21,053
+of replication probably
+does somehow exist
+
+57
+00:02:21,053 --> 00:02:22,075
+in the virus world.
+
+58
+00:02:22,075 --> 00:02:25,025
+But they really are just these
+proteins, these protein
+
+59
+00:02:25,025 --> 00:02:27,044
+capsids, are just made up
+of a bunch of little
+
+60
+00:02:27,044 --> 00:02:29,006
+proteins put together.
+
+61
+00:02:29,006 --> 00:02:31,025
+And inside they have some
+genetic material, which might
+
+62
+00:02:31,025 --> 00:02:33,069
+be DNA or it might be RNA.
+
+63
+00:02:33,069 --> 00:02:35,087
+So let me draw their
+genetic material.
+
+64
+00:02:35,087 --> 00:02:38,041
+The protein is not necessarily
+transparent, but if it was,
+
+65
+00:02:38,041 --> 00:02:42,096
+you would see some genetic
+material inside of there.
+
+66
+00:02:42,096 --> 00:02:48,043
+So the question is, is
+this thing life?
+
+67
+00:02:48,043 --> 00:02:49,058
+It seems pretty inanimate.
+
+68
+00:02:49,058 --> 00:02:50,053
+It doesn't grow.
+
+69
+00:02:50,053 --> 00:02:51,050
+It doesn't change.
+
+70
+00:02:51,050 --> 00:02:53,019
+It doesn't metabolize things.
+
+71
+00:02:53,019 --> 00:02:55,019
+This thing, left to its
+own devices, is just
+
+72
+00:02:55,019 --> 00:02:55,084
+going to sit there.
+
+73
+00:02:55,084 --> 00:02:59,059
+It's just going to sit there the
+way a book on a table just
+
+74
+00:02:59,059 --> 00:03:00,068
+sits there.
+
+75
+00:03:00,068 --> 00:03:02,028
+It won't change anything.
+
+76
+00:03:02,028 --> 00:03:06,056
+But what happens is,
+the debate arises.
+
+77
+00:03:06,056 --> 00:03:08,046
+I mean you might say, hey Sal,
+when you define it that way,
+
+78
+00:03:08,046 --> 00:03:10,068
+just looks like a bunch of
+molecules put together.
+
+79
+00:03:10,068 --> 00:03:11,074
+That isn't life.
+
+80
+00:03:11,074 --> 00:03:14,034
+But it starts to seem like life
+all of a sudden when it
+
+81
+00:03:14,034 --> 00:03:17,009
+comes in contact with the
+things that we normally
+
+82
+00:03:17,009 --> 00:03:18,021
+consider life.
+
+83
+00:03:18,021 --> 00:03:22,047
+So what viruses do, the classic
+example is, a virus
+
+84
+00:03:22,047 --> 00:03:24,068
+will attach itself to a cell.
+
+85
+00:03:24,068 --> 00:03:28,059
+So let me draw this thing
+a little bit smaller.
+
+86
+00:03:28,059 --> 00:03:30,025
+So let's say that this
+is my virus.
+
+87
+00:03:30,025 --> 00:03:32,056
+I'll draw it as a
+little hexagon.
+
+88
+00:03:32,056 --> 00:03:34,097
+And what it does is, it'll
+attach itself to a cell.
+
+89
+00:03:34,097 --> 00:03:35,079
+And it could be any
+type of cell.
+
+90
+00:03:35,079 --> 00:03:39,015
+It could be a bacteria cell, it
+could be a plant cell, it
+
+91
+00:03:39,015 --> 00:03:41,018
+could be a human cell.
+
+92
+00:03:41,018 --> 00:03:43,081
+Let me draw the cell here.
+
+93
+00:03:43,081 --> 00:03:48,053
+Cells are usually far larger
+than the virus.
+
+94
+00:03:48,053 --> 00:03:51,061
+In the case of cells that have
+soft membranes, the virus
+
+95
+00:03:51,061 --> 00:03:53,084
+figures out some way
+to enter it.
+
+96
+00:03:53,084 --> 00:03:58,078
+Sometimes it can essentially
+fuse-- I don't want to
+
+97
+00:03:58,078 --> 00:04:01,038
+complicate the issue-- but
+sometimes viruses have their
+
+98
+00:04:01,038 --> 00:04:02,047
+own little membranes.
+
+99
+00:04:02,047 --> 00:04:03,074
+And we'll talk about
+in a second where
+
+100
+00:04:03,074 --> 00:04:04,075
+it gets their membranes.
+
+101
+00:04:04,075 --> 00:04:08,027
+So a virus might have its
+own membrane like that.
+
+102
+00:04:08,027 --> 00:04:10,052
+That's around its capsid.
+
+103
+00:04:10,052 --> 00:04:13,046
+And then these membranes
+will fuse.
+
+104
+00:04:13,046 --> 00:04:16,078
+And then the virus will be able
+to enter into the cell.
+
+105
+00:04:16,078 --> 00:04:18,000
+Now, that's one method.
+
+106
+00:04:18,000 --> 00:04:19,067
+And another method,
+and they're seldom
+
+107
+00:04:19,067 --> 00:04:20,058
+all the same way.
+
+108
+00:04:20,058 --> 00:04:24,001
+But let's say another method
+would be, the virus
+
+109
+00:04:24,001 --> 00:04:26,091
+convinces-- just based on some
+protein receptors on it, or
+
+110
+00:04:26,091 --> 00:04:29,081
+protein receptors on the cells--
+and obviously this has
+
+111
+00:04:29,081 --> 00:04:31,064
+to be kind of a Trojan
+horse type of thing.
+
+112
+00:04:31,064 --> 00:04:33,060
+The cell doesn't want viruses.
+
+113
+00:04:33,060 --> 00:04:36,038
+So the virus has to somehow
+convince the cell that it's a
+
+114
+00:04:36,038 --> 00:04:38,005
+non-foreign particle.
+
+115
+00:04:38,005 --> 00:04:41,076
+We could do hundreds of videos
+on how viruses work and it's a
+
+116
+00:04:41,076 --> 00:04:43,043
+continuing field of research.
+
+117
+00:04:43,043 --> 00:04:47,057
+But sometimes you might have a
+virus that just gets consumed
+
+118
+00:04:47,057 --> 00:04:48,012
+by the cell.
+
+119
+00:04:48,012 --> 00:04:49,093
+Maybe the cell just thinks it's
+something that it needs
+
+120
+00:04:49,093 --> 00:04:50,095
+to consume.
+
+121
+00:04:50,095 --> 00:04:53,012
+So the cell wraps around
+it like this.
+
+122
+00:04:53,012 --> 00:04:56,077
+
+
+123
+00:04:56,077 --> 00:04:58,093
+And these sides will
+eventually merge.
+
+124
+00:04:58,093 --> 00:05:01,067
+And then the cell and the
+virus will go into it.
+
+125
+00:05:01,067 --> 00:05:03,016
+This is called endocytosis.
+
+126
+00:05:03,016 --> 00:05:04,001
+I'll just talk about that.
+
+127
+00:05:04,001 --> 00:05:06,063
+It just brings it into
+its cytoplasm.
+
+128
+00:05:06,063 --> 00:05:11,001
+It doesn't happen
+just to viruses.
+
+129
+00:05:11,001 --> 00:05:12,088
+But this is one mechanism
+that can enter.
+
+130
+00:05:12,088 --> 00:05:17,031
+And then in cases where the cell
+in question-- for example
+
+131
+00:05:17,031 --> 00:05:20,027
+in the situation with bacteria--
+if the cell has a
+
+132
+00:05:20,027 --> 00:05:25,051
+very hard shell-- let me
+do it in a good color.
+
+133
+00:05:25,051 --> 00:05:29,004
+So let's say that this is
+a bacteria right here.
+
+134
+00:05:29,004 --> 00:05:30,050
+And it has a hard shell.
+
+135
+00:05:30,050 --> 00:05:32,082
+The viruses don't even
+enter the cell.
+
+136
+00:05:32,082 --> 00:05:36,043
+They just hang out outside
+of the cell like this.
+
+137
+00:05:36,043 --> 00:05:37,074
+Not drawing to scale.
+
+138
+00:05:37,074 --> 00:05:40,068
+And they actually inject
+their genetic material.
+
+139
+00:05:40,068 --> 00:05:43,079
+So there's obviously a huge--
+there's a wide variety of ways
+
+140
+00:05:43,079 --> 00:05:45,068
+of how the viruses
+get into cells.
+
+141
+00:05:45,068 --> 00:05:46,077
+But that's beside the point.
+
+142
+00:05:46,077 --> 00:05:49,042
+The interesting thing is that
+they do get into the cell.
+
+143
+00:05:49,042 --> 00:05:52,024
+And once they do get into the
+cell, they release their
+
+144
+00:05:52,024 --> 00:05:54,056
+genetic material
+into the cell.
+
+145
+00:05:54,056 --> 00:05:56,097
+So their genetic material
+will float around.
+
+146
+00:05:56,097 --> 00:06:01,038
+If their genetic material is
+already in the form of RNA--
+
+147
+00:06:01,038 --> 00:06:05,069
+and I could imagine almost every
+possibility of different
+
+148
+00:06:05,069 --> 00:06:08,016
+ways for viruses to work
+probably do exist in nature.
+
+149
+00:06:08,016 --> 00:06:09,039
+We just haven't found them.
+
+150
+00:06:09,039 --> 00:06:11,062
+But the ones that we've already
+found really do kind
+
+151
+00:06:11,062 --> 00:06:13,087
+of do it in every
+possible way.
+
+152
+00:06:13,087 --> 00:06:20,072
+So if they have RNA, this RNA
+can immediately start being
+
+153
+00:06:20,072 --> 00:06:23,017
+used to essentially-- let's
+say this is the
+
+154
+00:06:23,017 --> 00:06:25,054
+nucleus of the cell.
+
+155
+00:06:25,054 --> 00:06:28,085
+That's the nucleus of the cell
+and it normally has the DNA in
+
+156
+00:06:28,085 --> 00:06:29,048
+it like that.
+
+157
+00:06:29,048 --> 00:06:30,072
+Maybe I'll do the DNA in
+a different color.
+
+158
+00:06:30,072 --> 00:06:37,025
+But DNA gets transcribed
+into RNA, normally.
+
+159
+00:06:37,025 --> 00:06:39,093
+So normally, the cell, this a
+normal working cell, the RNA
+
+160
+00:06:39,093 --> 00:06:43,054
+exits the nucleus, it goes to
+the ribosomes, and then you
+
+161
+00:06:43,054 --> 00:06:46,068
+have the RNA in conjunction with
+the tRNA and it produces
+
+162
+00:06:46,068 --> 00:06:49,025
+these proteins.
+
+163
+00:06:49,025 --> 00:06:51,002
+The RNA codes for different
+proteins.
+
+164
+00:06:51,002 --> 00:06:53,067
+And I talk about that in
+a different video.
+
+165
+00:06:53,067 --> 00:06:57,000
+So these proteins get formed and
+eventually, they can form
+
+166
+00:06:57,000 --> 00:06:58,080
+the different structures
+in a cell.
+
+167
+00:06:58,080 --> 00:07:03,018
+But what a virus does is it
+hijacks this process here.
+
+168
+00:07:03,018 --> 00:07:04,049
+Hijacks this mechanism.
+
+169
+00:07:04,049 --> 00:07:08,055
+This RNA will essentially go and
+do what the cell's own RNA
+
+170
+00:07:08,055 --> 00:07:09,023
+would have done.
+
+171
+00:07:09,023 --> 00:07:11,013
+And it starts coding for
+its own proteins.
+
+172
+00:07:11,013 --> 00:07:12,025
+Obviously it's not
+going to code for
+
+173
+00:07:12,025 --> 00:07:13,025
+the same things there.
+
+174
+00:07:13,025 --> 00:07:15,079
+And actually some of the first
+proteins it codes for often
+
+175
+00:07:15,079 --> 00:07:19,067
+start killing the DNA and the
+RNA that might otherwise
+
+176
+00:07:19,067 --> 00:07:20,037
+compete with it.
+
+177
+00:07:20,037 --> 00:07:22,038
+So it codes its own proteins.
+
+178
+00:07:22,038 --> 00:07:26,086
+And then those proteins start
+making more viral shells.
+
+179
+00:07:26,086 --> 00:07:31,051
+So those proteins just start
+constructing more and more
+
+180
+00:07:31,051 --> 00:07:33,083
+viral shells.
+
+181
+00:07:33,083 --> 00:07:36,000
+At the same time, this
+RNA is replicating.
+
+182
+00:07:36,000 --> 00:07:39,073
+It's using the cell's own
+mechanisms. Left to its own
+
+183
+00:07:39,073 --> 00:07:40,081
+devices it would
+just sit there.
+
+184
+00:07:40,081 --> 00:07:43,080
+But once it enters into a cell
+it can use all of the nice
+
+185
+00:07:43,080 --> 00:07:47,000
+machinery that a cell has around
+to replicate itself.
+
+186
+00:07:47,000 --> 00:07:51,036
+And it's kind of amazing, just
+the biochemistry of it.
+
+187
+00:07:51,036 --> 00:07:54,081
+That these RNA molecules
+then find themselves
+
+188
+00:07:54,081 --> 00:07:57,047
+back in these capsids.
+
+189
+00:07:57,047 --> 00:08:00,029
+And then once there's enough
+of these and the cell has
+
+190
+00:08:00,029 --> 00:08:05,062
+essentially all of its resources
+have been depleted,
+
+191
+00:08:05,062 --> 00:08:09,099
+the viruses, these individual
+new viruses that have
+
+192
+00:08:09,099 --> 00:08:15,041
+replicated themselves using all
+of the cell's mechanisms,
+
+193
+00:08:15,041 --> 00:08:17,037
+will find some way
+to exit the cell.
+
+194
+00:08:17,037 --> 00:08:20,086
+The most-- I don't want to
+say, typical, because we
+
+195
+00:08:20,086 --> 00:08:23,011
+haven't even discovered all the
+different types of viruses
+
+196
+00:08:23,011 --> 00:08:26,075
+there are-- but one that's, I
+guess, talked about the most,
+
+197
+00:08:26,075 --> 00:08:28,075
+is when there's enough of
+these, they'll release
+
+198
+00:08:28,075 --> 00:08:30,087
+proteins or they'll construct
+proteins.
+
+199
+00:08:30,087 --> 00:08:32,038
+Because they don't
+make their own.
+
+200
+00:08:32,038 --> 00:08:35,086
+That essentially cause the cell
+to either kill itself or
+
+201
+00:08:35,086 --> 00:08:37,013
+its membrane to dissolve.
+
+202
+00:08:37,013 --> 00:08:39,025
+So the membrane dissolves.
+
+203
+00:08:39,025 --> 00:08:41,048
+And essentially the
+cell lyses.
+
+204
+00:08:41,048 --> 00:08:42,040
+Let me write that down.
+
+205
+00:08:42,040 --> 00:08:43,084
+The cell lyses.
+
+206
+00:08:43,084 --> 00:08:46,011
+And lyses just means that
+the cell's membrane just
+
+207
+00:08:46,011 --> 00:08:46,089
+disappears.
+
+208
+00:08:46,089 --> 00:08:50,048
+And then all of these guys can
+emerge for themselves.
+
+209
+00:08:50,048 --> 00:08:53,047
+Now I talked about before that
+have some of these guys, that
+
+210
+00:08:53,047 --> 00:08:54,075
+they have their own membrane.
+
+211
+00:08:54,075 --> 00:08:56,071
+So how did they get
+there, these
+
+212
+00:08:56,071 --> 00:08:58,039
+kind of bilipid membranes?
+
+213
+00:08:58,039 --> 00:09:00,089
+Well some of them, what they
+do is, once they replicate
+
+214
+00:09:00,089 --> 00:09:07,037
+inside of a cell, they exit
+maybe not even killing-- they
+
+215
+00:09:07,037 --> 00:09:08,064
+don't have to lyse.
+
+216
+00:09:08,064 --> 00:09:11,062
+Everything I talk about, these
+are specific ways that a virus
+
+217
+00:09:11,062 --> 00:09:12,014
+might work.
+
+218
+00:09:12,014 --> 00:09:15,062
+But viruses really kind of
+explore-- well different types
+
+219
+00:09:15,062 --> 00:09:17,062
+of viruses do almost every
+different combination you
+
+220
+00:09:17,062 --> 00:09:22,061
+could imagine of replicating
+and coding for proteins and
+
+221
+00:09:22,061 --> 00:09:23,039
+escaping from cells.
+
+222
+00:09:23,039 --> 00:09:24,072
+Some of them just bud.
+
+223
+00:09:24,072 --> 00:09:26,055
+And when they bud, they
+essentially, you can kind of
+
+224
+00:09:26,055 --> 00:09:28,007
+imagine that they push
+against the cell
+
+225
+00:09:28,007 --> 00:09:29,066
+wall, or the membrane.
+
+226
+00:09:29,066 --> 00:09:30,074
+I shouldn't say cell wall.
+
+227
+00:09:30,074 --> 00:09:32,062
+The cell's outer membrane.
+
+228
+00:09:32,062 --> 00:09:36,012
+And then when they push against
+it, they take some of
+
+229
+00:09:36,012 --> 00:09:38,007
+the membrane with them.
+
+230
+00:09:38,007 --> 00:09:41,025
+Until eventually the cell
+will-- when this goes up
+
+231
+00:09:41,025 --> 00:09:43,080
+enough, this'll pop together
+and it'll take some of the
+
+232
+00:09:43,080 --> 00:09:44,056
+membrane with it.
+
+233
+00:09:44,056 --> 00:09:47,027
+And you could imagine why that
+would be useful thing
+
+234
+00:09:47,027 --> 00:09:49,002
+to have with you.
+
+235
+00:09:49,002 --> 00:09:51,025
+Because now that you have this
+membrane, you kind of look
+
+236
+00:09:51,025 --> 00:09:52,051
+like this cell.
+
+237
+00:09:52,051 --> 00:09:55,029
+So when you want to go infect
+another cell like this, you're
+
+238
+00:09:55,029 --> 00:09:58,052
+not going to necessarily look
+like a foreign particle.
+
+239
+00:09:58,052 --> 00:10:02,077
+So it's a very useful way to
+look like something that
+
+240
+00:10:02,077 --> 00:10:03,047
+you're not.
+
+241
+00:10:03,047 --> 00:10:06,094
+And if you don't think that this
+is creepy-crawly enough,
+
+242
+00:10:06,094 --> 00:10:10,077
+that you're hijacking the DNA
+of an organism, viruses can
+
+243
+00:10:10,077 --> 00:10:14,074
+actually change the
+DNA an organism.
+
+244
+00:10:14,074 --> 00:10:18,083
+And actually one of the most
+common examples is HIV virus.
+
+245
+00:10:18,083 --> 00:10:21,048
+Let me write that down.
+
+246
+00:10:21,048 --> 00:10:27,048
+HIV, which is a type of
+retrovirus, which is
+
+247
+00:10:27,048 --> 00:10:28,027
+fascinating.
+
+248
+00:10:28,027 --> 00:10:31,092
+Because what they do is, so
+they have RNA in them.
+
+249
+00:10:31,092 --> 00:10:35,080
+
+
+250
+00:10:35,080 --> 00:10:38,002
+And when they enter into a cell,
+let's say that they got
+
+251
+00:10:38,002 --> 00:10:39,042
+into the cell.
+
+252
+00:10:39,042 --> 00:10:42,095
+So it's inside of the
+cell like this.
+
+253
+00:10:42,095 --> 00:10:46,057
+They actually bring along
+with them a protein.
+
+254
+00:10:46,057 --> 00:10:49,060
+And every time you say, where
+do they get this protein?
+
+255
+00:10:49,060 --> 00:10:51,038
+All of this stuff came from
+a different cell.
+
+256
+00:10:51,038 --> 00:10:54,049
+They use some other cell's amino
+acids and ribosomes and
+
+257
+00:10:54,049 --> 00:10:56,079
+nucleic acids and everything
+to build themselves.
+
+258
+00:10:56,079 --> 00:10:58,077
+So any proteins that they
+have in them came
+
+259
+00:10:58,077 --> 00:11:00,008
+from another cell.
+
+260
+00:11:00,008 --> 00:11:04,061
+But they bring with them, this
+protein reverse transcriptase.
+
+261
+00:11:04,061 --> 00:11:07,085
+And the reverse transcriptase
+takes their RNA and
+
+262
+00:11:07,085 --> 00:11:11,049
+codes it into DNA.
+
+263
+00:11:11,049 --> 00:11:14,078
+So its RNA to DNA.
+
+264
+00:11:14,078 --> 00:11:16,080
+Which when it was first
+discovered was, kind of,
+
+265
+00:11:16,080 --> 00:11:19,095
+people always thought that you
+always went from DNA to RNA,
+
+266
+00:11:19,095 --> 00:11:22,011
+but this kind of broke
+that paradigm.
+
+267
+00:11:22,011 --> 00:11:23,085
+But it codes from RNA to DNA.
+
+268
+00:11:23,085 --> 00:11:29,001
+And if that's not bad enough,
+it'll incorporate that DNA
+
+269
+00:11:29,001 --> 00:11:31,035
+into the DNA of the host cell.
+
+270
+00:11:31,035 --> 00:11:34,050
+So that DNA will incorporate
+itself into the
+
+271
+00:11:34,050 --> 00:11:35,020
+DNA of the host cell.
+
+272
+00:11:35,020 --> 00:11:37,069
+Let's say the yellow is the
+DNA of the host cell.
+
+273
+00:11:37,069 --> 00:11:41,000
+And this is its nucleus.
+
+274
+00:11:41,000 --> 00:11:44,007
+So it actually messes with
+the genetic makeup
+
+275
+00:11:44,007 --> 00:11:46,002
+of what it's infecting.
+
+276
+00:11:46,002 --> 00:11:51,057
+And when I made the videos on
+bacteria I said, hey for every
+
+277
+00:11:51,057 --> 00:11:53,078
+one human cell we have twenty
+bacteria cells.
+
+278
+00:11:53,078 --> 00:11:56,041
+And they live with us and
+they're useful and they're
+
+279
+00:11:56,041 --> 00:12:00,010
+part of us and they're 10% of
+our dry mass and all of that.
+
+280
+00:12:00,010 --> 00:12:02,016
+But bacteria are kind of
+along for the ride.
+
+281
+00:12:02,016 --> 00:12:03,086
+They don't change who we are.
+
+282
+00:12:03,086 --> 00:12:07,000
+But these retroviruses, they're
+actually changing our
+
+283
+00:12:07,000 --> 00:12:07,094
+genetic makeup.
+
+284
+00:12:07,094 --> 00:12:10,064
+I mean, my genes, I take
+very personally.
+
+285
+00:12:10,064 --> 00:12:12,037
+They define who I am.
+
+286
+00:12:12,037 --> 00:12:14,062
+But these guys will
+actually go in and
+
+287
+00:12:14,062 --> 00:12:16,024
+change my genetic makeup.
+
+288
+00:12:16,024 --> 00:12:19,029
+And then once they're part of
+the DNA, then just the natural
+
+289
+00:12:19,029 --> 00:12:25,033
+DNA to RNA to protein
+process will code
+
+290
+00:12:25,033 --> 00:12:27,017
+their actual proteins.
+
+291
+00:12:27,017 --> 00:12:30,015
+Or their-- what they need to--
+so sometimes they'll lay
+
+292
+00:12:30,015 --> 00:12:31,041
+dormant and do nothing.
+
+293
+00:12:31,041 --> 00:12:33,073
+And sometimes-- let's say
+sometimes in some type of
+
+294
+00:12:33,073 --> 00:12:35,078
+environmental trigger,
+they'll start coding
+
+295
+00:12:35,078 --> 00:12:37,011
+for themselves again.
+
+296
+00:12:37,011 --> 00:12:38,062
+And they'll start
+producing more.
+
+297
+00:12:38,062 --> 00:12:41,098
+But they're producing it
+directly from the organism's
+
+298
+00:12:41,098 --> 00:12:43,011
+cell's DNA.
+
+299
+00:12:43,011 --> 00:12:45,012
+They become part of
+the organism.
+
+300
+00:12:45,012 --> 00:12:49,027
+I mean I can't imagine a more
+intimate way to become part of
+
+301
+00:12:49,027 --> 00:12:51,052
+an organism than to become
+part of its DNA.
+
+302
+00:12:51,052 --> 00:12:52,087
+I can't imagine any
+other way to
+
+303
+00:12:52,087 --> 00:12:55,067
+actually define an organism.
+
+304
+00:12:55,067 --> 00:13:00,090
+And if this by itself is not
+eerie enough, and just so you
+
+305
+00:13:00,090 --> 00:13:06,076
+know, this notion right here,
+when a virus becomes part of
+
+306
+00:13:06,076 --> 00:13:09,042
+an organism's DNA, this
+is called a provirus.
+
+307
+00:13:09,042 --> 00:13:13,017
+
+
+308
+00:13:13,017 --> 00:13:16,088
+But if this isn't eerie enough,
+they estimate-- so if
+
+309
+00:13:16,088 --> 00:13:23,050
+this infects a cell in my nose
+or in my arm, as this cell
+
+310
+00:13:23,050 --> 00:13:27,025
+experiences mitosis, all of
+its offspring-- but its
+
+311
+00:13:27,025 --> 00:13:29,002
+offspring are genetically
+identical-- are going to have
+
+312
+00:13:29,002 --> 00:13:30,060
+this viral DNA.
+
+313
+00:13:30,060 --> 00:13:32,005
+And that might be fine,
+but at least my
+
+314
+00:13:32,005 --> 00:13:33,012
+children won't get it.
+
+315
+00:13:33,012 --> 00:13:35,098
+You know, at least it won't
+become part of my species.
+
+316
+00:13:35,098 --> 00:13:38,071
+But it doesn't have to just
+infect somatic cells, it could
+
+317
+00:13:38,071 --> 00:13:41,016
+infect a germ cell.
+
+318
+00:13:41,016 --> 00:13:44,050
+So it could go into
+a germ cell.
+
+319
+00:13:44,050 --> 00:13:46,085
+And the germ cells, we've
+learned already, these are the
+
+320
+00:13:46,085 --> 00:13:49,037
+ones that produce gametes.
+
+321
+00:13:49,037 --> 00:13:52,092
+For men, that's sperm and
+for women it's eggs.
+
+322
+00:13:52,092 --> 00:13:55,017
+But you could imagine, once
+you've infected a germ cell,
+
+323
+00:13:55,017 --> 00:13:59,000
+once you become part of a germ
+cell's DNA, then I'm passing
+
+324
+00:13:59,000 --> 00:14:02,060
+on that viral DNA to my
+son or my daughter.
+
+325
+00:14:02,060 --> 00:14:05,053
+And they are going to pass
+it on to their children.
+
+326
+00:14:05,053 --> 00:14:10,025
+And just that idea by itself
+is, at least to my mind.
+
+327
+00:14:10,025 --> 00:14:12,012
+vaguely creepy.
+
+328
+00:14:12,012 --> 00:14:16,004
+And people estimate that 5-8%--
+and this kind of really
+
+329
+00:14:16,004 --> 00:14:19,048
+blurs, it makes you think about
+what we as humans really
+
+330
+00:14:19,048 --> 00:14:26,079
+are-- but the estimate is 5-8%
+of the human genome-- so when
+
+331
+00:14:26,079 --> 00:14:29,050
+I talked about bacteria I just
+talked about things that were
+
+332
+00:14:29,050 --> 00:14:30,085
+along for the ride.
+
+333
+00:14:30,085 --> 00:14:33,024
+But the current estimate, and
+I looked up this a lot.
+
+334
+00:14:33,024 --> 00:14:35,021
+I found 8% someplace,
+5% someplace.
+
+335
+00:14:35,021 --> 00:14:35,099
+It's all a guess.
+
+336
+00:14:35,099 --> 00:14:37,064
+I mean people are doing it based
+on just looking at the
+
+337
+00:14:37,064 --> 00:14:40,069
+DNA and how similar it is to
+DNA in other organisms. But
+
+338
+00:14:40,069 --> 00:14:47,038
+the estimate is 5-8% of the
+human genome is from viruses,
+
+339
+00:14:47,038 --> 00:14:51,075
+is from ancient retroviruses
+that incorporated themselves
+
+340
+00:14:51,075 --> 00:14:53,052
+into the human germ line.
+
+341
+00:14:53,052 --> 00:14:55,072
+So into the human DNA.
+
+342
+00:14:55,072 --> 00:14:57,086
+So these are called endogenous
+retroviruses.
+
+343
+00:14:57,086 --> 00:15:04,079
+
+
+344
+00:15:04,079 --> 00:15:07,014
+Which is mind blowing to me,
+because it's not just saying
+
+345
+00:15:07,014 --> 00:15:09,028
+these things are along for the
+ride or that they might help
+
+346
+00:15:09,028 --> 00:15:10,007
+us or hurt us.
+
+347
+00:15:10,007 --> 00:15:14,000
+It's saying that we are--
+5-8% of our DNA
+
+348
+00:15:14,000 --> 00:15:16,038
+actually comes from viruses.
+
+349
+00:15:16,038 --> 00:15:17,085
+And this is another thing
+that speaks to
+
+350
+00:15:17,085 --> 00:15:19,072
+just genetic variation.
+
+351
+00:15:19,072 --> 00:15:24,021
+Because viruses do something--
+I mean this is called
+
+352
+00:15:24,021 --> 00:15:27,075
+horizontal transfer of DNA.
+
+353
+00:15:27,075 --> 00:15:30,048
+And you could imagine, as a
+virus goes from one species to
+
+354
+00:15:30,048 --> 00:15:37,022
+the next, as it goes from
+Species A to B, if it mutates
+
+355
+00:15:37,022 --> 00:15:41,030
+to be able to infiltrate these
+cells, it might take some--
+
+356
+00:15:41,030 --> 00:15:43,080
+it'll take the DNA that
+it already has, that
+
+357
+00:15:43,080 --> 00:15:45,049
+makes it, it with it.
+
+358
+00:15:45,049 --> 00:15:48,017
+But sometimes, when it starts
+coding for some of these other
+
+359
+00:15:48,017 --> 00:15:52,083
+guys, so let's say that this
+is a provirus right here.
+
+360
+00:15:52,083 --> 00:15:55,086
+Where the blue part is
+the original virus.
+
+361
+00:15:55,086 --> 00:16:00,096
+The yellow is the organism's
+historic DNA.
+
+362
+00:16:00,096 --> 00:16:04,023
+Sometimes when it codes, it
+takes up little sections of
+
+363
+00:16:04,023 --> 00:16:07,020
+the other organism's DNA.
+
+364
+00:16:07,020 --> 00:16:11,080
+So maybe most of it was the
+viral DNA, but it might have,
+
+365
+00:16:11,080 --> 00:16:14,007
+when it transcribed and
+translated itself, it might
+
+366
+00:16:14,007 --> 00:16:16,071
+have taken a little bit-- or at
+least when it translated or
+
+367
+00:16:16,071 --> 00:16:18,046
+replicated itself-- it might
+take a little bit of the
+
+368
+00:16:18,046 --> 00:16:20,053
+organism's previous DNA.
+
+369
+00:16:20,053 --> 00:16:23,069
+So it's actually cutting parts
+of DNA from one organism and
+
+370
+00:16:23,069 --> 00:16:24,095
+bringing it to another
+organism.
+
+371
+00:16:24,095 --> 00:16:27,049
+Taking it from one member of a
+species to another member of
+
+372
+00:16:27,049 --> 00:16:27,080
+the species.
+
+373
+00:16:27,080 --> 00:16:29,075
+But it can definitely
+go cross-species.
+
+374
+00:16:29,075 --> 00:16:32,086
+So you have this idea all of
+a sudden that DNA can jump
+
+375
+00:16:32,086 --> 00:16:34,009
+between species.
+
+376
+00:16:34,009 --> 00:16:36,040
+It really kind of-- I don't
+know, for me it makes me
+
+377
+00:16:36,040 --> 00:16:39,092
+appreciate how interconnected--
+as a species,
+
+378
+00:16:39,092 --> 00:16:41,095
+we kind of imagine that we're
+by ourselves and can only
+
+379
+00:16:41,095 --> 00:16:45,011
+reproduce with each other and
+have genetic variation within
+
+380
+00:16:45,011 --> 00:16:45,086
+a population.
+
+381
+00:16:45,086 --> 00:16:50,019
+But viruses introduce this
+notion of horizontal transfer
+
+382
+00:16:50,019 --> 00:16:53,009
+via transduction.
+
+383
+00:16:53,009 --> 00:16:57,063
+Horizontal transduction is just
+the idea of, look when I
+
+384
+00:16:57,063 --> 00:17:00,065
+replicate this virus, I might
+take a little bit of the
+
+385
+00:17:00,065 --> 00:17:04,034
+organism that I'm freeloading
+off of, I might take a little
+
+386
+00:17:04,034 --> 00:17:06,000
+bit of their DNA with me.
+
+387
+00:17:06,000 --> 00:17:09,016
+And infect that DNA into
+the next organism.
+
+388
+00:17:09,016 --> 00:17:11,032
+So you actually have this
+DNA, this jumping,
+
+389
+00:17:11,032 --> 00:17:13,011
+from organism to organism.
+
+390
+00:17:13,011 --> 00:17:17,029
+So it kind of unifies
+all DNA-based life.
+
+391
+00:17:17,029 --> 00:17:20,060
+Which is all the life that
+we know on the planet.
+
+392
+00:17:20,060 --> 00:17:24,090
+And if all of this isn't creepy
+enough-- and actually
+
+393
+00:17:24,090 --> 00:17:28,053
+maybe I'll save the creepiest
+part for the end.
+
+394
+00:17:28,053 --> 00:17:30,079
+But there's a whole-- we could
+talk all about the different
+
+395
+00:17:30,079 --> 00:17:31,067
+classes of viruses.
+
+396
+00:17:31,067 --> 00:17:33,080
+But just so you're familiar with
+some of the terminology,
+
+397
+00:17:33,080 --> 00:17:37,089
+when a virus attacks bacteria,
+which they often do.
+
+398
+00:17:37,089 --> 00:17:41,015
+And we study these the most
+because this might be a good
+
+399
+00:17:41,015 --> 00:17:42,063
+alternative to antibiotics.
+
+400
+00:17:42,063 --> 00:17:45,043
+Because viruses that attack
+bacteria might-- sometimes the
+
+401
+00:17:45,043 --> 00:17:47,081
+bacteria is far worse for the
+virus-- but these are called
+
+402
+00:17:47,081 --> 00:17:49,006
+bacteriaphages.
+
+403
+00:17:49,006 --> 00:17:52,060
+
+
+404
+00:17:52,060 --> 00:17:55,031
+And I've already talked to you
+about how they have their DNA.
+
+405
+00:17:55,031 --> 00:17:57,089
+But since bacteria have hard
+walls, they will just inject
+
+406
+00:17:57,089 --> 00:18:00,094
+the DNA inside of
+the bacteria.
+
+407
+00:18:00,094 --> 00:18:06,063
+And when you talk about DNA,
+this idea of a provirus.
+
+408
+00:18:06,063 --> 00:18:09,017
+So when a virus lyses it
+like this, this is
+
+409
+00:18:09,017 --> 00:18:11,008
+called the lytic cycle.
+
+410
+00:18:11,008 --> 00:18:13,075
+This is just some terminology
+that's good to know if you're
+
+411
+00:18:13,075 --> 00:18:16,025
+going to take a biology
+exam about this stuff.
+
+412
+00:18:16,025 --> 00:18:18,059
+And when the virus incorporates
+it into the DNA
+
+413
+00:18:18,059 --> 00:18:22,034
+and lays dormant, incorporates
+into the DNA of the host
+
+414
+00:18:22,034 --> 00:18:25,042
+organism and lays dormant for
+awhile, this is called the
+
+415
+00:18:25,042 --> 00:18:28,002
+lysogenic cycle.
+
+416
+00:18:28,002 --> 00:18:32,002
+And normally, a provirus is
+essentially experiencing a
+
+417
+00:18:32,002 --> 00:18:35,091
+lysogenic cycle in eurkaryotes,
+in organisms that
+
+418
+00:18:35,091 --> 00:18:38,025
+have a nuclear membrane.
+
+419
+00:18:38,025 --> 00:18:40,089
+Normally when people talk about
+the lysogenic cycle,
+
+420
+00:18:40,089 --> 00:18:44,075
+they're talking about viral DNA
+laying dormant in the DNA
+
+421
+00:18:44,075 --> 00:18:45,059
+of bacteria.
+
+422
+00:18:45,059 --> 00:18:48,059
+Or bacteriophage DNA
+laying dormant
+
+423
+00:18:48,059 --> 00:18:51,004
+in the DNA of bacteria.
+
+424
+00:18:51,004 --> 00:18:53,038
+But just to kind of give you
+an idea of what this, quote
+
+425
+00:18:53,038 --> 00:18:59,048
+unquote, looks like,
+right here.
+
+426
+00:18:59,048 --> 00:19:01,054
+I got these two pictures
+from Wikipedia.
+
+427
+00:19:01,054 --> 00:19:02,079
+One is from the CDC.
+
+428
+00:19:02,079 --> 00:19:11,035
+
+
+429
+00:19:11,035 --> 00:19:14,020
+These little green dots you see
+right here all over the
+
+430
+00:19:14,020 --> 00:19:17,053
+surface, this big thing you
+see here, this is a white
+
+431
+00:19:17,053 --> 00:19:20,032
+blood cell.
+
+432
+00:19:20,032 --> 00:19:21,075
+Part of the human
+immune system.
+
+433
+00:19:21,075 --> 00:19:23,004
+This is a white blood cell.
+
+434
+00:19:23,004 --> 00:19:27,053
+
+
+435
+00:19:27,053 --> 00:19:31,005
+And what you see emerging from
+the surface, essentially
+
+436
+00:19:31,005 --> 00:19:34,050
+budding from the surface of this
+white blood cell-- and
+
+437
+00:19:34,050 --> 00:19:36,029
+this gives you a sense
+of scale too--
+
+438
+00:19:36,029 --> 00:19:39,070
+these are HIV-1 viruses.
+
+439
+00:19:39,070 --> 00:19:46,097
+And so you're familiar with the
+terminology, the HIV is a
+
+440
+00:19:46,097 --> 00:19:51,080
+virus that infects white
+blood cells.
+
+441
+00:19:51,080 --> 00:19:54,089
+AIDS is the syndrome you get
+once your immune system is
+
+442
+00:19:54,089 --> 00:19:55,090
+weakened to the point.
+
+443
+00:19:55,090 --> 00:19:58,085
+And then many people suffer
+infections that people with a
+
+444
+00:19:58,085 --> 00:20:01,045
+strong immune system normally
+won't suffer from.
+
+445
+00:20:01,045 --> 00:20:03,004
+But this is creepy.
+
+446
+00:20:03,004 --> 00:20:06,035
+These things went inside this
+huge cell, they used the
+
+447
+00:20:06,035 --> 00:20:11,055
+cell's own mechanism to
+reproduce its own DNA or its
+
+448
+00:20:11,055 --> 00:20:14,029
+own RNA and these
+protein capsids.
+
+449
+00:20:14,029 --> 00:20:16,026
+And then they bud from the cell
+and take a little bit of
+
+450
+00:20:16,026 --> 00:20:17,049
+the membrane with it.
+
+451
+00:20:17,049 --> 00:20:20,099
+And they can even leave some
+of their DNA behind in this
+
+452
+00:20:20,099 --> 00:20:22,033
+cell's own DNA.
+
+453
+00:20:22,033 --> 00:20:25,027
+So they really change what
+the cell is all about.
+
+454
+00:20:25,027 --> 00:20:26,089
+This is another creepy
+picture.
+
+455
+00:20:26,089 --> 00:20:28,014
+These are bacteriaphages.
+
+456
+00:20:28,014 --> 00:20:34,050
+
+
+457
+00:20:34,050 --> 00:20:36,010
+And these show you what
+I said before.
+
+458
+00:20:36,010 --> 00:20:38,045
+This is a bacteria right here.
+
+459
+00:20:38,045 --> 00:20:41,035
+This is its cell wall.
+
+460
+00:20:41,035 --> 00:20:42,009
+And it's hard.
+
+461
+00:20:42,009 --> 00:20:45,001
+So it's hard to just
+emerge into it.
+
+462
+00:20:45,001 --> 00:20:47,003
+Or you can't just merge,
+fuse membranes with it.
+
+463
+00:20:47,003 --> 00:20:52,028
+So they hang out on the outside
+of this bacteria.
+
+464
+00:20:52,028 --> 00:20:55,041
+And they are essentially
+injecting their genetic
+
+465
+00:20:55,041 --> 00:20:58,027
+material into the
+bacteria itself.
+
+466
+00:20:58,027 --> 00:20:59,089
+And you could imagine,
+just looking at the
+
+467
+00:20:59,089 --> 00:21:01,000
+size of these things.
+
+468
+00:21:01,000 --> 00:21:02,008
+I mean, this is a cell.
+
+469
+00:21:02,008 --> 00:21:04,034
+And it looks like a whole
+planet or something.
+
+470
+00:21:04,034 --> 00:21:05,065
+Or this is a bacteria and these
+
+471
+00:21:05,065 --> 00:21:06,061
+things are so much smaller.
+
+472
+00:21:06,061 --> 00:21:08,017
+Roughly 1/100 of a bacteria.
+
+473
+00:21:08,017 --> 00:21:10,056
+And these are much less than
+1/100 of this cell we're
+
+474
+00:21:10,056 --> 00:21:11,010
+talking about.
+
+475
+00:21:11,010 --> 00:21:15,050
+And they're extremely
+hard to filter for.
+
+476
+00:21:15,050 --> 00:21:16,051
+To kind of keep out.
+
+477
+00:21:16,051 --> 00:21:20,077
+Because they are such,
+such small particles.
+
+478
+00:21:20,077 --> 00:21:23,028
+If you think that these are
+exotic things that exist for
+
+479
+00:21:23,028 --> 00:21:31,035
+things like HIV or Ebola , which
+they do cause, or SARS,
+
+480
+00:21:31,035 --> 00:21:32,033
+you're right.
+
+481
+00:21:32,033 --> 00:21:33,073
+But they're also
+common things.
+
+482
+00:21:33,073 --> 00:21:35,049
+I mean, I said at the beginning
+of this video that I
+
+483
+00:21:35,049 --> 00:21:36,029
+have a cold.
+
+484
+00:21:36,029 --> 00:21:40,003
+And I have a cold because some
+viruses have infected the
+
+485
+00:21:40,003 --> 00:21:42,060
+tissue in my nasal passage.
+
+486
+00:21:42,060 --> 00:21:46,019
+And they're causing me to have
+a runny nose and whatnot.
+
+487
+00:21:46,019 --> 00:21:48,053
+And viruses also cause
+the chicken pox.
+
+488
+00:21:48,053 --> 00:21:50,054
+They cause the herpes
+simplex virus.
+
+489
+00:21:50,054 --> 00:21:51,053
+Causes cold sores.
+
+490
+00:21:51,053 --> 00:21:53,043
+So they're with us all around.
+
+491
+00:21:53,043 --> 00:21:56,000
+I can almost guarantee
+you have some virus
+
+492
+00:21:56,000 --> 00:21:57,074
+with you as you speak.
+
+493
+00:21:57,074 --> 00:21:58,063
+They're all around you.
+
+494
+00:21:58,063 --> 00:22:04,031
+But it's a very
+
+495
+00:22:04,031 --> 00:22:06,048
+philosophically puzzling question.
+
+496
+00:22:06,048 --> 00:22:09,008
+Because I started with, at the
+beginning, are these life?
+
+497
+00:22:09,008 --> 00:22:11,049
+And at first when I just showed
+it to you, look they
+
+498
+00:22:11,049 --> 00:22:13,074
+are just this protein
+with some nucleic
+
+499
+00:22:13,074 --> 00:22:15,027
+acid molecule in it.
+
+500
+00:22:15,027 --> 00:22:16,033
+And it's not doing anything.
+
+501
+00:22:16,033 --> 00:22:17,077
+And that doesn't look
+like life to me.
+
+502
+00:22:17,077 --> 00:22:18,060
+It's not moving around.
+
+503
+00:22:18,060 --> 00:22:19,066
+It doesn't have a metabolism.
+
+504
+00:22:19,066 --> 00:22:20,039
+It's not eating.
+
+505
+00:22:20,039 --> 00:22:21,055
+It's not reproducing.
+
+506
+00:22:21,055 --> 00:22:23,011
+But then all of a sudden, when
+you think about what it's
+
+507
+00:22:23,011 --> 00:22:27,013
+doing to cells and how it uses
+cells to kind of reproduce.
+
+508
+00:22:27,013 --> 00:22:29,070
+It kind of like-- in business
+terms it's asset light.
+
+509
+00:22:29,070 --> 00:22:31,092
+It doesn't need all of the
+machinery because it can use
+
+510
+00:22:31,092 --> 00:22:35,084
+other people's machinery
+to replicate itself.
+
+511
+00:22:35,084 --> 00:22:38,007
+You almost kind of want
+to view it as a
+
+512
+00:22:38,007 --> 00:22:39,051
+smarter form of life.
+
+513
+00:22:39,051 --> 00:22:42,048
+Because it doesn't go through
+all of the trouble of what
+
+514
+00:22:42,048 --> 00:22:44,010
+every other form of life has.
+
+515
+00:22:44,010 --> 00:22:47,056
+It makes you question what life
+is, or even what we are.
+
+516
+00:22:47,056 --> 00:22:51,050
+Are we these things that contain
+DNA or are we just
+
+517
+00:22:51,050 --> 00:22:54,017
+transport mechanisms
+for the DNA?
+
+518
+00:22:54,017 --> 00:22:56,025
+And these are kind of the
+more important things.
+
+519
+00:22:56,025 --> 00:22:59,071
+And these viral infections are
+just battles between different
+
+520
+00:22:59,071 --> 00:23:02,033
+forms of DNA and RNA
+and whatnot.
+
+521
+00:23:02,033 --> 00:23:04,032
+Anyway I don't want to get
+too philosophical on you.
+
+522
+00:23:04,032 --> 00:23:08,083
+But hopefully this gives you a
+good idea of what viruses are
+
+523
+00:23:08,083 --> 00:23:12,094
+and why they really are, in my
+mind, the most fascinating
+
+524
+00:23:12,094 --> 00:23:15,086
+pseudo organism in
+all of biology.

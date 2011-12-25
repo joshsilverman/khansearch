@@ -1,0 +1,790 @@
+1
+00:00:00,000 --> 00:00:00,040
+
+
+2
+00:00:00,040 --> 00:00:04,023
+In the last video, we learned
+how myosin-- and myosin II in
+
+3
+00:00:04,023 --> 00:00:06,037
+particular-- when we say myosin
+II it actually has two
+
+4
+00:00:06,037 --> 00:00:09,046
+of these myosin heads and their
+tails are inter-wound
+
+5
+00:00:09,046 --> 00:00:13,003
+with each other-- how myosin
+II can use ATP to
+
+6
+00:00:13,003 --> 00:00:16,055
+essentially-- you can almost
+imagine either pulling an
+
+7
+00:00:16,055 --> 00:00:19,038
+actin filament or walking
+up an actin filament.
+
+8
+00:00:19,038 --> 00:00:20,092
+It starts attached.
+
+9
+00:00:20,092 --> 00:00:23,007
+ATP comes and bonds onto it.
+
+10
+00:00:23,007 --> 00:00:25,037
+That causes it to be released.
+
+11
+00:00:25,037 --> 00:00:31,064
+Then the ATP hydrolyzes into
+ADP and a phosphate group.
+
+12
+00:00:31,064 --> 00:00:33,079
+And when that happens, that
+energy's released.
+
+13
+00:00:33,079 --> 00:00:35,061
+It puts this into a higher
+energy state.
+
+14
+00:00:35,061 --> 00:00:39,090
+It kind of spring-loads the
+protein and then it attaches
+
+15
+00:00:39,090 --> 00:00:44,007
+up another notch on the actual
+actin filament and then the
+
+16
+00:00:44,007 --> 00:00:47,028
+phosphate group leaves and
+that's where the confirmation
+
+17
+00:00:47,028 --> 00:00:49,075
+change in this protein
+is enough.
+
+18
+00:00:49,075 --> 00:00:52,065
+It generates the power stroke to
+actually push on the actin
+
+19
+00:00:52,065 --> 00:00:55,047
+filament-- and you could
+imagine, either move the
+
+20
+00:00:55,047 --> 00:01:00,024
+myosin-- whatever the myosin is
+connected to-- to the left
+
+21
+00:01:00,024 --> 00:01:02,060
+or whatever the actin is
+connected to to the right.
+
+22
+00:01:02,060 --> 00:01:05,001
+We're going to talk a lot more
+about what they're connected
+
+23
+00:01:05,001 --> 00:01:06,045
+to in future videos.
+
+24
+00:01:06,045 --> 00:01:09,012
+Now, a couple of questions
+might have been
+
+25
+00:01:09,012 --> 00:01:10,079
+raising in your head.
+
+26
+00:01:10,079 --> 00:01:13,062
+This guy had so much effort to
+pull on this thing, right?
+
+27
+00:01:13,062 --> 00:01:16,087
+There's some tension pulling in
+the other direction, right?
+
+28
+00:01:16,087 --> 00:01:19,087
+I said this is what happens in
+muscles, so there must be some
+
+29
+00:01:19,087 --> 00:01:21,076
+weight or some other
+resistance.
+
+30
+00:01:21,076 --> 00:01:25,020
+So what happens when
+this releases?
+
+31
+00:01:25,020 --> 00:01:28,098
+At the first step when ATP
+joined and this released,
+
+32
+00:01:28,098 --> 00:01:32,043
+wouldn't the actin filament
+just go back to
+
+33
+00:01:32,043 --> 00:01:33,037
+where it was before?
+
+34
+00:01:33,037 --> 00:01:35,018
+Especially if there's
+some tension on it
+
+35
+00:01:35,018 --> 00:01:37,051
+going in that direction.
+
+36
+00:01:37,051 --> 00:01:42,015
+And the simple answer to that
+is, this isn't the only myosin
+
+37
+00:01:42,015 --> 00:01:45,014
+protein that's acting
+on this actin.
+
+38
+00:01:45,014 --> 00:01:47,037
+You have others all
+along the chain.
+
+39
+00:01:47,037 --> 00:01:48,073
+Maybe you have one
+right there.
+
+40
+00:01:48,073 --> 00:01:50,064
+Maybe you have one
+right there.
+
+41
+00:01:50,064 --> 00:01:53,015
+They're all working at their own
+pace at different times.
+
+42
+00:01:53,015 --> 00:01:55,054
+So you have so many of these
+that when one of them is
+
+43
+00:01:55,054 --> 00:01:57,084
+disengaged, another one of them
+might be in their power
+
+44
+00:01:57,084 --> 00:01:59,098
+stroke or another one
+might be engaged.
+
+45
+00:01:59,098 --> 00:02:02,075
+So it's not like you have this
+notion of, if all of a sudden
+
+46
+00:02:02,075 --> 00:02:06,023
+one lets go, that the actin
+filament will recoil back to
+
+47
+00:02:06,023 --> 00:02:07,020
+where it was.
+
+48
+00:02:07,020 --> 00:02:11,059
+Now the next question that you
+might be thinking is, how do I
+
+49
+00:02:11,059 --> 00:02:13,099
+turn on and off this
+situation?
+
+50
+00:02:13,099 --> 00:02:16,059
+We have command over
+our muscles.
+
+51
+00:02:16,059 --> 00:02:20,049
+What can turn on or off this
+system of the myosin
+
+52
+00:02:20,049 --> 00:02:22,068
+essentially crawling
+up the actin?
+
+53
+00:02:22,068 --> 00:02:25,046
+And to understand that, there's
+two other proteins
+
+54
+00:02:25,046 --> 00:02:26,090
+that come into effect.
+
+55
+00:02:26,090 --> 00:02:28,087
+That's tropomyosin
+and troponin.
+
+56
+00:02:28,087 --> 00:02:48,027
+
+
+57
+00:02:48,027 --> 00:02:51,075
+And so I'm going to redraw the
+actin-- I'll do a very rough
+
+58
+00:02:51,075 --> 00:02:53,090
+drawing of the actin filament.
+
+59
+00:02:53,090 --> 00:02:56,018
+Let's say that that's my actin
+filament right there with its
+
+60
+00:02:56,018 --> 00:02:56,078
+little grooves.
+
+61
+00:02:56,078 --> 00:02:58,003
+It's actually a helical
+structure.
+
+62
+00:02:58,003 --> 00:03:05,062
+
+
+63
+00:03:05,062 --> 00:03:08,008
+And actually, these grooves--
+it's kind of a helical-- but
+
+64
+00:03:08,008 --> 00:03:10,000
+we won't worry too
+much about that.
+
+65
+00:03:10,000 --> 00:03:15,055
+What we drew so far, at least
+in the last video, you had
+
+66
+00:03:15,055 --> 00:03:16,049
+these little myosin.
+
+67
+00:03:16,049 --> 00:03:18,086
+You can view them as feet or
+head or whatever that keep
+
+68
+00:03:18,086 --> 00:03:21,049
+attaching to it and then based
+on where they are in that ATP
+
+69
+00:03:21,049 --> 00:03:23,069
+cycle, they can keep getting
+cranked back up or
+
+70
+00:03:23,069 --> 00:03:26,065
+sprinr-loaded and go to the
+next one and push back.
+
+71
+00:03:26,065 --> 00:03:29,065
+Now, on top of this actin,
+you actually have
+
+72
+00:03:29,065 --> 00:03:31,015
+this tropomyosin protein.
+
+73
+00:03:31,015 --> 00:03:38,003
+And this tropomyosin protein,
+it coils around the actin.
+
+74
+00:03:38,003 --> 00:03:41,027
+So this is our actin
+right here.
+
+75
+00:03:41,027 --> 00:03:44,075
+This is one of the two heads
+of the myosin II.
+
+76
+00:03:44,075 --> 00:03:47,083
+
+
+77
+00:03:47,083 --> 00:03:49,099
+And then we have our
+tropomyosin.
+
+78
+00:03:49,099 --> 00:03:51,097
+Tropomyosin is coiled around.
+
+79
+00:03:51,097 --> 00:03:55,025
+It's a very rough sketch, but
+you can imagine it's coiled
+
+80
+00:03:55,025 --> 00:04:00,000
+around and it goes back behind
+it, then it goes like that,
+
+81
+00:04:00,000 --> 00:04:03,040
+and then it goes back behind
+it, then it goes like that.
+
+82
+00:04:03,040 --> 00:04:06,003
+So it's coiled around it and the
+important thing about it
+
+83
+00:04:06,003 --> 00:04:10,021
+is, if there's-- let me
+take a step back.
+
+84
+00:04:10,021 --> 00:04:13,086
+It's coiled around and it's
+attached to the actin by
+
+85
+00:04:13,086 --> 00:04:15,025
+another protein called
+troponin.
+
+86
+00:04:15,025 --> 00:04:17,095
+
+
+87
+00:04:17,095 --> 00:04:20,086
+Let's say it's attached there
+and-- this isn't exact, but
+
+88
+00:04:20,086 --> 00:04:25,026
+let's say it's attached there,
+and there, and there, and
+
+89
+00:04:25,026 --> 00:04:27,061
+there, and there by
+the troponin.
+
+90
+00:04:27,061 --> 00:04:28,086
+So let me write this down.
+
+91
+00:04:28,086 --> 00:04:40,019
+
+
+92
+00:04:40,019 --> 00:04:43,054
+So you can imagine, the troponin
+is kind of like the
+
+93
+00:04:43,054 --> 00:04:44,079
+nails into the actin.
+
+94
+00:04:44,079 --> 00:04:48,005
+So it dictates where
+the tropomyosin is.
+
+95
+00:04:48,005 --> 00:04:54,004
+So when a muscle is not
+contracting, it turns out that
+
+96
+00:04:54,004 --> 00:04:57,097
+the tropomyosin is blocking
+the myosin from being able
+
+97
+00:04:57,097 --> 00:05:00,068
+to-- and I've read a bunch of
+accounts on this and I think
+
+98
+00:05:00,068 --> 00:05:02,049
+this is still an area
+of research.
+
+99
+00:05:02,049 --> 00:05:04,068
+It's not 100% clear one
+way or the other.
+
+100
+00:05:04,068 --> 00:05:08,085
+Tropomyosin is-- or maybe both--
+blocking the myosin
+
+101
+00:05:08,085 --> 00:05:11,087
+from being able to attach to
+the actin where it normally
+
+102
+00:05:11,087 --> 00:05:15,062
+attaches so it won't be able
+to crawl up the actin-- or
+
+103
+00:05:15,062 --> 00:05:18,008
+sometimes the myosin is attached
+to the actin, but it
+
+104
+00:05:18,008 --> 00:05:21,083
+keeps it from releasing and
+sliding up the actin to keep
+
+105
+00:05:21,083 --> 00:05:23,027
+that walking procedure.
+
+106
+00:05:23,027 --> 00:05:27,050
+So the bottom line is that
+this tropomyosin kind of
+
+107
+00:05:27,050 --> 00:05:42,093
+blocks the myosin head-- this
+is the myosin head right
+
+108
+00:05:42,093 --> 00:05:55,076
+there-- from crawling up the
+actin, either by physically
+
+109
+00:05:55,076 --> 00:05:59,074
+blocking its actual binding site
+or if it's already bound,
+
+110
+00:05:59,074 --> 00:06:02,048
+keeping it from being able to
+keep sliding up the actin.
+
+111
+00:06:02,048 --> 00:06:05,031
+Either way, it's blocking it
+and the only way to make it
+
+112
+00:06:05,031 --> 00:06:08,024
+unblocked is for the troponins
+to actually change their
+
+113
+00:06:08,024 --> 00:06:10,056
+confirmation, for them to
+change their shape.
+
+114
+00:06:10,056 --> 00:06:13,032
+And the only way for them to
+change their shape is if we
+
+115
+00:06:13,032 --> 00:06:17,037
+have a high calcium
+ion concentration.
+
+116
+00:06:17,037 --> 00:06:23,030
+So if you have a bunch of
+calcium ions, if you have a
+
+117
+00:06:23,030 --> 00:06:26,035
+high enough concentration, these
+calcium ions are going
+
+118
+00:06:26,035 --> 00:06:31,075
+to bond to the troponin and
+then that changes the
+
+119
+00:06:31,075 --> 00:06:35,097
+confirmation of the troponin
+enough to move the
+
+120
+00:06:35,097 --> 00:06:38,035
+configuration of the
+tropomyosin.
+
+121
+00:06:38,035 --> 00:06:40,025
+So let me write this down.
+
+122
+00:06:40,025 --> 00:06:43,012
+So normally, tropomyosin blocks,
+but then when you have
+
+123
+00:06:43,012 --> 00:06:52,006
+a high calcium ion
+concentration, they bind to
+
+124
+00:06:52,006 --> 00:06:59,083
+troponin and then the troponin,
+they change their
+
+125
+00:06:59,083 --> 00:07:02,085
+confirmation so it moves the
+tropomyosin out of the way.
+
+126
+00:07:02,085 --> 00:07:14,050
+
+
+127
+00:07:14,050 --> 00:07:17,068
+So when it moves out of the way,
+you have a high calcium
+
+128
+00:07:17,068 --> 00:07:21,036
+concentration, bonds troponin,
+moves tropomyosin out of the
+
+129
+00:07:21,036 --> 00:07:23,076
+way, then all of a sudden what
+we talked about in the last
+
+130
+00:07:23,076 --> 00:07:26,086
+video-- these guys can start
+walking up the actin or
+
+131
+00:07:26,086 --> 00:07:29,018
+pushing the actin to the
+right, however you
+
+132
+00:07:29,018 --> 00:07:30,020
+want to view it.
+
+133
+00:07:30,020 --> 00:07:38,030
+But then if the calcium
+concentration goes low, then
+
+134
+00:07:38,030 --> 00:07:40,062
+the calciums get released
+from the troponin.
+
+135
+00:07:40,062 --> 00:07:42,037
+You need to have enough to
+always hang around here.
+
+136
+00:07:42,037 --> 00:07:44,062
+If the concentration becomes
+really low here, these guys
+
+137
+00:07:44,062 --> 00:07:52,020
+will start to leave. So then the
+troponin goes back to, I
+
+138
+00:07:52,020 --> 00:07:53,045
+guess, standard confirmation.
+
+139
+00:07:53,045 --> 00:07:57,092
+
+
+140
+00:07:57,092 --> 00:08:05,052
+That makes the tropomyosin
+block the myosin again.
+
+141
+00:08:05,052 --> 00:08:12,073
+
+
+142
+00:08:12,073 --> 00:08:14,076
+So it's actually-- I
+mean, I can't say
+
+143
+00:08:14,076 --> 00:08:15,077
+anything here is simple.
+
+144
+00:08:15,077 --> 00:08:19,081
+This was only discovered maybe
+50 or 60 years ago and you can
+
+145
+00:08:19,081 --> 00:08:22,020
+imagine to actually observe
+these things or to create
+
+146
+00:08:22,020 --> 00:08:24,083
+experiments to definitively
+know what's happening--
+
+147
+00:08:24,083 --> 00:08:28,056
+nothing is simple, but
+the idea is simple.
+
+148
+00:08:28,056 --> 00:08:32,049
+Without calcium, the tropomyosin
+is blocking the
+
+149
+00:08:32,049 --> 00:08:34,054
+ability of the myosin to attach
+where it needs to
+
+150
+00:08:34,054 --> 00:08:38,055
+attach or slide up the actin so
+it can keep pushing on it.
+
+151
+00:08:38,055 --> 00:08:41,004
+But if the calcium concentration
+is high enough,
+
+152
+00:08:41,004 --> 00:08:43,061
+they will bond to the troponin--
+which essentially
+
+153
+00:08:43,061 --> 00:08:48,097
+nails down the tropomyosin
+that's wound around the actin
+
+154
+00:08:48,097 --> 00:08:51,062
+and when they change their
+confirmation with the calcium
+
+155
+00:08:51,062 --> 00:08:57,047
+ions, it moves the tropomyosin
+out of the way so that the
+
+156
+00:08:57,047 --> 00:08:59,059
+myosin can do what it does.
+
+157
+00:08:59,059 --> 00:09:03,042
+So you can imagine already,
+we're building up a way for--
+
+158
+00:09:03,042 --> 00:09:05,083
+one, for muscles to contract,
+but even better, for us to
+
+159
+00:09:05,083 --> 00:09:07,057
+control muscles to contract.
+
+160
+00:09:07,057 --> 00:09:11,053
+So if we have a high calcium
+concentration within the cell,
+
+161
+00:09:11,053 --> 00:09:13,004
+the muscle will contract.
+
+162
+00:09:13,004 --> 00:09:16,005
+If we have a low calcium
+concentration again, then all
+
+163
+00:09:16,005 --> 00:09:17,070
+of a sudden, these
+will release.
+
+164
+00:09:17,070 --> 00:09:20,099
+They'll be blocked, and then the
+muscle will relax again.
+
+165
+00:09:20,099 --> 00:09:21,069
+

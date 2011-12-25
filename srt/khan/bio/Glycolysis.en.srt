@@ -1,0 +1,1412 @@
+1
+00:00:00,000 --> 00:00:00,049
+
+
+2
+00:00:00,049 --> 00:00:03,022
+We've already learned that
+cellular respiration can be
+
+3
+00:00:03,022 --> 00:00:05,082
+broken down into roughly
+three phases.
+
+4
+00:00:05,082 --> 00:00:11,049
+
+
+5
+00:00:11,049 --> 00:00:16,076
+The first is glycolysis, which
+literally means the breaking
+
+6
+00:00:16,076 --> 00:00:18,001
+down of glucose.
+
+7
+00:00:18,001 --> 00:00:23,062
+
+
+8
+00:00:23,062 --> 00:00:27,053
+And then this can occur with
+or without oxygen.
+
+9
+00:00:27,053 --> 00:00:31,058
+If we don't have oxygen, then
+we go over to fermentation.
+
+10
+00:00:31,058 --> 00:00:34,079
+We'll talk about that
+in the future.
+
+11
+00:00:34,079 --> 00:00:37,032
+Go over to fermentation
+and in humans it
+
+12
+00:00:37,032 --> 00:00:38,075
+produces lactic acid.
+
+13
+00:00:38,075 --> 00:00:41,014
+In other types of organisms
+it might
+
+14
+00:00:41,014 --> 00:00:43,020
+produce alcohol or ethanol.
+
+15
+00:00:43,020 --> 00:00:45,067
+But if we have oxygen-- and for
+the most part we're going
+
+16
+00:00:45,067 --> 00:00:48,068
+to assume that we can proceed
+forward with oxygen-- if there
+
+17
+00:00:48,068 --> 00:00:50,060
+is oxygen, then we could
+proceed forward
+
+18
+00:00:50,060 --> 00:00:54,018
+to the Krebs cycle.
+
+19
+00:00:54,018 --> 00:00:58,075
+Sometimes called the citric acid
+cycle because it deals
+
+20
+00:00:58,075 --> 00:01:00,039
+with citric acid.
+
+21
+00:01:00,039 --> 00:01:03,039
+The same thing that's in
+orange juice or lemons.
+
+22
+00:01:03,039 --> 00:01:05,062
+And then from there
+we proceed to the
+
+23
+00:01:05,062 --> 00:01:07,031
+electron transport chain.
+
+24
+00:01:07,031 --> 00:01:10,009
+
+
+25
+00:01:10,009 --> 00:01:12,075
+And we learned in the first
+overview video of cellular
+
+26
+00:01:12,075 --> 00:01:15,060
+respiration that this is where
+the bulk of the ATP is
+
+27
+00:01:15,060 --> 00:01:16,050
+actually produced.
+
+28
+00:01:16,050 --> 00:01:18,092
+Although it uses raw materials
+that came out of
+
+29
+00:01:18,092 --> 00:01:20,035
+these phases up here.
+
+30
+00:01:20,035 --> 00:01:23,045
+Now what I want to do in this
+video is just focus on
+
+31
+00:01:23,045 --> 00:01:24,070
+glycolysis.
+
+32
+00:01:24,070 --> 00:01:27,050
+
+
+33
+00:01:27,050 --> 00:01:31,007
+And this is kind of-- it's
+sometimes a challenging task
+
+34
+00:01:31,007 --> 00:01:32,082
+because you can really get
+stuck in the weeds.
+
+35
+00:01:32,082 --> 00:01:34,054
+And I'll show you the weeds
+in a little bit,
+
+36
+00:01:34,054 --> 00:01:35,048
+and the actual mechanism.
+
+37
+00:01:35,048 --> 00:01:36,075
+And it can be very daunting.
+
+38
+00:01:36,075 --> 00:01:39,015
+But what I want to do is
+simplify it for you so you can
+
+39
+00:01:39,015 --> 00:01:40,042
+have the big take-aways.
+
+40
+00:01:40,042 --> 00:01:42,054
+And then we can appreciate, and
+then maybe when we look at
+
+41
+00:01:42,054 --> 00:01:45,076
+the weeds of glycolysis we
+can make a little bit
+
+42
+00:01:45,076 --> 00:01:46,093
+more sense of it.
+
+43
+00:01:46,093 --> 00:01:49,023
+So glycolysis, or really
+cellular respiration, it
+
+44
+00:01:49,023 --> 00:01:50,048
+starts off with glucose.
+
+45
+00:01:50,048 --> 00:01:53,023
+
+
+46
+00:01:53,023 --> 00:01:55,012
+And glucose, we know
+its formula.
+
+47
+00:01:55,012 --> 00:01:59,065
+It's C6H12O6.
+
+48
+00:01:59,065 --> 00:02:01,084
+And I could draw its whole
+structure; it would take a
+
+49
+00:02:01,084 --> 00:02:02,029
+little time.
+
+50
+00:02:02,029 --> 00:02:04,026
+But I'm just going to focus
+on the carbon backbone.
+
+51
+00:02:04,026 --> 00:02:07,001
+So it is a ring, or
+can be a ring.
+
+52
+00:02:07,001 --> 00:02:12,069
+But I'm just going to draw it
+as six carbons in a row.
+
+53
+00:02:12,069 --> 00:02:15,094
+Now there's two kind of
+important phases of glycolysis
+
+54
+00:02:15,094 --> 00:02:16,081
+that are good to know.
+
+55
+00:02:16,081 --> 00:02:19,041
+One, I call the investment
+phase.
+
+56
+00:02:19,041 --> 00:02:23,000
+And the investment phase
+actually uses two ATPs.
+
+57
+00:02:23,000 --> 00:02:29,090
+
+
+58
+00:02:29,090 --> 00:02:32,027
+So you know, the whole purpose
+of cellular respiration is to
+
+59
+00:02:32,027 --> 00:02:35,065
+generate ATPs, but right from
+the get-go I actually have to
+
+60
+00:02:35,065 --> 00:02:37,036
+use two ATPs.
+
+61
+00:02:37,036 --> 00:02:40,097
+But I use two ATPs and then I'm
+essentially going to break
+
+62
+00:02:40,097 --> 00:02:50,071
+up the glucose into two 3-carbon
+compounds right here
+
+63
+00:02:50,071 --> 00:02:53,072
+that actually also have a
+phosphate group on them.
+
+64
+00:02:53,072 --> 00:02:56,068
+The phosphate groups are
+coming from those ATPs.
+
+65
+00:02:56,068 --> 00:02:58,090
+They also have a phosphate
+group on them and this is
+
+66
+00:02:58,090 --> 00:03:01,052
+often called-- well, there's
+a lot of names for it.
+
+67
+00:03:01,052 --> 00:03:02,090
+Sometimes it's called PGAL.
+
+68
+00:03:02,090 --> 00:03:04,003
+You really don't have
+to know this.
+
+69
+00:03:04,003 --> 00:03:12,036
+Or phosphoglyceraldehyde, really
+challenging my spelling
+
+70
+00:03:12,036 --> 00:03:13,041
+skills right here.
+
+71
+00:03:13,041 --> 00:03:14,041
+That's not that important
+to know.
+
+72
+00:03:14,041 --> 00:03:15,094
+All you have to know
+is in this first
+
+73
+00:03:15,094 --> 00:03:17,084
+phase you use two ATPs.
+
+74
+00:03:17,084 --> 00:03:20,034
+That's why I call it the
+investment phase.
+
+75
+00:03:20,034 --> 00:03:29,002
+If we use a business analogy,
+investment phase.
+
+76
+00:03:29,002 --> 00:03:33,050
+And then each of these two PGAL
+molecules can then go
+
+77
+00:03:33,050 --> 00:03:35,034
+into the payoff phase.
+
+78
+00:03:35,034 --> 00:03:39,047
+So in the payoff phase,
+each of these
+
+79
+00:03:39,047 --> 00:03:42,028
+PGALs turn into pyruvate.
+
+80
+00:03:42,028 --> 00:03:45,031
+Which is another 3-carbon,
+but it's reconfigured.
+
+81
+00:03:45,031 --> 00:03:48,066
+But the process of it going to
+pyruvate-- and let me write
+
+82
+00:03:48,066 --> 00:03:53,012
+pyruvate in blue, because this
+is something that, at least
+
+83
+00:03:53,012 --> 00:03:54,062
+it's good to know the word.
+
+84
+00:03:54,062 --> 00:03:56,028
+And I'll show you the structure
+in a second.
+
+85
+00:03:56,028 --> 00:03:57,009
+Pyruvate.
+
+86
+00:03:57,009 --> 00:03:59,072
+Sometimes it's called
+pyruvic acid.
+
+87
+00:03:59,072 --> 00:04:02,056
+Same thing.
+
+88
+00:04:02,056 --> 00:04:05,088
+And that's essentially the end
+product of glycolysis.
+
+89
+00:04:05,088 --> 00:04:08,019
+So you start off with glucose
+in the investment phase.
+
+90
+00:04:08,019 --> 00:04:10,047
+You end up in this
+phosphoglyceraldehyde, which
+
+91
+00:04:10,047 --> 00:04:12,053
+essentially you broke up your
+glucose and you put a
+
+92
+00:04:12,053 --> 00:04:14,006
+phosphate on either end of it.
+
+93
+00:04:14,006 --> 00:04:17,031
+And then those each
+independently go through the
+
+94
+00:04:17,031 --> 00:04:18,049
+payoff phase.
+
+95
+00:04:18,049 --> 00:04:22,002
+So you end up with two molecules
+of pyruvate for
+
+96
+00:04:22,002 --> 00:04:25,022
+every molecule of glucose
+you started off with.
+
+97
+00:04:25,022 --> 00:04:27,086
+Now you're saying, hey, Sal,
+there was a payoff phase, what
+
+98
+00:04:27,086 --> 00:04:30,031
+was our payoff?
+
+99
+00:04:30,031 --> 00:04:35,070
+Well our payoff, we got, for
+each-- let me write this down
+
+100
+00:04:35,070 --> 00:04:37,027
+as a payoff phase.
+
+101
+00:04:37,027 --> 00:04:38,052
+This is our payoff phase.
+
+102
+00:04:38,052 --> 00:04:41,045
+
+
+103
+00:04:41,045 --> 00:04:43,014
+And I apologize for the
+white background.
+
+104
+00:04:43,014 --> 00:04:45,030
+I did it because, the mechanism
+I'm showing you, I
+
+105
+00:04:45,030 --> 00:04:47,080
+copy-and-pasted it from
+Wikipedia, and they had a
+
+106
+00:04:47,080 --> 00:04:50,038
+white background so I just ran
+with the white background for
+
+107
+00:04:50,038 --> 00:04:50,094
+this video.
+
+108
+00:04:50,094 --> 00:04:53,091
+But I, personally at least, like
+the black background a
+
+109
+00:04:53,091 --> 00:04:55,004
+lot better.
+
+110
+00:04:55,004 --> 00:04:57,075
+But this is the payoff
+phase right here.
+
+111
+00:04:57,075 --> 00:05:00,099
+And so when we go from the
+phosphoglyceraldehyde to the
+
+112
+00:05:00,099 --> 00:05:05,007
+pyruvate or the pyruvic acid,
+we produce two things.
+
+113
+00:05:05,007 --> 00:05:07,042
+Or I guess we could say we
+produce three things.
+
+114
+00:05:07,042 --> 00:05:11,086
+We produce, each of
+these PGALs to
+
+115
+00:05:11,086 --> 00:05:13,044
+pyruvates produce two ATPs.
+
+116
+00:05:13,044 --> 00:05:16,012
+
+
+117
+00:05:16,012 --> 00:05:17,087
+So I'm going to produce two
+ATPs there, I'm going to
+
+118
+00:05:17,087 --> 00:05:20,049
+produce two ATPs there.
+
+119
+00:05:20,049 --> 00:05:22,041
+And then they each
+produce an NADH.
+
+120
+00:05:22,041 --> 00:05:27,054
+
+
+121
+00:05:27,054 --> 00:05:29,081
+And I'll do it in
+a darker color.
+
+122
+00:05:29,081 --> 00:05:31,006
+NADH.
+
+123
+00:05:31,006 --> 00:05:36,093
+
+
+124
+00:05:36,093 --> 00:05:39,091
+And of course they're not
+producing the whole molecule
+
+125
+00:05:39,091 --> 00:05:40,080
+in a vacuum.
+
+126
+00:05:40,080 --> 00:05:43,044
+Essentially what they're doing
+is they're starting with the
+
+127
+00:05:43,044 --> 00:05:47,063
+raw material of an NAD plus-- so
+they start off with an NAD
+
+128
+00:05:47,063 --> 00:05:51,025
+plus-- and they essentially
+reduce
+
+129
+00:05:51,025 --> 00:05:53,014
+it by adding a hydrogen.
+
+130
+00:05:53,014 --> 00:05:55,017
+Remember, we learned a couple
+of videos ago that you could
+
+131
+00:05:55,017 --> 00:05:57,082
+view reduction as a
+gain in hydrogen.
+
+132
+00:05:57,082 --> 00:06:01,011
+So the NAD gets reduced
+to NADH.
+
+133
+00:06:01,011 --> 00:06:05,011
+And then later on, these NADHs
+are used in electron transport
+
+134
+00:06:05,011 --> 00:06:08,047
+chain to actually
+produce ATPs.
+
+135
+00:06:08,047 --> 00:06:13,008
+So the big take-away here, if
+I were to write the reaction
+
+136
+00:06:13,008 --> 00:06:16,038
+that we get for glycolysis,
+is that you
+
+137
+00:06:16,038 --> 00:06:17,063
+start off with a glucose.
+
+138
+00:06:17,063 --> 00:06:21,048
+
+
+139
+00:06:21,048 --> 00:06:24,051
+And you need some NAD plus.
+
+140
+00:06:24,051 --> 00:06:27,083
+
+
+141
+00:06:27,083 --> 00:06:29,087
+And actually, for every mole
+of glucose, you're going to
+
+142
+00:06:29,087 --> 00:06:33,054
+need two NAD plusses.
+
+143
+00:06:33,054 --> 00:06:34,099
+You're going to need two ATPs.
+
+144
+00:06:34,099 --> 00:06:38,042
+
+
+145
+00:06:38,042 --> 00:06:40,086
+So I'm just writing all the
+ingredients that we need to
+
+146
+00:06:40,086 --> 00:06:42,035
+start off with.
+
+147
+00:06:42,035 --> 00:06:44,075
+And then you're going to need--
+well, let me say, these
+
+148
+00:06:44,075 --> 00:06:47,029
+guys are going to be ADPs before
+we turn them to ATPs.
+
+149
+00:06:47,029 --> 00:06:51,055
+So I'll write plus four ADPs.
+
+150
+00:06:51,055 --> 00:06:57,014
+And then, after performing
+glycolysis-- and
+
+151
+00:06:57,014 --> 00:06:57,083
+let me write it here.
+
+152
+00:06:57,083 --> 00:07:01,005
+Let me write also-- sorry
+that was ADPs.
+
+153
+00:07:01,005 --> 00:07:04,094
+
+
+154
+00:07:04,094 --> 00:07:08,097
+Let me just rewrite that
+part right there.
+
+155
+00:07:08,097 --> 00:07:10,054
+Four ADPs.
+
+156
+00:07:10,054 --> 00:07:12,038
+And then you maybe need
+two phosphate groups.
+
+157
+00:07:12,038 --> 00:07:15,081
+Because we're going to need
+four phosphate groups.
+
+158
+00:07:15,081 --> 00:07:18,054
+Plus four-- I'll just call
+them, sometimes they're
+
+159
+00:07:18,054 --> 00:07:19,031
+written like that.
+
+160
+00:07:19,031 --> 00:07:20,043
+But maybe I'll write
+it like this.
+
+161
+00:07:20,043 --> 00:07:21,074
+Four phosphate groups.
+
+162
+00:07:21,074 --> 00:07:25,067
+
+
+163
+00:07:25,067 --> 00:07:30,079
+And then once you perform
+glycolysis, you have two
+
+164
+00:07:30,079 --> 00:07:37,068
+pyruvates, you have two NADHs.
+
+165
+00:07:37,068 --> 00:07:40,066
+
+
+166
+00:07:40,066 --> 00:07:43,018
+The NAD has been reduced.
+
+167
+00:07:43,018 --> 00:07:45,000
+It gained a hydrogen.
+
+168
+00:07:45,000 --> 00:07:45,085
+RIG.
+
+169
+00:07:45,085 --> 00:07:46,058
+OIL RIG.
+
+170
+00:07:46,058 --> 00:07:48,085
+Reduction is gain an electron.
+
+171
+00:07:48,085 --> 00:07:50,019
+But in the biological
+sense, we think of
+
+172
+00:07:50,019 --> 00:07:51,011
+it gaining the hydrogen.
+
+173
+00:07:51,011 --> 00:07:53,031
+Because hydrogen is very
+non-electronegative, so you're
+
+174
+00:07:53,031 --> 00:07:54,025
+hogging its electrons.
+
+175
+00:07:54,025 --> 00:07:56,001
+You've gained its electrons.
+
+176
+00:07:56,001 --> 00:08:01,081
+So two NADHs and then plus these
+two ATPs get used in the
+
+177
+00:08:01,081 --> 00:08:02,072
+investment phase.
+
+178
+00:08:02,072 --> 00:08:04,038
+That's why I kind of wrote
+them a little separately.
+
+179
+00:08:04,038 --> 00:08:05,086
+So these two get used.
+
+180
+00:08:05,086 --> 00:08:07,086
+So then you're left
+with two ADPs.
+
+181
+00:08:07,086 --> 00:08:10,086
+
+
+182
+00:08:10,086 --> 00:08:13,062
+And then these guys,
+essentially,
+
+183
+00:08:13,062 --> 00:08:14,075
+get turned into ATPs.
+
+184
+00:08:14,075 --> 00:08:19,008
+So plus four ATPs.
+
+185
+00:08:19,008 --> 00:08:20,056
+I guess we didn't need four.
+
+186
+00:08:20,056 --> 00:08:22,088
+We only needed a net of
+two phosphate groups.
+
+187
+00:08:22,088 --> 00:08:24,056
+Because two jump off of here.
+
+188
+00:08:24,056 --> 00:08:26,070
+And then we need a total
+of two more to get
+
+189
+00:08:26,070 --> 00:08:28,056
+four jumping on there.
+
+190
+00:08:28,056 --> 00:08:31,026
+But the big picture is, you
+start with a glucose, you end
+
+191
+00:08:31,026 --> 00:08:33,001
+up with two pyruvates.
+
+192
+00:08:33,001 --> 00:08:35,009
+You use up two ATPs.
+
+193
+00:08:35,009 --> 00:08:36,090
+You get four ATPs.
+
+194
+00:08:36,090 --> 00:08:39,055
+So you have a net of
+two ATPs formed.
+
+195
+00:08:39,055 --> 00:08:41,049
+Let me write that very big.
+
+196
+00:08:41,049 --> 00:08:45,084
+Net, what you get out of
+glycolysis, is two ATPs.
+
+197
+00:08:45,084 --> 00:08:51,028
+You get two NADHs that can
+each later be used in the
+
+198
+00:08:51,028 --> 00:08:54,060
+electron transport chain
+to produce three ATPs.
+
+199
+00:08:54,060 --> 00:08:59,014
+You get two NADHs and you get
+two pyruvates, which are going
+
+200
+00:08:59,014 --> 00:09:02,092
+to be re-engineered into
+acetyl-CoAs that are going to
+
+201
+00:09:02,092 --> 00:09:04,095
+be the raw materials for
+the Krebs cycle.
+
+202
+00:09:04,095 --> 00:09:10,069
+But these are the outputs
+of glycolysis.
+
+203
+00:09:10,069 --> 00:09:13,007
+So now that we have that big
+picture, let's actually look
+
+204
+00:09:13,007 --> 00:09:13,079
+at the mechanism.
+
+205
+00:09:13,079 --> 00:09:15,073
+Because this is a little
+bit more daunting
+
+206
+00:09:15,073 --> 00:09:16,044
+when you see it here.
+
+207
+00:09:16,044 --> 00:09:18,097
+But we'll see the same themes
+that I just talked about.
+
+208
+00:09:18,097 --> 00:09:22,000
+We're starting with a
+glucose right there.
+
+209
+00:09:22,000 --> 00:09:24,026
+It is a six chain.
+
+210
+00:09:24,026 --> 00:09:26,005
+It's in a circle, in a ring.
+
+211
+00:09:26,005 --> 00:09:30,027
+One, two, three, four,
+five, six carbons.
+
+212
+00:09:30,027 --> 00:09:33,011
+I could write it like that,
+just to make a huge
+
+213
+00:09:33,011 --> 00:09:34,022
+oversimplification.
+
+214
+00:09:34,022 --> 00:09:36,001
+It goes through a few steps.
+
+215
+00:09:36,001 --> 00:09:37,046
+I use an ATP here.
+
+216
+00:09:37,046 --> 00:09:39,042
+So let me do that in a color.
+
+217
+00:09:39,042 --> 00:09:42,030
+Let me do it in orange whenever
+I use an ATP.
+
+218
+00:09:42,030 --> 00:09:43,087
+I use one ATP there.
+
+219
+00:09:43,087 --> 00:09:46,004
+I use one ATP there.
+
+220
+00:09:46,004 --> 00:09:48,050
+And just like I told you,
+they have a slightly
+
+221
+00:09:48,050 --> 00:09:49,037
+different name for it.
+
+222
+00:09:49,037 --> 00:09:49,087
+But this is the
+
+223
+00:09:49,087 --> 00:09:52,003
+phosphoglyceraldehyde right here.
+
+224
+00:09:52,003 --> 00:09:54,048
+They call it glyceraldehyde
+3-phosphate.
+
+225
+00:09:54,048 --> 00:09:56,085
+It's the exact same molecule.
+
+226
+00:09:56,085 --> 00:10:00,012
+But as you can see, just when I
+drew it very roughly before,
+
+227
+00:10:00,012 --> 00:10:03,001
+you've got one, two three
+carbons there.
+
+228
+00:10:03,001 --> 00:10:05,066
+
+
+229
+00:10:05,066 --> 00:10:07,062
+And it also has a phosphate
+group on it.
+
+230
+00:10:07,062 --> 00:10:09,060
+The phosphate group's actually
+attached to the oxygen.
+
+231
+00:10:09,060 --> 00:10:12,015
+But for just for simplification
+I draw the
+
+232
+00:10:12,015 --> 00:10:13,055
+phosphate group just
+like that.
+
+233
+00:10:13,055 --> 00:10:15,075
+And I showed that right here.
+
+234
+00:10:15,075 --> 00:10:16,044
+This was the
+
+235
+00:10:16,044 --> 00:10:18,053
+phosphoglyceraldehyde right here.
+
+236
+00:10:18,053 --> 00:10:20,070
+This is the actual structure
+up here.
+
+237
+00:10:20,070 --> 00:10:23,062
+But I think sometimes when you
+look at the structure it's
+
+238
+00:10:23,062 --> 00:10:24,067
+easy to miss the big picture.
+
+239
+00:10:24,067 --> 00:10:25,048
+And there are two of these.
+
+240
+00:10:25,048 --> 00:10:28,060
+They kind of say that you can
+go back and forth with this,
+
+241
+00:10:28,060 --> 00:10:31,019
+with this other kind
+of isomer of this.
+
+242
+00:10:31,019 --> 00:10:32,074
+But the important thing is that
+you have two of these
+
+243
+00:10:32,074 --> 00:10:34,095
+compounds that are now
+3-carbon compounds.
+
+244
+00:10:34,095 --> 00:10:36,051
+Glucose has been split.
+
+245
+00:10:36,051 --> 00:10:39,064
+And now we're ready to enter
+the payoff phase.
+
+246
+00:10:39,064 --> 00:10:43,004
+Remember you have two of these
+compounds right here.
+
+247
+00:10:43,004 --> 00:10:44,061
+That's why, when they drew this
+mechanism, they wrote
+
+248
+00:10:44,061 --> 00:10:46,030
+times two right there.
+
+249
+00:10:46,030 --> 00:10:47,064
+Because the glucose has
+been split into
+
+250
+00:10:47,064 --> 00:10:49,009
+two of these molecules.
+
+251
+00:10:49,009 --> 00:10:50,080
+So each of the molecules
+are now going to
+
+252
+00:10:50,080 --> 00:10:52,000
+do this right here.
+
+253
+00:10:52,000 --> 00:10:55,042
+And for each of the
+glyceraldehyde 3-phosphates,
+
+254
+00:10:55,042 --> 00:10:58,060
+or PGALs, or
+phosphoglyceraldehyde, we can
+
+255
+00:10:58,060 --> 00:11:02,091
+look at the mechanism and say,
+OK look here, there's going to
+
+256
+00:11:02,091 --> 00:11:06,026
+be an ADP turning into
+an ATP there.
+
+257
+00:11:06,026 --> 00:11:09,009
+So this is plus one ATP.
+
+258
+00:11:09,009 --> 00:11:12,040
+And then we see it again
+happening here
+
+259
+00:11:12,040 --> 00:11:14,071
+on our way to pyruvate.
+
+260
+00:11:14,071 --> 00:11:17,010
+On our way to pyruvate right,
+there then we have another
+
+261
+00:11:17,010 --> 00:11:20,033
+plus one ATP.
+
+262
+00:11:20,033 --> 00:11:23,063
+So for each of the PGALs, or
+the phosphoglyceraldehydes
+
+263
+00:11:23,063 --> 00:11:29,028
+that were produced, we're
+producing two ATPs in the
+
+264
+00:11:29,028 --> 00:11:30,020
+payoff phase.
+
+265
+00:11:30,020 --> 00:11:31,040
+Now there were two of these.
+
+266
+00:11:31,040 --> 00:11:35,003
+So total for one glucose, we're
+going to produce four
+
+267
+00:11:35,003 --> 00:11:37,034
+ATPs in the payoff phase.
+
+268
+00:11:37,034 --> 00:11:39,041
+So in the payoff phase,
+four ATPs.
+
+269
+00:11:39,041 --> 00:11:43,023
+In the investment phase
+we used one, two ATPs.
+
+270
+00:11:43,023 --> 00:11:46,008
+So total net ATPs directly
+generated from
+
+271
+00:11:46,008 --> 00:11:49,007
+glycolysis is two ATPs.
+
+272
+00:11:49,007 --> 00:11:51,044
+Four, gross produced.
+
+273
+00:11:51,044 --> 00:11:54,010
+But we had to invest two in
+the investment phase.
+
+274
+00:11:54,010 --> 00:11:58,009
+And then the NADs and the NADHs,
+we see right here.
+
+275
+00:11:58,009 --> 00:12:00,075
+For each phosphoglyceraldehyde,
+or
+
+276
+00:12:00,075 --> 00:12:03,070
+glyceraldehyde 3-phosphates or
+PGALs or whatever you want to
+
+277
+00:12:03,070 --> 00:12:07,053
+call them, at this stage right
+here you see that we are
+
+278
+00:12:07,053 --> 00:12:11,079
+reducing NAD plus to NADH.
+
+279
+00:12:11,079 --> 00:12:14,093
+So this happens once for each
+of these compounds.
+
+280
+00:12:14,093 --> 00:12:16,050
+And obviously there
+are two of these.
+
+281
+00:12:16,050 --> 00:12:18,033
+Glucose got split into
+two of these guys.
+
+282
+00:12:18,033 --> 00:12:22,089
+So two NADHs are going
+to be produced.
+
+283
+00:12:22,089 --> 00:12:25,008
+And later these are going to
+be used in the electron
+
+284
+00:12:25,008 --> 00:12:30,089
+transport chain to actually
+each produce three ATPs.
+
+285
+00:12:30,089 --> 00:12:32,087
+And then finally, when
+everything is said and done,
+
+286
+00:12:32,087 --> 00:12:34,025
+we're left with the pyruvates.
+
+287
+00:12:34,025 --> 00:12:36,071
+And it's nice, at least that
+they made it nice and big.
+
+288
+00:12:36,071 --> 00:12:39,054
+We can take a look at what
+a pyruvate looks like.
+
+289
+00:12:39,054 --> 00:12:42,060
+And just as promised, we can
+look at all the oxygen bonds
+
+290
+00:12:42,060 --> 00:12:43,013
+and all that.
+
+291
+00:12:43,013 --> 00:12:45,063
+But it's a 3-carbon structure.
+
+292
+00:12:45,063 --> 00:12:47,077
+It has a 3-carbon backbone.
+
+293
+00:12:47,077 --> 00:12:51,034
+So the end result is that the
+carbon, that the glucose got
+
+294
+00:12:51,034 --> 00:12:52,027
+split in half.
+
+295
+00:12:52,027 --> 00:12:53,022
+It got oxidized.
+
+296
+00:12:53,022 --> 00:12:54,096
+Some of the hydrogens got
+stripped off of it.
+
+297
+00:12:54,096 --> 00:12:57,019
+As you can see there's only
+three hydrogens here.
+
+298
+00:12:57,019 --> 00:12:59,080
+We started off with 12
+hydrogens in glucose.
+
+299
+00:12:59,080 --> 00:13:03,075
+And now it has its carbons
+bonding more
+
+300
+00:13:03,075 --> 00:13:04,083
+strongly with oxygen.
+
+301
+00:13:04,083 --> 00:13:07,011
+So it's essentially having its
+electrons stolen by the
+
+302
+00:13:07,011 --> 00:13:09,015
+oxygens, or hogged
+by the oxygens.
+
+303
+00:13:09,015 --> 00:13:11,042
+So carbon has gotten oxidized
+in this process.
+
+304
+00:13:11,042 --> 00:13:14,012
+There's going to be more
+oxidation left to do.
+
+305
+00:13:14,012 --> 00:13:20,047
+And in the process we were able
+to generate two net ATPs
+
+306
+00:13:20,047 --> 00:13:26,092
+and two NADHs that can later
+be used to produce ATPs.
+
+307
+00:13:26,092 --> 00:13:29,057
+Anyway, hopefully you
+found that helpful.
+
+308
+00:13:29,057 --> 00:13:29,060
+

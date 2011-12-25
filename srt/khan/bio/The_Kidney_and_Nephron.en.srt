@@ -1,0 +1,1877 @@
+1
+00:00:00,034 --> 00:00:02,018
+What I want to do in this video
+is talk a little bit
+
+2
+00:00:02,018 --> 00:00:05,050
+about the kidney-- and this is
+a big picture of a kidney--
+
+3
+00:00:05,050 --> 00:00:08,019
+and to talk about how it
+operates at its-- I guess you
+
+4
+00:00:08,019 --> 00:00:10,050
+could call it its smallest
+functional level and that's
+
+5
+00:00:10,050 --> 00:00:11,041
+the nephron.
+
+6
+00:00:11,041 --> 00:00:16,069
+So we're going to talk about
+the kidney and the nephron.
+
+7
+00:00:16,069 --> 00:00:18,078
+And I think you might already
+know the kidney.
+
+8
+00:00:18,078 --> 00:00:19,067
+We have two of them.
+
+9
+00:00:19,067 --> 00:00:23,026
+They're the organ that, I guess,
+is most famous for
+
+10
+00:00:23,026 --> 00:00:27,085
+producing or allowing
+us to excrete waste.
+
+11
+00:00:27,085 --> 00:00:32,022
+But part of that process, it
+also helps us maintain our
+
+12
+00:00:32,022 --> 00:00:36,040
+water, the correct level, and
+actually the amount of salts
+
+13
+00:00:36,040 --> 00:00:39,000
+or electrolytes we have and our
+blood pressure, but I'll
+
+14
+00:00:39,000 --> 00:00:40,086
+just say maintain water.
+
+15
+00:00:40,086 --> 00:00:42,096
+And it also produces hormones
+and things, and I'm not going
+
+16
+00:00:42,096 --> 00:00:45,018
+to go into a lot of detail
+on that right now.
+
+17
+00:00:45,018 --> 00:00:48,057
+I really just want to focus on
+these first two to kind of
+
+18
+00:00:48,057 --> 00:00:52,021
+just understand the overview
+function of the kidney.
+
+19
+00:00:52,021 --> 00:00:54,013
+And most of us have
+two of these.
+
+20
+00:00:54,013 --> 00:00:57,047
+They're kind of closer to our
+back on either sides of our
+
+21
+00:00:57,047 --> 00:00:59,021
+spine behind our liver.
+
+22
+00:00:59,021 --> 00:01:02,046
+And this is a zoomed-in
+version of it.
+
+23
+00:01:02,046 --> 00:01:04,023
+If you're watching this in full
+screen, it's not going to
+
+24
+00:01:04,023 --> 00:01:07,015
+be as big as this picture is,
+but we've sliced it so we can
+
+25
+00:01:07,015 --> 00:01:10,098
+see what's going on
+inside the kidney.
+
+26
+00:01:10,098 --> 00:01:15,012
+Just to understand the different
+parts here, just
+
+27
+00:01:15,012 --> 00:01:17,065
+because it will actually be
+significant when we start
+
+28
+00:01:17,065 --> 00:01:20,051
+talking about the functional
+units or the nephron within
+
+29
+00:01:20,051 --> 00:01:24,093
+the kidney, this area right here
+from here to here, this
+
+30
+00:01:24,093 --> 00:01:28,090
+is called the renal cortex.
+
+31
+00:01:28,090 --> 00:01:31,054
+Whenever we talk about something
+with the kidney, if
+
+32
+00:01:31,054 --> 00:01:34,010
+you see a renal anything, that's
+actually referring to
+
+33
+00:01:34,010 --> 00:01:34,057
+the kidney.
+
+34
+00:01:34,057 --> 00:01:36,079
+So this right here is
+a renal cortex, that
+
+35
+00:01:36,079 --> 00:01:38,023
+outer part right there.
+
+36
+00:01:38,023 --> 00:01:44,037
+And then this area right here,
+this is the renal medulla.
+
+37
+00:01:44,037 --> 00:01:46,048
+And medulla comes from middle.
+
+38
+00:01:46,048 --> 00:01:49,004
+So you can almost view it as
+the middle of the kidney.
+
+39
+00:01:49,004 --> 00:01:52,040
+
+
+40
+00:01:52,040 --> 00:01:55,068
+Besides just understanding these
+words, we're going to
+
+41
+00:01:55,068 --> 00:01:58,034
+see that they actually play a
+very important role in this
+
+42
+00:01:58,034 --> 00:02:01,071
+actual filtration or this
+excretion of waste and this
+
+43
+00:02:01,071 --> 00:02:05,073
+ability to not dump too much
+water or excrete too much
+
+44
+00:02:05,073 --> 00:02:09,002
+water when we're trying to
+filter out our blood.
+
+45
+00:02:09,002 --> 00:02:11,071
+So I've said before, and you
+might have heard it already
+
+46
+00:02:11,071 --> 00:02:14,033
+from other lectures or from
+other teachers, that the
+
+47
+00:02:14,033 --> 00:02:16,049
+functional unit of the kidney
+is the nephron.
+
+48
+00:02:16,049 --> 00:02:22,050
+
+
+49
+00:02:22,050 --> 00:02:25,003
+And the reason why it's called
+a functional unit-- I'll put
+
+50
+00:02:25,003 --> 00:02:28,028
+it in quotes-- is because that's
+the level at which
+
+51
+00:02:28,028 --> 00:02:30,025
+these two things
+are happening.
+
+52
+00:02:30,025 --> 00:02:32,097
+The two major functions of the
+kidney: the waste excretion
+
+53
+00:02:32,097 --> 00:02:36,058
+and the maintenance
+of the water level
+
+54
+00:02:36,058 --> 00:02:37,072
+in our blood system.
+
+55
+00:02:37,072 --> 00:02:41,072
+So just to get an idea of how a
+nephron fits in within this
+
+56
+00:02:41,072 --> 00:02:45,084
+picture of a kidney-- I got this
+picture from Wikipedia.
+
+57
+00:02:45,084 --> 00:02:48,041
+The artist tried to draw a
+couple of nephrons over here.
+
+58
+00:02:48,041 --> 00:02:50,062
+So a nephron will look something
+like this, and it
+
+59
+00:02:50,062 --> 00:02:53,068
+dips down into the medulla, and
+then it goes back into the
+
+60
+00:02:53,068 --> 00:02:56,063
+cortex, and then it dumps into
+collecting ducts, and
+
+61
+00:02:56,063 --> 00:02:59,062
+essentially the fluid will end
+up in the ureters right here
+
+62
+00:02:59,062 --> 00:03:02,096
+and end up in our urinary
+bladder that we can later
+
+63
+00:03:02,096 --> 00:03:05,087
+excrete when we find
+a suitable time.
+
+64
+00:03:05,087 --> 00:03:07,077
+But that's about-- I guess
+you can imagine
+
+65
+00:03:07,077 --> 00:03:10,078
+the length of a nephron.
+
+66
+00:03:10,078 --> 00:03:13,003
+This is where it starts and
+then it dips down again.
+
+67
+00:03:13,003 --> 00:03:14,084
+So multiple nephrons are going
+to keep doing that, but
+
+68
+00:03:14,084 --> 00:03:15,084
+they're super thin.
+
+69
+00:03:15,084 --> 00:03:18,013
+These tubes or these tubules,
+maybe I should
+
+70
+00:03:18,013 --> 00:03:20,080
+say, are super thin.
+
+71
+00:03:20,080 --> 00:03:26,018
+Your average kidney will contain
+on the order of one
+
+72
+00:03:26,018 --> 00:03:27,043
+million nephrons.
+
+73
+00:03:27,043 --> 00:03:31,031
+
+
+74
+00:03:31,031 --> 00:03:34,046
+You can't really say, my
+nephrons are microscopic.
+
+75
+00:03:34,046 --> 00:03:39,038
+They kind of have a-- at least
+their length when they dip
+
+76
+00:03:39,038 --> 00:03:41,087
+down, you can say, I can
+see that distance.
+
+77
+00:03:41,087 --> 00:03:45,050
+You can still jam a lot of them
+inside of one kidney.
+
+78
+00:03:45,050 --> 00:03:49,058
+With that said, let's actually
+figure out how a nephron
+
+79
+00:03:49,058 --> 00:03:52,087
+filters the blood and actually
+makes sure that not too much
+
+80
+00:03:52,087 --> 00:03:56,053
+water or not too much of the
+good stuff in our blood ends
+
+81
+00:03:56,053 --> 00:03:58,033
+up the urine.
+
+82
+00:03:58,033 --> 00:04:04,006
+So let me draw here a nephron.
+
+83
+00:04:04,006 --> 00:04:07,019
+So I'm going to start
+like this.
+
+84
+00:04:07,019 --> 00:04:08,084
+We'll start with
+the blood flow.
+
+85
+00:04:08,084 --> 00:04:13,047
+So the blood's going to come
+in an arterial-- that's an
+
+86
+00:04:13,047 --> 00:04:15,078
+arterial capillary,
+you could say.
+
+87
+00:04:15,078 --> 00:04:17,058
+So it's going to come
+in like that.
+
+88
+00:04:17,058 --> 00:04:21,081
+This is actually called
+the afferent arterial.
+
+89
+00:04:21,081 --> 00:04:23,023
+You don't have to know
+the names, but you
+
+90
+00:04:23,023 --> 00:04:24,048
+might see that sometime.
+
+91
+00:04:24,048 --> 00:04:26,067
+
+
+92
+00:04:26,067 --> 00:04:28,017
+Blood is coming in.
+
+93
+00:04:28,017 --> 00:04:32,006
+Then it goes into this
+big windy place.
+
+94
+00:04:32,006 --> 00:04:34,081
+It really winds around
+like that.
+
+95
+00:04:34,081 --> 00:04:36,006
+This is called the glomerulus.
+
+96
+00:04:36,006 --> 00:04:43,049
+
+
+97
+00:04:43,049 --> 00:04:45,087
+And then it leaves via the
+efferent arterial.
+
+98
+00:04:45,087 --> 00:04:57,010
+
+
+99
+00:04:57,010 --> 00:04:58,061
+Efferent just means away
+from the center.
+
+100
+00:04:58,061 --> 00:05:02,075
+Afferent towards, efferent
+away from the center.
+
+101
+00:05:02,075 --> 00:05:04,033
+And I'll talk about it more
+in the future, but it's
+
+102
+00:05:04,033 --> 00:05:05,082
+interesting that we're
+still dealing with an
+
+103
+00:05:05,082 --> 00:05:07,004
+artery at this point.
+
+104
+00:05:07,004 --> 00:05:08,076
+It's still oxygenated blood.
+
+105
+00:05:08,076 --> 00:05:12,025
+Normally, when we leave a
+capillary system like the
+
+106
+00:05:12,025 --> 00:05:14,094
+glomerulus right there, we're
+normally dealing with the
+
+107
+00:05:14,094 --> 00:05:18,064
+venous system, but here we're
+still an arterial system.
+
+108
+00:05:18,064 --> 00:05:21,027
+And it's probably because
+arterial systems have higher
+
+109
+00:05:21,027 --> 00:05:22,075
+blood pressure, and what we
+need to do is we need to
+
+110
+00:05:22,075 --> 00:05:28,073
+squeeze fluid and stuff that's
+dissolved in the fluid out of
+
+111
+00:05:28,073 --> 00:05:30,097
+the blood and in the glomerulus
+right here.
+
+112
+00:05:30,097 --> 00:05:35,042
+So this glomerulus is very
+porous and it's surrounded by
+
+113
+00:05:35,042 --> 00:05:37,045
+other cells.
+
+114
+00:05:37,045 --> 00:05:38,070
+This is kind of a
+cross-section.
+
+115
+00:05:38,070 --> 00:05:44,047
+
+
+116
+00:05:44,047 --> 00:05:49,019
+It's surrounded like that by
+this structure, and these are
+
+117
+00:05:49,019 --> 00:05:53,035
+cells here so you can imagine
+these are all cells over here.
+
+118
+00:05:53,035 --> 00:05:56,098
+And, of course, the actual
+capillaries have cells that
+
+119
+00:05:56,098 --> 00:05:58,095
+line them so there
+are cells here.
+
+120
+00:05:58,095 --> 00:06:01,013
+So when I draw these lines,
+these lines are actually made
+
+121
+00:06:01,013 --> 00:06:03,042
+up of little cells.
+
+122
+00:06:03,042 --> 00:06:04,054
+What happens is the
+blood comes in
+
+123
+00:06:04,054 --> 00:06:05,089
+at really high pressure.
+
+124
+00:06:05,089 --> 00:06:06,095
+This is very porous.
+
+125
+00:06:06,095 --> 00:06:10,041
+These cells out here, they're
+called podocytes.
+
+126
+00:06:10,041 --> 00:06:11,087
+They're a little bit more
+selective in what gets
+
+127
+00:06:11,087 --> 00:06:14,062
+filtered out, and essentially
+about a fifth of the fluid
+
+128
+00:06:14,062 --> 00:06:20,063
+that's coming in ends up going
+into this space right here
+
+129
+00:06:20,063 --> 00:06:22,055
+that's called the
+Bowman's space.
+
+130
+00:06:22,055 --> 00:06:23,068
+Well, actually, this whole
+thing is called
+
+131
+00:06:23,068 --> 00:06:24,093
+the Bowman's capsule.
+
+132
+00:06:24,093 --> 00:06:28,026
+
+
+133
+00:06:28,026 --> 00:06:30,064
+It's a sphere with an opening in
+here that the capillary can
+
+134
+00:06:30,064 --> 00:06:34,005
+kind of wind around in, and the
+space right here, this is
+
+135
+00:06:34,005 --> 00:06:36,088
+the Bowman's space.
+
+136
+00:06:36,088 --> 00:06:41,026
+It's the space inside the
+Bowman's capsule, and the
+
+137
+00:06:41,026 --> 00:06:42,014
+whole thing has cells.
+
+138
+00:06:42,014 --> 00:06:44,019
+All these structures are
+obviously made-- or maybe not
+
+139
+00:06:44,019 --> 00:06:46,082
+so obviously-- they're
+made up of cells.
+
+140
+00:06:46,082 --> 00:06:48,073
+And so we end up having
+filtrate in it.
+
+141
+00:06:48,073 --> 00:06:53,018
+Filtrate is just the stuff
+that gets squeezed out.
+
+142
+00:06:53,018 --> 00:06:56,037
+We can't call it urine just yet
+because there's a lot of
+
+143
+00:06:56,037 --> 00:07:01,072
+steps that have to occur for
+it to earn the name urine.
+
+144
+00:07:01,072 --> 00:07:04,039
+So it's only filtrate right now,
+and essentially what get
+
+145
+00:07:04,039 --> 00:07:07,022
+squeezed out, I said it's about
+a fifth of the fluid,
+
+146
+00:07:07,022 --> 00:07:10,044
+and things that are easily
+dissolved in fluid, so small
+
+147
+00:07:10,044 --> 00:07:16,043
+ions, sodium, maybe some small
+molecules like glucose, maybe
+
+148
+00:07:16,043 --> 00:07:19,056
+some amino acids.
+
+149
+00:07:19,056 --> 00:07:21,008
+There are tons of stuff
+in here, but this is
+
+150
+00:07:21,008 --> 00:07:22,007
+just to give an idea.
+
+151
+00:07:22,007 --> 00:07:25,037
+The things that do not get
+filtered are things like red
+
+152
+00:07:25,037 --> 00:07:31,033
+blood cells or larger molecules,
+larger proteins.
+
+153
+00:07:31,033 --> 00:07:32,050
+They will not get filtered.
+
+154
+00:07:32,050 --> 00:07:36,069
+It's mainly the micromolecules
+that'll get filtered, that'll
+
+155
+00:07:36,069 --> 00:07:40,091
+be part of this filtrate
+that shows up here
+
+156
+00:07:40,091 --> 00:07:42,038
+in the Bowman space.
+
+157
+00:07:42,038 --> 00:07:45,011
+Now, the rest of what the
+nephron does, the Bowman's
+
+158
+00:07:45,011 --> 00:07:46,095
+capsule is kind of the beginning
+of the nephron, and
+
+159
+00:07:46,095 --> 00:07:51,027
+just to get an idea of our big
+picture of our kidney, let's
+
+160
+00:07:51,027 --> 00:07:54,075
+say we're near an arterial.
+
+161
+00:07:54,075 --> 00:07:56,098
+This is a Bowman's capsule
+right here.
+
+162
+00:07:56,098 --> 00:07:59,007
+It looks something like that,
+and the whole nephron is going
+
+163
+00:07:59,007 --> 00:08:00,057
+to be convoluted like this.
+
+164
+00:08:00,057 --> 00:08:03,014
+It's going to dip down into
+the medulla, and then come
+
+165
+00:08:03,014 --> 00:08:06,022
+back, and then it's going to
+eventually dump into a
+
+166
+00:08:06,022 --> 00:08:07,098
+collecting duct, and I'll
+talk more about that.
+
+167
+00:08:07,098 --> 00:08:12,025
+So what I've drawn just here,
+this is a zoomed-in version of
+
+168
+00:08:12,025 --> 00:08:14,066
+that part right there.
+
+169
+00:08:14,066 --> 00:08:16,025
+Now what I want to do is zoom
+out a little bit because I'm
+
+170
+00:08:16,025 --> 00:08:17,055
+going to run out of space.
+
+171
+00:08:17,055 --> 00:08:19,029
+So let me zoom out.
+
+172
+00:08:19,029 --> 00:08:23,022
+So we had our arterial go in.
+
+173
+00:08:23,022 --> 00:08:26,051
+It gets all bunched in the
+glomerulus, and then most of
+
+174
+00:08:26,051 --> 00:08:30,016
+the blood leaves, but
+one-fifth of it gets
+
+175
+00:08:30,016 --> 00:08:33,038
+essentially filtered in to
+the Bowman's capsule.
+
+176
+00:08:33,038 --> 00:08:34,077
+That's the Bowman's capsule
+right there.
+
+177
+00:08:34,077 --> 00:08:36,045
+I've just zoomed out
+a little bit.
+
+178
+00:08:36,045 --> 00:08:39,052
+So we have our filtrate here.
+
+179
+00:08:39,052 --> 00:08:41,008
+Maybe I'll make it a
+little bit yellow.
+
+180
+00:08:41,008 --> 00:08:44,044
+
+
+181
+00:08:44,044 --> 00:08:46,079
+The filtrate that just comes out
+at this point, sometimes
+
+182
+00:08:46,079 --> 00:08:49,026
+it's called the glomerular
+filtrate because it's been
+
+183
+00:08:49,026 --> 00:08:52,016
+filtered by the glomerulus, but
+it's also been filtered by
+
+184
+00:08:52,016 --> 00:08:55,005
+those podocyte cells
+on the inside of
+
+185
+00:08:55,005 --> 00:08:56,047
+the Bowman's capsule.
+
+186
+00:08:56,047 --> 00:08:59,012
+But now it's ready to go
+to the proximal tubule.
+
+187
+00:08:59,012 --> 00:09:03,008
+
+
+188
+00:09:03,008 --> 00:09:06,052
+Let me draw something
+like this.
+
+189
+00:09:06,052 --> 00:09:08,029
+And obviously, this is not
+exactly what it looks like,
+
+190
+00:09:08,029 --> 00:09:09,058
+but it gives you the sense.
+
+191
+00:09:09,058 --> 00:09:17,047
+This right here, this is
+the proximal tubule.
+
+192
+00:09:17,047 --> 00:09:20,055
+And it sounds like a very fancy
+word, but proximal just
+
+193
+00:09:20,055 --> 00:09:23,059
+means near and tubule, you can
+imagine, is just a small tube.
+
+194
+00:09:23,059 --> 00:09:25,074
+So it's a small tube that's
+near the beginning.
+
+195
+00:09:25,074 --> 00:09:27,087
+That's why it's called
+a proximal tubule.
+
+196
+00:09:27,087 --> 00:09:29,070
+And it has two parts.
+
+197
+00:09:29,070 --> 00:09:31,024
+The whole thing is
+often called a
+
+198
+00:09:31,024 --> 00:09:32,087
+proximal convoluted tubule.
+
+199
+00:09:32,087 --> 00:09:35,087
+
+
+200
+00:09:35,087 --> 00:09:37,038
+That's because it's
+all convoluted.
+
+201
+00:09:37,038 --> 00:09:38,083
+The way I've drawn
+it is all curvy.
+
+202
+00:09:38,083 --> 00:09:40,075
+And I just drew it curvy
+in two dimensions.
+
+203
+00:09:40,075 --> 00:09:43,016
+It's actually curvy in
+three dimensions.
+
+204
+00:09:43,016 --> 00:09:45,047
+But the reality is there's a
+curvy part and then there's a
+
+205
+00:09:45,047 --> 00:09:48,022
+straight part near the end
+of the proximal tubule.
+
+206
+00:09:48,022 --> 00:09:50,057
+So we'll call this whole thing
+the proximal tubule.
+
+207
+00:09:50,057 --> 00:09:52,005
+This is the convoluted part.
+
+208
+00:09:52,005 --> 00:09:53,066
+That's the straight
+part, but we don't
+
+209
+00:09:53,066 --> 00:09:55,034
+have to get too picky.
+
+210
+00:09:55,034 --> 00:09:59,003
+But the whole point of this part
+of the nephron-- and just
+
+211
+00:09:59,003 --> 00:10:02,080
+to remember where we are, we're
+now at this point of the
+
+212
+00:10:02,080 --> 00:10:05,088
+nephron right there-- the
+whole point is to start
+
+213
+00:10:05,088 --> 00:10:09,070
+reabsorbing some of the stuff
+that is in the filtrate that
+
+214
+00:10:09,070 --> 00:10:10,066
+we don't want to lose.
+
+215
+00:10:10,066 --> 00:10:11,087
+We don't want to lose glucose.
+
+216
+00:10:11,087 --> 00:10:13,089
+That's hard-earned stuff
+that we ate that
+
+217
+00:10:13,089 --> 00:10:15,009
+was good for energy.
+
+218
+00:10:15,009 --> 00:10:18,078
+We don't want to lose
+necessarily as much sodium.
+
+219
+00:10:18,078 --> 00:10:24,003
+We've seen in multiple videos
+that that's a useful ion to
+
+220
+00:10:24,003 --> 00:10:24,048
+have around.
+
+221
+00:10:24,048 --> 00:10:26,049
+We don't want to lose
+amino acids.
+
+222
+00:10:26,049 --> 00:10:30,049
+Those are useful for building up
+proteins and other things.
+
+223
+00:10:30,049 --> 00:10:32,032
+So these are things we don't
+want to lose so we start
+
+224
+00:10:32,032 --> 00:10:33,066
+absorbing them back.
+
+225
+00:10:33,066 --> 00:10:35,084
+I'll do a whole video on exactly
+how that happens, but
+
+226
+00:10:35,084 --> 00:10:37,048
+it's done actively.
+
+227
+00:10:37,048 --> 00:10:40,057
+Since we're using ATP, and just
+as a bit of a summary,
+
+228
+00:10:40,057 --> 00:10:43,089
+you're using ATP to actually
+pump out the sodium and then
+
+229
+00:10:43,089 --> 00:10:45,065
+that actually helps bring
+in the other things.
+
+230
+00:10:45,065 --> 00:10:48,015
+That's just kind of a tidbit
+on what's happening.
+
+231
+00:10:48,015 --> 00:10:52,019
+So we're reabsorbing, so just
+imagine what's happening.
+
+232
+00:10:52,019 --> 00:10:56,037
+You have cells lining the
+proximal tubule right now.
+
+233
+00:10:56,037 --> 00:10:58,030
+And actually, they have little
+things that jut out.
+
+234
+00:10:58,030 --> 00:10:59,078
+I'll do a whole video on that
+because it's actually
+
+235
+00:10:59,078 --> 00:11:00,062
+interesting.
+
+236
+00:11:00,062 --> 00:11:01,090
+So you have cells out here.
+
+237
+00:11:01,090 --> 00:11:04,065
+On the other side of the cells,
+you have an arterial
+
+238
+00:11:04,065 --> 00:11:08,011
+system, or a capillary system,
+I should say, actually.
+
+239
+00:11:08,011 --> 00:11:12,008
+So let's say you have a
+capillary system here that is
+
+240
+00:11:12,008 --> 00:11:16,058
+very close to the cells lining
+the proximal tubule, and so
+
+241
+00:11:16,058 --> 00:11:19,013
+this stuff actually gets
+actively pumped, especially
+
+242
+00:11:19,013 --> 00:11:23,000
+the sodium, but all of it, using
+energy, gets pumped back
+
+243
+00:11:23,000 --> 00:11:24,088
+into the blood selectively,
+and maybe a
+
+244
+00:11:24,088 --> 00:11:25,087
+little bit of our water.
+
+245
+00:11:25,087 --> 00:11:32,048
+So we're pumping back some
+sodium, some glucose, and
+
+246
+00:11:32,048 --> 00:11:34,071
+we'll start pumping a little
+bit of the water back in
+
+247
+00:11:34,071 --> 00:11:36,053
+because we don't want to
+lose all of that water.
+
+248
+00:11:36,053 --> 00:11:38,062
+If all of the water that was
+originally in the filtrate we
+
+249
+00:11:38,062 --> 00:11:41,055
+were just leaving in our urine,
+we'd be excreting
+
+250
+00:11:41,055 --> 00:11:44,024
+gallons and gallons of water
+every day, which we do not
+
+251
+00:11:44,024 --> 00:11:45,030
+want to do.
+
+252
+00:11:45,030 --> 00:11:46,050
+So that's the whole point.
+
+253
+00:11:46,050 --> 00:11:49,012
+We're starting the absorption
+process.
+
+254
+00:11:49,012 --> 00:11:51,039
+And then we'll enter the loop
+of Henle, and actually, this
+
+255
+00:11:51,039 --> 00:11:52,061
+is, in my mind, the most
+
+256
+00:11:52,061 --> 00:11:55,037
+interesting part of the nephron.
+
+257
+00:11:55,037 --> 00:11:59,092
+So we're entering the loop of
+Henle, and it dips down, and
+
+258
+00:11:59,092 --> 00:12:03,067
+then comes back up.
+
+259
+00:12:03,067 --> 00:12:05,074
+And so most of the length
+of the nephron
+
+260
+00:12:05,074 --> 00:12:07,089
+is the loop of Henle.
+
+261
+00:12:07,089 --> 00:12:10,091
+And if I go back to this diagram
+right here, if I'm
+
+262
+00:12:10,091 --> 00:12:13,026
+talking about the loop of Henle,
+I'm talking about this
+
+263
+00:12:13,026 --> 00:12:15,044
+whole thing right there.
+
+264
+00:12:15,044 --> 00:12:17,045
+And you can see something
+interesting here.
+
+265
+00:12:17,045 --> 00:12:21,004
+It crosses the border between
+the cortex, this light brown
+
+266
+00:12:21,004 --> 00:12:24,082
+part, and the renal medulla,
+this kind of reddish or orange
+
+267
+00:12:24,082 --> 00:12:27,016
+part right there, and it does
+that for a very good reason.
+
+268
+00:12:27,016 --> 00:12:28,000
+I'm going to draw it here.
+
+269
+00:12:28,000 --> 00:12:32,071
+So let's say this is the
+dividing line right here.
+
+270
+00:12:32,071 --> 00:12:35,046
+This right here was
+the cortex.
+
+271
+00:12:35,046 --> 00:12:39,054
+This right here is
+the medulla.
+
+272
+00:12:39,054 --> 00:12:42,005
+So the whole point-- well,
+there's two points
+
+273
+00:12:42,005 --> 00:12:43,059
+of the loop of Henle.
+
+274
+00:12:43,059 --> 00:12:48,057
+
+
+275
+00:12:48,057 --> 00:12:57,083
+One point is to make the renal
+medulla salty, and it does
+
+276
+00:12:57,083 --> 00:13:00,050
+this by actively pumping
+out salts.
+
+277
+00:13:00,050 --> 00:13:03,009
+So it actively pumps out salts,
+and it does that in the
+
+278
+00:13:03,009 --> 00:13:06,013
+ascending part of the
+loop of Henle.
+
+279
+00:13:06,013 --> 00:13:12,038
+So it actively pumps out salts:
+sodium, potassium,
+
+280
+00:13:12,038 --> 00:13:14,044
+chloride, or chlorine,
+I should say.
+
+281
+00:13:14,044 --> 00:13:17,050
+Chlorine ions.
+
+282
+00:13:17,050 --> 00:13:21,099
+It actively pumps out these
+salts right here to make the
+
+283
+00:13:21,099 --> 00:13:27,066
+entire medulla salty, or if we
+think about it in terms of
+
+284
+00:13:27,066 --> 00:13:29,099
+kind of osmosis, make
+it hypertonic.
+
+285
+00:13:29,099 --> 00:13:33,032
+You have more solute out here
+than you have in the filtrate
+
+286
+00:13:33,032 --> 00:13:36,000
+that's going through
+the tubules.
+
+287
+00:13:36,000 --> 00:13:37,024
+And it uses ATP to do this.
+
+288
+00:13:37,024 --> 00:13:39,090
+All of this stuff requires ATP
+to actively pump against a
+
+289
+00:13:39,090 --> 00:13:41,057
+concentration gradient.
+
+290
+00:13:41,057 --> 00:13:46,011
+So this is salty and it's
+salty for a reason.
+
+291
+00:13:46,011 --> 00:13:50,082
+It's not just to take back these
+salts from the filtrate,
+
+292
+00:13:50,082 --> 00:13:53,023
+although that's part of the
+reason, but by making this
+
+293
+00:13:53,023 --> 00:13:57,062
+salty, the ascending part is
+only permeable to these salts
+
+294
+00:13:57,062 --> 00:13:59,026
+and these ions.
+
+295
+00:13:59,026 --> 00:14:00,083
+It's not permeable to water.
+
+296
+00:14:00,083 --> 00:14:06,011
+
+
+297
+00:14:06,011 --> 00:14:09,004
+The descending part of the
+loop of Henle is only
+
+298
+00:14:09,004 --> 00:14:10,029
+permeable to water.
+
+299
+00:14:10,029 --> 00:14:13,038
+
+
+300
+00:14:13,038 --> 00:14:14,037
+So what's going to happen?
+
+301
+00:14:14,037 --> 00:14:17,042
+If this is all salty because the
+ascending part is actively
+
+302
+00:14:17,042 --> 00:14:21,025
+pumping out salt, what's going
+to happen to water as it goes
+
+303
+00:14:21,025 --> 00:14:23,011
+down the descending loop?
+
+304
+00:14:23,011 --> 00:14:24,087
+Well, it's hypertonic
+out here.
+
+305
+00:14:24,087 --> 00:14:28,083
+Water will naturally want to go
+and kind of try to make the
+
+306
+00:14:28,083 --> 00:14:30,053
+concentrations balance out.
+
+307
+00:14:30,053 --> 00:14:31,050
+I've done a whole
+video on that.
+
+308
+00:14:31,050 --> 00:14:33,067
+It doesn't happen by magic.
+
+309
+00:14:33,067 --> 00:14:36,071
+And so the water will-- because
+this is hypertonic,
+
+310
+00:14:36,071 --> 00:14:39,062
+it's more salty, and this is
+only permeable to water, the
+
+311
+00:14:39,062 --> 00:14:42,092
+water will leave the membrane on
+the descending part of the
+
+312
+00:14:42,092 --> 00:14:44,055
+loop of Henle right now.
+
+313
+00:14:44,055 --> 00:14:48,071
+And this is a major part
+of water reabsorption.
+
+314
+00:14:48,071 --> 00:14:52,087
+I've thought a lot about why
+don't we use ATP somehow to
+
+315
+00:14:52,087 --> 00:14:54,036
+actively pump water?
+
+316
+00:14:54,036 --> 00:14:55,085
+And the answer there
+is, there's no
+
+317
+00:14:55,085 --> 00:14:56,064
+easy way to do that.
+
+318
+00:14:56,064 --> 00:15:01,012
+Biological systems are good at
+using ATP to pump out ions,
+
+319
+00:15:01,012 --> 00:15:03,036
+but it can't actively
+pump out water.
+
+320
+00:15:03,036 --> 00:15:06,036
+Water's kind of a hard thing
+for proteins to operate on.
+
+321
+00:15:06,036 --> 00:15:09,058
+So the solution is to make it
+salty out here by pumping out
+
+322
+00:15:09,058 --> 00:15:12,053
+ions and then water, if you
+make this porous only to
+
+323
+00:15:12,053 --> 00:15:14,075
+water, water will naturally
+flow out.
+
+324
+00:15:14,075 --> 00:15:18,016
+So this is a major mechanism of
+gaining back a lot of the
+
+325
+00:15:18,016 --> 00:15:20,082
+water that gets filtered
+out up here.
+
+326
+00:15:20,082 --> 00:15:23,038
+And the reason why this is so
+long is to give time for this
+
+327
+00:15:23,038 --> 00:15:27,055
+water to secrete out, and that's
+why it dips nice and
+
+328
+00:15:27,055 --> 00:15:31,049
+pretty far down into
+this salty portion.
+
+329
+00:15:31,049 --> 00:15:34,071
+So then we'll leave the loop of
+Henle and then we're almost
+
+330
+00:15:34,071 --> 00:15:36,011
+done with the nephron.
+
+331
+00:15:36,011 --> 00:15:38,078
+Then we're in another convoluted
+tubule, and you
+
+332
+00:15:38,078 --> 00:15:41,071
+might even guess the name of
+this convoluted tubule.
+
+333
+00:15:41,071 --> 00:15:44,086
+If this was the proximal one,
+this is the distal one.
+
+334
+00:15:44,086 --> 00:15:47,007
+And actually, just to make my
+drawing correct, it actually
+
+335
+00:15:47,007 --> 00:15:51,055
+passes very close to the
+Bowman's capsule, so let me do
+
+336
+00:15:51,055 --> 00:15:52,080
+it in a different color.
+
+337
+00:15:52,080 --> 00:15:57,023
+
+
+338
+00:15:57,023 --> 00:16:01,091
+The distal convoluted tubule
+actually goes pretty close to
+
+339
+00:16:01,091 --> 00:16:03,097
+the Bowman's capsule.
+
+340
+00:16:03,097 --> 00:16:06,000
+And once again, I've made
+it all convoluted in two
+
+341
+00:16:06,000 --> 00:16:07,074
+dimensions, but it's actually
+convoluted in three.
+
+342
+00:16:07,074 --> 00:16:09,084
+And it's not that long, but I
+just had to get over here and
+
+343
+00:16:09,084 --> 00:16:11,083
+I wanted to get over that
+point right there.
+
+344
+00:16:11,083 --> 00:16:12,083
+It's called distal.
+
+345
+00:16:12,083 --> 00:16:14,050
+Distal is further away.
+
+346
+00:16:14,050 --> 00:16:16,075
+It's convoluted and
+it's a tubule.
+
+347
+00:16:16,075 --> 00:16:24,045
+So this right here is the distal
+convoluted tubule, and
+
+348
+00:16:24,045 --> 00:16:27,069
+here we have more reabsorption:
+calcium, more
+
+349
+00:16:27,069 --> 00:16:28,082
+sodium reabsorption.
+
+350
+00:16:28,082 --> 00:16:31,025
+We're just reabsorbing more
+things that we didn't want to
+
+351
+00:16:31,025 --> 00:16:32,060
+lose in the first place.
+
+352
+00:16:32,060 --> 00:16:34,017
+There's a lot of things we
+could talk about what get
+
+353
+00:16:34,017 --> 00:16:36,033
+reabsorbed, but this is
+just the overview.
+
+354
+00:16:36,033 --> 00:16:39,087
+And we're also reabsorbing a
+little bit of more water.
+
+355
+00:16:39,087 --> 00:16:41,041
+But then at the end
+right here, our
+
+356
+00:16:41,041 --> 00:16:42,079
+filtrate has been processed.
+
+357
+00:16:42,079 --> 00:16:44,028
+A lot of the water's
+been taken out.
+
+358
+00:16:44,028 --> 00:16:45,075
+It's a lot more concentrated.
+
+359
+00:16:45,075 --> 00:16:47,070
+We've reabsorbed a
+lot of the salts,
+
+360
+00:16:47,070 --> 00:16:49,028
+electrolytes that we want.
+
+361
+00:16:49,028 --> 00:16:52,010
+We've reabsorbed the glucose and
+a lot of the amino acids.
+
+362
+00:16:52,010 --> 00:16:53,076
+Everything that we want,
+we've taken back.
+
+363
+00:16:53,076 --> 00:16:55,062
+We've reabsorbed.
+
+364
+00:16:55,062 --> 00:16:59,071
+And so this is mainly waste
+products and water that we
+
+365
+00:16:59,071 --> 00:17:01,066
+don't need anymore and then
+this gets dumped into
+
+366
+00:17:01,066 --> 00:17:02,091
+collecting ducts.
+
+367
+00:17:02,091 --> 00:17:05,014
+
+
+368
+00:17:05,014 --> 00:17:07,023
+And you can kind of view this
+as the trash chute of the
+
+369
+00:17:07,023 --> 00:17:12,038
+kidney, where multiple
+nephrons are going
+
+370
+00:17:12,038 --> 00:17:13,074
+to dump into this.
+
+371
+00:17:13,074 --> 00:17:16,096
+So that might be the distal
+tubule of another nephron
+
+372
+00:17:16,096 --> 00:17:22,000
+right here and this is a
+collecting duct, which is just
+
+373
+00:17:22,000 --> 00:17:23,056
+a tube that's collecting
+all the
+
+374
+00:17:23,056 --> 00:17:27,003
+byproducts of the nephrons.
+
+375
+00:17:27,003 --> 00:17:28,061
+And the interesting thing is
+that the collecting duct
+
+376
+00:17:28,061 --> 00:17:31,003
+further goes into the
+medulla again.
+
+377
+00:17:31,003 --> 00:17:34,021
+It goes into the medulla again
+to the salty part again.
+
+378
+00:17:34,021 --> 00:17:36,008
+So if we're talking about the
+collecting duct, maybe the
+
+379
+00:17:36,008 --> 00:17:40,040
+collecting ducts come back
+into the medulla, collecting
+
+380
+00:17:40,040 --> 00:17:43,006
+all of the filtrate from
+the different nephrons.
+
+381
+00:17:43,006 --> 00:17:46,085
+And because it goes back through
+that super salty spot
+
+382
+00:17:46,085 --> 00:17:50,024
+in the medulla, we actually
+have [a] hormone called
+
+383
+00:17:50,024 --> 00:17:54,053
+anti-diuretic hormone that
+can dictate how porous this
+
+384
+00:17:54,053 --> 00:18:00,091
+collecting tube is, and if it
+makes it very porous, it
+
+385
+00:18:00,091 --> 00:18:04,043
+allows more water to leave as we
+go to the medulla, because
+
+386
+00:18:04,043 --> 00:18:06,010
+this is very salty,
+so the water will
+
+387
+00:18:06,010 --> 00:18:07,069
+leave if this is porous.
+
+388
+00:18:07,069 --> 00:18:10,074
+And when we do that, what that
+does is it makes the
+
+389
+00:18:10,074 --> 00:18:13,009
+filtrate-- and we can maybe
+start calling it urine now--
+
+390
+00:18:13,009 --> 00:18:17,017
+even more concentrated so we
+lose even less water, and it
+
+391
+00:18:17,017 --> 00:18:19,049
+keeps collecting, collecting,
+collecting until we end up
+
+392
+00:18:19,049 --> 00:18:23,065
+here, and it leaves the kidney
+and goes via our ureters to
+
+393
+00:18:23,065 --> 00:18:25,002
+the urinary bladder.
+
+394
+00:18:25,002 --> 00:18:27,020
+So hopefully, you found
+that helpful.
+
+395
+00:18:27,020 --> 00:18:29,065
+I think the neatest thing here
+is just how we actively
+
+396
+00:18:29,065 --> 00:18:33,015
+reabsorb the water and how we--
+well, actually, in my
+
+397
+00:18:33,015 --> 00:18:36,076
+mind, that is the neatest part
+in the loop of Henle.

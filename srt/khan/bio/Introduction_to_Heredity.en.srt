@@ -1,0 +1,1599 @@
+1
+00:00:00,000 --> 00:00:00,049
+
+
+2
+00:00:00,049 --> 00:00:04,079
+Well, before we even knew what
+DNA was, much less how it was
+
+3
+00:00:04,079 --> 00:00:07,016
+structured or it was replicated
+or even before we
+
+4
+00:00:07,016 --> 00:00:11,001
+could look in and see meiosis
+happening in cells, we had the
+
+5
+00:00:11,001 --> 00:00:14,069
+general sense that offspring
+were the products of some
+
+6
+00:00:14,069 --> 00:00:16,048
+traits that their parents had.
+
+7
+00:00:16,048 --> 00:00:22,017
+That if I had a guy with blue
+eyes-- let me say this is the
+
+8
+00:00:22,017 --> 00:00:27,042
+blue-eyed guy right here --and
+then if he were to marry a
+
+9
+00:00:27,042 --> 00:00:32,079
+brown-eyed girl-- Let's say this
+is the brown-eyed girl.
+
+10
+00:00:32,079 --> 00:00:36,040
+Maybe make it a little
+bit more like a girl.
+
+11
+00:00:36,040 --> 00:00:39,045
+If he were to marry the
+brown-eyed girl there, that
+
+12
+00:00:39,045 --> 00:00:42,022
+most of the time, or maybe in
+all cases where we're dealing
+
+13
+00:00:42,022 --> 00:00:45,003
+with the brown-eyed girl,
+maybe their kids are
+
+14
+00:00:45,003 --> 00:00:46,086
+brown-eyed.
+
+15
+00:00:46,086 --> 00:00:50,021
+Let me do this so they have a
+little brown-eyed baby here.
+
+16
+00:00:50,021 --> 00:00:53,000
+
+
+17
+00:00:53,000 --> 00:00:54,097
+And this is just something--
+I mean, there's obviously
+
+18
+00:00:54,097 --> 00:00:57,042
+thousands of generations of
+human beings, and we've
+
+19
+00:00:57,042 --> 00:00:58,017
+observed this.
+
+20
+00:00:58,017 --> 00:01:00,059
+We've observed that kids look
+like their parents, that they
+
+21
+00:01:00,059 --> 00:01:05,028
+inherit some traits, and that
+some traits seem to dominate
+
+22
+00:01:05,028 --> 00:01:06,014
+other traits.
+
+23
+00:01:06,014 --> 00:01:09,095
+One example of that tends to
+be a darker pigmentation in
+
+24
+00:01:09,095 --> 00:01:11,056
+maybe the hair or the eyes.
+
+25
+00:01:11,056 --> 00:01:15,070
+Even if the other parent has
+light pigmentation, the darker
+
+26
+00:01:15,070 --> 00:01:17,090
+one seems to dominate, or
+sometimes, it actually ends up
+
+27
+00:01:17,090 --> 00:01:20,042
+being a mix, and we've seen
+that all around us.
+
+28
+00:01:20,042 --> 00:01:23,040
+Now, this study of what gets
+passed on and how it gets
+
+29
+00:01:23,040 --> 00:01:26,059
+passed on, it's much older than
+the study of DNA, which
+
+30
+00:01:26,059 --> 00:01:29,084
+was really kind of discovered
+or became a big deal in the
+
+31
+00:01:29,084 --> 00:01:31,010
+middle of the 20th century.
+
+32
+00:01:31,010 --> 00:01:32,081
+This was studied a long time.
+
+33
+00:01:32,081 --> 00:01:36,075
+And kind of the father of
+classical genetics and
+
+34
+00:01:36,075 --> 00:01:38,045
+heredity is Gregor Mendel.
+
+35
+00:01:38,045 --> 00:01:41,071
+
+
+36
+00:01:41,071 --> 00:01:45,065
+He was actually a monk, and he
+would mess around with plants
+
+37
+00:01:45,065 --> 00:01:48,079
+and cross them and see which
+traits got passed and which
+
+38
+00:01:48,079 --> 00:01:51,023
+traits didn't get passed and
+tried to get an understanding
+
+39
+00:01:51,023 --> 00:01:55,065
+of how traits are passed from
+one generation to another.
+
+40
+00:01:55,065 --> 00:02:02,009
+So when we do this, when we
+study this classical genetics,
+
+41
+00:02:02,009 --> 00:02:05,023
+I'm going to make a bunch of
+simplifying assumptions
+
+42
+00:02:05,023 --> 00:02:08,008
+because we know that most of
+these don't hold for most of
+
+43
+00:02:08,008 --> 00:02:11,013
+our genes, but it'll give us a
+little bit of sense of how to
+
+44
+00:02:11,013 --> 00:02:16,034
+predict what might happen
+in future generations.
+
+45
+00:02:16,034 --> 00:02:21,027
+So the first simplifying
+assumption I'll make is that
+
+46
+00:02:21,027 --> 00:02:24,084
+some traits have kind of this
+all or nothing property.
+
+47
+00:02:24,084 --> 00:02:26,068
+And we know that a lot
+of traits don't.
+
+48
+00:02:26,068 --> 00:02:28,068
+Let's say that there are in
+the world-- and this is a
+
+49
+00:02:28,068 --> 00:02:35,021
+gross oversimplification --let's
+say for eye color,
+
+50
+00:02:35,021 --> 00:02:38,052
+let's say that there
+are two alleles.
+
+51
+00:02:38,052 --> 00:02:40,038
+Now remember what
+an allele was.
+
+52
+00:02:40,038 --> 00:02:44,003
+An allele is a specific
+version of a gene.
+
+53
+00:02:44,003 --> 00:02:48,040
+So let's say that you could
+have blue eye color or you
+
+54
+00:02:48,040 --> 00:02:52,046
+could have brown eye color.
+
+55
+00:02:52,046 --> 00:02:55,021
+That we live in a universe where
+someone could only have
+
+56
+00:02:55,021 --> 00:02:58,031
+one of these two versions
+of the eye color gene.
+
+57
+00:02:58,031 --> 00:03:01,022
+We know that eye color is far
+more complex than that, so
+
+58
+00:03:01,022 --> 00:03:02,096
+this is just a simplification.
+
+59
+00:03:02,096 --> 00:03:04,034
+And let me just make
+up another one.
+
+60
+00:03:04,034 --> 00:03:14,011
+Let me say that, I don't know,
+maybe for tooth size, that's a
+
+61
+00:03:14,011 --> 00:03:17,059
+trait you won't see in any
+traditional biology textbook,
+
+62
+00:03:17,059 --> 00:03:23,046
+and let's say that there's one
+trait for big teeth and
+
+63
+00:03:23,046 --> 00:03:28,033
+there's another allele
+for small teeth.
+
+64
+00:03:28,033 --> 00:03:30,084
+And I want to make very clear
+this distinction between a
+
+65
+00:03:30,084 --> 00:03:32,009
+gene and an allele.
+
+66
+00:03:32,009 --> 00:03:35,022
+
+
+67
+00:03:35,022 --> 00:03:37,074
+I talked about Gregor Mendel,
+and he was doing this in the
+
+68
+00:03:37,074 --> 00:03:41,088
+1850s well before we knew what
+DNA was or what even
+
+69
+00:03:41,088 --> 00:03:48,059
+chromosomes were and how DNA was
+passed on, et cetera, but
+
+70
+00:03:48,059 --> 00:03:53,006
+let's go into the microbiology
+of it to understand the
+
+71
+00:03:53,006 --> 00:03:53,084
+difference.
+
+72
+00:03:53,084 --> 00:03:56,016
+So I have a chromosome.
+
+73
+00:03:56,016 --> 00:03:59,071
+Let's say on some chromosome--
+let me pick
+
+74
+00:03:59,071 --> 00:04:00,090
+some chromosome here.
+
+75
+00:04:00,090 --> 00:04:02,093
+Let's say this is
+some chromosome.
+
+76
+00:04:02,093 --> 00:04:04,059
+Let's say I got that
+from my dad.
+
+77
+00:04:04,059 --> 00:04:09,012
+And on this chromosome, there's
+some location here--
+
+78
+00:04:09,012 --> 00:04:11,055
+we could call that the locus on
+this chromosome where the
+
+79
+00:04:11,055 --> 00:04:15,033
+eye color gene is --that's
+the location of
+
+80
+00:04:15,033 --> 00:04:16,057
+the eye color gene.
+
+81
+00:04:16,057 --> 00:04:19,027
+Now, I have two chromosomes,
+one from my father and one
+
+82
+00:04:19,027 --> 00:04:22,000
+from my mother, so let's say
+that this is the chromosome
+
+83
+00:04:22,000 --> 00:04:23,025
+from my mother.
+
+84
+00:04:23,025 --> 00:04:26,001
+
+
+85
+00:04:26,001 --> 00:04:27,080
+We know that when they're
+normally in the cell, they
+
+86
+00:04:27,080 --> 00:04:30,018
+aren't nice and neatly organized
+like this in the
+
+87
+00:04:30,018 --> 00:04:32,086
+chromosome, but this is just to
+kind of show you the idea.
+
+88
+00:04:32,086 --> 00:04:35,068
+Let's say these are homologous
+chromosomes so they code for
+
+89
+00:04:35,068 --> 00:04:36,097
+the same genes.
+
+90
+00:04:36,097 --> 00:04:41,045
+So on this gene from my mother
+on that same location or
+
+91
+00:04:41,045 --> 00:04:45,070
+locus, there's also the
+eye color gene.
+
+92
+00:04:45,070 --> 00:04:51,001
+Now, I might have the same
+version of the gene and I'm
+
+93
+00:04:51,001 --> 00:04:52,075
+saying that there's only
+two versions of
+
+94
+00:04:52,075 --> 00:04:54,022
+this gene in the world.
+
+95
+00:04:54,022 --> 00:04:56,068
+Now, if I have the same version
+of the gene-- I'm
+
+96
+00:04:56,068 --> 00:04:58,050
+going to make a little
+shorthand notation.
+
+97
+00:04:58,050 --> 00:05:01,010
+I'm going to write big B--
+Actually, let me do
+
+98
+00:05:01,010 --> 00:05:02,000
+it the other way.
+
+99
+00:05:02,000 --> 00:05:04,004
+I'm going to write little b
+for blue and I'm going to
+
+100
+00:05:04,004 --> 00:05:07,042
+write big B for brown.
+
+101
+00:05:07,042 --> 00:05:11,020
+There's a situation where this
+could be a little b and this
+
+102
+00:05:11,020 --> 00:05:12,080
+could be a big B.
+
+103
+00:05:12,080 --> 00:05:17,000
+And then I could write that my
+genotype-- I have the allele,
+
+104
+00:05:17,000 --> 00:05:20,031
+I have one big B from my
+mom and I have one
+
+105
+00:05:20,031 --> 00:05:24,043
+small b from my dad.
+
+106
+00:05:24,043 --> 00:05:29,012
+Each of these instances, or
+ways that this gene is
+
+107
+00:05:29,012 --> 00:05:30,066
+expressed, is an allele.
+
+108
+00:05:30,066 --> 00:05:40,036
+So these are two different
+alleles-- let me write that
+
+109
+00:05:40,036 --> 00:05:42,087
+--or versions of
+the same gene.
+
+110
+00:05:42,087 --> 00:05:46,033
+And when I have two different
+versions like this, one
+
+111
+00:05:46,033 --> 00:05:50,013
+version from my mom, one version
+from my dad, I'm
+
+112
+00:05:50,013 --> 00:05:53,048
+called a heterozygote, or
+sometimes it's called a
+
+113
+00:05:53,048 --> 00:05:54,073
+heterozygous genotype.
+
+114
+00:05:54,073 --> 00:06:00,041
+
+
+115
+00:06:00,041 --> 00:06:05,000
+And the genotype is the exact
+version of the alleles I have.
+
+116
+00:06:05,000 --> 00:06:08,017
+Let's say I had the
+lowercase b.
+
+117
+00:06:08,017 --> 00:06:11,068
+I had the blue-eyed gene
+from both parents.
+
+118
+00:06:11,068 --> 00:06:16,004
+So let's say that I was
+lowercase b, lowercase b, then
+
+119
+00:06:16,004 --> 00:06:18,060
+I would have two identical
+alleles.
+
+120
+00:06:18,060 --> 00:06:21,083
+Both of my parents gave me the
+same version of the gene.
+
+121
+00:06:21,083 --> 00:06:29,093
+And this case, this genotype
+is homozygous, or this is a
+
+122
+00:06:29,093 --> 00:06:33,089
+homozygous genotype, or I'm a
+homozygote for this trait.
+
+123
+00:06:33,089 --> 00:06:36,039
+
+
+124
+00:06:36,039 --> 00:06:38,050
+Now, you might say,
+Sal, this is fine.
+
+125
+00:06:38,050 --> 00:06:43,039
+These are the traits that you
+have. I have a brown from
+
+126
+00:06:43,039 --> 00:06:47,055
+maybe my mom and a
+blue from my dad.
+
+127
+00:06:47,055 --> 00:06:50,085
+In this case, I have a blue
+from both my mom and dad.
+
+128
+00:06:50,085 --> 00:06:54,058
+How do we know whether my eyes
+are going to be brown or blue?
+
+129
+00:06:54,058 --> 00:06:56,089
+And the reality is it's
+very complex.
+
+130
+00:06:56,089 --> 00:06:58,041
+It's a whole mixture
+of things.
+
+131
+00:06:58,041 --> 00:07:02,082
+But Mendel, he studied
+things that showed
+
+132
+00:07:02,082 --> 00:07:04,007
+what we'll call dominance.
+
+133
+00:07:04,007 --> 00:07:09,025
+
+
+134
+00:07:09,025 --> 00:07:12,093
+And this is the idea that
+one of these traits
+
+135
+00:07:12,093 --> 00:07:14,008
+dominates the other.
+
+136
+00:07:14,008 --> 00:07:17,016
+So a lot of people originally
+thought that eye color,
+
+137
+00:07:17,016 --> 00:07:20,049
+especially blue eyes,
+was always dominated
+
+138
+00:07:20,049 --> 00:07:21,050
+by the other traits.
+
+139
+00:07:21,050 --> 00:07:23,013
+We'll assume that here,
+but that's a gross
+
+140
+00:07:23,013 --> 00:07:24,050
+oversimplification.
+
+141
+00:07:24,050 --> 00:07:34,019
+So let's say that brown
+eyes are dominant
+
+142
+00:07:34,019 --> 00:07:36,012
+and blue are recessive.
+
+143
+00:07:36,012 --> 00:07:39,031
+
+
+144
+00:07:39,031 --> 00:07:42,095
+I wanted to do that in blue.
+
+145
+00:07:42,095 --> 00:07:49,056
+Blue eyes are recessive.
+
+146
+00:07:49,056 --> 00:07:52,032
+If this is the case, and this
+is a-- As I've said
+
+147
+00:07:52,032 --> 00:07:55,073
+repeatedly, this is a gross
+oversimplification.
+
+148
+00:07:55,073 --> 00:08:00,067
+But if that is the case, then
+if I were to inherit this
+
+149
+00:08:00,067 --> 00:08:05,054
+genotype, because brown eyes
+are dominant-- remember, I
+
+150
+00:08:05,054 --> 00:08:12,039
+said the big B here represents
+brown eye and the lowercase b
+
+151
+00:08:12,039 --> 00:08:16,067
+is recessive --all you're going
+to see for the person
+
+152
+00:08:16,067 --> 00:08:19,044
+with this genotype
+is brown eyes.
+
+153
+00:08:19,044 --> 00:08:20,087
+So let me do this here.
+
+154
+00:08:20,087 --> 00:08:21,070
+Let me write this here.
+
+155
+00:08:21,070 --> 00:08:27,068
+So genotype, and then I'll
+write phenotype.
+
+156
+00:08:27,068 --> 00:08:31,002
+Genotype is the actual versions
+of the gene you have
+
+157
+00:08:31,002 --> 00:08:33,077
+and then the phenotypes
+are what's expressed
+
+158
+00:08:33,077 --> 00:08:35,002
+or what do you see.
+
+159
+00:08:35,002 --> 00:08:39,069
+
+
+160
+00:08:39,069 --> 00:08:43,086
+So if I get a brown-eyed gene
+from my dad-- And I want to do
+
+161
+00:08:43,086 --> 00:08:46,030
+it in a big-- I want
+to do it in brown.
+
+162
+00:08:46,030 --> 00:08:49,066
+Let me do it in brown so
+you don't get confused.
+
+163
+00:08:49,066 --> 00:08:54,049
+So if I've have a brown-eyed
+gene from my dad and a
+
+164
+00:08:54,049 --> 00:09:05,012
+blue-eyed gene from my mom,
+because the brown eye is
+
+165
+00:09:05,012 --> 00:09:08,058
+recessive, the brown-eyed allele
+is recessive-- And I
+
+166
+00:09:08,058 --> 00:09:11,037
+just said a brown-eyed gene, but
+what I should say is the
+
+167
+00:09:11,037 --> 00:09:13,087
+brown-eyed version of the
+gene, which is the brown
+
+168
+00:09:13,087 --> 00:09:16,082
+allele, or the blue-eyed version
+of the gene from my
+
+169
+00:09:16,082 --> 00:09:18,088
+mom, which is the blue allele.
+
+170
+00:09:18,088 --> 00:09:22,028
+Since the brown allele is
+dominant-- I wrote that up
+
+171
+00:09:22,028 --> 00:09:25,040
+here --what's going to be
+expressed are brown eyes.
+
+172
+00:09:25,040 --> 00:09:30,083
+
+
+173
+00:09:30,083 --> 00:09:34,045
+Now, let's say I had
+it the other way.
+
+174
+00:09:34,045 --> 00:09:39,085
+Let's say I got a blue-eyed
+allele from my dad and I get a
+
+175
+00:09:39,085 --> 00:09:41,075
+brown-eyed allele for my mom.
+
+176
+00:09:41,075 --> 00:09:42,049
+Same thing.
+
+177
+00:09:42,049 --> 00:09:46,094
+The phenotype is going
+to be brown eyes.
+
+178
+00:09:46,094 --> 00:09:49,073
+Now, what if I get a brown-eyed
+allele from both my
+
+179
+00:09:49,073 --> 00:09:52,047
+mom and my dad?
+
+180
+00:09:52,047 --> 00:09:54,092
+Let me see, I keep changing
+the shade of brown, but
+
+181
+00:09:54,092 --> 00:09:55,096
+they're all supposed
+to be the same.
+
+182
+00:09:55,096 --> 00:09:59,012
+So let's say I get two dominant
+brown-eyed alleles
+
+183
+00:09:59,012 --> 00:10:00,082
+from my mom and my dad.
+
+184
+00:10:00,082 --> 00:10:01,076
+Then what are you
+going to see?
+
+185
+00:10:01,076 --> 00:10:02,063
+Well, you could guess that.
+
+186
+00:10:02,063 --> 00:10:08,027
+I'm still going to
+see brown eyes.
+
+187
+00:10:08,027 --> 00:10:10,057
+So there's only one last
+combination because these are
+
+188
+00:10:10,057 --> 00:10:12,079
+the only two types of alleles
+we might see in our
+
+189
+00:10:12,079 --> 00:10:15,050
+population, although for
+most genes, there's
+
+190
+00:10:15,050 --> 00:10:16,071
+more than two types.
+
+191
+00:10:16,071 --> 00:10:18,039
+For example, there's
+blood types.
+
+192
+00:10:18,039 --> 00:10:21,049
+There's four types of blood.
+
+193
+00:10:21,049 --> 00:10:25,053
+But let's say that I get two
+blue, one blue allele from
+
+194
+00:10:25,053 --> 00:10:30,039
+each of my parents, one from
+my dad, one from my mom.
+
+195
+00:10:30,039 --> 00:10:33,008
+Then all of a sudden, this is a
+recessive trait, but there's
+
+196
+00:10:33,008 --> 00:10:34,054
+nothing to dominate it.
+
+197
+00:10:34,054 --> 00:10:39,012
+So, all of a sudden, the
+phenotype will be blue eyes.
+
+198
+00:10:39,012 --> 00:10:42,037
+And I want to repeat again, this
+isn't necessarily how the
+
+199
+00:10:42,037 --> 00:10:45,012
+alleles for eye color work, but
+it's a nice simplification
+
+200
+00:10:45,012 --> 00:10:48,037
+to maybe understand how
+heredity works.
+
+201
+00:10:48,037 --> 00:10:52,003
+There are some traits that can
+be studied in this simple way.
+
+202
+00:10:52,003 --> 00:10:54,091
+But what I wanted to do here
+is to show you that many
+
+203
+00:10:54,091 --> 00:10:58,097
+different genotypes-- so these
+are all different genotypes
+
+204
+00:10:58,097 --> 00:11:02,009
+--they all coded for
+the same phenotype.
+
+205
+00:11:02,009 --> 00:11:05,000
+So just by looking at someone's
+eye color, you
+
+206
+00:11:05,000 --> 00:11:09,000
+didn't know exactly whether
+they were homozygous
+
+207
+00:11:09,000 --> 00:11:16,074
+dominant-- this would be
+homozygous dominant --or
+
+208
+00:11:16,074 --> 00:11:19,008
+whether they were
+heterozygotes.
+
+209
+00:11:19,008 --> 00:11:21,035
+This is heterozygous
+right here.
+
+210
+00:11:21,035 --> 00:11:23,064
+These two right here
+are heterozygotes.
+
+211
+00:11:23,064 --> 00:11:27,099
+
+
+212
+00:11:27,099 --> 00:11:31,067
+These are also sometimes called
+hybrids, but the word
+
+213
+00:11:31,067 --> 00:11:33,060
+hybrid is kind of overloaded.
+
+214
+00:11:33,060 --> 00:11:36,079
+It's used a lot, but in this
+context, it means that you got
+
+215
+00:11:36,079 --> 00:11:40,094
+different versions of the
+allele for that gene.
+
+216
+00:11:40,094 --> 00:11:43,074
+So let's think a little bit
+about what's actually
+
+217
+00:11:43,074 --> 00:11:48,015
+happening when my mom and
+my dad reproduced.
+
+218
+00:11:48,015 --> 00:11:50,097
+
+
+219
+00:11:50,097 --> 00:11:53,010
+Well, let's think of a couple
+of different scenarios.
+
+220
+00:11:53,010 --> 00:11:55,095
+
+
+221
+00:11:55,095 --> 00:11:57,062
+Let's say that they're
+both hybrids.
+
+222
+00:11:57,062 --> 00:12:03,047
+My dad has the brown-eyed
+dominant allele and he also
+
+223
+00:12:03,047 --> 00:12:08,001
+has the blue-eyed recessive
+allele.
+
+224
+00:12:08,001 --> 00:12:11,055
+Let's say my mom has the same
+thing, so brown-eyed dominant,
+
+225
+00:12:11,055 --> 00:12:14,077
+and she also has the blue-eyed
+recessive allele.
+
+226
+00:12:14,077 --> 00:12:17,087
+Now let's think about if these
+two people, before you see
+
+227
+00:12:17,087 --> 00:12:20,062
+what my eye color is, if you
+said, look, I'm giving you
+
+228
+00:12:20,062 --> 00:12:22,075
+what these two people's
+genotypes are.
+
+229
+00:12:22,075 --> 00:12:24,000
+Let me label them.
+
+230
+00:12:24,000 --> 00:12:26,020
+
+
+231
+00:12:26,020 --> 00:12:27,078
+Let me make this the mom.
+
+232
+00:12:27,078 --> 00:12:30,009
+I think this is the standard
+convention.
+
+233
+00:12:30,009 --> 00:12:34,073
+And let's make this right
+here, this is the dad.
+
+234
+00:12:34,073 --> 00:12:37,090
+What are the different genotypes
+that their children
+
+235
+00:12:37,090 --> 00:12:38,049
+could have?
+
+236
+00:12:38,049 --> 00:12:40,062
+So let's say they reproduce.
+
+237
+00:12:40,062 --> 00:12:44,009
+I'm going to draw a
+little grid here.
+
+238
+00:12:44,009 --> 00:12:45,065
+So let me draw a grid.
+
+239
+00:12:45,065 --> 00:12:50,038
+
+
+240
+00:12:50,038 --> 00:12:55,099
+So we know from our study of
+meiosis that, look, my mom has
+
+241
+00:12:55,099 --> 00:12:59,087
+this gene on-- Let me draw
+the genes again.
+
+242
+00:12:59,087 --> 00:13:02,024
+So there's a homologous
+pair, right?
+
+243
+00:13:02,024 --> 00:13:04,087
+This is one chromosome
+right here.
+
+244
+00:13:04,087 --> 00:13:07,007
+That's another chromosome
+right there.
+
+245
+00:13:07,007 --> 00:13:10,012
+On this chromosome in the
+homologous pair, there might
+
+246
+00:13:10,012 --> 00:13:16,075
+be-- at the eye color locus
+--there's the brown-eyed gene.
+
+247
+00:13:16,075 --> 00:13:19,047
+And at this one, at the eye
+color locus, there's a
+
+248
+00:13:19,047 --> 00:13:20,088
+blue-eyed gene.
+
+249
+00:13:20,088 --> 00:13:24,062
+And similarly from my dad, when
+you look at that same
+
+250
+00:13:24,062 --> 00:13:28,030
+chromosome in his cells-- Let
+me do them like this.
+
+251
+00:13:28,030 --> 00:13:30,074
+So this is one chromosome there
+and this is the other
+
+252
+00:13:30,074 --> 00:13:32,075
+chromosome here.
+
+253
+00:13:32,075 --> 00:13:35,012
+When you look at that locus
+on this chromosome or that
+
+254
+00:13:35,012 --> 00:13:37,087
+location, it has the brown-eyed
+allele for that
+
+255
+00:13:37,087 --> 00:13:40,037
+gene, and on this one,
+it has the blue-eyed
+
+256
+00:13:40,037 --> 00:13:41,059
+allele on this gene.
+
+257
+00:13:41,059 --> 00:13:44,067
+And we learn from meiosis when
+the chromosomes-- Well, they
+
+258
+00:13:44,067 --> 00:13:47,058
+replicate first, and so you have
+these two chromatids on a
+
+259
+00:13:47,058 --> 00:13:48,013
+chromosome.
+
+260
+00:13:48,013 --> 00:13:51,051
+But they line up in meiosis
+I during the metaphase.
+
+261
+00:13:51,051 --> 00:13:53,022
+And we don't know which
+way they line up.
+
+262
+00:13:53,022 --> 00:13:56,050
+For example, my dad might give
+me this chromosome or might
+
+263
+00:13:56,050 --> 00:13:57,062
+give me that chromosome.
+
+264
+00:13:57,062 --> 00:13:59,078
+Or my mom might give me that
+chromosome or might give me
+
+265
+00:13:59,078 --> 00:14:00,082
+that chromosome.
+
+266
+00:14:00,082 --> 00:14:02,075
+So I could have any of
+these combinations.
+
+267
+00:14:02,075 --> 00:14:06,053
+So, for example, if I get this
+chromosome from my mom and
+
+268
+00:14:06,053 --> 00:14:09,075
+this chromosome from my dad,
+what is the genotype going to
+
+269
+00:14:09,075 --> 00:14:11,000
+be for eye color?
+
+270
+00:14:11,000 --> 00:14:16,076
+Well, it's going to be capital
+B and capital B.
+
+271
+00:14:16,076 --> 00:14:21,050
+If I get this chromosome from
+my mom and this chromosome
+
+272
+00:14:21,050 --> 00:14:22,062
+from my dad, what's
+it going to be?
+
+273
+00:14:22,062 --> 00:14:28,033
+Well, I'm going to get the big
+B from my dad and then I'm
+
+274
+00:14:28,033 --> 00:14:30,078
+going to get the lowercase
+b from my mom.
+
+275
+00:14:30,078 --> 00:14:32,078
+So this is another
+possibility.
+
+276
+00:14:32,078 --> 00:14:35,050
+Now, this is another possibility
+here where I get
+
+277
+00:14:35,050 --> 00:14:42,049
+the brown-eyed allele from my
+mom and I get the blue eye
+
+278
+00:14:42,049 --> 00:14:44,037
+allele from my dad.
+
+279
+00:14:44,037 --> 00:14:47,035
+And then there's a possibility
+that I get this chromosome
+
+280
+00:14:47,035 --> 00:14:51,025
+from my dad and this chromosome
+from my mom, so
+
+281
+00:14:51,025 --> 00:14:53,051
+it's this situation.
+
+282
+00:14:53,051 --> 00:14:55,070
+Now, what are the phenotypes
+going to be?
+
+283
+00:14:55,070 --> 00:14:58,028
+Well, we've already seen that
+this one right here is going
+
+284
+00:14:58,028 --> 00:15:03,008
+to be brown, that one's going to
+be brown, this one's going
+
+285
+00:15:03,008 --> 00:15:06,025
+to be brown, but this one
+is going to be blue.
+
+286
+00:15:06,025 --> 00:15:07,086
+I already showed you this.
+
+287
+00:15:07,086 --> 00:15:09,098
+But if I were to tell you ahead
+of time that, look, I
+
+288
+00:15:09,098 --> 00:15:11,009
+have two people.
+
+289
+00:15:11,009 --> 00:15:13,098
+They're both hybrids, or they're
+both heterozygotes for
+
+290
+00:15:13,098 --> 00:15:16,061
+eye color, and eye
+color has this
+
+291
+00:15:16,061 --> 00:15:18,033
+recessive dominant situation.
+
+292
+00:15:18,033 --> 00:15:22,052
+And they're both heterozygotes
+where they each have one brown
+
+293
+00:15:22,052 --> 00:15:24,098
+allele and one blue allele, and
+they're going to have a
+
+294
+00:15:24,098 --> 00:15:28,083
+child, what's the probability
+that the child has brown eyes?
+
+295
+00:15:28,083 --> 00:15:35,066
+
+
+296
+00:15:35,066 --> 00:15:37,016
+What's the probability?
+
+297
+00:15:37,016 --> 00:15:40,072
+Well, each of these scenarios
+are equally likely, right?
+
+298
+00:15:40,072 --> 00:15:42,039
+There's four equal scenarios.
+
+299
+00:15:42,039 --> 00:15:44,012
+So let's put that in
+the denominator.
+
+300
+00:15:44,012 --> 00:15:45,095
+Four equal scenarios.
+
+301
+00:15:45,095 --> 00:15:48,011
+And how many of those
+scenarios end
+
+302
+00:15:48,011 --> 00:15:49,077
+up with brown eyes?
+
+303
+00:15:49,077 --> 00:15:52,011
+Well, it's one, two, three.
+
+304
+00:15:52,011 --> 00:15:58,077
+So the probability is 3/4, or
+it's a 75% probability.
+
+305
+00:15:58,077 --> 00:16:01,083
+Same logic, what's the
+probability that these parents
+
+306
+00:16:01,083 --> 00:16:04,064
+produce an offspring
+with blue eyes?
+
+307
+00:16:04,064 --> 00:16:07,027
+Well, that's only one of
+the four equally likely
+
+308
+00:16:07,027 --> 00:16:15,084
+possibilities, so blue
+eyes is only 25%.
+
+309
+00:16:15,084 --> 00:16:19,039
+Now, what is the probability
+that they produce a
+
+310
+00:16:19,039 --> 00:16:20,038
+heterozygote?
+
+311
+00:16:20,038 --> 00:16:23,012
+So what is the probability
+that they produce a
+
+312
+00:16:23,012 --> 00:16:24,042
+heterozygous offspring?
+
+313
+00:16:24,042 --> 00:16:27,036
+
+
+314
+00:16:27,036 --> 00:16:29,029
+So now we're not looking at
+the phenotype anymore.
+
+315
+00:16:29,029 --> 00:16:31,004
+We're looking at the genotype.
+
+316
+00:16:31,004 --> 00:16:34,030
+So of these combinations,
+which are heterozygous?
+
+317
+00:16:34,030 --> 00:16:36,057
+Well, this one is, because
+it has a mix.
+
+318
+00:16:36,057 --> 00:16:37,036
+It's a hybrid.
+
+319
+00:16:37,036 --> 00:16:39,037
+It has a mix of the
+two alleles.
+
+320
+00:16:39,037 --> 00:16:41,016
+And so is this one.
+
+321
+00:16:41,016 --> 00:16:42,022
+So what's the probability?
+
+322
+00:16:42,022 --> 00:16:45,004
+Well, there's four different
+combinations.
+
+323
+00:16:45,004 --> 00:16:48,001
+All of those are equally likely,
+and two of them result
+
+324
+00:16:48,001 --> 00:16:49,020
+in a heterozygote.
+
+325
+00:16:49,020 --> 00:16:54,058
+So it's 2/4 or 1/2 or 50%.
+
+326
+00:16:54,058 --> 00:16:56,057
+So using this Punnett square,
+and, of course, we had to make
+
+327
+00:16:56,057 --> 00:16:59,087
+a lot of assumptions about the
+genes and whether one's
+
+328
+00:16:59,087 --> 00:17:02,004
+dominant or one's a recessive,
+we can start to make
+
+329
+00:17:02,004 --> 00:17:03,087
+predictions about the
+probabilities
+
+330
+00:17:03,087 --> 00:17:05,052
+of different outcomes.
+
+331
+00:17:05,052 --> 00:17:07,029
+And as we'll see in future
+videos, you can actually even
+
+332
+00:17:07,029 --> 00:17:07,097
+go backwards.
+
+333
+00:17:07,097 --> 00:17:10,068
+You can say, hey, given that
+this couple had five kids with
+
+334
+00:17:10,068 --> 00:17:14,016
+brown eyes, what's the
+probability that they're both
+
+335
+00:17:14,016 --> 00:17:15,081
+heterozygotes, or something
+like that.
+
+336
+00:17:15,081 --> 00:17:19,000
+So it's a really interesting
+area, even though it is a bit
+
+337
+00:17:19,000 --> 00:17:20,049
+of oversimplification.
+
+338
+00:17:20,049 --> 00:17:23,075
+But many traits, especially some
+of the things that Gregor
+
+339
+00:17:23,075 --> 00:17:27,019
+Mendel studied, can be
+studied in this way.

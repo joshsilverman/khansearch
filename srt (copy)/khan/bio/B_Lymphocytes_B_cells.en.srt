@@ -1,0 +1,1255 @@
+1
+00:00:00,000 --> 00:00:00,025
+
+
+2
+00:00:00,025 --> 00:00:04,087
+Let's just talk about the
+humoral response right now,
+
+3
+00:00:04,087 --> 00:00:08,017
+that deals with B lymphocytes.
+
+4
+00:00:08,017 --> 00:00:15,033
+So B lymphocytes or B cells--
+let me do them in blue.
+
+5
+00:00:15,033 --> 00:00:18,019
+So let's say that that
+is a B lymphocyte.
+
+6
+00:00:18,019 --> 00:00:21,071
+It's a subset of white blood
+cells called lymphocytes.
+
+7
+00:00:21,071 --> 00:00:25,035
+It comes from the bone marrow
+and that's where the-- well,
+
+8
+00:00:25,035 --> 00:00:27,035
+the B comes from bursa of
+Fabricius, but we don't want
+
+9
+00:00:27,035 --> 00:00:28,044
+to go into detail there.
+
+10
+00:00:28,044 --> 00:00:30,076
+But they have all of these
+proteins on their surface.
+
+11
+00:00:30,076 --> 00:00:34,028
+Actually, close to
+10,000 of them.
+
+12
+00:00:34,028 --> 00:00:35,089
+I get very excited about
+B cells and I'll tell
+
+13
+00:00:35,089 --> 00:00:36,054
+you why in a second.
+
+14
+00:00:36,054 --> 00:00:39,039
+It has all of these proteins
+on them that look
+
+15
+00:00:39,039 --> 00:00:41,075
+something like this.
+
+16
+00:00:41,075 --> 00:00:43,011
+I'll just draw a
+couple of them.
+
+17
+00:00:43,011 --> 00:00:46,024
+
+
+18
+00:00:46,024 --> 00:00:48,074
+These are actually protein
+complexes, you can
+
+19
+00:00:48,074 --> 00:00:49,032
+kind of view them.
+
+20
+00:00:49,032 --> 00:00:52,038
+They actually have four separate
+proteins on them and
+
+21
+00:00:52,038 --> 00:00:57,021
+we can call these proteins
+membrane bound antibodies.
+
+22
+00:00:57,021 --> 00:01:10,098
+
+
+23
+00:01:10,098 --> 00:01:13,045
+And I'll talk a lot more
+about antibodies.
+
+24
+00:01:13,045 --> 00:01:14,092
+You've probably heard
+the word.
+
+25
+00:01:14,092 --> 00:01:17,085
+You have antibodies for such and
+such flu, or such and such
+
+26
+00:01:17,085 --> 00:01:20,079
+virus, and we're going to talk
+more about that in the future,
+
+27
+00:01:20,079 --> 00:01:25,006
+but antibodies are
+just proteins.
+
+28
+00:01:25,006 --> 00:01:27,032
+They're often referred to
+as immunoglobulins.
+
+29
+00:01:27,032 --> 00:01:36,012
+
+
+30
+00:01:36,012 --> 00:01:39,035
+These are essentially
+equivalent words.
+
+31
+00:01:39,035 --> 00:01:44,000
+Antibodies or immunoglobulins--
+and they're
+
+32
+00:01:44,000 --> 00:01:45,056
+really just proteins.
+
+33
+00:01:45,056 --> 00:01:50,064
+Now, B cells have these on the
+surface of their membranes.
+
+34
+00:01:50,064 --> 00:01:52,029
+These are membrane bound.
+
+35
+00:01:52,029 --> 00:01:54,004
+Usually when people talk about
+antibodies, they're talking
+
+36
+00:01:54,004 --> 00:02:00,014
+about free antibodies that are
+going to just be floating
+
+37
+00:02:00,014 --> 00:02:01,026
+around like that.
+
+38
+00:02:01,026 --> 00:02:03,040
+And I'm going to go into
+more detail on
+
+39
+00:02:03,040 --> 00:02:04,076
+how those are produced.
+
+40
+00:02:04,076 --> 00:02:08,000
+Now what's really, really,
+really, really, really
+
+41
+00:02:08,000 --> 00:02:11,097
+interesting about these membrane
+bound antibodies and
+
+42
+00:02:11,097 --> 00:02:17,021
+these B cells in particular is
+that a B cell has one type of
+
+43
+00:02:17,021 --> 00:02:19,024
+membrane bound antibody
+on it .
+
+44
+00:02:19,024 --> 00:02:27,019
+
+
+45
+00:02:27,019 --> 00:02:29,072
+It's going to also have
+antibodies, but those
+
+46
+00:02:29,072 --> 00:02:32,015
+antibodies are going
+to be different.
+
+47
+00:02:32,015 --> 00:02:34,091
+So we'll focus on where
+they're different.
+
+48
+00:02:34,091 --> 00:02:37,036
+Let me just draw them the same
+color first and then we'll
+
+49
+00:02:37,036 --> 00:02:38,080
+focus on where they're
+different.
+
+50
+00:02:38,080 --> 00:02:45,053
+
+
+51
+00:02:45,053 --> 00:02:46,084
+These are both B cells.
+
+52
+00:02:46,084 --> 00:02:49,018
+They both have these
+antibodies on them.
+
+53
+00:02:49,018 --> 00:02:54,012
+The interesting thing is that
+from one B cell to another B
+
+54
+00:02:54,012 --> 00:03:00,019
+cell, they have a variable part
+on this antibody that
+
+55
+00:03:00,019 --> 00:03:02,078
+could take on a bunch of
+different forms. So this one
+
+56
+00:03:02,078 --> 00:03:06,096
+might look like that and that.
+
+57
+00:03:06,096 --> 00:03:09,071
+So these long-- I'll go into
+more detail on that.
+
+58
+00:03:09,071 --> 00:03:17,006
+
+
+59
+00:03:17,006 --> 00:03:19,059
+The fixed portion, you can
+imagine is green for any kind
+
+60
+00:03:19,059 --> 00:03:22,050
+of antibody, and then there's
+a variable portion.
+
+61
+00:03:22,050 --> 00:03:24,071
+So maybe this guy's variable
+portion is--
+
+62
+00:03:24,071 --> 00:03:25,090
+I'll do it in pink.
+
+63
+00:03:25,090 --> 00:03:28,052
+And every one of the antibodies
+bound to his
+
+64
+00:03:28,052 --> 00:03:32,021
+membrane are going to have that
+same variable portion.
+
+65
+00:03:32,021 --> 00:03:34,009
+This different B cell
+is going to have
+
+66
+00:03:34,009 --> 00:03:36,031
+different variable portions.
+
+67
+00:03:36,031 --> 00:03:38,063
+So I'll do that in a
+different color.
+
+68
+00:03:38,063 --> 00:03:40,027
+Maybe I'll do it in magenta.
+
+69
+00:03:40,027 --> 00:03:42,068
+So his variable portions are
+going to be different.
+
+70
+00:03:42,068 --> 00:03:47,084
+
+
+71
+00:03:47,084 --> 00:03:50,040
+Now he has 10,000 of these on
+a surface and every one of
+
+72
+00:03:50,040 --> 00:03:53,016
+these have the same variable
+portions, but they're all
+
+73
+00:03:53,016 --> 00:03:57,059
+different from the variable
+portions on this B cell.
+
+74
+00:03:57,059 --> 00:04:00,011
+There's actually 10 billion
+different combinations of
+
+75
+00:04:00,011 --> 00:04:01,036
+variable portions.
+
+76
+00:04:01,036 --> 00:04:14,058
+
+
+77
+00:04:14,058 --> 00:04:16,077
+So the first question-- and I
+haven't even told you what the
+
+78
+00:04:16,077 --> 00:04:19,063
+variable portions are good for--
+is, how do that many
+
+79
+00:04:19,063 --> 00:04:21,014
+different combinations arise?
+
+80
+00:04:21,014 --> 00:04:23,099
+Obviously these proteins-- or
+maybe not so obviously-- all
+
+81
+00:04:23,099 --> 00:04:27,042
+these proteins that are part of
+most cells are produced by
+
+82
+00:04:27,042 --> 00:04:29,019
+the genes of that cell.
+
+83
+00:04:29,019 --> 00:04:32,019
+So if I draw-- this
+is the nucleus.
+
+84
+00:04:32,019 --> 00:04:34,005
+It's got DNA inside
+the nucleus.
+
+85
+00:04:34,005 --> 00:04:35,024
+This guy has a nucleus.
+
+86
+00:04:35,024 --> 00:04:37,036
+It's got DNA inside
+the nucleus.
+
+87
+00:04:37,036 --> 00:04:41,041
+If these guys are both B cells
+and they're both coming from
+
+88
+00:04:41,041 --> 00:04:46,000
+the same germ line, they're
+coming from the same, I guess,
+
+89
+00:04:46,000 --> 00:04:49,018
+ancestry of cells, shouldn't
+they have the same DNA?
+
+90
+00:04:49,018 --> 00:04:57,093
+
+
+91
+00:04:57,093 --> 00:05:01,030
+If they do have the same DNA,
+why are the proteins that
+
+92
+00:05:01,030 --> 00:05:03,052
+they're constructing
+different?
+
+93
+00:05:03,052 --> 00:05:04,080
+How do they change?
+
+94
+00:05:04,080 --> 00:05:08,008
+And this is why I find B cells--
+and you'll see this is
+
+95
+00:05:08,008 --> 00:05:11,072
+also true of T cells-- to be
+fascinating is, in their
+
+96
+00:05:11,072 --> 00:05:17,093
+development, in their
+hematopoiesis-- that's just
+
+97
+00:05:17,093 --> 00:05:20,061
+the development of these
+lymphocytes.
+
+98
+00:05:20,061 --> 00:05:22,095
+At one stage in their
+development, there's just a
+
+99
+00:05:22,095 --> 00:05:25,099
+lot of shuffling of the portion
+of their DNA that
+
+100
+00:05:25,099 --> 00:05:30,019
+codes for here, for these
+parts of the protein.
+
+101
+00:05:30,019 --> 00:05:33,099
+There's just a lot of shuffling
+that occurs.
+
+102
+00:05:33,099 --> 00:05:36,007
+Most of when we talk about
+DNA, we really want to
+
+103
+00:05:36,007 --> 00:05:38,050
+preserve the information, not
+have a lot of shuffling.
+
+104
+00:05:38,050 --> 00:05:42,011
+But when these lymphocytes,
+when these B cells are
+
+105
+00:05:42,011 --> 00:05:46,026
+maturing, at one stage of their
+maturation or their
+
+106
+00:05:46,026 --> 00:05:50,012
+development, there's intentional
+reshuffling of the
+
+107
+00:05:50,012 --> 00:05:52,049
+DNA that codes for this
+part and this part.
+
+108
+00:05:52,049 --> 00:05:56,016
+And that's what leads to all
+of the diversity in the
+
+109
+00:05:56,016 --> 00:05:58,098
+variable portions on these
+membrane bound
+
+110
+00:05:58,098 --> 00:05:59,076
+immunoglobulins.
+
+111
+00:05:59,076 --> 00:06:02,062
+And we're about to find out why
+there's that diversity.
+
+112
+00:06:02,062 --> 00:06:07,088
+So there's tons of stuff that
+can infect your body.
+
+113
+00:06:07,088 --> 00:06:12,022
+Viruses are are mutating and
+evolving and so are bacteria.
+
+114
+00:06:12,022 --> 00:06:14,049
+You don't know what's going
+to enter your body.
+
+115
+00:06:14,049 --> 00:06:18,048
+So what the immune system has
+done through B cells-- and
+
+116
+00:06:18,048 --> 00:06:22,019
+we'll also see it through T
+cells-- it says, hey, let me
+
+117
+00:06:22,019 --> 00:06:24,093
+just make a bunch of
+combinations of these things
+
+118
+00:06:24,093 --> 00:06:28,047
+that can essentially bind
+to whatever I get to.
+
+119
+00:06:28,047 --> 00:06:33,000
+So let's say that there's
+just some new virus
+
+120
+00:06:33,000 --> 00:06:34,089
+that shows up, right?
+
+121
+00:06:34,089 --> 00:06:40,018
+The world has never seen this
+virus before this B cell,
+
+122
+00:06:40,018 --> 00:06:42,093
+it'll bump into this virus and
+this virus won't attach.
+
+123
+00:06:42,093 --> 00:06:44,075
+Another B cell will bump
+into this virus
+
+124
+00:06:44,075 --> 00:06:45,074
+and it won't attach.
+
+125
+00:06:45,074 --> 00:06:49,037
+And maybe several thousands of
+B cells will bump into this
+
+126
+00:06:49,037 --> 00:06:52,062
+virus and it won't attach, but
+since I have so many B cells
+
+127
+00:06:52,062 --> 00:06:55,062
+having so many different
+combinations of these variable
+
+128
+00:06:55,062 --> 00:06:59,056
+portions on these receptors,
+eventually one of these B
+
+129
+00:06:59,056 --> 00:07:00,064
+cells is going to bond.
+
+130
+00:07:00,064 --> 00:07:01,089
+Maybe it's this one.
+
+131
+00:07:01,089 --> 00:07:06,012
+
+
+132
+00:07:06,012 --> 00:07:09,062
+He's going to bond to part of
+the surface of this virus.
+
+133
+00:07:09,062 --> 00:07:13,043
+It could also be to part of a
+surface of a new bacteria, or
+
+134
+00:07:13,043 --> 00:07:16,062
+part of a surface for some
+foreign protein.
+
+135
+00:07:16,062 --> 00:07:21,007
+And part of the surface that it
+binds on the bacteria-- so
+
+136
+00:07:21,007 --> 00:07:24,005
+maybe it binds on that part of
+the bacteria-- this is called
+
+137
+00:07:24,005 --> 00:07:25,030
+an epitope.
+
+138
+00:07:25,030 --> 00:07:28,035
+
+
+139
+00:07:28,035 --> 00:07:33,019
+So once this guy binds to some
+foreign pathogen-- and
+
+140
+00:07:33,019 --> 00:07:35,073
+remember, the other B cells
+won't-- only the particular
+
+141
+00:07:35,073 --> 00:07:37,079
+one that had the particular
+combination, one of
+
+142
+00:07:37,079 --> 00:07:38,075
+the 10 to the 10th.
+
+143
+00:07:38,075 --> 00:07:41,000
+And actually, there aren't 10
+to the 10th combinations.
+
+144
+00:07:41,000 --> 00:07:43,031
+During their development,
+they weed out all of the
+
+145
+00:07:43,031 --> 00:07:48,075
+combinations that would bind to
+things that are essentially
+
+146
+00:07:48,075 --> 00:07:52,006
+you, that there shouldn't be
+an immune response to.
+
+147
+00:07:52,006 --> 00:08:00,035
+So we could say self-responding
+combinations
+
+148
+00:08:00,035 --> 00:08:02,055
+weeded out.
+
+149
+00:08:02,055 --> 00:08:04,094
+So there actually aren't 10
+to the 10th, 10 billion
+
+150
+00:08:04,094 --> 00:08:06,068
+combinations of these--
+something smaller than that.
+
+151
+00:08:06,068 --> 00:08:08,093
+You have to take out all the
+combinations that would have
+
+152
+00:08:08,093 --> 00:08:12,076
+bound to your own cells, but
+there's still a super huge
+
+153
+00:08:12,076 --> 00:08:15,000
+number of combinations that are
+very likely to bond, at
+
+154
+00:08:15,000 --> 00:08:17,045
+least to some part of some
+pathogen of some
+
+155
+00:08:17,045 --> 00:08:19,019
+virus or some bacteria.
+
+156
+00:08:19,019 --> 00:08:22,068
+And as soon as one of these B
+cells binds, it says, hey
+
+157
+00:08:22,068 --> 00:08:26,064
+guys, I'm the lucky guy who
+happens to fit exactly this
+
+158
+00:08:26,064 --> 00:08:28,011
+brand new pathogen.
+
+159
+00:08:28,011 --> 00:08:36,090
+He becomes activated after
+binding to the new pathogen.
+
+160
+00:08:36,090 --> 00:08:39,062
+And I'm going to go into more
+detail in the future.
+
+161
+00:08:39,062 --> 00:08:43,087
+In order to really become
+activated, you normally need
+
+162
+00:08:43,087 --> 00:08:46,021
+help from helper T cells,
+but I don't want to
+
+163
+00:08:46,021 --> 00:08:47,061
+confuse you in the video.
+
+164
+00:08:47,061 --> 00:08:50,054
+So in this case, I'm going to
+assume that activation can
+
+165
+00:08:50,054 --> 00:08:54,069
+only occur-- or that it just
+needs to respond, it just
+
+166
+00:08:54,069 --> 00:08:57,008
+needs to essentially
+be triggered by
+
+167
+00:08:57,008 --> 00:08:59,020
+binding with the pathogen.
+
+168
+00:08:59,020 --> 00:09:00,066
+In most cases, you
+actually need the
+
+169
+00:09:00,066 --> 00:09:01,078
+helper T cells as well.
+
+170
+00:09:01,078 --> 00:09:03,041
+And we'll discuss why
+that's important.
+
+171
+00:09:03,041 --> 00:09:05,027
+It's kind of a fail
+safe mechanism
+
+172
+00:09:05,027 --> 00:09:07,009
+for your immune system.
+
+173
+00:09:07,009 --> 00:09:11,083
+But once this guy gets
+activated, he's going to start
+
+174
+00:09:11,083 --> 00:09:13,005
+cloning himself.
+
+175
+00:09:13,005 --> 00:09:17,050
+He's going to say, look, I'm
+the guy that can match this
+
+176
+00:09:17,050 --> 00:09:20,038
+virus here-- and so he's going
+to start cloning himself.
+
+177
+00:09:20,038 --> 00:09:24,080
+He's going to start dividing
+and repeating himself.
+
+178
+00:09:24,080 --> 00:09:28,000
+So there's just going to be
+multiple versions of this guy.
+
+179
+00:09:28,000 --> 00:09:41,063
+
+
+180
+00:09:41,063 --> 00:09:45,024
+So they all start to replicate
+and they also differentiate--
+
+181
+00:09:45,024 --> 00:09:48,011
+differentiate means they start
+taking particular roles.
+
+182
+00:09:48,011 --> 00:09:51,035
+So there's two forms
+of differentiation.
+
+183
+00:09:51,035 --> 00:09:54,010
+So many, many, many hundreds
+or thousands of these are
+
+184
+00:09:54,010 --> 00:09:55,026
+going to be produced.
+
+185
+00:09:55,026 --> 00:10:01,021
+And then some are going to
+become memory cells, which are
+
+186
+00:10:01,021 --> 00:10:05,085
+essentially just B cells that
+stick around a long time with
+
+187
+00:10:05,085 --> 00:10:09,065
+the perfect receptor on them,
+with the perfect variable
+
+188
+00:10:09,065 --> 00:10:11,050
+portion of their receptor
+on them.
+
+189
+00:10:11,050 --> 00:10:21,080
+
+
+190
+00:10:21,080 --> 00:10:23,044
+So some will be memory cells
+and they're going to be in
+
+191
+00:10:23,044 --> 00:10:25,013
+higher quantities than
+they were originally.
+
+192
+00:10:25,013 --> 00:10:28,076
+So if if this guy invades our
+bodies 10 years in the future,
+
+193
+00:10:28,076 --> 00:10:31,012
+they're going to have more of
+these guys around that are
+
+194
+00:10:31,012 --> 00:10:34,053
+more likely to bump into them
+and start and get activated
+
+195
+00:10:34,053 --> 00:10:35,071
+and then some of them
+are going to turn
+
+196
+00:10:35,071 --> 00:10:36,075
+into effector cells.
+
+197
+00:10:36,075 --> 00:10:38,063
+And effector cells are generally
+cells that actually
+
+198
+00:10:38,063 --> 00:10:39,088
+do something.
+
+199
+00:10:39,088 --> 00:10:44,089
+
+
+200
+00:10:44,089 --> 00:10:50,058
+What the effector cells do is,
+they turn into antibody-- they
+
+201
+00:10:50,058 --> 00:10:53,004
+turn into these effector B
+cells-- or sometimes they're
+
+202
+00:10:53,004 --> 00:10:55,002
+called plasma cells.
+
+203
+00:10:55,002 --> 00:10:59,017
+They're going to turn into
+antibody factories.
+
+204
+00:10:59,017 --> 00:11:03,062
+
+
+205
+00:11:03,062 --> 00:11:06,069
+And the antibodies they're going
+to produce are exactly
+
+206
+00:11:06,069 --> 00:11:10,079
+this combination, the date that
+they originally had being
+
+207
+00:11:10,079 --> 00:11:12,004
+membrane bound.
+
+208
+00:11:12,004 --> 00:11:15,023
+So they're just going to start
+producing these antibodies
+
+209
+00:11:15,023 --> 00:11:19,064
+that we talk about with the
+exact-- they're going to start
+
+210
+00:11:19,064 --> 00:11:22,025
+spitting out these antibodies.
+
+211
+00:11:22,025 --> 00:11:24,066
+They're going to start spitting
+out tons and tons of
+
+212
+00:11:24,066 --> 00:11:28,065
+these proteins that are uniquely
+able to bind to the
+
+213
+00:11:28,065 --> 00:11:32,034
+new pathogen, this new
+thing in question.
+
+214
+00:11:32,034 --> 00:11:35,024
+
+
+215
+00:11:35,024 --> 00:11:40,042
+So an activated effector cell
+will actually produce 2,000
+
+216
+00:11:40,042 --> 00:11:41,059
+antibodies a second.
+
+217
+00:11:41,059 --> 00:11:43,026
+So you can imagine, if you have
+a lot of these, you're
+
+218
+00:11:43,026 --> 00:11:46,028
+going to have all of a sudden
+a lot of antibodies floating
+
+219
+00:11:46,028 --> 00:11:49,050
+around in your body and going
+into the body tissues.
+
+220
+00:11:49,050 --> 00:11:52,060
+And the value of that and why
+this is the humoral system is,
+
+221
+00:11:52,060 --> 00:11:54,055
+all of a sudden, you have all
+of these viruses that are
+
+222
+00:11:54,055 --> 00:12:01,001
+infecting your system, but now
+you're producing all of these
+
+223
+00:12:01,001 --> 00:12:01,082
+antibodies.
+
+224
+00:12:01,082 --> 00:12:05,067
+The effector cells are these
+factories and so these
+
+225
+00:12:05,067 --> 00:12:08,096
+specific antibodies will
+start bonding.
+
+226
+00:12:08,096 --> 00:12:10,050
+So let me draw it like this.
+
+227
+00:12:10,050 --> 00:12:16,013
+
+
+228
+00:12:16,013 --> 00:12:22,037
+The specific antibodies will
+start bonding to these viruses
+
+229
+00:12:22,037 --> 00:12:28,036
+and that has a couple
+of values to it.
+
+230
+00:12:28,036 --> 00:12:31,017
+One is, it essentially tags
+them for pick up.
+
+231
+00:12:31,017 --> 00:12:33,070
+Now phagocytosis-- this is
+called opsonization.
+
+232
+00:12:33,070 --> 00:12:40,037
+
+
+233
+00:12:40,037 --> 00:12:42,073
+When you tag molecules for
+pickup and you make them
+
+234
+00:12:42,073 --> 00:12:51,025
+easier for phagocytes to eat
+them up, this is what--
+
+235
+00:12:51,025 --> 00:12:53,060
+antibodies are attaching and
+say, hey phagocytes, this is
+
+236
+00:12:53,060 --> 00:12:54,028
+going to make it easier.
+
+237
+00:12:54,028 --> 00:12:56,075
+You should pick up these
+guys in particular.
+
+238
+00:12:56,075 --> 00:12:59,017
+It also might make these viruses
+hard to function.
+
+239
+00:12:59,017 --> 00:13:01,024
+I have this big thing hanging
+off the side of it.
+
+240
+00:13:01,024 --> 00:13:04,011
+It might be harder for them to
+infiltrate cells and the other
+
+241
+00:13:04,011 --> 00:13:09,011
+thing is, on each of these
+antibodies you have two
+
+242
+00:13:09,011 --> 00:13:13,046
+identical heavy chains
+and then two
+
+243
+00:13:13,046 --> 00:13:14,071
+identical light chains.
+
+244
+00:13:14,071 --> 00:13:17,012
+
+
+245
+00:13:17,012 --> 00:13:20,025
+And then they have a very
+specific variable portion on
+
+246
+00:13:20,025 --> 00:13:25,045
+each one and each of these
+branches can bond to the
+
+247
+00:13:25,045 --> 00:13:29,075
+epitope on a virus.
+
+248
+00:13:29,075 --> 00:13:31,097
+So you can imagine, what happens
+if this guy bonds to
+
+249
+00:13:31,097 --> 00:13:34,075
+one epitope and this guy
+bonds to another virus?
+
+250
+00:13:34,075 --> 00:13:37,011
+Then all of a sudden, these
+viruses are kind of glued
+
+251
+00:13:37,011 --> 00:13:38,095
+together and that's even
+more efficient.
+
+252
+00:13:38,095 --> 00:13:40,067
+They're not going to be able to
+do what they normally do.
+
+253
+00:13:40,067 --> 00:13:43,090
+They're not going to be able
+to enter cell membranes and
+
+254
+00:13:43,090 --> 00:13:45,034
+they're perfectly tagged.
+
+255
+00:13:45,034 --> 00:13:48,064
+They've been opsonized so
+that phagocytes can come
+
+256
+00:13:48,064 --> 00:13:49,051
+and eat them up.
+
+257
+00:13:49,051 --> 00:13:51,076
+So we'll talk more about B cells
+in the future, but I
+
+258
+00:13:51,076 --> 00:13:53,048
+just find it fascinating that
+there are that many
+
+259
+00:13:53,048 --> 00:13:56,010
+combinations and they have
+enough combinations to really
+
+260
+00:13:56,010 --> 00:14:00,021
+recognize almost anything that
+can exist in the fluids of our
+
+261
+00:14:00,021 --> 00:14:02,075
+body, but we haven't solved
+all of the problems yet.
+
+262
+00:14:02,075 --> 00:14:04,095
+We haven't solved the problem
+of what happens when things
+
+263
+00:14:04,095 --> 00:14:08,005
+actually infiltrate cells
+or we have cancer cells?
+
+264
+00:14:08,005 --> 00:14:11,026
+How do we kill cells that have
+clearly gone astray?
+
+265
+00:14:11,026 --> 00:14:12,085
+

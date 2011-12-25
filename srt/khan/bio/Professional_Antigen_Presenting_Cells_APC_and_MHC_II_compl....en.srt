@@ -1,0 +1,1091 @@
+1
+00:00:00,000 --> 00:00:00,027
+
+
+2
+00:00:00,027 --> 00:00:02,074
+In the very first immunology
+video, where we talked about
+
+3
+00:00:02,074 --> 00:00:05,058
+nonspecific defense mechanisms,
+we said if we had
+
+4
+00:00:05,058 --> 00:00:09,040
+some type of a pathogen-- let's
+say it's a bacteria--
+
+5
+00:00:09,040 --> 00:00:14,003
+that our phagocytes can
+recognize either proteins on
+
+6
+00:00:14,003 --> 00:00:16,076
+the bacteria or maybe it was
+some other type of pathogen--
+
+7
+00:00:16,076 --> 00:00:18,009
+some other marker
+on the pathogen.
+
+8
+00:00:18,009 --> 00:00:20,078
+It doesn't know what type of
+pathogen it is, but that's
+
+9
+00:00:20,078 --> 00:00:23,082
+enough for the phagocyte.
+
+10
+00:00:23,082 --> 00:00:25,017
+It'll engulf the pathogen.
+
+11
+00:00:25,017 --> 00:00:28,021
+So let's say this is
+the phagocyte.
+
+12
+00:00:28,021 --> 00:00:32,006
+Somehow one of their receptors
+touches one of the proteins
+
+13
+00:00:32,006 --> 00:00:36,056
+that's on the surface of this
+bacteria in this case and
+
+14
+00:00:36,056 --> 00:00:38,079
+says, gee, that's not a good
+thing to have around and so
+
+15
+00:00:38,079 --> 00:00:39,052
+it'll engulf it.
+
+16
+00:00:39,052 --> 00:00:44,082
+So the membrane is just going to
+surround the pathogen-- and
+
+17
+00:00:44,082 --> 00:00:46,006
+this part is going to go in.
+
+18
+00:00:46,006 --> 00:00:48,043
+It's going to kind of pinch in
+and the pathogen is going to
+
+19
+00:00:48,043 --> 00:00:50,028
+get surrounded and
+get engulfed--
+
+20
+00:00:50,028 --> 00:00:53,057
+phagocytozed by the phagocyte.
+
+21
+00:00:53,057 --> 00:00:56,090
+So the end product-- we saw this
+on the first video where
+
+22
+00:00:56,090 --> 00:01:00,052
+I talked about phagocytes-- is
+we're going to end up-- so
+
+23
+00:01:00,052 --> 00:01:02,015
+then the membrane's going
+to be completely around.
+
+24
+00:01:02,015 --> 00:01:05,034
+This is going to pinch in and
+bubble around this thing and
+
+25
+00:01:05,034 --> 00:01:08,096
+so we're going to have
+the pathogen sitting
+
+26
+00:01:08,096 --> 00:01:11,009
+inside of the phagocyte.
+
+27
+00:01:11,009 --> 00:01:13,068
+It's going to be surrounded
+by a membrane.
+
+28
+00:01:13,068 --> 00:01:16,021
+That membrane's called
+a phagosome.
+
+29
+00:01:16,021 --> 00:01:17,056
+And we learned there's
+different types of
+
+30
+00:01:17,056 --> 00:01:22,037
+phagocytes-- could be a
+macrophage, could be a
+
+31
+00:01:22,037 --> 00:01:28,028
+neutrophil, could be a dendritic
+cell-- and we have
+
+32
+00:01:28,028 --> 00:01:30,025
+it like this and then we also
+saw in that video, it's not
+
+33
+00:01:30,025 --> 00:01:32,045
+just done-- the macrophage
+doesn't
+
+34
+00:01:32,045 --> 00:01:34,039
+just digest this thing.
+
+35
+00:01:34,039 --> 00:01:35,096
+That by itself is very useful.
+
+36
+00:01:35,096 --> 00:01:38,015
+It got this bacteria
+out of the way.
+
+37
+00:01:38,015 --> 00:01:40,084
+If this was a virus, it got
+that virus out of the way.
+
+38
+00:01:40,084 --> 00:01:42,056
+But it does even
+more than that.
+
+39
+00:01:42,056 --> 00:01:45,084
+It takes that and then it lyses
+it-- or it breaks it up.
+
+40
+00:01:45,084 --> 00:01:50,070
+It doesn't have to actually
+use-- well, it breaks it up.
+
+41
+00:01:50,070 --> 00:01:53,043
+There's several ways it can do
+it, but the bottom line is, it
+
+42
+00:01:53,043 --> 00:01:54,068
+processes it.
+
+43
+00:01:54,068 --> 00:01:58,001
+
+
+44
+00:01:58,001 --> 00:02:01,093
+It'll break up the pathogen--
+and we saw that first video on
+
+45
+00:02:01,093 --> 00:02:05,081
+phagocytes that we'll actually
+have a lysosome bond to it and
+
+46
+00:02:05,081 --> 00:02:08,000
+dump all sorts of particles that
+are going to break up and
+
+47
+00:02:08,000 --> 00:02:10,081
+cut up this bacteria,
+in this case, into
+
+48
+00:02:10,081 --> 00:02:12,006
+its constituent molecules.
+
+49
+00:02:12,006 --> 00:02:18,000
+
+
+50
+00:02:18,000 --> 00:02:24,025
+And then some subset of the
+leftovers, particular chains
+
+51
+00:02:24,025 --> 00:02:27,006
+of the peptides-- and remember,
+proteins are long
+
+52
+00:02:27,006 --> 00:02:28,058
+chains of amino acids.
+
+53
+00:02:28,058 --> 00:02:30,061
+Polypeptides are short chains.
+
+54
+00:02:30,061 --> 00:02:32,093
+So you take short chains of
+those and they're going to
+
+55
+00:02:32,093 --> 00:02:34,056
+bond to special proteins.
+
+56
+00:02:34,056 --> 00:02:37,031
+
+
+57
+00:02:37,031 --> 00:02:39,080
+And this is essentially the
+topic of this video.
+
+58
+00:02:39,080 --> 00:02:42,034
+So let's say they bond to that
+special protein, bond to that
+
+59
+00:02:42,034 --> 00:02:43,040
+special protein.
+
+60
+00:02:43,040 --> 00:02:47,019
+And then those proteins get
+transported or get to the
+
+61
+00:02:47,019 --> 00:02:49,091
+membrane or the outer surface
+of the cell and they present
+
+62
+00:02:49,091 --> 00:02:53,075
+themselves along with the
+piece of the pathogen.
+
+63
+00:02:53,075 --> 00:02:57,041
+So the end product after
+phagocytozed this pathogen is
+
+64
+00:02:57,041 --> 00:03:01,080
+that the phagocyte will look
+something like this and it
+
+65
+00:03:01,080 --> 00:03:08,031
+will have these antigen
+presenting proteins, I guess
+
+66
+00:03:08,031 --> 00:03:11,008
+we can call them, that had
+bound to parts of that
+
+67
+00:03:11,008 --> 00:03:13,087
+original pathogen.
+
+68
+00:03:13,087 --> 00:03:16,080
+Let me do it right here.
+
+69
+00:03:16,080 --> 00:03:20,006
+So it has a little bit of the
+original pathogen on it that I
+
+70
+00:03:20,006 --> 00:03:23,000
+drew in green right here.
+
+71
+00:03:23,000 --> 00:03:26,081
+And these proteins right here,
+these are called-- it's a
+
+72
+00:03:26,081 --> 00:03:29,012
+fancy word and I talked about
+it in the previous video--
+
+73
+00:03:29,012 --> 00:03:47,013
+these are called major
+histocompatibility complexes,
+
+74
+00:03:47,013 --> 00:03:53,016
+or MHC for short.
+
+75
+00:03:53,016 --> 00:03:58,016
+And when we're talking about
+phagocytes or macrophages or
+
+76
+00:03:58,016 --> 00:04:00,027
+dendritic cells that are
+particular cases of
+
+77
+00:04:00,027 --> 00:04:03,059
+phagocytes, the major
+histocompatibility complexes
+
+78
+00:04:03,059 --> 00:04:05,069
+that they present after
+they've digested this
+
+79
+00:04:05,069 --> 00:04:09,037
+molecule-- this is
+an MHC class II.
+
+80
+00:04:09,037 --> 00:04:11,062
+Let me write this down.
+
+81
+00:04:11,062 --> 00:04:16,025
+This is an MHC class
+II protein.
+
+82
+00:04:16,025 --> 00:04:18,089
+It might seem like I'm really
+going into the minutiae of
+
+83
+00:04:18,089 --> 00:04:21,087
+what these proteins are, but
+we're going to see this is key
+
+84
+00:04:21,087 --> 00:04:25,018
+for activating other parts of
+the immune system, especially
+
+85
+00:04:25,018 --> 00:04:27,044
+the cell mediated parts
+of the immune system.
+
+86
+00:04:27,044 --> 00:04:30,062
+So this was the case with a
+macrophage or a dendrite.
+
+87
+00:04:30,062 --> 00:04:34,025
+They engulf something, they chew
+it all up, and then parts
+
+88
+00:04:34,025 --> 00:04:36,086
+of the chewed up thing that they
+ate, they attach to these
+
+89
+00:04:36,086 --> 00:04:41,069
+MHC II proteins and these
+MHC proteins go to the
+
+90
+00:04:41,069 --> 00:04:42,074
+surface of the cell.
+
+91
+00:04:42,074 --> 00:04:45,001
+The same thing-- or actually not
+the quite the same thing--
+
+92
+00:04:45,001 --> 00:04:49,002
+a very similar thing happens
+with B cells.
+
+93
+00:04:49,002 --> 00:04:52,081
+So if we have a B cell--
+that's a good color.
+
+94
+00:04:52,081 --> 00:04:53,089
+B for blue.
+
+95
+00:04:53,089 --> 00:04:57,058
+We know B stands for bursa, but
+it could stand for bone
+
+96
+00:04:57,058 --> 00:04:58,093
+marrow just as well.
+
+97
+00:04:58,093 --> 00:05:02,056
+Let's say we have a B cell and
+it's got its membrane bound
+
+98
+00:05:02,056 --> 00:05:03,091
+antibody on it.
+
+99
+00:05:03,091 --> 00:05:07,044
+Remember, it's very specific
+to that B cells.
+
+100
+00:05:07,044 --> 00:05:10,091
+So all of the membrane bound
+antibodies, all 10,000 or so
+
+101
+00:05:10,091 --> 00:05:14,050
+of them on this B cell, they
+all expressed the same
+
+102
+00:05:14,050 --> 00:05:16,092
+variable part.
+
+103
+00:05:16,092 --> 00:05:18,072
+So this is a particular
+B cell.
+
+104
+00:05:18,072 --> 00:05:20,068
+So remember, this
+was nonspecific.
+
+105
+00:05:20,068 --> 00:05:23,044
+When we talked about
+phagocytosis, these guys just
+
+106
+00:05:23,044 --> 00:05:24,043
+say, you're a bacteria.
+
+107
+00:05:24,043 --> 00:05:24,098
+You're a virus.
+
+108
+00:05:24,098 --> 00:05:25,093
+I don't know what
+kind you are.
+
+109
+00:05:25,093 --> 00:05:26,082
+I'm just going to eat you up.
+
+110
+00:05:26,082 --> 00:05:27,043
+You look shady.
+
+111
+00:05:27,043 --> 00:05:28,013
+I'm going to eat you up.
+
+112
+00:05:28,013 --> 00:05:29,043
+I don't know what type
+you are or whether
+
+113
+00:05:29,043 --> 00:05:30,041
+I've seen you before.
+
+114
+00:05:30,041 --> 00:05:32,054
+When we're talking about B
+cells, we're talking about the
+
+115
+00:05:32,054 --> 00:05:35,007
+adaptive or the specific
+immune system.
+
+116
+00:05:35,007 --> 00:05:39,018
+And so these-- the variable ends
+of these membrane bound
+
+117
+00:05:39,018 --> 00:05:43,006
+antibodies are specific to
+certain parts of certain
+
+118
+00:05:43,006 --> 00:05:45,064
+pathogens, to certain
+epitopes.
+
+119
+00:05:45,064 --> 00:05:49,002
+Remember, epitopes were the
+parts of certain pathogens
+
+120
+00:05:49,002 --> 00:05:53,000
+that these specific chains can
+recognize and bond to.
+
+121
+00:05:53,000 --> 00:05:55,066
+So let's say that we're
+dealing with a
+
+122
+00:05:55,066 --> 00:05:57,037
+virus in this situation.
+
+123
+00:05:57,037 --> 00:05:59,039
+And let's say the virus
+just happens to
+
+124
+00:05:59,039 --> 00:06:01,011
+bond to this B cell.
+
+125
+00:06:01,011 --> 00:06:02,075
+Remember, there might be
+other-- in fact, there
+
+126
+00:06:02,075 --> 00:06:08,091
+definitely are tons of other
+B cells around, but their
+
+127
+00:06:08,091 --> 00:06:17,012
+variable portions are
+all different.
+
+128
+00:06:17,012 --> 00:06:19,093
+And that's what I always find
+amazing about B cells is that
+
+129
+00:06:19,093 --> 00:06:23,061
+they come from the same genetic
+line, their genes have
+
+130
+00:06:23,061 --> 00:06:26,057
+been shuffled around in their
+development so that they can
+
+131
+00:06:26,057 --> 00:06:29,082
+produce billions of combinations
+of these
+
+132
+00:06:29,082 --> 00:06:34,037
+proteins, or the variable ends
+of their antibodies.
+
+133
+00:06:34,037 --> 00:06:37,039
+So let's say we have
+some virus.
+
+134
+00:06:37,039 --> 00:06:38,030
+Let me say it's a bacteria.
+
+135
+00:06:38,030 --> 00:06:40,085
+When I did the other B cell
+example, I said we're dealing
+
+136
+00:06:40,085 --> 00:06:41,045
+with viruses.
+
+137
+00:06:41,045 --> 00:06:46,086
+But let's say some new bacteria
+and just some part of
+
+138
+00:06:46,086 --> 00:06:50,055
+its surface just happens to
+bind to only this B cell--
+
+139
+00:06:50,055 --> 00:06:52,074
+because this B cell has just
+the right combination.
+
+140
+00:06:52,074 --> 00:06:57,000
+So some part of his surface
+binds just to that B cell
+
+141
+00:06:57,000 --> 00:06:57,060
+right there.
+
+142
+00:06:57,060 --> 00:06:59,075
+That part of the surface that
+binds, remember, that was
+
+143
+00:06:59,075 --> 00:07:01,000
+called the epitope.
+
+144
+00:07:01,000 --> 00:07:05,092
+That's that part of the pathogen
+that binds to our
+
+145
+00:07:05,092 --> 00:07:06,077
+variable sequencer.
+
+146
+00:07:06,077 --> 00:07:09,002
+It won't bind to this B cell
+or this B cell because they
+
+147
+00:07:09,002 --> 00:07:12,054
+have different sequences here,
+but it binds to this B cell
+
+148
+00:07:12,054 --> 00:07:15,018
+and then that starts the
+activation process.
+
+149
+00:07:15,018 --> 00:07:19,082
+We'll go into-- sometimes this
+by itself can get the B cell
+
+150
+00:07:19,082 --> 00:07:22,066
+activated, but you normally
+need help from helper T
+
+151
+00:07:22,066 --> 00:07:24,082
+cells-- and we'll talk
+more about that.
+
+152
+00:07:24,082 --> 00:07:27,012
+And we said, once this
+happens, once you get
+
+153
+00:07:27,012 --> 00:07:30,062
+activated or the activation
+process starts, this guy
+
+154
+00:07:30,062 --> 00:07:32,085
+actually gets engulfed-- and I
+didn't talk about that in the
+
+155
+00:07:32,085 --> 00:07:34,074
+last video just because I didn't
+want to go into too
+
+156
+00:07:34,074 --> 00:07:35,039
+much detail.
+
+157
+00:07:35,039 --> 00:07:42,023
+So this whole thing gets
+engulfed by the B cell.
+
+158
+00:07:42,023 --> 00:07:46,087
+And then when it gets activated,
+it proliferates
+
+159
+00:07:46,087 --> 00:07:49,095
+itself and you normally need
+the T cells there and some
+
+160
+00:07:49,095 --> 00:07:52,024
+part of them become plasma B
+cells, some part of them
+
+161
+00:07:52,024 --> 00:07:53,049
+become memory B cells.
+
+162
+00:07:53,049 --> 00:07:58,058
+
+
+163
+00:07:58,058 --> 00:08:02,035
+Remember, the plasma B cells
+say, gee, I've been activated.
+
+164
+00:08:02,035 --> 00:08:05,018
+I'm just going to produce a
+ton of these antibodies.
+
+165
+00:08:05,018 --> 00:08:07,085
+So the plasma B cell will just
+produce tons of these
+
+166
+00:08:07,085 --> 00:08:10,072
+antibodies and start spitting
+them out so that they can
+
+167
+00:08:10,072 --> 00:08:14,001
+attach to more and more of that
+pathogen and just mess
+
+168
+00:08:14,001 --> 00:08:18,064
+them up in different ways,
+either tag them so that other
+
+169
+00:08:18,064 --> 00:08:23,006
+macrophages or phagocytes eat
+them up-- or tag two of them
+
+170
+00:08:23,006 --> 00:08:25,037
+so you bundle them up so that
+they can't operate properly.
+
+171
+00:08:25,037 --> 00:08:25,069
+Whatever.
+
+172
+00:08:25,069 --> 00:08:27,012
+I'm not going to go into
+detail on that.
+
+173
+00:08:27,012 --> 00:08:28,038
+That's when it gets activated.
+
+174
+00:08:28,038 --> 00:08:31,086
+But the interesting thing is
+that the B cell will also do
+
+175
+00:08:31,086 --> 00:08:33,090
+what the phagocytes do.
+
+176
+00:08:33,090 --> 00:08:41,084
+The B cell will also take
+this guy into the cell.
+
+177
+00:08:41,084 --> 00:08:47,010
+Maybe he's initially attached
+to the antibody-- and break
+
+178
+00:08:47,010 --> 00:08:55,013
+him up, take pieces of this
+pathogen and attach it to MHC
+
+179
+00:08:55,013 --> 00:08:59,078
+II proteins and then present
+them on the surface.
+
+180
+00:08:59,078 --> 00:09:03,049
+So a B cell will also
+present the antigen.
+
+181
+00:09:03,049 --> 00:09:06,097
+
+
+182
+00:09:06,097 --> 00:09:11,022
+So this is also an MHC
+II complex-- a major
+
+183
+00:09:11,022 --> 00:09:13,078
+histocompatibility complex--
+and just so you know, histo
+
+184
+00:09:13,078 --> 00:09:14,070
+means tissue.
+
+185
+00:09:14,070 --> 00:09:17,004
+So this is related to whether
+something is compatible with
+
+186
+00:09:17,004 --> 00:09:19,025
+the tissue in your body and
+we'll talk more about that and
+
+187
+00:09:19,025 --> 00:09:21,037
+how it relates to transplants
+and all of that.
+
+188
+00:09:21,037 --> 00:09:25,075
+So this is also an
+MHC class II.
+
+189
+00:09:25,075 --> 00:09:28,025
+In both cases, whether we're
+talking about B cells that
+
+190
+00:09:28,025 --> 00:09:31,095
+recognize a very specific
+pathogen-- and it could be a
+
+191
+00:09:31,095 --> 00:09:37,009
+specific virus, a specific
+protein, a specific bacteria,
+
+192
+00:09:37,009 --> 00:09:40,035
+or in the cases of phagocytes,
+they'll just say,
+
+193
+00:09:40,035 --> 00:09:41,021
+oh, you look shady.
+
+194
+00:09:41,021 --> 00:09:42,004
+Let me take you in.
+
+195
+00:09:42,004 --> 00:09:44,029
+I don't know what type of
+bacteria or virus or protein
+
+196
+00:09:44,029 --> 00:09:47,094
+you are, but in either case,
+they both engulf them, take
+
+197
+00:09:47,094 --> 00:09:50,019
+pieces of them, cut them up,
+and present them on their
+
+198
+00:09:50,019 --> 00:09:52,058
+surface in a complex
+with the major
+
+199
+00:09:52,058 --> 00:09:57,003
+histocompatibility complexes.
+
+200
+00:09:57,003 --> 00:10:01,045
+So cells that do this are called
+professional antigen
+
+201
+00:10:01,045 --> 00:10:02,070
+presenting cells.
+
+202
+00:10:02,070 --> 00:10:05,008
+
+
+203
+00:10:05,008 --> 00:10:07,076
+This is what they do for a
+living, although they do other
+
+204
+00:10:07,076 --> 00:10:09,042
+things, as we've seen.
+
+205
+00:10:09,042 --> 00:10:10,075
+The phagocytes eat things.
+
+206
+00:10:10,075 --> 00:10:14,063
+The B cells generate antibodies
+or memories so that
+
+207
+00:10:14,063 --> 00:10:17,035
+they can later be activated to
+generate antibodies, but these
+
+208
+00:10:17,035 --> 00:10:25,073
+are called professional antigen
+presenting cell.
+
+209
+00:10:25,073 --> 00:10:29,062
+And the antigen in question is
+this little piece of the
+
+210
+00:10:29,062 --> 00:10:35,041
+actual thing that you're trying
+to track, that little
+
+211
+00:10:35,041 --> 00:10:38,072
+piece-- the actual part of the
+pathogen, that's what the
+
+212
+00:10:38,072 --> 00:10:40,051
+antigen-- so it's presenting
+the antigen.
+
+213
+00:10:40,051 --> 00:10:48,062
+It's professional because it
+takes pathogens from in the
+
+214
+00:10:48,062 --> 00:10:51,094
+fluid of our system and then
+engulfs them, breaks them up,
+
+215
+00:10:51,094 --> 00:10:53,050
+and then presents them.
+
+216
+00:10:53,050 --> 00:10:57,080
+Now there are also
+nonprofessional antigen
+
+217
+00:10:57,080 --> 00:10:58,052
+presenting cells.
+
+218
+00:10:58,052 --> 00:11:00,090
+And in fact, most
+cells are this.
+
+219
+00:11:00,090 --> 00:11:02,060
+In fact, even these guys.
+
+220
+00:11:02,060 --> 00:11:03,076
+Actually, I'm going to wait
+for the next video.
+
+221
+00:11:03,076 --> 00:11:05,096
+I realize all of my videos
+are getting long.
+
+222
+00:11:05,096 --> 00:11:10,027
+So you're probably thinking,
+these guys in either case
+
+223
+00:11:10,027 --> 00:11:12,002
+engulf them, cut them
+up, present them,
+
+224
+00:11:12,002 --> 00:11:13,032
+what is it good for?
+
+225
+00:11:13,032 --> 00:11:18,069
+You'll see these MHC II, these
+are what are recognized by
+
+226
+00:11:18,069 --> 00:11:20,028
+helper T cells.
+
+227
+00:11:20,028 --> 00:11:23,083
+It'll all form part of the
+puzzle of how our immune
+
+228
+00:11:23,083 --> 00:11:24,041
+system works.
+
+229
+00:11:24,041 --> 00:11:28,015
+So in the next video, I'll talk
+about MHC I presenting
+
+230
+00:11:28,015 --> 00:11:31,045
+cells, which is pretty
+much all body cells.
+
+231
+00:11:31,045 --> 00:11:32,009
+

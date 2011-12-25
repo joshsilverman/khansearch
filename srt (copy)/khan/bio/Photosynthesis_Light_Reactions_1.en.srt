@@ -1,0 +1,2056 @@
+1
+00:00:00,000 --> 00:00:00,038
+
+
+2
+00:00:00,038 --> 00:00:02,048
+In the last video we learned
+a little bit about
+
+3
+00:00:02,048 --> 00:00:04,012
+photosynthesis.
+
+4
+00:00:04,012 --> 00:00:06,079
+And we know in very general
+terms, it's the process where
+
+5
+00:00:06,079 --> 00:00:12,058
+we start off with photons and
+water and carbon dioxide, and
+
+6
+00:00:12,058 --> 00:00:16,021
+we use that energy in the
+photons to fix the carbon.
+
+7
+00:00:16,021 --> 00:00:20,067
+And now, this idea of carbon
+fixation is essentially taking
+
+8
+00:00:20,067 --> 00:00:24,039
+carbon in the gaseous form, in
+this case carbon dioxide, and
+
+9
+00:00:24,039 --> 00:00:26,053
+fixing it into a solid
+structure.
+
+10
+00:00:26,053 --> 00:00:30,019
+And that solid structure we fix
+it into is a carbohydrate.
+
+11
+00:00:30,019 --> 00:00:33,039
+The first end-product of
+photosynthesis was this
+
+12
+00:00:33,039 --> 00:00:36,082
+3-carbon chain, this
+glyceraldehyde 3-phosphate.
+
+13
+00:00:36,082 --> 00:00:40,088
+But then you can use that to
+build up glucose or any other
+
+14
+00:00:40,088 --> 00:00:42,003
+carbohydrate.
+
+15
+00:00:42,003 --> 00:00:45,063
+So, with that said, let's try to
+dig a little bit deeper and
+
+16
+00:00:45,063 --> 00:00:48,071
+understand what's actually going
+on in these stages of
+
+17
+00:00:48,071 --> 00:00:49,042
+photosynthesis.
+
+18
+00:00:49,042 --> 00:00:50,092
+Remember, we said there's
+two stages.
+
+19
+00:00:50,092 --> 00:00:54,002
+The light-dependent reactions
+and then you have the light
+
+20
+00:00:54,002 --> 00:00:55,015
+independent reactions.
+
+21
+00:00:55,015 --> 00:00:57,036
+I don't like using the word
+dark reaction because it
+
+22
+00:00:57,036 --> 00:00:59,060
+actually occurs while
+the sun is outside.
+
+23
+00:00:59,060 --> 00:01:01,010
+It's actually occurring
+simultaneously
+
+24
+00:01:01,010 --> 00:01:02,029
+with the light reactions.
+
+25
+00:01:02,029 --> 00:01:05,015
+It just doesn't need the
+photons from the sun.
+
+26
+00:01:05,015 --> 00:01:08,026
+But let's focus first on the
+light-dependent reactions.
+
+27
+00:01:08,026 --> 00:01:12,065
+The part that actually uses
+photons from the sun.
+
+28
+00:01:12,065 --> 00:01:16,090
+Or actually, I guess, even
+photons from the heat lamp
+
+29
+00:01:16,090 --> 00:01:19,009
+that you might have in
+your greenhouse.
+
+30
+00:01:19,009 --> 00:01:23,050
+And uses those photons in
+conjunction with water to
+
+31
+00:01:23,050 --> 00:01:35,035
+produce ATP and reduce
+NADP plus to NADPH.
+
+32
+00:01:35,035 --> 00:01:40,006
+Remember, reduction is gaining
+electrons or hydrogen atoms.
+
+33
+00:01:40,006 --> 00:01:42,003
+And it's the same thing,
+because when you gain a
+
+34
+00:01:42,003 --> 00:01:45,026
+hydrogen atom, including its
+electron, since hydrogen is
+
+35
+00:01:45,026 --> 00:01:48,017
+not too electronegative, you
+get to hog its electron.
+
+36
+00:01:48,017 --> 00:01:51,081
+So this is both gaining a
+hydrogen and gaining electron.
+
+37
+00:01:51,081 --> 00:01:53,079
+But let's study it a
+little bit more.
+
+38
+00:01:53,079 --> 00:01:56,065
+So before we dig a little
+deeper, I think it's good to
+
+39
+00:01:56,065 --> 00:01:59,075
+know a little bit about the
+anatomy of a plant.
+
+40
+00:01:59,075 --> 00:02:03,051
+So let me draw some
+plant cells.
+
+41
+00:02:03,051 --> 00:02:06,053
+So plant cells actually have
+cell walls, so I can draw them
+
+42
+00:02:06,053 --> 00:02:08,031
+a little bit rigid.
+
+43
+00:02:08,031 --> 00:02:11,083
+So let's say that these are
+plant cells right here.
+
+44
+00:02:11,083 --> 00:02:15,028
+Each of these squares, each of
+these quadrilaterals is a
+
+45
+00:02:15,028 --> 00:02:17,028
+plant cell.
+
+46
+00:02:17,028 --> 00:02:19,088
+And then in these plant cells
+you have these organelles
+
+47
+00:02:19,088 --> 00:02:20,087
+called chloroplasts.
+
+48
+00:02:20,087 --> 00:02:22,097
+Remember organelles are
+like organs of a cell.
+
+49
+00:02:22,097 --> 00:02:24,022
+They are subunits,
+
+50
+00:02:24,022 --> 00:02:27,000
+membrane-bound subunits of cells.
+
+51
+00:02:27,000 --> 00:02:30,030
+And of course, these cells have
+nucleuses and DNA and all
+
+52
+00:02:30,030 --> 00:02:32,043
+of the other things you normally
+associate with cells.
+
+53
+00:02:32,043 --> 00:02:33,043
+But I'm not going to
+draw them here.
+
+54
+00:02:33,043 --> 00:02:35,080
+I'm just going to draw
+the chloroplasts.
+
+55
+00:02:35,080 --> 00:02:40,096
+And your average plant cell--
+and there are other types of
+
+56
+00:02:40,096 --> 00:02:43,068
+living organisms that perform
+photosynthesis, but we'll
+
+57
+00:02:43,068 --> 00:02:44,059
+focus on plants.
+
+58
+00:02:44,059 --> 00:02:47,094
+Because that's what we tend
+to associate it with.
+
+59
+00:02:47,094 --> 00:02:53,053
+Each plant cell will contain
+10 to 50 chloroplasts.
+
+60
+00:02:53,053 --> 00:02:56,037
+I make them green on purpose
+because the chloroplasts
+
+61
+00:02:56,037 --> 00:02:57,069
+contain chlorophyll.
+
+62
+00:02:57,069 --> 00:02:59,056
+Which to our eyes,
+appear green.
+
+63
+00:02:59,056 --> 00:03:01,072
+But remember, they're green
+because they reflect green
+
+64
+00:03:01,072 --> 00:03:05,009
+light and they absorb red
+and blue and other
+
+65
+00:03:05,009 --> 00:03:06,003
+wavelengths of light.
+
+66
+00:03:06,003 --> 00:03:06,086
+That's why it looks green.
+
+67
+00:03:06,086 --> 00:03:07,059
+Because it's reflecting.
+
+68
+00:03:07,059 --> 00:03:09,047
+But it's absorbing all the
+other wavelengths.
+
+69
+00:03:09,047 --> 00:03:11,059
+But anyway, we'll talk more
+about that in detail.
+
+70
+00:03:11,059 --> 00:03:16,009
+But you'll have 10 to 50 of
+these chloroplasts right here.
+
+71
+00:03:16,009 --> 00:03:19,093
+And then let's zoom in on one
+chloroplast. So if we zoom in
+
+72
+00:03:19,093 --> 00:03:23,031
+on one chloroplast. So
+let me be very clear.
+
+73
+00:03:23,031 --> 00:03:26,033
+This thing right here
+is a plant cell.
+
+74
+00:03:26,033 --> 00:03:29,087
+That is a plant cell.
+
+75
+00:03:29,087 --> 00:03:32,041
+And then each of these green
+things right here is an
+
+76
+00:03:32,041 --> 00:03:38,053
+organelle called the
+chloroplast. And let's zoom in
+
+77
+00:03:38,053 --> 00:03:41,099
+on the chloroplast itself.
+
+78
+00:03:41,099 --> 00:03:46,019
+If we zoom in on one
+chloroplast, it has a
+
+79
+00:03:46,019 --> 00:03:48,058
+membrane like that.
+
+80
+00:03:48,058 --> 00:03:52,084
+
+
+81
+00:03:52,084 --> 00:03:57,016
+And then the fluid inside of the
+chloroplast, inside of its
+
+82
+00:03:57,016 --> 00:03:59,061
+membrane, so this fluid
+right here.
+
+83
+00:03:59,061 --> 00:04:00,036
+All of this fluid.
+
+84
+00:04:00,036 --> 00:04:02,043
+That's called the stroma.
+
+85
+00:04:02,043 --> 00:04:06,000
+The stroma of the chloroplast.
+And then within the
+
+86
+00:04:06,000 --> 00:04:09,052
+chloroplast itself, you have
+these little stacks of these
+
+87
+00:04:09,052 --> 00:04:13,053
+folded membranes, These
+little folded stacks.
+
+88
+00:04:13,053 --> 00:04:16,045
+Let me see if I can
+do justice here.
+
+89
+00:04:16,045 --> 00:04:22,050
+So maybe that's one, two,
+doing these stacks.
+
+90
+00:04:22,050 --> 00:04:25,006
+Each of these membrane-bound--
+you can almost view them as
+
+91
+00:04:25,006 --> 00:04:28,056
+pancakes-- let me draw
+a couple more.
+
+92
+00:04:28,056 --> 00:04:31,097
+Maybe we have some over here,
+just so you-- maybe you have
+
+93
+00:04:31,097 --> 00:04:35,064
+some over here, maybe
+some over here.
+
+94
+00:04:35,064 --> 00:04:38,079
+So each of these flattish
+looking pancakes right here,
+
+95
+00:04:38,079 --> 00:04:40,022
+these are called thylakoids.
+
+96
+00:04:40,022 --> 00:04:43,031
+So this right here
+is a thylakoid.
+
+97
+00:04:43,031 --> 00:04:44,056
+That is a thylakoid.
+
+98
+00:04:44,056 --> 00:04:48,000
+
+
+99
+00:04:48,000 --> 00:04:50,008
+The thylakoid has a membrane.
+
+100
+00:04:50,008 --> 00:04:51,066
+And this membrane is especially
+important.
+
+101
+00:04:51,066 --> 00:04:53,045
+We're going to zoom in
+on that in a second.
+
+102
+00:04:53,045 --> 00:04:57,054
+So it has a membrane, I'll color
+that in a little bit.
+
+103
+00:04:57,054 --> 00:05:01,072
+The inside of the thylakoid, so
+the space, the fluid inside
+
+104
+00:05:01,072 --> 00:05:04,062
+of the thylakoid, right
+there that area.
+
+105
+00:05:04,062 --> 00:05:06,022
+This light green color
+right there.
+
+106
+00:05:06,022 --> 00:05:10,036
+That's called the thylakoid
+space or the thylakoid lumen.
+
+107
+00:05:10,036 --> 00:05:12,095
+
+
+108
+00:05:12,095 --> 00:05:16,052
+And just to get all of our
+terminology out of the way, a
+
+109
+00:05:16,052 --> 00:05:22,008
+stack of several thylakoids
+just like that,
+
+110
+00:05:22,008 --> 00:05:24,062
+that is called a grana.
+
+111
+00:05:24,062 --> 00:05:27,001
+That's a stack of thylakoids.
+
+112
+00:05:27,001 --> 00:05:29,083
+That is a grana.
+
+113
+00:05:29,083 --> 00:05:31,018
+And this is an organelle.
+
+114
+00:05:31,018 --> 00:05:35,017
+And evolutionary biologists,
+they believe that organelles
+
+115
+00:05:35,017 --> 00:05:38,025
+were once independent
+organisms that then,
+
+116
+00:05:38,025 --> 00:05:41,008
+essentially, teamed up with
+other organisms and started
+
+117
+00:05:41,008 --> 00:05:42,035
+living inside of their cells.
+
+118
+00:05:42,035 --> 00:05:45,044
+So there's actually, they
+have their own DNA.
+
+119
+00:05:45,044 --> 00:05:48,045
+So mitochondria is another
+example of an organelle that
+
+120
+00:05:48,045 --> 00:05:51,048
+people believe that one time
+mitochondria, or the ancestors
+
+121
+00:05:51,048 --> 00:05:53,095
+of mitochondria, were
+independent organisms. That
+
+122
+00:05:53,095 --> 00:05:56,031
+then teamed up with other cells
+and said, hey, if I
+
+123
+00:05:56,031 --> 00:05:58,023
+produce your energy maybe
+you'll give me
+
+124
+00:05:58,023 --> 00:06:00,050
+some food or whatnot.
+
+125
+00:06:00,050 --> 00:06:02,014
+And so they started
+evolving together.
+
+126
+00:06:02,014 --> 00:06:03,074
+And they turned into
+one organism.
+
+127
+00:06:03,074 --> 00:06:06,045
+Which makes you wonder what we
+might evolve-- well anyway,
+
+128
+00:06:06,045 --> 00:06:07,032
+that's a separate thing.
+
+129
+00:06:07,032 --> 00:06:09,050
+So there's actually ribosomes
+out here.
+
+130
+00:06:09,050 --> 00:06:10,044
+That's good to think about.
+
+131
+00:06:10,044 --> 00:06:16,027
+Just realize that at one point
+in the evolutionary past, this
+
+132
+00:06:16,027 --> 00:06:18,050
+organelle's ancestor
+might have been
+
+133
+00:06:18,050 --> 00:06:20,037
+an independent organism.
+
+134
+00:06:20,037 --> 00:06:22,068
+But anyway, enough about
+that speculation.
+
+135
+00:06:22,068 --> 00:06:29,075
+Let's zoom in again on one of
+these thylakoid membranes.
+
+136
+00:06:29,075 --> 00:06:31,000
+So I'm going to zoom in.
+
+137
+00:06:31,000 --> 00:06:32,025
+Let me make a box.
+
+138
+00:06:32,025 --> 00:06:34,056
+
+
+139
+00:06:34,056 --> 00:06:37,006
+Let me zoom in right there.
+
+140
+00:06:37,006 --> 00:06:38,099
+So that's going to be
+my zoom-in box.
+
+141
+00:06:38,099 --> 00:06:41,076
+So let me make it really big.
+
+142
+00:06:41,076 --> 00:06:42,033
+Just like this.
+
+143
+00:06:42,033 --> 00:06:45,056
+So this is my zoom-in box.
+
+144
+00:06:45,056 --> 00:06:49,018
+So that little box is the same
+thing as this whole box.
+
+145
+00:06:49,018 --> 00:06:53,018
+So we're zoomed in on the
+thylakoid membrane.
+
+146
+00:06:53,018 --> 00:06:57,050
+So this is the thylakoid
+membrane right there.
+
+147
+00:06:57,050 --> 00:06:59,081
+That's actually a phospho-bilipd
+layer.
+
+148
+00:06:59,081 --> 00:07:04,001
+It has your hydrophilic,
+hydrophobic tails.
+
+149
+00:07:04,001 --> 00:07:05,066
+I mean, I could draw it
+like that if you like.
+
+150
+00:07:05,066 --> 00:07:07,081
+The important thing from the
+photosynthesis point of view
+
+151
+00:07:07,081 --> 00:07:09,055
+is that it's this membrane.
+
+152
+00:07:09,055 --> 00:07:13,029
+And on the outside of the
+membrane, right here on the
+
+153
+00:07:13,029 --> 00:07:16,093
+outside, you have the fluid
+that fills up the entire
+
+154
+00:07:16,093 --> 00:07:20,054
+chloroplast. So here you
+have the stroma.
+
+155
+00:07:20,054 --> 00:07:23,020
+And then this space right here,
+this is the inside of
+
+156
+00:07:23,020 --> 00:07:24,062
+your thylakoid.
+
+157
+00:07:24,062 --> 00:07:25,077
+So this is the lumen.
+
+158
+00:07:25,077 --> 00:07:27,087
+So if I were to color it
+pink, right there.
+
+159
+00:07:27,087 --> 00:07:29,001
+This is your lumen.
+
+160
+00:07:29,001 --> 00:07:30,077
+Your thylakoid space.
+
+161
+00:07:30,077 --> 00:07:33,038
+And in this membrane, and this
+might look a little bit
+
+162
+00:07:33,038 --> 00:07:36,018
+familiar if you think about
+mitochondria and the electron
+
+163
+00:07:36,018 --> 00:07:37,004
+transport chain.
+
+164
+00:07:37,004 --> 00:07:39,093
+What I'm going to describe in
+this video actually is an
+
+165
+00:07:39,093 --> 00:07:41,076
+electron transport chain.
+
+166
+00:07:41,076 --> 00:07:44,025
+Many people might not consider
+it the electron transport
+
+167
+00:07:44,025 --> 00:07:46,061
+chain, but it's the same idea.
+
+168
+00:07:46,061 --> 00:07:48,066
+Same general idea.
+
+169
+00:07:48,066 --> 00:07:51,027
+So on this membrane you have
+these proteins and these
+
+170
+00:07:51,027 --> 00:07:53,023
+complexes of proteins
+and molecules
+
+171
+00:07:53,023 --> 00:07:55,047
+that span this membrane.
+
+172
+00:07:55,047 --> 00:07:58,013
+So let me draw a
+couple of them.
+
+173
+00:07:58,013 --> 00:08:01,059
+So maybe I'll call this
+one, photosystem II.
+
+174
+00:08:01,059 --> 00:08:04,050
+And I'm calling it that because
+that's what it is.
+
+175
+00:08:04,050 --> 00:08:05,081
+Photosystem II.
+
+176
+00:08:05,081 --> 00:08:07,031
+You have maybe another
+complex.
+
+177
+00:08:07,031 --> 00:08:08,056
+And these are hugely
+complicated.
+
+178
+00:08:08,056 --> 00:08:11,004
+I'll do a sneak peek of
+what photosystem II
+
+179
+00:08:11,004 --> 00:08:12,067
+actually looks like.
+
+180
+00:08:12,067 --> 00:08:15,018
+This is actually what
+photosystem II looks like.
+
+181
+00:08:15,018 --> 00:08:17,088
+So, as you can see, it
+truly is a complex.
+
+182
+00:08:17,088 --> 00:08:20,045
+These cylindrical things,
+these are proteins.
+
+183
+00:08:20,045 --> 00:08:23,057
+These green things are
+chlorophyll molecules.
+
+184
+00:08:23,057 --> 00:08:25,001
+I mean, there's all sorts
+of things going here.
+
+185
+00:08:25,001 --> 00:08:27,008
+And they're all jumbled
+together.
+
+186
+00:08:27,008 --> 00:08:29,030
+I think a complex probably
+is the best word.
+
+187
+00:08:29,030 --> 00:08:32,032
+It's a bunch of proteins, a
+bunch of molecules just
+
+188
+00:08:32,032 --> 00:08:35,046
+jumbled together to perform a
+very particular function.
+
+189
+00:08:35,046 --> 00:08:38,044
+We're going to describe
+that in a few seconds.
+
+190
+00:08:38,044 --> 00:08:40,058
+So that's what photosystem
+II looks like.
+
+191
+00:08:40,058 --> 00:08:43,085
+Then you also have
+photosystem I.
+
+192
+00:08:43,085 --> 00:08:47,050
+And then you have other
+molecules, other complexes.
+
+193
+00:08:47,050 --> 00:08:52,012
+You have the cytochrome B6F
+complex and I'll draw this in
+
+194
+00:08:52,012 --> 00:08:55,012
+a different color right here.
+
+195
+00:08:55,012 --> 00:08:57,034
+I don't want to get too
+much into the weeds.
+
+196
+00:08:57,034 --> 00:08:59,002
+Because the most important thing
+is just to understand.
+
+197
+00:08:59,002 --> 00:09:02,078
+So you have other protein
+complexes, protein molecular
+
+198
+00:09:02,078 --> 00:09:06,014
+complexes here that also
+span the membrane.
+
+199
+00:09:06,014 --> 00:09:08,084
+But the general idea-- I'll tell
+you the general idea and
+
+200
+00:09:08,084 --> 00:09:11,085
+then we'll go into the
+specifics-- of what happens
+
+201
+00:09:11,085 --> 00:09:23,036
+during the light reaction, or
+the light dependent reaction,
+
+202
+00:09:23,036 --> 00:09:25,095
+is you have some photons.
+
+203
+00:09:25,095 --> 00:09:27,014
+Photons from the sun.
+
+204
+00:09:27,014 --> 00:09:29,047
+They've traveled 93
+million miles.
+
+205
+00:09:29,047 --> 00:09:34,032
+so you have some photons that
+go here and they excite
+
+206
+00:09:34,032 --> 00:09:37,095
+electrons in a chlorophyll
+molecule, in a
+
+207
+00:09:37,095 --> 00:09:39,076
+chlorophyll A molecule.
+
+208
+00:09:39,076 --> 00:09:42,091
+And actually in photosystem II--
+well, I won't go into the
+
+209
+00:09:42,091 --> 00:09:45,072
+details just yet-- but they
+excite a chlorophyll molecule
+
+210
+00:09:45,072 --> 00:09:49,005
+so those electrons enter into
+a high energy state.
+
+211
+00:09:49,005 --> 00:09:50,015
+Maybe I shouldn't draw
+it like that.
+
+212
+00:09:50,015 --> 00:09:51,069
+They enter into a high
+energy state.
+
+213
+00:09:51,069 --> 00:09:56,008
+And then as they go from
+molecule to molecule they keep
+
+214
+00:09:56,008 --> 00:09:57,075
+going down in energy state.
+
+215
+00:09:57,075 --> 00:10:01,077
+But as they go down in energy
+state, you have hydrogen
+
+216
+00:10:01,077 --> 00:10:04,047
+atoms, or actually I should say
+hydrogen protons without
+
+217
+00:10:04,047 --> 00:10:05,007
+the electrons.
+
+218
+00:10:05,007 --> 00:10:08,037
+So you have all of these
+hydrogen protons.
+
+219
+00:10:08,037 --> 00:10:12,058
+Hydrogen protons get pumped
+into the lumen.
+
+220
+00:10:12,058 --> 00:10:15,073
+They get pumped into the lumen
+and so you might remember this
+
+221
+00:10:15,073 --> 00:10:17,021
+from the electron
+transport chain.
+
+222
+00:10:17,021 --> 00:10:19,057
+In the electron transport chain,
+as electrons went from
+
+223
+00:10:19,057 --> 00:10:24,015
+a high potential, a high energy
+state, to a low energy
+
+224
+00:10:24,015 --> 00:10:27,011
+state, that energy
+was used to pump
+
+225
+00:10:27,011 --> 00:10:29,024
+hydrogens through a membrane.
+
+226
+00:10:29,024 --> 00:10:33,028
+And in that case it was in the
+mitochondria, here the
+
+227
+00:10:33,028 --> 00:10:35,075
+membrane is the thylakoid
+membrane.
+
+228
+00:10:35,075 --> 00:10:39,075
+But either case, you're creating
+this gradient where--
+
+229
+00:10:39,075 --> 00:10:43,064
+because of the energy from,
+essentially the photons-- the
+
+230
+00:10:43,064 --> 00:10:46,033
+electrons enter a high energy
+state, they keep going into a
+
+231
+00:10:46,033 --> 00:10:47,037
+lower energy state.
+
+232
+00:10:47,037 --> 00:10:49,087
+And then they actually go to
+photosystem I and they get hit
+
+233
+00:10:49,087 --> 00:10:50,090
+by another photon.
+
+234
+00:10:50,090 --> 00:10:52,063
+Well, that's a simplification,
+but that's how you
+
+235
+00:10:52,063 --> 00:10:53,019
+can think of it.
+
+236
+00:10:53,019 --> 00:10:55,035
+Enter another high energy
+state, then they go to a
+
+237
+00:10:55,035 --> 00:10:56,090
+lower, lower and lower
+energy state.
+
+238
+00:10:56,090 --> 00:10:59,053
+But the whole time, that energy
+from the electrons
+
+239
+00:10:59,053 --> 00:11:02,075
+going from a high energy state
+to a low energy state is used
+
+240
+00:11:02,075 --> 00:11:07,012
+to pump hydrogen protons
+into the lumen.
+
+241
+00:11:07,012 --> 00:11:08,039
+So you have this huge
+
+242
+00:11:08,039 --> 00:11:11,044
+concentration of hydrogen protons.
+
+243
+00:11:11,044 --> 00:11:17,067
+And just like what we saw in the
+electron transport chain,
+
+244
+00:11:17,067 --> 00:11:21,098
+that concentration is then-- of
+hydrogen protons-- is then
+
+245
+00:11:21,098 --> 00:11:24,097
+used to drive ATP synthase.
+
+246
+00:11:24,097 --> 00:11:28,032
+So the exact same-- let me see
+if I can draw that ATP
+
+247
+00:11:28,032 --> 00:11:29,030
+synthase here.
+
+248
+00:11:29,030 --> 00:11:30,087
+You might remember ATP
+synthase looks
+
+249
+00:11:30,087 --> 00:11:33,015
+something like this.
+
+250
+00:11:33,015 --> 00:11:36,050
+Where literally, so here you
+have a huge concentration of
+
+251
+00:11:36,050 --> 00:11:37,085
+hydrogen protons.
+
+252
+00:11:37,085 --> 00:11:41,000
+So they'll want to
+go back into the
+
+253
+00:11:41,000 --> 00:11:42,023
+stroma from the lumen.
+
+254
+00:11:42,023 --> 00:11:42,089
+And they do.
+
+255
+00:11:42,089 --> 00:11:45,066
+And they go through
+the ATP synthase.
+
+256
+00:11:45,066 --> 00:11:47,020
+Let me do it in a new color.
+
+257
+00:11:47,020 --> 00:11:51,082
+So these hydrogen protons are
+going to make their way back.
+
+258
+00:11:51,082 --> 00:11:53,021
+Go back down the gradient.
+
+259
+00:11:53,021 --> 00:11:55,089
+And as they go down the
+gradient, they literally--
+
+260
+00:11:55,089 --> 00:11:56,071
+it's like an engine.
+
+261
+00:11:56,071 --> 00:11:59,071
+And I go into detail on this
+when I talk about respiration.
+
+262
+00:11:59,071 --> 00:12:04,001
+And that turns, literally
+mechanically turns, this top
+
+263
+00:12:04,001 --> 00:12:06,085
+part-- the way I drew it--
+of the ATP synthase.
+
+264
+00:12:06,085 --> 00:12:11,075
+And it puts ADP and phosphate
+groups together.
+
+265
+00:12:11,075 --> 00:12:15,055
+It puts ADP plus phosphate
+groups
+
+266
+00:12:15,055 --> 00:12:20,025
+together to produce ATP.
+
+267
+00:12:20,025 --> 00:12:22,074
+So that's the general,
+very high overview.
+
+268
+00:12:22,074 --> 00:12:25,011
+And I'm going to go into more
+detail in a second.
+
+269
+00:12:25,011 --> 00:12:29,050
+But this process that I just
+described is called
+
+270
+00:12:29,050 --> 00:12:32,020
+photophosphorylation.
+
+271
+00:12:32,020 --> 00:12:33,045
+Let me do it in a nice color.
+
+272
+00:12:33,045 --> 00:12:40,044
+
+
+273
+00:12:40,044 --> 00:12:41,085
+Why is it called that?
+
+274
+00:12:41,085 --> 00:12:43,038
+Well, because we're
+using photons.
+
+275
+00:12:43,038 --> 00:12:44,046
+That's the photo part.
+
+276
+00:12:44,046 --> 00:12:45,026
+We're using light.
+
+277
+00:12:45,026 --> 00:12:49,019
+We're using photons to excite
+electrons in chlorophyll.
+
+278
+00:12:49,019 --> 00:12:52,042
+As those electrons get passed
+from one molecule, from one
+
+279
+00:12:52,042 --> 00:12:55,096
+electron acceptor to another,
+they enter into lower and
+
+280
+00:12:55,096 --> 00:12:57,048
+lower energy states.
+
+281
+00:12:57,048 --> 00:13:01,016
+As they go into lower energy
+states, that's used to drive,
+
+282
+00:13:01,016 --> 00:13:05,026
+literally, pumps that allow
+hydrogen protons to go from
+
+283
+00:13:05,026 --> 00:13:07,024
+the stroma to the lumen.
+
+284
+00:13:07,024 --> 00:13:09,089
+Then the hydrogen protons
+want to go back.
+
+285
+00:13:09,089 --> 00:13:13,010
+They want to-- I guess you could
+call it-- chemiosmosis.
+
+286
+00:13:13,010 --> 00:13:16,076
+They want to go back into the
+stroma and then that drives
+
+287
+00:13:16,076 --> 00:13:19,017
+ATP synthase.
+
+288
+00:13:19,017 --> 00:13:21,094
+Right here, this is
+ATP synthase.
+
+289
+00:13:21,094 --> 00:13:26,026
+ATP synthase to essentially
+jam together ADPs and
+
+290
+00:13:26,026 --> 00:13:29,080
+phosphate groups
+to produce ATP.
+
+291
+00:13:29,080 --> 00:13:34,045
+Now, when I originally talked
+about the light reactions and
+
+292
+00:13:34,045 --> 00:13:37,000
+dark reactions I said, well the
+light reactions have two
+
+293
+00:13:37,000 --> 00:13:38,004
+byproducts.
+
+294
+00:13:38,004 --> 00:13:42,076
+It has ATP and it also has--
+actually it has three.
+
+295
+00:13:42,076 --> 00:13:46,062
+It has ATP, and it
+also has NADPH.
+
+296
+00:13:46,062 --> 00:13:49,034
+NADP is reduced.
+
+297
+00:13:49,034 --> 00:13:51,079
+It gains these electrons
+and these hydrogens.
+
+298
+00:13:51,079 --> 00:13:53,005
+So where does that show up?
+
+299
+00:13:53,005 --> 00:13:56,066
+Well, if we're talking about
+non-cyclic oxidative
+
+300
+00:13:56,066 --> 00:14:00,029
+photophosphorylation, or
+non-cyclic light reactions,
+
+301
+00:14:00,029 --> 00:14:01,096
+the final electron acceptor.
+
+302
+00:14:01,096 --> 00:14:05,033
+So after that electron keeps
+entering lower and lower
+
+303
+00:14:05,033 --> 00:14:07,044
+energy states, the
+final electron
+
+304
+00:14:07,044 --> 00:14:12,009
+acceptor is NADP plus.
+
+305
+00:14:12,009 --> 00:14:14,034
+So once it accepts the electrons
+and a hydrogen
+
+306
+00:14:14,034 --> 00:14:17,045
+proton with it, it
+becomes NADPH.
+
+307
+00:14:17,045 --> 00:14:20,048
+
+
+308
+00:14:20,048 --> 00:14:25,059
+Now, I also said that part of
+this process, water-- and this
+
+309
+00:14:25,059 --> 00:14:30,000
+is actually a very interesting
+thing-- water gets oxidized to
+
+310
+00:14:30,000 --> 00:14:31,026
+molecular oxygen.
+
+311
+00:14:31,026 --> 00:14:32,098
+So where does that happen?
+
+312
+00:14:32,098 --> 00:14:37,005
+So when I said, up here in
+photosystem I, that we have a
+
+313
+00:14:37,005 --> 00:14:43,022
+chlorophyll molecule that has
+an electron excited, and it
+
+314
+00:14:43,022 --> 00:14:44,050
+goes into a higher
+energy state.
+
+315
+00:14:44,050 --> 00:14:46,040
+And then that electron
+essentially gets passed from
+
+316
+00:14:46,040 --> 00:14:50,047
+one guy to the next, that begs
+the question, what can we use
+
+317
+00:14:50,047 --> 00:14:52,054
+to replace that electron?
+
+318
+00:14:52,054 --> 00:14:56,034
+And it turns out that we use,
+we literally use, the
+
+319
+00:14:56,034 --> 00:14:57,069
+electrons in water.
+
+320
+00:14:57,069 --> 00:15:03,087
+So over here you literally
+have H2O.
+
+321
+00:15:03,087 --> 00:15:08,000
+And H2O donates the hydrogens
+and the electrons with it.
+
+322
+00:15:08,000 --> 00:15:10,086
+So you can kind of imagine it
+donates two hydrogen protons
+
+323
+00:15:10,086 --> 00:15:14,092
+and two electrons to replace the
+electron that got excited
+
+324
+00:15:14,092 --> 00:15:15,086
+by the photons.
+
+325
+00:15:15,086 --> 00:15:17,077
+Because that electron got passed
+all the way over to
+
+326
+00:15:17,077 --> 00:15:21,000
+photosystem I and eventually
+ends up in NADPH.
+
+327
+00:15:21,000 --> 00:15:26,062
+So, you're literally stripping
+electrons off of water.
+
+328
+00:15:26,062 --> 00:15:28,064
+And when you strip off the
+electrons and the hydrogens,
+
+329
+00:15:28,064 --> 00:15:30,047
+you're just left with
+molecular oxygen.
+
+330
+00:15:30,047 --> 00:15:33,029
+Now, the reason why I want to
+really focus on this is that
+
+331
+00:15:33,029 --> 00:15:34,097
+there's something profound
+happening here.
+
+332
+00:15:34,097 --> 00:15:36,050
+Or at least on a chemistry
+level,
+
+333
+00:15:36,050 --> 00:15:37,060
+something profound is happening.
+
+334
+00:15:37,060 --> 00:15:43,050
+You're oxidizing water.
+
+335
+00:15:43,050 --> 00:15:46,048
+And in the entire biological
+kingdom, the only place where
+
+336
+00:15:46,048 --> 00:15:49,028
+we know something that is strong
+enough of an oxidizing
+
+337
+00:15:49,028 --> 00:15:52,039
+agent to oxidize water, to
+literally take away electrons
+
+338
+00:15:52,039 --> 00:15:53,021
+from water.
+
+339
+00:15:53,021 --> 00:15:54,063
+Which means you're
+really taking
+
+340
+00:15:54,063 --> 00:15:56,067
+electrons away from oxygen.
+
+341
+00:15:56,067 --> 00:15:58,083
+So you're oxidizing oxygen.
+
+342
+00:15:58,083 --> 00:16:02,012
+The only place that we know
+that an oxidation agent is
+
+343
+00:16:02,012 --> 00:16:06,055
+strong enough to do this
+is in photosystem II.
+
+344
+00:16:06,055 --> 00:16:09,055
+So it's a very profound idea,
+that normally electrons are
+
+345
+00:16:09,055 --> 00:16:10,096
+very happy in water.
+
+346
+00:16:10,096 --> 00:16:14,065
+They're very happy circulating
+around oxygens.
+
+347
+00:16:14,065 --> 00:16:17,030
+Oxygen is a very electronegative
+atom.
+
+348
+00:16:17,030 --> 00:16:20,083
+That's why we even call it
+oxidizing, because oxygen is
+
+349
+00:16:20,083 --> 00:16:23,023
+very good at oxidizing things.
+
+350
+00:16:23,023 --> 00:16:25,036
+But all of a sudden we've
+found something that can
+
+351
+00:16:25,036 --> 00:16:29,048
+oxidize oxygen, that can strip
+electrons off of oxygen and
+
+352
+00:16:29,048 --> 00:16:32,067
+then give those electrons
+to the chlorophyll.
+
+353
+00:16:32,067 --> 00:16:35,013
+The electron gets excited
+by photons.
+
+354
+00:16:35,013 --> 00:16:36,098
+Then those photons enter
+lower and lower and
+
+355
+00:16:36,098 --> 00:16:37,094
+lower energy states.
+
+356
+00:16:37,094 --> 00:16:40,024
+Get excited again in photosystem
+I by another set
+
+357
+00:16:40,024 --> 00:16:42,087
+of photons and then enter lower
+and lower and lower
+
+358
+00:16:42,087 --> 00:16:43,075
+energy states.
+
+359
+00:16:43,075 --> 00:16:47,050
+And then finally,
+end up at NADPH.
+
+360
+00:16:47,050 --> 00:16:50,013
+And the whole time it entered
+lower and lower energy states,
+
+361
+00:16:50,013 --> 00:16:54,016
+that energy was being used to
+pump hydrogen across this
+
+362
+00:16:54,016 --> 00:16:56,035
+membrane from the
+stroma to lumen.
+
+363
+00:16:56,035 --> 00:17:01,025
+And then that gradient is used
+to actually produce ATP.
+
+364
+00:17:01,025 --> 00:17:03,050
+So in the next video I'm going
+to give a little bit more
+
+365
+00:17:03,050 --> 00:17:07,004
+context about what this means
+in terms of energy states of
+
+366
+00:17:07,004 --> 00:17:11,003
+electrons and what's at a higher
+or lower energy state.
+
+367
+00:17:11,003 --> 00:17:13,020
+But this is essentially
+all that's happening.
+
+368
+00:17:13,020 --> 00:17:14,045
+Electrons get excited.
+
+369
+00:17:14,045 --> 00:17:17,011
+
+
+370
+00:17:17,011 --> 00:17:19,085
+Those electrons eventually
+end up at NADPH.
+
+371
+00:17:19,085 --> 00:17:23,065
+And as the electron gets excited
+and goes into lower
+
+372
+00:17:23,065 --> 00:17:25,016
+and lower energy states,
+it pumps
+
+373
+00:17:25,016 --> 00:17:27,028
+hydrogen across the gradient.
+
+374
+00:17:27,028 --> 00:17:30,090
+And then that gradient is used
+to drive ATP synthase, to
+
+375
+00:17:30,090 --> 00:17:32,010
+generate ATP.
+
+376
+00:17:32,010 --> 00:17:34,026
+And then that original electron
+that got excited, it
+
+377
+00:17:34,026 --> 00:17:35,048
+had to be replaced.
+
+378
+00:17:35,048 --> 00:17:39,020
+And that replaced electron is
+actually stripped off of H2O.
+
+379
+00:17:39,020 --> 00:17:42,068
+So the hydrogen protons and
+the electrons of H2O are
+
+380
+00:17:42,068 --> 00:17:46,029
+stripped away and you're just
+left with molecular oxygen.
+
+381
+00:17:46,029 --> 00:17:49,006
+And just to get a nice
+appreciation of the complexity
+
+382
+00:17:49,006 --> 00:17:51,097
+of all of this-- I showed you
+this earlier in the video--
+
+383
+00:17:51,097 --> 00:17:55,025
+but this is literally a-- I mean
+this isn't a picture of
+
+384
+00:17:55,025 --> 00:17:56,000
+photosystem II.
+
+385
+00:17:56,000 --> 00:17:57,082
+You actually don't have
+cylinders like this.
+
+386
+00:17:57,082 --> 00:18:01,010
+But these cylinders represent
+proteins.
+
+387
+00:18:01,010 --> 00:18:07,049
+Right here, these green kind
+of scaffold-like molecules,
+
+388
+00:18:07,049 --> 00:18:09,039
+that's chlorophyll A.
+
+389
+00:18:09,039 --> 00:18:15,039
+And what literally happens, is
+you have photons hitting--
+
+390
+00:18:15,039 --> 00:18:17,053
+actually it doesn't always have
+to hit chlorophyll A.
+
+391
+00:18:17,053 --> 00:18:20,028
+It can also hit what's called
+antenna molecules.
+
+392
+00:18:20,028 --> 00:18:22,054
+So antenna molecules are other
+types of chlorophyll, and
+
+393
+00:18:22,054 --> 00:18:24,098
+actually other types
+of molecules.
+
+394
+00:18:24,098 --> 00:18:31,050
+And so a photon, or a set of
+photons, comes here and maybe
+
+395
+00:18:31,050 --> 00:18:35,044
+it excites some electrons,
+it doesn't have to be in
+
+396
+00:18:35,044 --> 00:18:35,086
+chlorophyll A.
+
+397
+00:18:35,086 --> 00:18:38,022
+It could be in some of these
+other types of chlorophyll.
+
+398
+00:18:38,022 --> 00:18:41,020
+Or in some of these other I
+guess you could call them,
+
+399
+00:18:41,020 --> 00:18:44,067
+pigment molecules that will
+absorb these photons.
+
+400
+00:18:44,067 --> 00:18:46,050
+And then their electrons
+get excited.
+
+401
+00:18:46,050 --> 00:18:48,069
+And you can almost imagine
+it as a vibration.
+
+402
+00:18:48,069 --> 00:18:50,086
+But when you're talking about
+things on the quantum level,
+
+403
+00:18:50,086 --> 00:18:52,023
+vibrations really don't
+make sense.
+
+404
+00:18:52,023 --> 00:18:53,041
+But it's a good analogy.
+
+405
+00:18:53,041 --> 00:18:55,097
+They kind of vibrate their
+way to chlorophyll A.
+
+406
+00:18:55,097 --> 00:18:58,053
+And this is called
+resonance energy.
+
+407
+00:18:58,053 --> 00:19:04,066
+
+
+408
+00:19:04,066 --> 00:19:07,044
+They vibrate their way,
+eventually, to chlorophyll A.
+
+409
+00:19:07,044 --> 00:19:11,095
+And then in chlorophyll A, you
+have the electron get excited.
+
+410
+00:19:11,095 --> 00:19:15,061
+The primary electron acceptor
+is actually this molecule
+
+411
+00:19:15,061 --> 00:19:16,046
+right here.
+
+412
+00:19:16,046 --> 00:19:17,047
+Pheophytin.
+
+413
+00:19:17,047 --> 00:19:19,009
+Some people call it pheo.
+
+414
+00:19:19,009 --> 00:19:22,038
+And then from there, it keeps
+getting passed on from one
+
+415
+00:19:22,038 --> 00:19:23,020
+molecule to another.
+
+416
+00:19:23,020 --> 00:19:25,069
+I'll talk a little bit more
+about that in the next video.
+
+417
+00:19:25,069 --> 00:19:26,073
+But this is fascinating.
+
+418
+00:19:26,073 --> 00:19:28,039
+Look how complicated this is.
+
+419
+00:19:28,039 --> 00:19:32,021
+In order to essentially excite
+electrons and then use those
+
+420
+00:19:32,021 --> 00:19:36,005
+electrons to start the
+process of pumping
+
+421
+00:19:36,005 --> 00:19:37,020
+hydrogens across a membrane.
+
+422
+00:19:37,020 --> 00:19:39,029
+And this is an interesting
+place right here.
+
+423
+00:19:39,029 --> 00:19:40,095
+This is the water
+oxidation site.
+
+424
+00:19:40,095 --> 00:19:44,036
+So I got very excited about the
+idea of oxidizing water.
+
+425
+00:19:44,036 --> 00:19:48,014
+And so this is actually where
+it occurs in the photosystem
+
+426
+00:19:48,014 --> 00:19:49,024
+II complex.
+
+427
+00:19:49,024 --> 00:19:51,022
+And you actually have this very
+complicated mechanism.
+
+428
+00:19:51,022 --> 00:19:54,088
+Because it's no joke to actually
+strip away electrons
+
+429
+00:19:54,088 --> 00:19:58,010
+and hydrogens from an actual
+water molecule.
+
+430
+00:19:58,010 --> 00:19:59,000
+I'll leave you there.
+
+431
+00:19:59,000 --> 00:20:01,086
+And in the next video I'll talk
+a little bit more about
+
+432
+00:20:01,086 --> 00:20:02,089
+these energy states.
+
+433
+00:20:02,089 --> 00:20:05,038
+And I'll fill in a little bit of
+the gaps about what some of
+
+434
+00:20:05,038 --> 00:20:10,099
+these other molecules that act
+as hydrogen acceptors.
+
+435
+00:20:10,099 --> 00:20:12,047
+Or you can also view
+them as electron
+
+436
+00:20:12,047 --> 00:20:15,034
+acceptors along the way.
+
+437
+00:20:15,034 --> 00:20:15,054
+
