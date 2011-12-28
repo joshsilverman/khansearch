@@ -1,0 +1,519 @@
+1
+00:00:00,000 --> 00:00:00,055
+
+
+2
+00:00:00,055 --> 00:00:02,091
+I made a slight error
+in the electron
+
+3
+00:00:02,091 --> 00:00:04,015
+transport chain video.
+
+4
+00:00:04,015 --> 00:00:06,004
+And I just wanted to correct
+it in this one.
+
+5
+00:00:06,004 --> 00:00:08,053
+And it's also an opportunity for
+me to include a little bit
+
+6
+00:00:08,053 --> 00:00:11,056
+of terminology that I forgot
+to include in that video.
+
+7
+00:00:11,056 --> 00:00:14,031
+So when I described the electron
+transport chain, you
+
+8
+00:00:14,031 --> 00:00:16,080
+remember, it's just you have
+some high-energy electrons in
+
+9
+00:00:16,080 --> 00:00:20,051
+NADH and they get transferred
+from one molecule to another.
+
+10
+00:00:20,051 --> 00:00:22,080
+And as they get transferred
+they go into lower energy
+
+11
+00:00:22,080 --> 00:00:24,087
+states and they release
+energy.
+
+12
+00:00:24,087 --> 00:00:28,053
+And then the final electron
+acceptor was oxygen.
+
+13
+00:00:28,053 --> 00:00:30,019
+Oxygen got reduced right here.
+
+14
+00:00:30,019 --> 00:00:33,018
+But if you look at both sides of
+this equation, the mistake
+
+15
+00:00:33,018 --> 00:00:34,050
+was, I need two hydrogens.
+
+16
+00:00:34,050 --> 00:00:36,039
+If I have two hydrogens on the
+right-hand side of the water,
+
+17
+00:00:36,039 --> 00:00:38,071
+I need two hydrogens on
+the left-hand side.
+
+18
+00:00:38,071 --> 00:00:42,032
+So there should be
+a 2 right there.
+
+19
+00:00:42,032 --> 00:00:46,028
+So that was what I would
+consider to be a minor mistake
+
+20
+00:00:46,028 --> 00:00:47,020
+in the last video.
+
+21
+00:00:47,020 --> 00:00:49,050
+But this also gives me a chance
+to introduce you to
+
+22
+00:00:49,050 --> 00:00:51,010
+some more terminology.
+
+23
+00:00:51,010 --> 00:00:54,085
+So this whole process, we know
+that this is called oxidation.
+
+24
+00:00:54,085 --> 00:00:57,068
+When NADH loses a hydrogen.
+
+25
+00:00:57,068 --> 00:01:00,082
+Remember oxidation is losing,
+formally electrons.
+
+26
+00:01:00,082 --> 00:01:02,077
+But when it loses the hydrogen,
+it loses the
+
+27
+00:01:02,077 --> 00:01:05,064
+opportunity to hog that
+hydrogen's electrons.
+
+28
+00:01:05,064 --> 00:01:08,020
+So this whole process of the
+electron transport chain is
+
+29
+00:01:08,020 --> 00:01:11,045
+one molecule after another
+getting oxidized until you
+
+30
+00:01:11,045 --> 00:01:14,040
+have a final electron
+acceptor in water.
+
+31
+00:01:14,040 --> 00:01:17,028
+So this is-- obviously you could
+call this oxidation.
+
+32
+00:01:17,028 --> 00:01:18,095
+You know, just very generally.
+
+33
+00:01:18,095 --> 00:01:22,040
+And then the second part of the
+electron transport chain--
+
+34
+00:01:22,040 --> 00:01:24,081
+or maybe we shouldn't even call
+this part of the electron
+
+35
+00:01:24,081 --> 00:01:26,071
+transport chain-- the
+process where the
+
+36
+00:01:26,071 --> 00:01:28,062
+ATP is actually formed.
+
+37
+00:01:28,062 --> 00:01:32,036
+The adding of a phosphate group
+to another molecule is
+
+38
+00:01:32,036 --> 00:01:33,061
+called phosphorylation.
+
+39
+00:01:33,061 --> 00:01:40,079
+
+
+40
+00:01:40,079 --> 00:01:45,000
+So the whole process of creating
+ATP through the
+
+41
+00:01:45,000 --> 00:01:46,059
+electron transport chain.
+
+42
+00:01:46,059 --> 00:01:48,039
+Remember the electron transport
+chain releases
+
+43
+00:01:48,039 --> 00:01:51,001
+energy that creates this
+hydrogen gradient.
+
+44
+00:01:51,001 --> 00:01:54,054
+It pumps the hydrogens to
+the outer compartment.
+
+45
+00:01:54,054 --> 00:01:58,064
+And then that gradient, those
+hydrogens that want to get
+
+46
+00:01:58,064 --> 00:02:02,012
+back into the matrix,
+essentially going back through
+
+47
+00:02:02,012 --> 00:02:03,073
+this ATP synthase.
+
+48
+00:02:03,073 --> 00:02:06,087
+This process of generating ATP
+this way is called oxidative
+
+49
+00:02:06,087 --> 00:02:08,012
+phosphorylation.
+
+50
+00:02:08,012 --> 00:02:17,024
+
+
+51
+00:02:17,024 --> 00:02:18,012
+It's a good word to know.
+
+52
+00:02:18,012 --> 00:02:21,043
+You might see it on some
+standardized tests or on your
+
+53
+00:02:21,043 --> 00:02:23,056
+exams. And it's called
+this because you have
+
+54
+00:02:23,056 --> 00:02:25,077
+an oxidative part.
+
+55
+00:02:25,077 --> 00:02:30,019
+Each of these molecules gets
+oxidized in the electron
+
+56
+00:02:30,019 --> 00:02:33,021
+transport chain as they lose
+their hydrogens or as they
+
+57
+00:02:33,021 --> 00:02:34,050
+lose their electrons.
+
+58
+00:02:34,050 --> 00:02:36,088
+That creates a hydrogen
+gradient.
+
+59
+00:02:36,088 --> 00:02:40,028
+And then that, through
+chemiosmosis, allows for
+
+60
+00:02:40,028 --> 00:02:41,043
+phosphorylation.
+
+61
+00:02:41,043 --> 00:02:43,066
+So that's another good
+word to know.
+
+62
+00:02:43,066 --> 00:02:47,006
+The transfer of these hydrogens,
+these kind of going
+
+63
+00:02:47,006 --> 00:02:48,074
+through this membrane
+selectively.
+
+64
+00:02:48,074 --> 00:02:51,090
+This membrane, this ATP
+synthase, wouldn't allow just
+
+65
+00:02:51,090 --> 00:02:53,050
+any molecule to go through it.
+
+66
+00:02:53,050 --> 00:02:56,036
+It's allowing these hydrogen
+protons to go through it.
+
+67
+00:02:56,036 --> 00:02:58,075
+This process right here of this
+hydrogen going through is
+
+68
+00:02:58,075 --> 00:03:00,000
+called chemiosmosis.
+
+69
+00:03:00,000 --> 00:03:04,003
+
+
+70
+00:03:04,003 --> 00:03:05,090
+Another good word to know.
+
+71
+00:03:05,090 --> 00:03:07,087
+So the entire process
+is called oxidative
+
+72
+00:03:07,087 --> 00:03:09,006
+phosphorylation.
+
+73
+00:03:09,006 --> 00:03:10,053
+They don't happen at
+the same time.
+
+74
+00:03:10,053 --> 00:03:14,046
+Oxidative generates the energy
+because the energy to push the
+
+75
+00:03:14,046 --> 00:03:15,013
+hydrogens out.
+
+76
+00:03:15,013 --> 00:03:17,043
+And then the phosphorylation
+happens as the hydrogens
+
+77
+00:03:17,043 --> 00:03:21,005
+experience chemiosmosis and go
+back in and turn this little
+
+78
+00:03:21,005 --> 00:03:27,015
+axle and then push the ADP and
+the phosphate groups together.
+
+79
+00:03:27,015 --> 00:03:30,008
+And then you can contrast
+that with substrate.
+
+80
+00:03:30,008 --> 00:03:34,000
+Substrate phosphorylations.
+
+81
+00:03:34,000 --> 00:03:36,059
+Since I'm in the mood to
+introduce you to terminology.
+
+82
+00:03:36,059 --> 00:03:37,094
+Substrate phosphorylation.
+
+83
+00:03:37,094 --> 00:03:41,012
+This is actually what happens
+when the ATP is produced
+
+84
+00:03:41,012 --> 00:03:44,027
+directly in glycolysis
+in the Krebs cycle.
+
+85
+00:03:44,027 --> 00:03:49,041
+
+
+86
+00:03:49,041 --> 00:03:54,036
+And this is where you have an
+enzyme directly helping to
+
+87
+00:03:54,036 --> 00:03:55,099
+peruse the ATP without
+any type of
+
+88
+00:03:55,099 --> 00:03:58,062
+chemiosmosis or proton gradient.
+
+89
+00:03:58,062 --> 00:04:02,047
+So if you imagine an
+enzyme, some blurb,
+
+90
+00:04:02,047 --> 00:04:04,041
+some big protein blurb.
+
+91
+00:04:04,041 --> 00:04:09,011
+And let's say it has the
+ADP there with its
+
+92
+00:04:09,011 --> 00:04:10,050
+two phosphate groups.
+
+93
+00:04:10,050 --> 00:04:12,088
+And then maybe it has another
+phosphate group that attaches
+
+94
+00:04:12,088 --> 00:04:15,022
+at some other part of the
+enzyme, this enzyme
+
+95
+00:04:15,022 --> 00:04:19,018
+facilitates without any kind of
+chemiosmosis or oxidation.
+
+96
+00:04:19,018 --> 00:04:23,095
+It facilitates, probably in
+conjunction with other energy
+
+97
+00:04:23,095 --> 00:04:27,087
+releasing reactions that may be
+occurring on other parts of
+
+98
+00:04:27,087 --> 00:04:28,050
+the enzyme.
+
+99
+00:04:28,050 --> 00:04:31,082
+So maybe you can imagine a
+little spark right there and
+
+100
+00:04:31,082 --> 00:04:34,081
+then that twists this
+entire enzyme.
+
+101
+00:04:34,081 --> 00:04:36,056
+This isn't exactly how
+it might work,
+
+102
+00:04:36,056 --> 00:04:37,063
+but it's a good idea.
+
+103
+00:04:37,063 --> 00:04:40,008
+And then these two things maybe
+get pushed together.
+
+104
+00:04:40,008 --> 00:04:41,077
+When it's just an enzyme
+without any of this
+
+105
+00:04:41,077 --> 00:04:44,082
+chemiosmosis that's driven by
+oxidation, like we learned in
+
+106
+00:04:44,082 --> 00:04:47,087
+the electron transport chain,
+we call this substrate
+
+107
+00:04:47,087 --> 00:04:48,077
+phosphorylation.
+
+108
+00:04:48,077 --> 00:04:52,035
+And the substrates are just the
+things that attach to the
+
+109
+00:04:52,035 --> 00:04:54,075
+enzyme and have something
+performed on them.
+
+110
+00:04:54,075 --> 00:04:56,025
+So anyway, hopefully you
+found this little
+
+111
+00:04:56,025 --> 00:04:58,070
+video mildly useful.

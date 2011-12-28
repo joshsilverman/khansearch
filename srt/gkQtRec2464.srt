@@ -1,0 +1,1860 @@
+1
+00:00:00,000 --> 00:00:00,033
+
+
+2
+00:00:00,033 --> 00:00:03,014
+In the last video, we talked
+about how the cell uses a
+
+3
+00:00:03,014 --> 00:00:08,027
+sodium potassium pump and ATP
+to maintain its potential
+
+4
+00:00:08,027 --> 00:00:11,010
+difference between the inside
+of the cell or the inside of
+
+5
+00:00:11,010 --> 00:00:13,067
+the neuron and the outside-- and
+in general, the outside is
+
+6
+00:00:13,067 --> 00:00:15,033
+more positive than the inside.
+
+7
+00:00:15,033 --> 00:00:19,028
+You have a -70 millivolt
+potential difference from the
+
+8
+00:00:19,028 --> 00:00:21,000
+inside to the outside.
+
+9
+00:00:21,000 --> 00:00:25,033
+It's minus because the outside
+is more positive.
+
+10
+00:00:25,033 --> 00:00:27,048
+Less positive minus more
+positive, you're going to get
+
+11
+00:00:27,048 --> 00:00:29,073
+a negative number
+and it's by -70.
+
+12
+00:00:29,073 --> 00:00:32,088
+Now, I said that this was the
+foundation for understanding
+
+13
+00:00:32,088 --> 00:00:35,068
+how neurons actually
+transmit signals.
+
+14
+00:00:35,068 --> 00:00:38,072
+And to understand that, I'll
+kind of lay a foundation over
+
+15
+00:00:38,072 --> 00:00:39,049
+that foundation.
+
+16
+00:00:39,049 --> 00:00:42,071
+I think then just the actual
+neuron transmission will make
+
+17
+00:00:42,071 --> 00:00:43,075
+a lot of sense.
+
+18
+00:00:43,075 --> 00:00:45,090
+Even better, it'll make a lot
+of sense why they even have
+
+19
+00:00:45,090 --> 00:00:49,007
+these myelin sheaths and these
+nodes of Ranvier and why we
+
+20
+00:00:49,007 --> 00:00:50,011
+have all of these dendrites.
+
+21
+00:00:50,011 --> 00:00:52,039
+Hopefully it'll all
+fit together.
+
+22
+00:00:52,039 --> 00:00:55,025
+So there are two types of
+ways that kind of a
+
+23
+00:00:55,025 --> 00:00:57,015
+potential can travel.
+
+24
+00:00:57,015 --> 00:00:59,028
+So there's two types
+of signal transfer.
+
+25
+00:00:59,028 --> 00:01:02,028
+I'll just call it
+signal transfer.
+
+26
+00:01:02,028 --> 00:01:04,026
+I don't know what the
+best word for it is.
+
+27
+00:01:04,026 --> 00:01:06,070
+The first one I'll talk
+is electrotonic.
+
+28
+00:01:06,070 --> 00:01:08,018
+It sounds very fancy,
+but you'll see it's
+
+29
+00:01:08,018 --> 00:01:09,043
+a very simple idea.
+
+30
+00:01:09,043 --> 00:01:21,001
+
+
+31
+00:01:21,001 --> 00:01:22,067
+And the other one I'm
+going to go over
+
+32
+00:01:22,067 --> 00:01:25,034
+is an action potential.
+
+33
+00:01:25,034 --> 00:01:27,076
+And they both have their own
+positives and negatives in
+
+34
+00:01:27,076 --> 00:01:32,076
+terms of being able to
+transmit a signal.
+
+35
+00:01:32,076 --> 00:01:36,035
+We're talking about within the
+context of in a cell or across
+
+36
+00:01:36,035 --> 00:01:38,026
+a cell membrane.
+
+37
+00:01:38,026 --> 00:01:39,093
+Let's understand what
+these mean.
+
+38
+00:01:39,093 --> 00:01:41,078
+So let me get my membrane
+of a cell.
+
+39
+00:01:41,078 --> 00:01:46,031
+Let's say it's a nerve cell or
+a neuron, just to make it all
+
+40
+00:01:46,031 --> 00:01:49,012
+fit together in this context.
+
+41
+00:01:49,012 --> 00:01:51,004
+And we know it's more
+positive on the
+
+42
+00:01:51,004 --> 00:01:52,029
+outside than the inside.
+
+43
+00:01:52,029 --> 00:01:55,051
+We know that there's a lot of
+sodium on the outside or a lot
+
+44
+00:01:55,051 --> 00:01:58,028
+more sodium on the outside
+than on the inside.
+
+45
+00:01:58,028 --> 00:01:59,031
+There might be a little bit.
+
+46
+00:01:59,031 --> 00:02:05,065
+And we know there's a lot more
+potassium on the inside than
+
+47
+00:02:05,065 --> 00:02:08,018
+the outside, but we know
+generally that the outside is
+
+48
+00:02:08,018 --> 00:02:11,006
+more positive then the inside
+because our sodium potassium
+
+49
+00:02:11,006 --> 00:02:13,062
+pump will pump out three
+sodiums for every two
+
+50
+00:02:13,062 --> 00:02:15,043
+potassiums it takes in.
+
+51
+00:02:15,043 --> 00:02:18,006
+Now in the last video, I told
+you that there are these
+
+52
+00:02:18,006 --> 00:02:21,048
+things called-- well, we could
+call them a sodium gate.
+
+53
+00:02:21,048 --> 00:02:23,081
+A sodium ion gate, right?
+
+54
+00:02:23,081 --> 00:02:24,043
+These are all ions.
+
+55
+00:02:24,043 --> 00:02:25,099
+They're charged.
+
+56
+00:02:25,099 --> 00:02:28,041
+Now let's say that there's some
+reason, some stimulus--
+
+57
+00:02:28,041 --> 00:02:29,066
+let me label this.
+
+58
+00:02:29,066 --> 00:02:35,043
+
+
+59
+00:02:35,043 --> 00:02:39,099
+That right there is my
+sodium ion gate.
+
+60
+00:02:39,099 --> 00:02:41,065
+And it's in its closed position,
+but let's say
+
+61
+00:02:41,065 --> 00:02:43,047
+something causes it to open.
+
+62
+00:02:43,047 --> 00:02:45,069
+We'll talk maybe in this video
+or maybe this video and the
+
+63
+00:02:45,069 --> 00:02:47,033
+next about the different
+things that
+
+64
+00:02:47,033 --> 00:02:48,019
+could cause it to open.
+
+65
+00:02:48,019 --> 00:02:51,009
+Maybe it's some type of stimulus
+causes this to open.
+
+66
+00:02:51,009 --> 00:02:52,090
+Actually, there's a whole bunch
+of different stimuluses
+
+67
+00:02:52,090 --> 00:02:55,047
+that would cause it to open.
+
+68
+00:02:55,047 --> 00:02:56,037
+But let's say it opens.
+
+69
+00:02:56,037 --> 00:03:00,056
+What's going to happen
+if it opens?
+
+70
+00:03:00,056 --> 00:03:02,056
+So let's say we open it.
+
+71
+00:03:02,056 --> 00:03:04,078
+Some stimulus opens-- what's
+going to happen?
+
+72
+00:03:04,078 --> 00:03:06,087
+We have more positive on the
+outside than the inside, so
+
+73
+00:03:06,087 --> 00:03:08,046
+positive things want
+to move in.
+
+74
+00:03:08,046 --> 00:03:12,040
+And this is a sodium gate so
+only sodium can go through it.
+
+75
+00:03:12,040 --> 00:03:14,096
+So it's kind of a convoluted
+protein structure that only
+
+76
+00:03:14,096 --> 00:03:17,000
+sodium can make its
+way through.
+
+77
+00:03:17,000 --> 00:03:19,084
+And on top of that, we have a
+lot more sodium on the outside
+
+78
+00:03:19,084 --> 00:03:20,050
+than on the inside.
+
+79
+00:03:20,050 --> 00:03:22,058
+So the diffusion gradient's
+going to want to make sodium
+
+80
+00:03:22,058 --> 00:03:23,031
+go through it.
+
+81
+00:03:23,031 --> 00:03:26,065
+And the fact that sodium's a
+positive ion, the outside is
+
+82
+00:03:26,065 --> 00:03:28,027
+more positive, they're going to
+want to run away from that
+
+83
+00:03:28,027 --> 00:03:30,034
+positive environment.
+
+84
+00:03:30,034 --> 00:03:32,081
+So if you open this, you're just
+going to have a lot of
+
+85
+00:03:32,081 --> 00:03:35,003
+sodium ions start to
+flood through.
+
+86
+00:03:35,003 --> 00:03:40,025
+
+
+87
+00:03:40,025 --> 00:03:43,018
+Now as that happens, what's
+going to happen if we go
+
+88
+00:03:43,018 --> 00:03:44,050
+further down the membrane?
+
+89
+00:03:44,050 --> 00:03:47,011
+Let's zoom out.
+
+90
+00:03:47,011 --> 00:03:50,065
+So let's say that this is
+my membrane right there.
+
+91
+00:03:50,065 --> 00:03:54,015
+Let's say that this is my open
+gate right here and that it's
+
+92
+00:03:54,015 --> 00:03:56,099
+open for some reason and a bunch
+of sodium is flowing in.
+
+93
+00:03:56,099 --> 00:04:01,005
+So all of this is becoming
+much more positive.
+
+94
+00:04:01,005 --> 00:04:04,097
+Let's say we had a voltmeter
+right here.
+
+95
+00:04:04,097 --> 00:04:07,022
+We're measuring the potential
+difference between the inside
+
+96
+00:04:07,022 --> 00:04:10,041
+of the membrane a
+and the outside.
+
+97
+00:04:10,041 --> 00:04:13,058
+Let me do a little chart.
+
+98
+00:04:13,058 --> 00:04:17,018
+I'm going to do the chart
+here on my voltmeter.
+
+99
+00:04:17,018 --> 00:04:20,057
+And this is going to be the
+potential difference-- or
+
+100
+00:04:20,057 --> 00:04:26,075
+we'll call it the membrane
+voltage or the voltage
+
+101
+00:04:26,075 --> 00:04:28,000
+difference across the
+membrane-- and
+
+102
+00:04:28,000 --> 00:04:31,014
+let's say this is time.
+
+103
+00:04:31,014 --> 00:04:33,045
+Let's say I haven't opened
+this gate yet.
+
+104
+00:04:33,045 --> 00:04:35,002
+So it's in its resting state.
+
+105
+00:04:35,002 --> 00:04:37,010
+Our sodium potassium
+pumps are working.
+
+106
+00:04:37,010 --> 00:04:39,008
+Things are leaking back and
+forth, but it's staying at
+
+107
+00:04:39,008 --> 00:04:41,079
+that minus 70 millivolts.
+
+108
+00:04:41,079 --> 00:04:46,076
+So that right there is
+minus 70 millivolts.
+
+109
+00:04:46,076 --> 00:04:51,011
+Now as soon as this gate that's
+way down some other
+
+110
+00:04:51,011 --> 00:04:53,076
+part of the cell opens, what's
+going to happen?
+
+111
+00:04:53,076 --> 00:04:55,091
+And let's say that's the
+only thing that's open.
+
+112
+00:04:55,091 --> 00:04:58,037
+So this, all of a sudden, is
+going to become more positive.
+
+113
+00:04:58,037 --> 00:05:01,018
+So positive charges that's
+already here-- so other
+
+114
+00:05:01,018 --> 00:05:07,048
+positive charges, whether
+they're sodiums or potassiums,
+
+115
+00:05:07,048 --> 00:05:09,025
+they're going to want to run
+away from that point because
+
+116
+00:05:09,025 --> 00:05:11,048
+this area hasn't had a flood
+of positive things.
+
+117
+00:05:11,048 --> 00:05:13,083
+So it's less positive
+than this over here.
+
+118
+00:05:13,083 --> 00:05:16,067
+So maybe we have some potassiums
+and maybe we have
+
+119
+00:05:16,067 --> 00:05:19,095
+some sodiums. Everything is
+going to want to move away
+
+120
+00:05:19,095 --> 00:05:23,031
+from the place where
+this is opened.
+
+121
+00:05:23,031 --> 00:05:25,058
+The charge is going to
+want to move away.
+
+122
+00:05:25,058 --> 00:05:28,091
+So as soon as this happens, as
+soon as we open this gate,
+
+123
+00:05:28,091 --> 00:05:30,045
+we're going to have a
+movement of positive
+
+124
+00:05:30,045 --> 00:05:31,023
+charge in this direction.
+
+125
+00:05:31,023 --> 00:05:34,082
+So all of a sudden-- this was
+at minus 70 millivolts.
+
+126
+00:05:34,082 --> 00:05:37,024
+So more positive charge
+is coming its way.
+
+127
+00:05:37,024 --> 00:05:41,068
+
+
+128
+00:05:41,068 --> 00:05:45,012
+Almost immediately, it's going
+to become less negative or
+
+129
+00:05:45,012 --> 00:05:46,047
+more positive.
+
+130
+00:05:46,047 --> 00:05:48,058
+The potential difference between
+this and this is going
+
+131
+00:05:48,058 --> 00:05:49,080
+to become less.
+
+132
+00:05:49,080 --> 00:05:51,098
+So this is this point
+over here.
+
+133
+00:05:51,098 --> 00:05:57,089
+Now if we took this point, if we
+did the same thing-- if we
+
+134
+00:05:57,089 --> 00:06:01,012
+measured the voltage at this
+point right here, maybe it was
+
+135
+00:06:01,012 --> 00:06:06,014
+at minus 70 millvolts, maybe a
+fraction of a minute amount of
+
+136
+00:06:06,014 --> 00:06:09,056
+time later, the positive charge
+starts affecting it so
+
+137
+00:06:09,056 --> 00:06:13,001
+it becomes more positive, but
+the effect is diluted, right?
+
+138
+00:06:13,001 --> 00:06:14,066
+Because these positive charges,
+they're going to
+
+139
+00:06:14,066 --> 00:06:16,024
+radiate in every direction.
+
+140
+00:06:16,024 --> 00:06:17,041
+So the effect is diluted.
+
+141
+00:06:17,041 --> 00:06:20,012
+So the effect on this thing
+is going to be less.
+
+142
+00:06:20,012 --> 00:06:21,086
+It's going to become
+less positive.
+
+143
+00:06:21,086 --> 00:06:26,016
+So an electrotonic potential--
+what happens is at one point
+
+144
+00:06:26,016 --> 00:06:30,038
+in the cell, a gate opens,
+charge starts flooding in, and
+
+145
+00:06:30,038 --> 00:06:32,045
+it starts affecting the
+potential at other
+
+146
+00:06:32,045 --> 00:06:33,062
+parts of the cell.
+
+147
+00:06:33,062 --> 00:06:40,097
+But the positive of it is, it's
+very fast. As soon as
+
+148
+00:06:40,097 --> 00:06:41,081
+this happens.
+
+149
+00:06:41,081 --> 00:06:50,000
+further down the cell, it starts
+becoming more and more
+
+150
+00:06:50,000 --> 00:07:00,081
+positive, but the further you
+go, the effect gets dissipated
+
+151
+00:07:00,081 --> 00:07:02,056
+with distance.
+
+152
+00:07:02,056 --> 00:07:05,005
+So if you care about speed,
+you'd want this
+
+153
+00:07:05,005 --> 00:07:06,024
+electrotonic potential.
+
+154
+00:07:06,024 --> 00:07:08,062
+As soon as it happens, it'll
+start affecting the rest of
+
+155
+00:07:08,062 --> 00:07:11,075
+the cell, but if you wanted
+this potential change to
+
+156
+00:07:11,075 --> 00:07:14,066
+travel over large distances--
+for example, let's say if we
+
+157
+00:07:14,066 --> 00:07:18,002
+got all the way to this point of
+the neuron and we wanted to
+
+158
+00:07:18,002 --> 00:07:20,020
+measure it, it might not
+have any impact.
+
+159
+00:07:20,020 --> 00:07:22,041
+Maybe a little bit later, but
+it's not having any impact
+
+160
+00:07:22,041 --> 00:07:24,092
+because all of this gets diluted
+by the time it gets--
+
+161
+00:07:24,092 --> 00:07:26,095
+it's increasing the charge
+throughout the cell.
+
+162
+00:07:26,095 --> 00:07:30,019
+So it's a impact far away from
+the initial place where the
+
+163
+00:07:30,019 --> 00:07:30,075
+gate opened.
+
+164
+00:07:30,075 --> 00:07:32,024
+It's going to be a lot less.
+
+165
+00:07:32,024 --> 00:07:36,011
+So it's really not good for
+operating over distance.
+
+166
+00:07:36,011 --> 00:07:38,004
+Now let's try to figure
+out what's going on
+
+167
+00:07:38,004 --> 00:07:40,007
+with an action potential.
+
+168
+00:07:40,007 --> 00:07:43,031
+And you might understand, this
+might involve more action.
+
+169
+00:07:43,031 --> 00:07:45,050
+So let's start off with
+the same situation.
+
+170
+00:07:45,050 --> 00:07:51,050
+We have a sodium gate that gets
+opened by some stimulus.
+
+171
+00:07:51,050 --> 00:07:54,073
+What I'm going to do-- let me
+draw two membranes here.
+
+172
+00:07:54,073 --> 00:07:55,098
+So this is the outside.
+
+173
+00:07:55,098 --> 00:07:59,050
+
+
+174
+00:07:59,050 --> 00:08:02,043
+This is the inside.
+
+175
+00:08:02,043 --> 00:08:05,068
+And let me draw-- maybe we're
+dealing with a-- and we'll go
+
+176
+00:08:05,068 --> 00:08:06,026
+in more detail.
+
+177
+00:08:06,026 --> 00:08:11,087
+Maybe this is an axon or
+something, but let me-- let's
+
+178
+00:08:11,087 --> 00:08:14,081
+say we have another sodium
+gate right here.
+
+179
+00:08:14,081 --> 00:08:18,081
+
+
+180
+00:08:18,081 --> 00:08:21,069
+And then they're alternating,
+essentially.
+
+181
+00:08:21,069 --> 00:08:26,008
+So they're alternating so then
+I have another sodium gate.
+
+182
+00:08:26,008 --> 00:08:38,051
+
+
+183
+00:08:38,051 --> 00:08:39,098
+I don't want to do
+a bunch of these.
+
+184
+00:08:39,098 --> 00:08:42,098
+I think I just have to draw one
+round of it for you to get
+
+185
+00:08:42,098 --> 00:08:44,073
+what's going on.
+
+186
+00:08:44,073 --> 00:08:46,035
+Let me draw another
+potassium gate.
+
+187
+00:08:46,035 --> 00:08:52,013
+
+
+188
+00:08:52,013 --> 00:08:54,028
+And let's say that they
+all start closed.
+
+189
+00:08:54,028 --> 00:08:56,024
+So they're all in the
+closed position.
+
+190
+00:08:56,024 --> 00:08:58,075
+Now let's say that this sodium
+gate gets stimulated.
+
+191
+00:08:58,075 --> 00:09:00,000
+It gets opened.
+
+192
+00:09:00,000 --> 00:09:03,022
+
+
+193
+00:09:03,022 --> 00:09:05,074
+Let's say that guy right
+there gets opened.
+
+194
+00:09:05,074 --> 00:09:07,066
+It gets stimulated by something
+to get opened.
+
+195
+00:09:07,066 --> 00:09:10,086
+We'll talk about the things
+that-- let's say in particular
+
+196
+00:09:10,086 --> 00:09:20,015
+this thing gets opened-- let's
+say the stimulus-- it has to
+
+197
+00:09:20,015 --> 00:09:21,021
+be a certain voltage.
+
+198
+00:09:21,021 --> 00:09:26,016
+And let's say they become open
+when we are at minus 55
+
+199
+00:09:26,016 --> 00:09:27,041
+millivolts.
+
+200
+00:09:27,041 --> 00:09:33,039
+
+
+201
+00:09:33,039 --> 00:09:35,090
+So when we're just in our
+resting state, the potential
+
+202
+00:09:35,090 --> 00:09:38,026
+difference between the inside of
+the cell and the outside is
+
+203
+00:09:38,026 --> 00:09:40,037
+minus 70, so it's not
+going to be open.
+
+204
+00:09:40,037 --> 00:09:43,041
+It's going to be closed, but if
+for whatever reason, this
+
+205
+00:09:43,041 --> 00:09:47,051
+becomes positive enough to get
+to minus 55 millivolts, all of
+
+206
+00:09:47,051 --> 00:09:49,044
+a sudden this thing
+will be open.
+
+207
+00:09:49,044 --> 00:09:52,073
+Let's write a couple of other
+rules that dictate what
+
+208
+00:09:52,073 --> 00:09:53,062
+happens to this gate.
+
+209
+00:09:53,062 --> 00:09:57,087
+Let's say it closes-- and these
+are all rough numbers,
+
+210
+00:09:57,087 --> 00:10:01,025
+but the main idea is for you
+to get the general idea.
+
+211
+00:10:01,025 --> 00:10:10,090
+Let's say it closes at--
+I don't know-- plus 35
+
+212
+00:10:10,090 --> 00:10:11,087
+millivolts.
+
+213
+00:10:11,087 --> 00:10:20,030
+And let's say that our potassium
+gate opens at plus
+
+214
+00:10:20,030 --> 00:10:24,027
+40 millvolts, just to give
+an idea of things.
+
+215
+00:10:24,027 --> 00:10:33,011
+Let's say it closes at--
+I don't know-- minus 80
+
+216
+00:10:33,011 --> 00:10:34,036
+millivolts.
+
+217
+00:10:34,036 --> 00:10:36,021
+
+
+218
+00:10:36,021 --> 00:10:37,000
+So what's going to happen?
+
+219
+00:10:37,000 --> 00:10:40,003
+Lets say that, for whatever
+reason, the voltage here has
+
+220
+00:10:40,003 --> 00:10:41,062
+now become minus 55.
+
+221
+00:10:41,062 --> 00:10:44,083
+Let me do a chart just
+like I did down here.
+
+222
+00:10:44,083 --> 00:10:46,085
+So I want to have space
+to draw my chart.
+
+223
+00:10:46,085 --> 00:10:54,011
+
+
+224
+00:10:54,011 --> 00:10:55,036
+This is membrane voltage.
+
+225
+00:10:55,036 --> 00:11:00,037
+
+
+226
+00:11:00,037 --> 00:11:03,008
+And this is time down here.
+
+227
+00:11:03,008 --> 00:11:05,017
+And let's say we're measuring
+it-- let's say this is the
+
+228
+00:11:05,017 --> 00:11:08,078
+membrane voltage at-- let's say
+right by the sodium gate
+
+229
+00:11:08,078 --> 00:11:09,014
+right here.
+
+230
+00:11:09,014 --> 00:11:10,035
+So we're measuring this voltage
+
+231
+00:11:10,035 --> 00:11:11,048
+across this right here.
+
+232
+00:11:11,048 --> 00:11:14,020
+So if it's not stimulated any
+way, we're just here,
+
+233
+00:11:14,020 --> 00:11:18,005
+flatlining at minus 70
+millivolts-- and let's say
+
+234
+00:11:18,005 --> 00:11:19,083
+some stimulus, for
+whatever reason,
+
+235
+00:11:19,083 --> 00:11:21,062
+makes this more positive.
+
+236
+00:11:21,062 --> 00:11:24,095
+Maybe it's some type of
+electrotonic effect that's
+
+237
+00:11:24,095 --> 00:11:26,042
+making it more positive here.
+
+238
+00:11:26,042 --> 00:11:28,044
+Maybe some positive charges
+are floating by.
+
+239
+00:11:28,044 --> 00:11:30,086
+So this becomes more positive.
+
+240
+00:11:30,086 --> 00:11:33,053
+So let's say this becomes more
+positive and then the ATP
+
+241
+00:11:33,053 --> 00:11:38,051
+pumps-- the sodium potassium
+pumps pump it out so it
+
+242
+00:11:38,051 --> 00:11:41,077
+doesn't get to the threshold of
+minus 55, so then nothing
+
+243
+00:11:41,077 --> 00:11:42,062
+will happen, right?
+
+244
+00:11:42,062 --> 00:11:43,063
+It didn't get to
+the threshold.
+
+245
+00:11:43,063 --> 00:11:45,071
+But then let's say there's
+another electrotonic or maybe
+
+246
+00:11:45,071 --> 00:11:47,095
+a bunch of them and just there's
+a lot of positive
+
+247
+00:11:47,095 --> 00:11:54,048
+charge here so we get to
+the minus 55 millvolts.
+
+248
+00:11:54,048 --> 00:11:55,096
+Remember, when positive
+charge comes by,
+
+249
+00:11:55,096 --> 00:11:57,012
+we become less negative.
+
+250
+00:11:57,012 --> 00:11:59,011
+The potential difference
+becomes less negative.
+
+251
+00:11:59,011 --> 00:12:01,071
+We get to that minus
+55 volts-- this
+
+252
+00:12:01,071 --> 00:12:03,095
+thing opens then, right?
+
+253
+00:12:03,095 --> 00:12:05,020
+This was closed before.
+
+254
+00:12:05,020 --> 00:12:07,037
+It was closed when we were
+just at minus 70.
+
+255
+00:12:07,037 --> 00:12:09,023
+So let me write here.
+
+256
+00:12:09,023 --> 00:12:20,032
+So at this point, our
+sodium gate opens.
+
+257
+00:12:20,032 --> 00:12:23,003
+Now, what's going to happen when
+our sodium gate opens?
+
+258
+00:12:23,003 --> 00:12:25,077
+When that opens-- we've seen
+this show before-- all the
+
+259
+00:12:25,077 --> 00:12:28,050
+positively charged sodium is
+going to go down there, both
+
+260
+00:12:28,050 --> 00:12:31,049
+electric gradient and diffusion
+gradient, and
+
+261
+00:12:31,049 --> 00:12:34,034
+there's going to flood
+into the cell.
+
+262
+00:12:34,034 --> 00:12:36,020
+There's so much sodium out
+there, it's so positive out
+
+263
+00:12:36,020 --> 00:12:37,090
+there, they just want
+to come in.
+
+264
+00:12:37,090 --> 00:12:41,035
+So as soon as they hit that
+threshold, even though this
+
+265
+00:12:41,035 --> 00:12:44,090
+might've only gotten us to minus
+55 or maybe minus 50,
+
+266
+00:12:44,090 --> 00:12:47,044
+all of a sudden that gate opens
+and we have all of this
+
+267
+00:12:47,044 --> 00:12:49,016
+positive charge flooding
+into the cell.
+
+268
+00:12:49,016 --> 00:12:50,048
+So the potential difference
+becomes
+
+269
+00:12:50,048 --> 00:12:51,079
+much, much more positive.
+
+270
+00:12:51,079 --> 00:12:54,080
+
+
+271
+00:12:54,080 --> 00:12:57,037
+So they keep flooding in,
+becomes much, much more
+
+272
+00:12:57,037 --> 00:13:00,022
+positive, but as it gets
+more positive, it
+
+273
+00:13:00,022 --> 00:13:15,034
+closes at plus 35 millvolts.
+
+274
+00:13:15,034 --> 00:13:17,087
+So let's say that we're dealing
+here-- let's say that
+
+275
+00:13:17,087 --> 00:13:21,030
+this up here is plus
+35 millvolts.
+
+276
+00:13:21,030 --> 00:13:24,072
+So here it closes and at the
+same time, that stuff I just
+
+277
+00:13:24,072 --> 00:13:30,054
+deleted-- I set at plus 40
+millvolts-- or let's say at
+
+278
+00:13:30,054 --> 00:13:32,032
+plus 35, just for the
+sake of argument.
+
+279
+00:13:32,032 --> 00:13:34,084
+Let's say at plus 45
+millvolts, our
+
+280
+00:13:34,084 --> 00:13:39,051
+sodium gates open.
+
+281
+00:13:39,051 --> 00:13:40,064
+So what's happened here?
+
+282
+00:13:40,064 --> 00:13:43,099
+All of a sudden, we're at plus
+35 or maybe plus 40 millivolts
+
+283
+00:13:43,099 --> 00:13:47,042
+so this is-- let's just say plus
+40, I think you get the
+
+284
+00:13:47,042 --> 00:13:51,084
+idea either way so we'll say
+plus 40-- either way.
+
+285
+00:13:51,084 --> 00:13:56,010
+So at plus 40, this guy's
+going to close.
+
+286
+00:13:56,010 --> 00:13:58,063
+No more positive ions are coming
+in, but now we are at
+
+287
+00:13:58,063 --> 00:14:01,034
+more positive inside, at least
+locally at this point on the
+
+288
+00:14:01,034 --> 00:14:03,007
+membrane, than we are outside.
+
+289
+00:14:03,007 --> 00:14:05,072
+And so this gate will open.
+
+290
+00:14:05,072 --> 00:14:08,022
+So then our sodium
+gate will open.
+
+291
+00:14:08,022 --> 00:14:11,032
+K-plus ion gate opens.
+
+292
+00:14:11,032 --> 00:14:12,072
+Now when that opens,
+what happens?
+
+293
+00:14:12,072 --> 00:14:15,079
+We have all of these
+sodium ions here.
+
+294
+00:14:15,079 --> 00:14:19,037
+We already saw from the sodium
+potassium pump that the
+
+295
+00:14:19,037 --> 00:14:22,050
+potassium-- we have all of these
+potassium ions here.
+
+296
+00:14:22,050 --> 00:14:25,014
+We saw from the sodium potassium
+pump that it makes
+
+297
+00:14:25,014 --> 00:14:27,027
+the sodium concentration on
+the outside higher and the
+
+298
+00:14:27,027 --> 00:14:30,029
+potassium concentration
+on the inside higher.
+
+299
+00:14:30,029 --> 00:14:34,033
+And now that we've gotten to
+this plus 40 millvolt range,
+
+300
+00:14:34,033 --> 00:14:37,013
+we're also now more positive
+on the inside.
+
+301
+00:14:37,013 --> 00:14:38,036
+So this opens.
+
+302
+00:14:38,036 --> 00:14:40,032
+These guys want to escape
+because there's
+
+303
+00:14:40,032 --> 00:14:42,020
+less potassium outside.
+
+304
+00:14:42,020 --> 00:14:44,028
+They want to go down their
+concentration gradient.
+
+305
+00:14:44,028 --> 00:14:45,094
+It's also very positive
+on the inside.
+
+306
+00:14:45,094 --> 00:14:47,097
+We're at plus 40 millvolts.
+
+307
+00:14:47,097 --> 00:14:49,048
+So they also want to escape.
+
+308
+00:14:49,048 --> 00:14:51,050
+So they start escaping
+the cells.
+
+309
+00:14:51,050 --> 00:14:54,035
+So positive charges starts
+exiting the cell from the
+
+310
+00:14:54,035 --> 00:14:56,021
+inside to the outside.
+
+311
+00:14:56,021 --> 00:14:59,091
+So we become less
+positive again.
+
+312
+00:14:59,091 --> 00:15:01,054
+So let me write what
+happens here.
+
+313
+00:15:01,054 --> 00:15:07,052
+So at this point, our sodium
+gate closes and our potassium
+
+314
+00:15:07,052 --> 00:15:09,013
+gate opens.
+
+315
+00:15:09,013 --> 00:15:11,091
+
+
+316
+00:15:11,091 --> 00:15:14,025
+And then the positive charge
+starts flooding out of the
+
+317
+00:15:14,025 --> 00:15:18,029
+cell again and maybe it'll
+overshoot because it's only
+
+318
+00:15:18,029 --> 00:15:21,066
+going to close maybe once we
+get to minus 80 millvolts.
+
+319
+00:15:21,066 --> 00:15:30,065
+So maybe our potassium gate
+closes at minus 80.
+
+320
+00:15:30,065 --> 00:15:35,034
+And then our sodium potassium
+pump might get us back to our
+
+321
+00:15:35,034 --> 00:15:36,054
+minus 70 millvolts.
+
+322
+00:15:36,054 --> 00:15:40,094
+So, this is what's happening
+just at this point in the
+
+323
+00:15:40,094 --> 00:15:44,072
+cell, just near that
+first sodium gate.
+
+324
+00:15:44,072 --> 00:15:47,003
+But what's going to happen
+in general, right?
+
+325
+00:15:47,003 --> 00:15:49,067
+As this became very positive--
+we went to 40
+
+326
+00:15:49,067 --> 00:15:51,034
+millivolts over here.
+
+327
+00:15:51,034 --> 00:15:54,049
+We went to 40 millvolts in
+this area of the cell.
+
+328
+00:15:54,049 --> 00:15:56,097
+Because of-- I guess you could
+almost view it as a short term
+
+329
+00:15:56,097 --> 00:16:00,012
+or very short distance
+electrotonic potential, this
+
+330
+00:16:00,012 --> 00:16:02,075
+area is going to become
+more positive, right?
+
+331
+00:16:02,075 --> 00:16:03,090
+This is going to become
+more positive.
+
+332
+00:16:03,090 --> 00:16:05,029
+These positive charges
+are going to go
+
+333
+00:16:05,029 --> 00:16:06,097
+where it's less positive.
+
+334
+00:16:06,097 --> 00:16:09,003
+So this is going to become
+more positive.
+
+335
+00:16:09,003 --> 00:16:11,097
+This was at minus 70, but it's
+going to become more positive.
+
+336
+00:16:11,097 --> 00:16:18,020
+It'll go to minus 65, minus 60,
+minus 55-- and then bam.
+
+337
+00:16:18,020 --> 00:16:19,077
+This guy will get
+triggered again.
+
+338
+00:16:19,077 --> 00:16:22,005
+Then this guy gets opened.
+
+339
+00:16:22,005 --> 00:16:23,044
+Then this guy gets opened.
+
+340
+00:16:23,044 --> 00:16:25,042
+Sodium floods in through here.
+
+341
+00:16:25,042 --> 00:16:27,084
+So if you wanted to plot this
+guy's, the potential
+
+342
+00:16:27,084 --> 00:16:33,024
+difference of what's going on
+across this, this all happened
+
+343
+00:16:33,024 --> 00:16:36,062
+as soon as-- maybe as soon as a
+sodium started going in this
+
+344
+00:16:36,062 --> 00:16:41,044
+first dude, the second guy-- he
+gets triggered here because
+
+345
+00:16:41,044 --> 00:16:45,063
+the second guy a little bit
+later in time-- because of all
+
+346
+00:16:45,063 --> 00:16:47,070
+this flow a little bit to
+the left of him, his
+
+347
+00:16:47,070 --> 00:16:48,053
+potential goes up.
+
+348
+00:16:48,053 --> 00:16:53,023
+He gets triggered, same exact
+thing happens to him, right?
+
+349
+00:16:53,023 --> 00:16:56,029
+When the sodium flows in here,
+becomes really positive around
+
+350
+00:16:56,029 --> 00:16:59,062
+here, that makes the cell
+around here, the voltage
+
+351
+00:16:59,062 --> 00:17:01,017
+around here, the charge around
+here a little bit more
+
+352
+00:17:01,017 --> 00:17:04,093
+positive, triggers this next
+sodium gate to open and then
+
+353
+00:17:04,093 --> 00:17:07,027
+this whole same thing
+happens, same cycle.
+
+354
+00:17:07,027 --> 00:17:10,066
+Then the potassium gates open to
+make it negative again, but
+
+355
+00:17:10,066 --> 00:17:12,096
+by the time that's happened,
+it's become positive over here
+
+356
+00:17:12,096 --> 00:17:14,063
+to trigger another
+sodium gate.
+
+357
+00:17:14,063 --> 00:17:18,006
+So one after another, you have
+these sodium gates opening and
+
+358
+00:17:18,006 --> 00:17:20,083
+closing, but it's transmitting
+that information, it's
+
+359
+00:17:20,083 --> 00:17:23,026
+transmitting that potential
+change.
+
+360
+00:17:23,026 --> 00:17:25,013
+So what's going on here?
+
+361
+00:17:25,013 --> 00:17:27,099
+So this is slower and it
+actually involves energy.
+
+362
+00:17:27,099 --> 00:17:32,020
+So this was-- the electrotonic
+was very fast. This is slow.
+
+363
+00:17:32,020 --> 00:17:33,081
+An action potential is slower.
+
+364
+00:17:33,081 --> 00:17:35,034
+I don't want to say it's slow.
+
+365
+00:17:35,034 --> 00:17:38,040
+It's slower because it has to
+involve these opening and
+
+366
+00:17:38,040 --> 00:17:41,042
+closing of gates and it
+also involves energy.
+
+367
+00:17:41,042 --> 00:17:43,027
+It also requires more energy.
+
+368
+00:17:43,027 --> 00:17:47,088
+
+
+369
+00:17:47,088 --> 00:17:50,044
+And you're also going to have to
+keep changing the potential
+
+370
+00:17:50,044 --> 00:17:54,013
+in your cell and you actively
+have your sodium potassium
+
+371
+00:17:54,013 --> 00:17:55,070
+pumps being very active.
+
+372
+00:17:55,070 --> 00:17:56,076
+But it's good.
+
+373
+00:17:56,076 --> 00:17:59,048
+The positive is, it's good
+at covering distance.
+
+374
+00:17:59,048 --> 00:18:02,032
+
+
+375
+00:18:02,032 --> 00:18:03,081
+When you have something like
+this-- we saw with the
+
+376
+00:18:03,081 --> 00:18:06,016
+electrotonic, as we get further
+and further away from
+
+377
+00:18:06,016 --> 00:18:09,011
+where the stimulus happened,
+the change in potential
+
+378
+00:18:09,011 --> 00:18:10,032
+becomes more and more
+dissipated.
+
+379
+00:18:10,032 --> 00:18:12,007
+It actually exponentially
+declines.
+
+380
+00:18:12,007 --> 00:18:14,044
+It becomes more and more
+dissipated as we get further
+
+381
+00:18:14,044 --> 00:18:17,002
+and further away so it's not
+good for long distance.
+
+382
+00:18:17,002 --> 00:18:20,059
+This thing can just continue
+forever because every time it
+
+383
+00:18:20,059 --> 00:18:23,017
+stimulates the next gate, it's
+like we're starting all over
+
+384
+00:18:23,017 --> 00:18:26,094
+again and so this gate-- it's
+going to have a flood of ions
+
+385
+00:18:26,094 --> 00:18:30,054
+come in and those ions are going
+to make it a little less
+
+386
+00:18:30,054 --> 00:18:31,077
+negative over here.
+
+387
+00:18:31,077 --> 00:18:33,010
+Then the next gate's
+going to open.
+
+388
+00:18:33,010 --> 00:18:34,075
+We're going to have the cycle
+over and over again.
+
+389
+00:18:34,075 --> 00:18:38,021
+So this is really good for
+traveling long distances.
+
+390
+00:18:38,021 --> 00:18:40,084
+So now we have really the
+foundation to understand
+
+391
+00:18:40,084 --> 00:18:43,088
+exactly what's happening in a
+neuron and I'm going to go
+
+392
+00:18:43,088 --> 00:18:46,032
+over that in the next video to
+show you how electrotonic
+
+393
+00:18:46,032 --> 00:18:49,081
+potentials and action potentials
+can combine to have
+
+394
+00:18:49,081 --> 00:18:51,097
+a signal travel through
+a neuron.
+
+395
+00:18:51,097 --> 00:18:53,022
+

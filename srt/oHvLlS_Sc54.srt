@@ -1,0 +1,131 @@
+1
+00:00:01,006 --> 00:00:05,046
+This right here is a picture of Carl Linnaeus, and I'm sure I'm mispronouncing the word.
+
+2
+00:00:05,046 --> 00:00:08,028
+And he's a Swedish gentleman who lived in the 1700's.
+
+3
+00:00:08,028 --> 00:00:12,060
+And he's known as the Father of Modern Taxonomy.
+
+4
+00:00:12,060 --> 00:00:18,033
+And the word taxonomy, if you just split it up into it's original root, it really is the science of really classifying things.
+
+5
+00:00:18,033 --> 00:00:21,089
+But when people talk about taxonomy, in this particular in Carl Linnaeus' case,
+
+6
+00:00:21,089 --> 00:00:25,047
+they're talking about the classification of living things.
+
+7
+00:00:25,047 --> 00:00:29,088
+So, classifying... classifying, organisms.
+
+8
+00:00:29,088 --> 00:00:34,048
+And his real innovation, before he came about, people realized that you had species of animals
+
+9
+00:00:34,048 --> 00:00:39,066
+that lions had certain properties that made them all lions, and they could interbreed and things like that
+
+10
+00:00:39,066 --> 00:00:43,081
+monkey or chimpanzees would all interbreed and that would be a separate species
+
+11
+00:00:43,081 --> 00:00:47,062
+and that polar bears were a separate species, and that humans were a separate species.
+
+12
+00:00:47,062 --> 00:00:51,089
+But what he really brought to the table, is he decided, well "Let me just not just group animals into species,
+
+13
+00:00:51,089 --> 00:00:58,004
+maybe I can group species into, into other categories and that's where we get the genus from...
+
+14
+00:00:58,004 --> 00:01:00,067
+You group similar species into a genus.
+
+15
+00:01:00,067 --> 00:01:04,033
+And then he went even beyond that, because even the idea of grouping things into a genus
+
+16
+00:01:04,033 --> 00:01:09,027
+dated back to the Ancient Greeks. He said, "Well, why don't I group similar genuses together,
+
+17
+00:01:09,027 --> 00:01:14,066
+into orders, orders together into classes, and then classes together into kingdoms.
+
+18
+00:01:14,066 --> 00:01:20,054
+So, really, what he did is, he said, "Well, maybe I can classify, I can create a tree. I can create a tree of life.
+
+19
+00:01:20,054 --> 99:59:59,000
+I can create a structure so we can really see how far apart any two organisms are."
+
+20
+99:59:59,000 --> 99:59:59,000
+And that's really why he's the Father of Modern Taxonomy.
+
+21
+99:59:59,000 --> 99:59:59,000
+And he did not have many tools. All he could do was look at the powers, his powers of observation.
+
+22
+99:59:59,000 --> 99:59:59,000
+He said, "OK, those kinds of animals, they have fur, or they reproduce in this way, or
+
+23
+99:59:59,000 --> 99:59:59,000
+they lay eggs, or they don't lay eggs,
+
+24
+99:59:59,000 --> 99:59:59,000
+or they have spinal columns, or they don't have spinal columns.
+
+25
+99:59:59,000 --> 99:59:59,000
+So that's the best that he could do, when he did his taxonomy.
+
+26
+99:59:59,000 --> 99:59:59,000
+But since then, there's obviously been tons of innovations and how we perceive animals
+
+27
+99:59:59,000 --> 99:59:59,000
+or the natural world, and our tools for studying them.
+
+28
+99:59:59,000 --> 99:59:59,000
+So one thing that he did not know about is evolution.
+
+29
+99:59:59,000 --> 99:59:59,000
+This idea of common ancestry and between our understandings of evolution
+
+30
+99:59:59,000 --> 99:59:59,000
+and our ability to look back at the fossil record,
+
+31
+99:59:59,000 --> 99:59:59,000
+that helps us get more precise at figuring out which animals are related to which.
+
+32
+99:59:59,000 --> 99:59:59,000
+We can see, "Do they have a common ancestor, more recent, or further back?"
+
+33
+99:59:59,000 --> 99:59:59,000
+And what even Charles Darwin didn't have, which we now use as a tool in taxonomy,

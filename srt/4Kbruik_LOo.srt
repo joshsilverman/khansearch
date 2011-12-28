@@ -1,0 +1,1358 @@
+1
+00:00:00,000 --> 00:00:00,051
+
+
+2
+00:00:00,051 --> 00:00:03,022
+I've already started with the
+eye color example so I figured
+
+3
+00:00:03,022 --> 00:00:05,015
+no harm in continuing it.
+
+4
+00:00:05,015 --> 00:00:09,016
+Let's say we live on a planet
+or we're a species where
+
+5
+00:00:09,016 --> 00:00:18,008
+there's only two possible eye
+colors: either blue-- and the
+
+6
+00:00:18,008 --> 00:00:21,026
+genotype or the allele for blue
+I'll abbreviate with a
+
+7
+00:00:21,026 --> 00:00:26,058
+lowercase b --or you could
+have brown eyes.
+
+8
+00:00:26,058 --> 00:00:28,096
+I'm doing it in this salmon
+color just because I got tired
+
+9
+00:00:28,096 --> 00:00:29,089
+of the brown.
+
+10
+00:00:29,089 --> 00:00:32,004
+We'll do an uppercase B.
+
+11
+00:00:32,004 --> 00:00:34,061
+And I'll make a few other
+simplifying assumptions.
+
+12
+00:00:34,061 --> 00:00:39,078
+First of all, let's assume that
+the expression of this
+
+13
+00:00:39,078 --> 00:00:44,089
+gene is very simple, that brown
+is dominant to blue.
+
+14
+00:00:44,089 --> 00:00:46,040
+So if you have one of
+each, you're going
+
+15
+00:00:46,040 --> 00:00:47,042
+to see brown eyes.
+
+16
+00:00:47,042 --> 00:00:50,017
+The only way you're going to see
+blue eyes is if you have a
+
+17
+00:00:50,017 --> 00:00:53,038
+blue allele from each
+of your parents.
+
+18
+00:00:53,038 --> 00:00:56,021
+And the other assumptions I'm
+going to make is that this
+
+19
+00:00:56,021 --> 00:01:01,067
+population essentially has a
+stable gene pool with respect
+
+20
+00:01:01,067 --> 00:01:03,029
+to the eye color gene.
+
+21
+00:01:03,029 --> 00:01:04,056
+What do I mean by that?
+
+22
+00:01:04,056 --> 00:01:11,040
+No selection is taking place, no
+natural selection based on
+
+23
+00:01:11,040 --> 00:01:12,009
+this trait.
+
+24
+00:01:12,009 --> 00:01:16,003
+So, for example, you're not more
+or less likely to be able
+
+25
+00:01:16,003 --> 00:01:18,084
+to reproduce, or the number of
+children you have is not going
+
+26
+00:01:18,084 --> 00:01:23,029
+to be larger or greater
+dependent on what your eye
+
+27
+00:01:23,029 --> 00:01:25,012
+color is in this population.
+
+28
+00:01:25,012 --> 00:01:27,000
+I'm also going to assume that
+there's no mutations.
+
+29
+00:01:27,000 --> 00:01:30,012
+
+
+30
+00:01:30,012 --> 00:01:33,045
+So for whatever reason, a
+chromosome that has a blue
+
+31
+00:01:33,045 --> 00:01:36,012
+allele can't randomly turn into
+a brown or vice versa or
+
+32
+00:01:36,012 --> 00:01:37,065
+turn into a third color.
+
+33
+00:01:37,065 --> 00:01:39,018
+I'm also going to assume that
+I'm going to have a large
+
+34
+00:01:39,018 --> 00:01:40,043
+population.
+
+35
+00:01:40,043 --> 00:01:43,054
+
+
+36
+00:01:43,054 --> 00:01:45,095
+The reason why I'm making all
+of these assumptions is
+
+37
+00:01:45,095 --> 00:01:49,040
+because I essentially want to
+have a stable gene pool, at
+
+38
+00:01:49,040 --> 00:01:53,042
+least relative to this gene.
+
+39
+00:01:53,042 --> 00:01:56,045
+Relative to the eye color gene,
+I want to be stable.
+
+40
+00:01:56,045 --> 00:01:59,053
+I want to have a stable
+allele frequency.
+
+41
+00:01:59,053 --> 00:02:01,054
+What do I mean by allele
+frequency?
+
+42
+00:02:01,054 --> 00:02:08,011
+
+
+43
+00:02:08,011 --> 00:02:10,040
+I said a large population, but
+let's take a very small
+
+44
+00:02:10,040 --> 00:02:10,096
+population.
+
+45
+00:02:10,096 --> 00:02:16,088
+Let's say that there's two
+people in the population, and
+
+46
+00:02:16,088 --> 00:02:27,046
+one guy right here, his
+genotype is big B and
+
+47
+00:02:27,046 --> 00:02:31,005
+lowercase B, and let's say that
+the other guy has blue
+
+48
+00:02:31,005 --> 00:02:33,028
+eyes, so he has to be homozygous
+recessive.
+
+49
+00:02:33,028 --> 00:02:35,022
+Let's say this is the
+entire population.
+
+50
+00:02:35,022 --> 00:02:37,084
+Of course, a population of two
+can't apply to what I'm about
+
+51
+00:02:37,084 --> 00:02:41,000
+to do, but I just want explain
+allele frequency.
+
+52
+00:02:41,000 --> 00:02:45,096
+The allele frequency here of the
+blue eyes, the blue-eyed
+
+53
+00:02:45,096 --> 00:02:49,013
+allele frequency
+here, is what?
+
+54
+00:02:49,013 --> 00:02:52,030
+Well, in this population, I
+have exactly four alleles.
+
+55
+00:02:52,030 --> 00:02:54,015
+I only have two individuals,
+but they
+
+56
+00:02:54,015 --> 00:02:55,069
+each have two alleles.
+
+57
+00:02:55,069 --> 00:02:58,081
+So it's going to be 75%.
+
+58
+00:02:58,081 --> 00:03:03,080
+75% of the alleles in this
+population are blue, right?
+
+59
+00:03:03,080 --> 00:03:06,000
+There's one, two, three,
+four alleles, and
+
+60
+00:03:06,000 --> 00:03:07,065
+three of them are blue.
+
+61
+00:03:07,065 --> 00:03:13,063
+The frequency of the brown
+allele is 25%.
+
+62
+00:03:13,063 --> 00:03:16,006
+And this is different than
+the actual expression.
+
+63
+00:03:16,006 --> 00:03:19,038
+If I asked you the frequency
+of brown eyes versus blue
+
+64
+00:03:19,038 --> 00:03:22,078
+eyes-- So this is allele
+frequency.
+
+65
+00:03:22,078 --> 00:03:24,087
+Let me write that down.
+
+66
+00:03:24,087 --> 00:03:27,005
+That's allele frequency
+right there.
+
+67
+00:03:27,005 --> 00:03:37,058
+If I were ask you phenotype
+frequency, if I said how
+
+68
+00:03:37,058 --> 00:03:42,041
+frequent are blue eyes seen
+in my population?
+
+69
+00:03:42,041 --> 00:03:44,096
+Well, it's only one out of the
+two people in my population,
+
+70
+00:03:44,096 --> 00:03:48,002
+so you'd say it's 50%, and then
+for brown eyes, you would
+
+71
+00:03:48,002 --> 00:03:52,078
+say it's 50%.
+
+72
+00:03:52,078 --> 00:03:54,049
+So I want to make this
+distinction very clear because
+
+73
+00:03:54,049 --> 00:03:55,093
+it can be very confusing
+when people talk
+
+74
+00:03:55,093 --> 00:03:57,031
+about allele frequency.
+
+75
+00:03:57,031 --> 00:03:59,078
+Allele frequency is literally
+if you were able to go and
+
+76
+00:03:59,078 --> 00:04:02,094
+look at the actual genotype,
+the actual chromosomes of
+
+77
+00:04:02,094 --> 00:04:05,022
+every person in the population,
+and count how many
+
+78
+00:04:05,022 --> 00:04:07,094
+of them had the blue allele
+versus the brown allele, you
+
+79
+00:04:07,094 --> 00:04:09,040
+would come up with
+this number.
+
+80
+00:04:09,040 --> 00:04:12,068
+This is different than the
+actual phenotype frequency.
+
+81
+00:04:12,068 --> 00:04:17,093
+Now, all of that is just as a
+background, because if these
+
+82
+00:04:17,093 --> 00:04:23,016
+set of assumptions are true and
+my population isn't in any
+
+83
+00:04:23,016 --> 00:04:26,036
+way evolving, then my allele
+frequency is going to be
+
+84
+00:04:26,036 --> 00:04:27,086
+roughly constant.
+
+85
+00:04:27,086 --> 00:04:29,080
+I have to assume a large
+population, because a small
+
+86
+00:04:29,080 --> 00:04:32,025
+population, just from random
+chance, my allele frequency
+
+87
+00:04:32,025 --> 00:04:33,070
+could start to change.
+
+88
+00:04:33,070 --> 00:04:36,020
+But let's say my allele
+frequency is constant, then
+
+89
+00:04:36,020 --> 00:04:38,017
+I'm in a Hardy-Weinberg
+equilibrium.
+
+90
+00:04:38,017 --> 00:04:48,008
+
+
+91
+00:04:48,008 --> 00:04:50,006
+All this is a situation
+where the allele
+
+92
+00:04:50,006 --> 00:04:51,031
+frequency isn't changing.
+
+93
+00:04:51,031 --> 00:04:54,050
+
+
+94
+00:04:54,050 --> 00:04:56,038
+The reason why we're making all
+of those assumptions is
+
+95
+00:04:56,038 --> 00:05:00,044
+because, if we can assume this,
+we can start to deduce
+
+96
+00:05:00,044 --> 00:05:04,023
+some things about what we
+observe, what must be the
+
+97
+00:05:04,023 --> 00:05:06,081
+genotypes in the population or
+the frequencies of different
+
+98
+00:05:06,081 --> 00:05:08,087
+phenotypes and whatever else.
+
+99
+00:05:08,087 --> 00:05:15,036
+So, for example, if p is the
+frequency of blue eyes, so let
+
+100
+00:05:15,036 --> 00:05:20,093
+me say p is equal to the
+frequency of blue eyes, and q
+
+101
+00:05:20,093 --> 00:05:26,030
+is equal to the frequency of
+brown eyes, what's p plus q
+
+102
+00:05:26,030 --> 00:05:27,093
+going to be?
+
+103
+00:05:27,093 --> 00:05:29,089
+What's p plus q?
+
+104
+00:05:29,089 --> 00:05:32,080
+Well, everything is either going
+to have blue eyes or
+
+105
+00:05:32,080 --> 00:05:33,042
+brown eyes.
+
+106
+00:05:33,042 --> 00:05:37,030
+If this is 20%-- And anyway,
+this is the allele.
+
+107
+00:05:37,030 --> 00:05:39,049
+Let me make that b allele.
+
+108
+00:05:39,049 --> 00:05:40,072
+Let me make that very clear.
+
+109
+00:05:40,072 --> 00:05:42,050
+This isn't necessarily
+what you observe.
+
+110
+00:05:42,050 --> 00:05:44,064
+This is the allele itself.
+
+111
+00:05:44,064 --> 00:05:47,030
+This is the allele frequency, if
+you were actually to count
+
+112
+00:05:47,030 --> 00:05:51,092
+the chromosomes and see what
+percentage have the blue
+
+113
+00:05:51,092 --> 00:05:53,032
+allele and what percentage
+have the
+
+114
+00:05:53,032 --> 00:05:55,017
+uppercase brown allele.
+
+115
+00:05:55,017 --> 00:05:58,051
+Well, every chromosome has to
+have either of those, so these
+
+116
+00:05:58,051 --> 00:06:03,013
+are going to add up to
+100%, or equal to 1.
+
+117
+00:06:03,013 --> 00:06:08,020
+For example, if 30% of the
+alleles are blue, then 70% are
+
+118
+00:06:08,020 --> 00:06:10,008
+going to have to be brown
+because, I already told you at
+
+119
+00:06:10,008 --> 00:06:12,058
+the beginning of this video,
+that we're in a world where
+
+120
+00:06:12,058 --> 00:06:15,064
+you either have a blue allele
+or a brown allele.
+
+121
+00:06:15,064 --> 00:06:17,044
+Now, what if we don't care about
+alleles, we actually
+
+122
+00:06:17,044 --> 00:06:22,070
+care about the frequency
+of the genotypes?
+
+123
+00:06:22,070 --> 00:06:24,000
+So there's a couple of
+things we could do.
+
+124
+00:06:24,000 --> 00:06:26,086
+We could literally just square
+both sides of this and then
+
+125
+00:06:26,086 --> 00:06:28,006
+think about what
+that gives us.
+
+126
+00:06:28,006 --> 00:06:31,035
+If we square both sides as this
+equation, you get what? p
+
+127
+00:06:31,035 --> 00:06:36,056
+plus q squared is p squared plus
+2pq plus q squared, and
+
+128
+00:06:36,056 --> 00:06:40,037
+you square the other side and
+it's equal to 1 as well.
+
+129
+00:06:40,037 --> 00:06:42,018
+What does this tell us?
+
+130
+00:06:42,018 --> 00:06:44,094
+What is p squared?
+
+131
+00:06:44,094 --> 00:06:48,008
+Well, it's the probability
+that I get two of the
+
+132
+00:06:48,008 --> 00:06:49,095
+lowercase blue alleles, right?
+
+133
+00:06:49,095 --> 00:06:54,026
+What's the probability that I
+get two, that I end up with
+
+134
+00:06:54,026 --> 00:06:57,043
+lowercase b, lowercase
+b as my genotype?
+
+135
+00:06:57,043 --> 00:07:00,031
+Well, I have to get a lowercase
+b from my first
+
+136
+00:07:00,031 --> 00:07:03,064
+parent, and that's with a
+probability of p, and then a
+
+137
+00:07:03,064 --> 00:07:05,037
+lowercase b from my second
+parent with a
+
+138
+00:07:05,037 --> 00:07:07,030
+probability of p.
+
+139
+00:07:07,030 --> 00:07:10,061
+So it's p times p, so
+that's p squared.
+
+140
+00:07:10,061 --> 00:07:12,080
+What's q squared?
+
+141
+00:07:12,080 --> 00:07:15,080
+Well, that's the probability
+that I get a big B, a
+
+142
+00:07:15,080 --> 00:07:18,018
+brown-eyed allele from each
+parent, because the
+
+143
+00:07:18,018 --> 00:07:21,097
+probability from parent 1 is q
+and then the probability from
+
+144
+00:07:21,097 --> 00:07:24,039
+parent 2 is also q.
+
+145
+00:07:24,039 --> 00:07:27,031
+So that's q squared
+right there.
+
+146
+00:07:27,031 --> 00:07:28,056
+Now, what's 2pq?
+
+147
+00:07:28,056 --> 00:07:31,013
+
+
+148
+00:07:31,013 --> 00:07:33,099
+Well, essentially, this
+entire term is the
+
+149
+00:07:33,099 --> 00:07:37,087
+frequency that I'm a hybrid.
+
+150
+00:07:37,087 --> 00:07:40,000
+I have a heterozygous
+genotype.
+
+151
+00:07:40,000 --> 00:07:41,025
+And why is that?
+
+152
+00:07:41,025 --> 00:07:43,083
+Because there's two ways that
+I can be a heterozygote.
+
+153
+00:07:43,083 --> 00:07:46,057
+
+
+154
+00:07:46,057 --> 00:07:49,058
+I could be like this.
+
+155
+00:07:49,058 --> 00:07:52,000
+I want to do that other blue.
+
+156
+00:07:52,000 --> 00:07:56,019
+I could get blue eyes from one
+parent and brown eyes from the
+
+157
+00:07:56,019 --> 00:07:58,089
+other or I could get brown eyes
+from the first parent and
+
+158
+00:07:58,089 --> 00:08:00,019
+blue eyes from the second.
+
+159
+00:08:00,019 --> 00:08:04,038
+I don't know anything about
+these parents, so if I'm
+
+160
+00:08:04,038 --> 00:08:06,020
+making no assumptions, then I
+just have to assume that the
+
+161
+00:08:06,020 --> 00:08:09,075
+probability that I get an allele
+from either one of them
+
+162
+00:08:09,075 --> 00:08:14,064
+is equal to the frequency
+in the population.
+
+163
+00:08:14,064 --> 00:08:16,054
+So there's two ways
+of getting these.
+
+164
+00:08:16,054 --> 00:08:18,077
+The probability of each of these
+ways, the probability of
+
+165
+00:08:18,077 --> 00:08:21,044
+this combination,
+is p times q.
+
+166
+00:08:21,044 --> 00:08:23,062
+The probability of this is q
+times p, which is the same
+
+167
+00:08:23,062 --> 00:08:26,095
+thing, and you add them together
+and you get 2pq.
+
+168
+00:08:26,095 --> 00:08:30,000
+So this is essentially the
+frequency of the hybrids in
+
+169
+00:08:30,000 --> 00:08:32,013
+the population.
+
+170
+00:08:32,013 --> 00:08:33,092
+I've been kind of
+abstract so far.
+
+171
+00:08:33,092 --> 00:08:37,050
+Let's see if we can apply this
+to a real world problem, and
+
+172
+00:08:37,050 --> 00:08:40,032
+obviously, I'm making some
+simplifying assumptions.
+
+173
+00:08:40,032 --> 00:08:42,030
+Let's say that we go
+into a population.
+
+174
+00:08:42,030 --> 00:08:45,026
+Let's say it's a population of
+a million people, reasonably
+
+175
+00:08:45,026 --> 00:08:53,072
+large, and we observe that
+9% have blue eyes.
+
+176
+00:08:53,072 --> 00:08:55,094
+This is their phenotype.
+
+177
+00:08:55,094 --> 00:09:02,029
+This is the frequency of the
+genotype lowercase b,
+
+178
+00:09:02,029 --> 00:09:04,084
+lowercase b, right?
+
+179
+00:09:04,084 --> 00:09:07,092
+I started with this phenotype
+blue eyes, but I know, since
+
+180
+00:09:07,092 --> 00:09:13,044
+blue is a recessive trait, that
+they must have two copies
+
+181
+00:09:13,044 --> 00:09:15,008
+of the recessive allele.
+
+182
+00:09:15,008 --> 00:09:18,027
+So this is the frequency.
+
+183
+00:09:18,027 --> 00:09:22,077
+The frequency of having two
+lowercase b's is 9%.
+
+184
+00:09:22,077 --> 00:09:24,091
+Well, if you just look here, I
+just showed you that that's
+
+185
+00:09:24,091 --> 00:09:27,086
+also equal to p squared.
+
+186
+00:09:27,086 --> 00:09:30,000
+p squared is equal to 9%.
+
+187
+00:09:30,000 --> 00:09:31,021
+And how do you think
+about that?
+
+188
+00:09:31,021 --> 00:09:33,003
+Well, p is the probability
+of getting a blue allele.
+
+189
+00:09:33,003 --> 00:09:35,085
+It's the frequency of the blue
+allele in the population.
+
+190
+00:09:35,085 --> 00:09:38,042
+In order to get two of them,
+you have to multiply p by
+
+191
+00:09:38,042 --> 00:09:39,090
+itself twice.
+
+192
+00:09:39,090 --> 00:09:43,022
+So what's the frequency of the
+blue allele in the population?
+
+193
+00:09:43,022 --> 00:09:48,067
+p is equal to the square root
+of 0.09, which is 0.3.
+
+194
+00:09:48,067 --> 00:09:51,095
+So if you went and actually
+counted all of the alleles in
+
+195
+00:09:51,095 --> 00:09:56,092
+the population, you would
+actually find that 30% of them
+
+196
+00:09:56,092 --> 00:09:59,040
+are the lowercase blue.
+
+197
+00:09:59,040 --> 00:10:02,074
+Now, a much smaller percentage
+of people, only 9%, showed the
+
+198
+00:10:02,074 --> 00:10:04,034
+blue eyes because you
+need two of them.
+
+199
+00:10:04,034 --> 00:10:07,000
+You have a 30% chance of getting
+it from your mom and a
+
+200
+00:10:07,000 --> 00:10:09,054
+30% chance of getting
+it from your dad.
+
+201
+00:10:09,054 --> 00:10:16,011
+So what's the frequency of
+a brown-eyed allele?
+
+202
+00:10:16,011 --> 00:10:19,012
+
+
+203
+00:10:19,012 --> 00:10:21,088
+Well, we know that the frequency
+of the blue eyes
+
+204
+00:10:21,088 --> 00:10:25,076
+plus the brown eyes is 100%,
+so that's going to be 70%.
+
+205
+00:10:25,076 --> 00:10:31,010
+If 30% of all of the chromosomes
+or of all of the
+
+206
+00:10:31,010 --> 00:10:34,017
+alleles in the population are
+blue, the other 70% are going
+
+207
+00:10:34,017 --> 00:10:36,001
+to have to be brown.
+
+208
+00:10:36,001 --> 00:10:39,009
+So what percentage of my
+population are going to be--
+
+209
+00:10:39,009 --> 00:10:40,075
+Well, there's a couple
+of things we can do.
+
+210
+00:10:40,075 --> 00:10:43,072
+What percentage of my population
+are going to have--
+
+211
+00:10:43,072 --> 00:10:44,048
+Well, I'll do an easy one.
+
+212
+00:10:44,048 --> 00:10:46,021
+What percentage of my population
+are going to have
+
+213
+00:10:46,021 --> 00:10:50,004
+brown eyes, so if I just look
+at the phenotype brown eyes?
+
+214
+00:10:50,004 --> 00:10:51,016
+I don't even have to
+use any of these
+
+215
+00:10:51,016 --> 00:10:53,052
+formulas for this one.
+
+216
+00:10:53,052 --> 00:10:56,063
+I already told you 9% have blue
+eyes, so the rest must
+
+217
+00:10:56,063 --> 00:10:58,027
+have brown eyes.
+
+218
+00:10:58,027 --> 00:11:01,087
+So 91% percent have
+brown eyes.
+
+219
+00:11:01,087 --> 00:11:05,070
+
+
+220
+00:11:05,070 --> 00:11:11,007
+Now, we just said we have 9% who
+have blue eyes, 91% have
+
+221
+00:11:11,007 --> 00:11:11,094
+brown eyes.
+
+222
+00:11:11,094 --> 00:11:14,037
+What percentage of the
+population are going to be
+
+223
+00:11:14,037 --> 00:11:17,063
+homozygous for brown eyes?
+
+224
+00:11:17,063 --> 00:11:21,075
+So they need to have the capital
+B from both parents.
+
+225
+00:11:21,075 --> 00:11:24,032
+Well, we know that the frequency
+of the capital B
+
+226
+00:11:24,032 --> 00:11:28,037
+allele is 70%, so what
+percent are going to
+
+227
+00:11:28,037 --> 00:11:29,083
+be homozygous dominant?
+
+228
+00:11:29,083 --> 00:11:32,033
+Let me draw that.
+
+229
+00:11:32,033 --> 00:11:34,090
+Homozygous dominant.
+
+230
+00:11:34,090 --> 00:11:38,040
+Well, the frequency is going
+to be q squared.
+
+231
+00:11:38,040 --> 00:11:40,007
+They're going to have
+to get a q.
+
+232
+00:11:40,007 --> 00:11:43,003
+They're going to have to get
+an uppercase B from each
+
+233
+00:11:43,003 --> 00:11:46,032
+parent, so that's going to be
+0.7 squared, which is equal to
+
+234
+00:11:46,032 --> 00:11:52,021
+0.49, or 49%.
+
+235
+00:11:52,021 --> 00:11:56,012
+So just starting already from
+that one idea, from that one
+
+236
+00:11:56,012 --> 00:12:02,094
+idea that 9% have blue eyes,
+we've already been able deduce
+
+237
+00:12:02,094 --> 00:12:08,046
+that 91% must have brown eyes.
+
+238
+00:12:08,046 --> 00:12:12,000
+And of the 91% of the brown eyes
+of the whole population,
+
+239
+00:12:12,000 --> 00:12:15,023
+49%-- this isn't
+49% of the 91%.
+
+240
+00:12:15,023 --> 00:12:17,077
+This is 49% of the population.
+
+241
+00:12:17,077 --> 00:12:21,005
+49% percent are homozygous
+dominant.
+
+242
+00:12:21,005 --> 00:12:25,073
+
+
+243
+00:12:25,073 --> 00:12:28,075
+And then what percentage
+of the population
+
+244
+00:12:28,075 --> 00:12:30,035
+are going to be hybrids?
+
+245
+00:12:30,035 --> 00:12:32,075
+Well, hybrids also have brown
+eyes, but they're not
+
+246
+00:12:32,075 --> 00:12:35,034
+homozygous dominant, so
+the remainder here.
+
+247
+00:12:35,034 --> 00:12:36,069
+So what is that?
+
+248
+00:12:36,069 --> 00:12:42,001
+That's 42%.
+
+249
+00:12:42,001 --> 00:12:49,001
+42% are going to be hybrids.
+
+250
+00:12:49,001 --> 00:12:52,053
+And if we go back to
+the Hardy-Weinberg
+
+251
+00:12:52,053 --> 00:12:53,076
+equation, we see that.
+
+252
+00:12:53,076 --> 00:13:01,011
+So we get p plus q has to be
+equal to 100%, or I could just
+
+253
+00:13:01,011 --> 00:13:02,060
+write equal to 1.
+
+254
+00:13:02,060 --> 00:13:06,039
+And we figured out
+that p was 30%.
+
+255
+00:13:06,039 --> 00:13:09,045
+That's the frequency of the
+blue-eyed allele, the actual
+
+256
+00:13:09,045 --> 00:13:12,098
+trait, not the observation
+of it or the genotype.
+
+257
+00:13:12,098 --> 00:13:16,005
+And the frequency of the
+brown eyes was 70%.
+
+258
+00:13:16,005 --> 00:13:18,008
+And then this is actually a
+breakdown when you square
+
+259
+00:13:18,008 --> 00:13:23,082
+that, so we also know that
+p squared plus 2pq plus q
+
+260
+00:13:23,082 --> 00:13:26,009
+squared is equal to 1.
+
+261
+00:13:26,009 --> 00:13:29,061
+This is the percentage of the
+population that has blue eyes.
+
+262
+00:13:29,061 --> 00:13:33,080
+They have two blue alleles,
+so that's 9%.
+
+263
+00:13:33,080 --> 00:13:36,087
+This is the percentage of the
+population that has two brown
+
+264
+00:13:36,087 --> 00:13:42,045
+alleles, homozygous dominant,
+so that is 49%.
+
+265
+00:13:42,045 --> 00:13:46,012
+And then the remainder, this
+2pq, this whole term right
+
+266
+00:13:46,012 --> 00:13:47,034
+here is what's left over.
+
+267
+00:13:47,034 --> 00:13:52,095
+So 9 plus this 58, this
+is going to be 42%.
+
+268
+00:13:52,095 --> 00:13:55,075
+42% are hybrids.
+
+269
+00:13:55,075 --> 00:13:59,062
+And if I just talked about
+phenotypes, I'd say 9% have
+
+270
+00:13:59,062 --> 00:14:02,095
+blue eyes and then
+the remainder,
+
+271
+00:14:02,095 --> 00:14:06,004
+91%, have brown eyes.
+
+272
+00:14:06,004 --> 00:14:08,000
+Hopefully, you found that
+reasonably useful.
+
+273
+00:14:08,000 --> 00:14:14,041
+Just from very simple
+deductions, it's almost kind
+
+274
+00:14:14,041 --> 00:14:17,012
+of silly that this is almost a
+separate principle, because
+
+275
+00:14:17,012 --> 00:14:20,025
+you can kind of deduce this from
+very basic ideas, and you
+
+276
+00:14:20,025 --> 00:14:21,077
+can square both sides of that.
+
+277
+00:14:21,077 --> 00:14:24,073
+But you can come up with some
+fairly fascinating results
+
+278
+00:14:24,073 --> 00:14:27,039
+about what's going on in a
+population because we can
+
+279
+00:14:27,039 --> 00:14:30,018
+observe maybe the frequency of,
+let's say, some disease
+
+280
+00:14:30,018 --> 00:14:35,025
+that only happens when someone
+is homozygous recessive.
+
+281
+00:14:35,025 --> 00:14:37,040
+So you can go and see, OK,
+what percentage of the
+
+282
+00:14:37,040 --> 00:14:40,025
+population has that disease, but
+then doing the math that
+
+283
+00:14:40,025 --> 00:14:42,060
+we just did in this video, you
+can figure out what percentage
+
+284
+00:14:42,060 --> 00:14:46,052
+of the population have the
+allele for the disease.
+
+285
+00:14:46,052 --> 00:14:49,011
+They're carriers for the
+disease, but they don't
+
+286
+00:14:49,011 --> 00:14:50,075
+actually show it, and
+that would be the
+
+287
+00:14:50,075 --> 00:14:52,067
+hybrids right there.
+
+288
+00:14:52,067 --> 00:14:54,029
+So this is actually
+a pretty powerful
+
+289
+00:14:54,029 --> 00:14:56,038
+tool you've just learned.
