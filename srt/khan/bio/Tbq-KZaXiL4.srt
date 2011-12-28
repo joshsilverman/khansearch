@@ -1,0 +1,1473 @@
+1
+00:00:00,000 --> 00:00:00,067
+
+
+2
+00:00:00,067 --> 00:00:04,004
+I think we have a decent idea of
+how a signal is transmitted
+
+3
+00:00:04,004 --> 00:00:05,062
+along the neuron.
+
+4
+00:00:05,062 --> 00:00:08,080
+We saw that a couple of
+dendrites, maybe that one and
+
+5
+00:00:08,080 --> 00:00:13,000
+that one and that one, might
+get excited or triggered.
+
+6
+00:00:13,000 --> 00:00:14,096
+And when we say it gets
+triggered, we're saying that
+
+7
+00:00:14,096 --> 00:00:16,080
+some type of channel
+gets opened.
+
+8
+00:00:16,080 --> 00:00:18,028
+That's probably the trigger.
+
+9
+00:00:18,028 --> 00:00:22,078
+That channel allows ions to be
+released into the cell-- or
+
+10
+00:00:22,078 --> 00:00:25,012
+actually, there are situations
+where ions can be released out
+
+11
+00:00:25,012 --> 00:00:25,055
+of the cell.
+
+12
+00:00:25,055 --> 00:00:27,069
+It would be inhibitory, but
+let's take the case where ions
+
+13
+00:00:27,069 --> 00:00:31,082
+are released into the cells in
+an electrotonic fashion.
+
+14
+00:00:31,082 --> 00:00:35,050
+It changes the charge or the
+voltage gradient across the
+
+15
+00:00:35,050 --> 00:00:38,075
+membrane and if the combined
+effects of the change in the
+
+16
+00:00:38,075 --> 00:00:42,028
+voltage gradient is just enough
+at the axon hillock to
+
+17
+00:00:42,028 --> 00:00:46,078
+meet that threshold, then the
+sodium channels over here will
+
+18
+00:00:46,078 --> 00:00:51,003
+open up, sodium floods in, and
+then we have the situation
+
+19
+00:00:51,003 --> 00:00:54,015
+where the voltage becomes
+very positive.
+
+20
+00:00:54,015 --> 00:00:57,009
+Potassium channels open up to
+change things again, but by
+
+21
+00:00:57,009 --> 00:00:59,071
+the time we went very
+positive, then that
+
+22
+00:00:59,071 --> 00:01:03,032
+eletrotonically affects
+the next sodium pump.
+
+23
+00:01:03,032 --> 00:01:06,073
+But then we have the situation
+where that will allow sodium
+
+24
+00:01:06,073 --> 00:01:09,035
+ions to flood in and then
+the signal keeps getting
+
+25
+00:01:09,035 --> 00:01:10,054
+transmitted.
+
+26
+00:01:10,054 --> 00:01:15,023
+Now the next natural question
+is, what happens at the neuron
+
+27
+00:01:15,023 --> 00:01:17,059
+to neuron junctions?
+
+28
+00:01:17,059 --> 00:01:19,064
+We said that this dendrite gets
+
+29
+00:01:19,064 --> 00:01:21,054
+triggered or gets excited.
+
+30
+00:01:21,054 --> 00:01:24,004
+In most cases, it's getting
+triggered or excited by
+
+31
+00:01:24,004 --> 00:01:24,081
+another neuron.
+
+32
+00:01:24,081 --> 00:01:26,034
+It could be something else.
+
+33
+00:01:26,034 --> 00:01:31,054
+And over here, when this axon
+fires, it should be exciting
+
+34
+00:01:31,054 --> 00:01:32,051
+either another cell.
+
+35
+00:01:32,051 --> 00:01:35,076
+It could be a muscle cell or--
+in probably most cases of the
+
+36
+00:01:35,076 --> 00:01:39,081
+human body-- it's exciting
+another neuron.
+
+37
+00:01:39,081 --> 00:01:41,004
+And so how does it do that?
+
+38
+00:01:41,004 --> 00:01:43,014
+So this is the terminal
+end of the axon.
+
+39
+00:01:43,014 --> 00:01:46,053
+There could be the dendrite of
+another neuron right here.
+
+40
+00:01:46,053 --> 00:01:51,090
+
+
+41
+00:01:51,090 --> 00:01:55,043
+This is another neuron with its
+own axon, its own cell.
+
+42
+00:01:55,043 --> 00:01:58,040
+This would trigger the
+dendrite right there.
+
+43
+00:01:58,040 --> 00:02:00,018
+So the question is, how
+does that happen?
+
+44
+00:02:00,018 --> 00:02:04,012
+How does the signal go from one
+neuron's axon to the next
+
+45
+00:02:04,012 --> 00:02:04,098
+neuron's dendrite?
+
+46
+00:02:04,098 --> 00:02:07,076
+It actually always doesn't
+have to go from axon to
+
+47
+00:02:07,076 --> 00:02:09,044
+dendrite, but that's
+the most typical.
+
+48
+00:02:09,044 --> 00:02:12,046
+You can actually go from axon to
+axon, dendrite to dendrite,
+
+49
+00:02:12,046 --> 00:02:16,003
+axon to soma-- but let's just
+focus on axon to dendrite
+
+50
+00:02:16,003 --> 00:02:19,034
+because that's the most
+traditional way that neurons
+
+51
+00:02:19,034 --> 00:02:22,018
+transmit information from
+one to the other.
+
+52
+00:02:22,018 --> 00:02:22,099
+So let's zoom in.
+
+53
+00:02:22,099 --> 00:02:24,069
+Let's zoom in right here.
+
+54
+00:02:24,069 --> 00:02:27,061
+This little box right there,
+let's zoom at the base, the
+
+55
+00:02:27,061 --> 00:02:31,074
+terminal end of this axon
+and let's zoom in
+
+56
+00:02:31,074 --> 00:02:33,002
+on this whole area.
+
+57
+00:02:33,002 --> 00:02:35,000
+Then we'll also zoom in-- we're
+also going to get the
+
+58
+00:02:35,000 --> 00:02:37,037
+dendrite of this next neuron--
+and I'm going to rotate it.
+
+59
+00:02:37,037 --> 00:02:39,031
+Actually, I don't even
+have to rotate it.
+
+60
+00:02:39,031 --> 00:02:42,094
+So to do that, let me draw
+the terminal end.
+
+61
+00:02:42,094 --> 00:02:45,009
+So let's say the terminal end
+looks something like this.
+
+62
+00:02:45,009 --> 00:02:47,021
+I'm zoomed in big time.
+
+63
+00:02:47,021 --> 00:02:49,090
+
+
+64
+00:02:49,090 --> 00:02:52,009
+This is the terminal
+end of the neuron.
+
+65
+00:02:52,009 --> 00:02:58,015
+This is inside the neuron and
+then the next dendrite-- let
+
+66
+00:02:58,015 --> 00:02:59,048
+me draw it right here.
+
+67
+00:02:59,048 --> 00:03:06,028
+
+
+68
+00:03:06,028 --> 00:03:07,080
+So we've really zoomed in.
+
+69
+00:03:07,080 --> 00:03:17,009
+So this is the dendrite
+of the next neuron.
+
+70
+00:03:17,009 --> 00:03:19,071
+This is inside the
+first neuron.
+
+71
+00:03:19,071 --> 00:03:22,008
+So we have this action
+potential that
+
+72
+00:03:22,008 --> 00:03:23,063
+keeps traveling along.
+
+73
+00:03:23,063 --> 00:03:27,058
+Eventually for maybe right over
+here-- I don't know if
+
+74
+00:03:27,058 --> 00:03:30,096
+you can zoom in-- which would
+be over here, the action
+
+75
+00:03:30,096 --> 00:03:34,068
+potential makes the electrical
+potential or the voltage
+
+76
+00:03:34,068 --> 00:03:38,047
+potential across this membrane
+just positive enough to
+
+77
+00:03:38,047 --> 00:03:42,040
+trigger this sodium channel.
+
+78
+00:03:42,040 --> 00:03:47,061
+So actually, maybe
+I'm really close.
+
+79
+00:03:47,061 --> 00:03:49,075
+This channel is this
+one right here.
+
+80
+00:03:49,075 --> 00:03:53,034
+So then it allows a flood of
+sodium to enter the cell.
+
+81
+00:03:53,034 --> 00:03:56,011
+
+
+82
+00:03:56,011 --> 00:03:57,056
+And then the the whole
+thing happens.
+
+83
+00:03:57,056 --> 00:03:59,078
+You have potassium that can then
+take it out, but by the
+
+84
+00:03:59,078 --> 00:04:03,034
+time this comes in, this
+positive charge, it can
+
+85
+00:04:03,034 --> 00:04:06,093
+trigger another channel and it
+could trigger another sodium
+
+86
+00:04:06,093 --> 00:04:09,024
+channel if there's other sodium
+channels further down,
+
+87
+00:04:09,024 --> 00:04:11,075
+but near the end of
+the axon there are
+
+88
+00:04:11,075 --> 00:04:15,046
+actually calcium channels.
+
+89
+00:04:15,046 --> 00:04:17,019
+I'll do that in pink.
+
+90
+00:04:17,019 --> 00:04:23,068
+So this is a calcium channel
+that is traditionally closed.
+
+91
+00:04:23,068 --> 00:04:25,095
+So this is a calcium
+ion channel.
+
+92
+00:04:25,095 --> 00:04:27,054
+Calcium has a plus 2 charge.
+
+93
+00:04:27,054 --> 00:04:30,006
+
+
+94
+00:04:30,006 --> 00:04:33,023
+It tends to be closed, but
+it's also voltage gated.
+
+95
+00:04:33,023 --> 00:04:37,095
+When the voltage gets high
+enough, it's very similar to a
+
+96
+00:04:37,095 --> 00:04:41,067
+sodium voltage gated channel is
+that if it becomes positive
+
+97
+00:04:41,067 --> 00:04:45,063
+enough near the gate, it will
+open up and when it opens up,
+
+98
+00:04:45,063 --> 00:04:49,039
+it allows calcium ions to
+flood into the cell.
+
+99
+00:04:49,039 --> 00:04:53,044
+So the calcium ions, their
+plus 2 charge, to
+
+100
+00:04:53,044 --> 00:04:55,018
+flood into the cells.
+
+101
+00:04:55,018 --> 00:04:58,026
+Now you're saying, hey Sal, why
+are calcium ions flooding
+
+102
+00:04:58,026 --> 00:04:58,098
+into the cells?
+
+103
+00:04:58,098 --> 00:05:00,066
+These have positive charge.
+
+104
+00:05:00,066 --> 00:05:03,052
+I just thought you said that the
+cell is becoming positive
+
+105
+00:05:03,052 --> 00:05:05,012
+because of all the sodium
+flowing in.
+
+106
+00:05:05,012 --> 00:05:07,030
+Why would this calcium
+want to flow in?
+
+107
+00:05:07,030 --> 00:05:09,088
+And the reason why it wants to
+flow in is because the cell
+
+108
+00:05:09,088 --> 00:05:14,093
+also-- just like it pumps out
+sodium and pumps in potassium,
+
+109
+00:05:14,093 --> 00:05:19,099
+the cell also has calcium ion
+pumps and the mechanism is
+
+110
+00:05:19,099 --> 00:05:23,012
+nearly identical to what I
+showed you on the sodium
+
+111
+00:05:23,012 --> 00:05:26,008
+potassium pump, but it just
+deals with calcium.
+
+112
+00:05:26,008 --> 00:05:30,055
+So you literally have these
+proteins that are sitting
+
+113
+00:05:30,055 --> 00:05:31,081
+across the membrane.
+
+114
+00:05:31,081 --> 00:05:35,072
+This is a phospobilipid
+layer membrane.
+
+115
+00:05:35,072 --> 00:05:38,056
+Maybe I'll draw two layers here
+just so you realize it's
+
+116
+00:05:38,056 --> 00:05:41,047
+a bi-layer membrane.
+
+117
+00:05:41,047 --> 00:05:42,052
+Let me draw it like that.
+
+118
+00:05:42,052 --> 00:05:47,001
+That makes it look a little bit
+more realistic, although
+
+119
+00:05:47,001 --> 00:05:48,067
+the whole thing is not
+very realistic.
+
+120
+00:05:48,067 --> 00:05:52,077
+And this is also going to
+be a bilipid membrane.
+
+121
+00:05:52,077 --> 00:05:56,066
+You get the idea, but
+let me just do it to
+
+122
+00:05:56,066 --> 00:05:59,039
+make the point clear.
+
+123
+00:05:59,039 --> 00:06:02,062
+So there are also these calcium
+ion pumps that are
+
+124
+00:06:02,062 --> 00:06:07,010
+also subsets of ATPases, which
+they're just like the sodium
+
+125
+00:06:07,010 --> 00:06:08,018
+potassium pumps.
+
+126
+00:06:08,018 --> 00:06:13,072
+You give them one ATP and a
+calcium will bond someplace
+
+127
+00:06:13,072 --> 00:06:20,024
+else and it'll pull apart the
+phosphate from the ATP and
+
+128
+00:06:20,024 --> 00:06:22,094
+that'll be enough energy to
+change the confirmation of
+
+129
+00:06:22,094 --> 00:06:25,072
+this protein and it'll
+push the calcium out.
+
+130
+00:06:25,072 --> 00:06:29,004
+Essentially, what was the
+calcium will bond and then
+
+131
+00:06:29,004 --> 00:06:33,050
+it'll open up so the calcium
+can only exit the cell.
+
+132
+00:06:33,050 --> 00:06:36,035
+It's just like the sodium
+potassium pumps, but it's good
+
+133
+00:06:36,035 --> 00:06:38,087
+to know in the resting state,
+you have a high concentration
+
+134
+00:06:38,087 --> 00:06:42,019
+of calcium ions out here and
+it's all driven by ATP.
+
+135
+00:06:42,019 --> 00:06:45,017
+A much higher concentration on
+the outside than you have on
+
+136
+00:06:45,017 --> 00:06:47,087
+the inside and it's driven
+by those ion pumps.
+
+137
+00:06:47,087 --> 00:06:50,098
+So once you have this action
+potential, instead of
+
+138
+00:06:50,098 --> 00:06:54,036
+triggering another sodium gate,
+it starts triggering
+
+139
+00:06:54,036 --> 00:06:58,062
+calcium gates and these calcium
+ions flood into the
+
+140
+00:06:58,062 --> 00:07:01,018
+terminal end of this axon.
+
+141
+00:07:01,018 --> 00:07:05,081
+Now, these calcium ions, they
+bond to other proteins.
+
+142
+00:07:05,081 --> 00:07:07,098
+And before I go to those other
+proteins, we have to keep in
+
+143
+00:07:07,098 --> 00:07:12,023
+mind what's going on near this
+junction right here.
+
+144
+00:07:12,023 --> 00:07:14,083
+And I've used the word
+synapse already--
+
+145
+00:07:14,083 --> 00:07:16,010
+actually, maybe I haven't.
+
+146
+00:07:16,010 --> 00:07:21,024
+The place where this axon is
+meeting with this dendrite,
+
+147
+00:07:21,024 --> 00:07:22,049
+this is the synapse.
+
+148
+00:07:22,049 --> 00:07:29,006
+
+
+149
+00:07:29,006 --> 00:07:31,068
+Or you can kind of view it as
+the touching point or the
+
+150
+00:07:31,068 --> 00:07:34,001
+communication point or
+the connection point.
+
+151
+00:07:34,001 --> 00:07:37,048
+And this neuron right
+here, this is called
+
+152
+00:07:37,048 --> 00:07:39,092
+the presynaptic neuron.
+
+153
+00:07:39,092 --> 00:07:40,073
+Let me write that down.
+
+154
+00:07:40,073 --> 00:07:42,066
+It's good to have a little
+terminology under our belt.
+
+155
+00:07:42,066 --> 00:07:49,022
+
+
+156
+00:07:49,022 --> 00:07:51,025
+This is the post-synaptic
+neuron.
+
+157
+00:07:51,025 --> 00:07:58,055
+
+
+158
+00:07:58,055 --> 00:08:02,074
+And the space between the two
+neurons, between this axon and
+
+159
+00:08:02,074 --> 00:08:05,068
+this dendrite, this is called
+the synaptic cleft.
+
+160
+00:08:05,068 --> 00:08:12,061
+
+
+161
+00:08:12,061 --> 00:08:15,069
+It's a really small space in the
+terms of-- so what we're
+
+162
+00:08:15,069 --> 00:08:18,089
+going to deal with in this video
+is a chemical synapse.
+
+163
+00:08:18,089 --> 00:08:21,044
+In general, when people talk
+about synapses, they're
+
+164
+00:08:21,044 --> 00:08:23,025
+talking about chemical
+synapses.
+
+165
+00:08:23,025 --> 00:08:25,087
+There also are electrical
+synapses, but I won't go into
+
+166
+00:08:25,087 --> 00:08:26,081
+detail on those.
+
+167
+00:08:26,081 --> 00:08:29,047
+This is kind of the most
+traditional one that people
+
+168
+00:08:29,047 --> 00:08:30,064
+talk about.
+
+169
+00:08:30,064 --> 00:08:34,066
+So your synaptic cleft in
+chemical synapses is about 20
+
+170
+00:08:34,066 --> 00:08:38,046
+nanometers, which
+is really small.
+
+171
+00:08:38,046 --> 00:08:45,062
+If you think about the average
+width of a cell as about 10 to
+
+172
+00:08:45,062 --> 00:08:49,014
+100 microns-- this micron
+is 10 to the minus 6.
+
+173
+00:08:49,014 --> 00:08:52,015
+This is 20 times 10 to
+the minus 9 meters.
+
+174
+00:08:52,015 --> 00:08:54,028
+So this is a very small distance
+and it makes sense
+
+175
+00:08:54,028 --> 00:08:56,095
+because look how big
+the cells look next
+
+176
+00:08:56,095 --> 00:08:58,003
+to this small distance.
+
+177
+00:08:58,003 --> 00:09:02,021
+So it's a very small distance
+and you have-- on the
+
+178
+00:09:02,021 --> 00:09:05,037
+presynaptic neuron near
+the terminal end,
+
+179
+00:09:05,037 --> 00:09:06,075
+you have these vesicles.
+
+180
+00:09:06,075 --> 00:09:07,076
+Remember what vesicles were.
+
+181
+00:09:07,076 --> 00:09:13,091
+These are just membrane bound
+things inside of the cell.
+
+182
+00:09:13,091 --> 00:09:16,012
+So you have these vesicles.
+
+183
+00:09:16,012 --> 00:09:20,075
+They also have their
+phospobilipid layers, their
+
+184
+00:09:20,075 --> 00:09:21,036
+little membranes.
+
+185
+00:09:21,036 --> 00:09:23,059
+So you have these vesicles so
+these are just-- you can kind
+
+186
+00:09:23,059 --> 00:09:25,035
+of view them as containers.
+
+187
+00:09:25,035 --> 00:09:31,001
+I'll just draw one more
+just like that.
+
+188
+00:09:31,001 --> 00:09:34,005
+And they can train these
+molecules called
+
+189
+00:09:34,005 --> 00:09:36,051
+neurotransmitters and
+I'll draw the
+
+190
+00:09:36,051 --> 00:09:41,027
+neurotransmitters in green.
+
+191
+00:09:41,027 --> 00:09:42,078
+So they have these
+molecules called
+
+192
+00:09:42,078 --> 00:09:45,013
+neurotransmitters in them.
+
+193
+00:09:45,013 --> 00:09:48,040
+You've probably heard
+the word before.
+
+194
+00:09:48,040 --> 00:09:53,004
+In fact, a lot of drugs that
+people use for depression or
+
+195
+00:09:53,004 --> 00:09:59,037
+other things related to our
+mental state, they affect
+
+196
+00:09:59,037 --> 00:10:01,010
+neurotransmitters.
+
+197
+00:10:01,010 --> 00:10:03,072
+I won't go into detail there,
+but they contain these
+
+198
+00:10:03,072 --> 00:10:04,071
+neurotransmitters.
+
+199
+00:10:04,071 --> 00:10:08,080
+And when the calcium channels--
+they're voltage
+
+200
+00:10:08,080 --> 00:10:11,036
+gated-- when it becomes a little
+more positive, they
+
+201
+00:10:11,036 --> 00:10:15,030
+open calcium floods in and what
+the calcium does is, it
+
+202
+00:10:15,030 --> 00:10:19,082
+bonds to these proteins that
+have docked these vesciles.
+
+203
+00:10:19,082 --> 00:10:26,016
+So these little vesicles,
+they're docked to the
+
+204
+00:10:26,016 --> 00:10:30,042
+presynpatic membrane or to this
+axon terminal membrane
+
+205
+00:10:30,042 --> 00:10:30,082
+right there.
+
+206
+00:10:30,082 --> 00:10:33,051
+These proteins are actually
+called SNARE proteins.
+
+207
+00:10:33,051 --> 00:10:36,028
+It's an acronym, but it's also
+a good word because they've
+
+208
+00:10:36,028 --> 00:10:39,053
+literally snared the vesicles
+to this membrane.
+
+209
+00:10:39,053 --> 00:10:41,047
+So that's what these
+proteins are.
+
+210
+00:10:41,047 --> 00:10:45,080
+And when these calcium ions
+flood in, they bond to these
+
+211
+00:10:45,080 --> 00:10:50,097
+proteins, they attach to these
+proteins, and they change the
+
+212
+00:10:50,097 --> 00:10:53,085
+confirmation of the proteins
+just enough that these
+
+213
+00:10:53,085 --> 00:11:00,061
+proteins bring these vesicles
+closer to the membrane and
+
+214
+00:11:00,061 --> 00:11:03,009
+also kind of pull apart the
+two membranes so that the
+
+215
+00:11:03,009 --> 00:11:04,003
+membranes merge.
+
+216
+00:11:04,003 --> 00:11:07,017
+Let me do a zoom in of that
+just to make it clear
+
+217
+00:11:07,017 --> 00:11:08,037
+what's going on.
+
+218
+00:11:08,037 --> 00:11:11,070
+So after they've bonded-- this
+is kind of before the calcium
+
+219
+00:11:11,070 --> 00:11:16,007
+comes in, bonds to those SNARE
+proteins, then the SNARE
+
+220
+00:11:16,007 --> 00:11:20,019
+protein will bring the vesicle
+ultra-close to
+
+221
+00:11:20,019 --> 00:11:22,058
+the presynaptic membrane.
+
+222
+00:11:22,058 --> 00:11:25,071
+So that's the vesicle and then
+the presynaptic membrane will
+
+223
+00:11:25,071 --> 00:11:32,037
+look like this and then you
+have your SNARE proteins.
+
+224
+00:11:32,037 --> 00:11:34,055
+And I'm not obviously drawing it
+exactly how it looks in the
+
+225
+00:11:34,055 --> 00:11:37,021
+cell, but it'll give you the
+idea of what's going on.
+
+226
+00:11:37,021 --> 00:11:42,000
+Your SNARE proteins have
+essentially pulled the things
+
+227
+00:11:42,000 --> 00:11:44,050
+together and have pulled them
+apart so that these two
+
+228
+00:11:44,050 --> 00:11:45,077
+membranes merge.
+
+229
+00:11:45,077 --> 00:11:48,004
+And then the main side effect--
+the reason why all
+
+230
+00:11:48,004 --> 00:11:51,035
+this is happening-- is it allows
+those neurotransmitters
+
+231
+00:11:51,035 --> 00:11:54,007
+to be dumped into the
+synaptic cleft.
+
+232
+00:11:54,007 --> 00:11:57,098
+So those neurotransmitters
+that were inside of our
+
+233
+00:11:57,098 --> 00:12:01,036
+vesicle then get dumped into
+the synaptic cleft.
+
+234
+00:12:01,036 --> 00:12:04,084
+
+
+235
+00:12:04,084 --> 00:12:07,062
+This process right here
+is called exocytosis.
+
+236
+00:12:07,062 --> 00:12:12,016
+It's exiting the cytoplasm,
+you could say, of the
+
+237
+00:12:12,016 --> 00:12:14,021
+presynaptic neuron.
+
+238
+00:12:14,021 --> 00:12:17,012
+These neurotransmitters-- and
+you've probably heard the
+
+239
+00:12:17,012 --> 00:12:20,055
+specific names of many of
+these-- serotonin, dopamine,
+
+240
+00:12:20,055 --> 00:12:23,076
+epinephrine-- which is also
+adrenaline, but that's also a
+
+241
+00:12:23,076 --> 00:12:26,012
+hormone, but it also acts
+as a neurotransmitter.
+
+242
+00:12:26,012 --> 00:12:29,037
+Norepinephrine, also both
+a hormone and a
+
+243
+00:12:29,037 --> 00:12:29,083
+neurotransmitter.
+
+244
+00:12:29,083 --> 00:12:32,082
+So these are words that you've
+probably heard before.
+
+245
+00:12:32,082 --> 00:12:36,007
+But anyway, these enter into
+the synaptic cleft and then
+
+246
+00:12:36,007 --> 00:12:43,077
+they bond on the surface
+of the membrane of the
+
+247
+00:12:43,077 --> 00:12:46,010
+post-synaptic neuron
+or this dendrite.
+
+248
+00:12:46,010 --> 00:12:49,090
+
+
+249
+00:12:49,090 --> 00:12:53,088
+Let's say they bond here, they
+bond here, and they bond here.
+
+250
+00:12:53,088 --> 00:12:56,055
+So they bond on special proteins
+on this membrane
+
+251
+00:12:56,055 --> 00:13:02,000
+surface, but the main effect of
+that is, that will trigger
+
+252
+00:13:02,000 --> 00:13:03,020
+ion channels.
+
+253
+00:13:03,020 --> 00:13:07,087
+So let's say that this neuron
+is exciting this dendrite.
+
+254
+00:13:07,087 --> 00:13:11,053
+So when these neurotransmitters
+bond on this
+
+255
+00:13:11,053 --> 00:13:14,077
+membrane, maybe sodium
+channels open up.
+
+256
+00:13:14,077 --> 00:13:18,064
+So maybe that will cause a
+sodium channel to open up.
+
+257
+00:13:18,064 --> 00:13:20,024
+So instead of being voltage
+gated, it's
+
+258
+00:13:20,024 --> 00:13:22,004
+neurotransmitter gated.
+
+259
+00:13:22,004 --> 00:13:24,095
+So this will cause a sodium
+channel to open up and then
+
+260
+00:13:24,095 --> 00:13:29,035
+sodium will flow in and then,
+just like we said before, if
+
+261
+00:13:29,035 --> 00:13:31,097
+we go to the original one,
+that's like this getting
+
+262
+00:13:31,097 --> 00:13:34,067
+excited, it'll become a little
+bit positive and then if it's
+
+263
+00:13:34,067 --> 00:13:38,087
+enough positive, it'll
+electrotonically increase the
+
+264
+00:13:38,087 --> 00:13:41,025
+potential at this point on the
+axon hillock and then we'll
+
+265
+00:13:41,025 --> 00:13:45,060
+have another neuron-- in this
+case, this neuron being
+
+266
+00:13:45,060 --> 00:13:46,037
+stimulated.
+
+267
+00:13:46,037 --> 00:13:48,007
+So that's essentially
+how it happens.
+
+268
+00:13:48,007 --> 00:13:49,015
+It actually could
+be inhibitory.
+
+269
+00:13:49,015 --> 00:13:54,086
+You could imagine if this,
+instead of triggering a sodium
+
+270
+00:13:54,086 --> 00:14:00,034
+ion channel, if it triggered
+a potassium ion channel.
+
+271
+00:14:00,034 --> 00:14:04,045
+If it triggered a potassium ion
+channel, potassium ion's
+
+272
+00:14:04,045 --> 00:14:06,039
+concentration gradient will
+make it want to go
+
+273
+00:14:06,039 --> 00:14:07,089
+outside of the cell.
+
+274
+00:14:07,089 --> 00:14:09,074
+So positive things are
+going to leave the
+
+275
+00:14:09,074 --> 00:14:11,087
+cell if it's potassium.
+
+276
+00:14:11,087 --> 00:14:14,042
+Remember, I used triangles
+for potassium.
+
+277
+00:14:14,042 --> 00:14:18,042
+And so if positive things leave
+the cell, then if you go
+
+278
+00:14:18,042 --> 00:14:21,054
+further down the neuron, it'll
+become less positive and so
+
+279
+00:14:21,054 --> 00:14:25,051
+it'll be even harder for the
+action potential to start up
+
+280
+00:14:25,051 --> 00:14:29,004
+because it'll need even more
+positive someplace else to
+
+281
+00:14:29,004 --> 00:14:30,037
+make the threshold gradient.
+
+282
+00:14:30,037 --> 00:14:32,029
+I hope I'm not confusing
+you when I say that.
+
+283
+00:14:32,029 --> 00:14:33,096
+So this connection,
+the way I first
+
+284
+00:14:33,096 --> 00:14:35,024
+described it, it's exciting.
+
+285
+00:14:35,024 --> 00:14:38,013
+When this guy gets excited
+from an action potential,
+
+286
+00:14:38,013 --> 00:14:39,062
+calcium floods in.
+
+287
+00:14:39,062 --> 00:14:43,067
+It makes these vesicles dump
+their contents in the synaptic
+
+288
+00:14:43,067 --> 00:14:49,067
+cleft and then that will make
+other sodium gates open up and
+
+289
+00:14:49,067 --> 00:14:51,092
+then that will stimulate this
+neuron, but if it makes
+
+290
+00:14:51,092 --> 00:14:55,004
+potassium gates open up, then
+it will inhibit it-- and
+
+291
+00:14:55,004 --> 00:14:59,051
+that's how, frankly, these
+synapses work.
+
+292
+00:14:59,051 --> 00:15:01,060
+I was about to say there's
+millions of synapses, but
+
+293
+00:15:01,060 --> 00:15:02,048
+that'd be incorrect.
+
+294
+00:15:02,048 --> 00:15:04,084
+There's trillions of synapses.
+
+295
+00:15:04,084 --> 00:15:07,087
+The best estimate of the number
+of synapses in our
+
+296
+00:15:07,087 --> 00:15:18,099
+cerebral cortex is 100 to 500
+trillion synapses just in the
+
+297
+00:15:18,099 --> 00:15:19,086
+cerebral cortex.
+
+298
+00:15:19,086 --> 00:15:22,045
+The reason why we can have so
+many is that one neuron can
+
+299
+00:15:22,045 --> 00:15:25,084
+actually form many, many,
+many, many synapses.
+
+300
+00:15:25,084 --> 00:15:27,074
+I mean, you can imagine if this
+original drawing of a
+
+301
+00:15:27,074 --> 00:15:29,075
+cell, you might have a synapse
+here, a synapse here, a
+
+302
+00:15:29,075 --> 00:15:30,060
+synapse there.
+
+303
+00:15:30,060 --> 00:15:33,067
+You could have hundreds or
+thousands of synapses even,
+
+304
+00:15:33,067 --> 00:15:36,012
+into one neuron or going
+out of one neuron.
+
+305
+00:15:36,012 --> 00:15:38,024
+This might be a synapse with
+one neuron, another one,
+
+306
+00:15:38,024 --> 00:15:39,025
+another one, another one.
+
+307
+00:15:39,025 --> 00:15:42,025
+So you'd have many, many, many,
+many, many connections.
+
+308
+00:15:42,025 --> 00:15:47,022
+And so synapses are really what
+give us the complexity of
+
+309
+00:15:47,022 --> 00:15:50,039
+what probably make us tick in
+terms of our human mind and
+
+310
+00:15:50,039 --> 00:15:50,098
+all of that.
+
+311
+00:15:50,098 --> 00:15:53,038
+But anyway, hopefully you
+found this useful.
