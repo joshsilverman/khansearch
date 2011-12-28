@@ -1,5 +1,4 @@
 require 'pp'
-#require 'yaml'
 require 'json'
 
 class SearchEngine
@@ -23,7 +22,7 @@ class Compilation
     
     k = JSON open('../meta/khan.json').read()
     @videos = {}
-    k.each { |playlist| playlist['videos'].each {|video| @videos[video['title']] = video }}
+    k.each { |playlist| playlist['videos'].each {|video| @videos[video['youtube_id']] = video }}
     
     Dir.glob("../srt/**/*").each do |item|
       next if item == '.' or item == '..'
@@ -47,18 +46,15 @@ end
 class Soundtrack
   attr_accessor :sections, :title, :search, :youtube_id
 
-  def initialize(data, title, videos)
-    raise ArgumentError if data.nil? or title.nil?
-    @title = title.gsub(/[^\/]*\/|\.en\.srt/, "").gsub(/_/, " ")
-    puts videos.class
-    puts videos[@title].class
-    @youtube_id = videos[@title]['youtube_id'] if videos[@title]
-    puts @title unless videos[@title]
+  def initialize(data, youtube_id, videos)
+    raise ArgumentError if data.nil? or youtube_id.nil?
+    @youtube_id = youtube_id.gsub(/[^\/]*\/|\.srt/, "")
+    @title = videos[@youtube_id]['title'] if videos[@youtube_id]
     
     @sections = []
-    data.split(/^\r\n/).each do |sd|
+    data.split(/^\r\n/).each_with_index do |sd, i|
       psd = parse_section_data(sd) 
-      sections << Section.new(psd[:id], psd[:timeframe], psd[:text]) if psd
+      @sections << Section.new(i, self, psd[:id], psd[:timeframe], psd[:text]) if psd
     end
   end
 
@@ -66,7 +62,7 @@ class Soundtrack
     results = []
     @sections.each_with_index do |section, i|
       if section.search(input)
-        results << [section.timeframe, section.text] 
+        results << [section.text, "http://www.youtube.com/watch?v=#{youtube_id}#at=#{section.timeframe}"] 
         [0..3]
       end
     end
@@ -88,17 +84,33 @@ class Soundtrack
 end
 
 class Section
-  attr_accessor :id, :timeframe, :text, :search
+  attr_accessor :i, :soundtrack, :id, :timeframe, :text, :search
 
-  def initialize(id, timeframe, text)
-    @id, @timeframe, @text = id, 0, text
+  def initialize(i, soundtrack, id, timeframe, text)
+    @i, @soundtrack, @id, @timeframe, @text = i, soundtrack, id, 0, text
     
     t = (timeframe.split(/:|,/).map {|x| x.to_i})
     @timeframe = t[0] * 360 + t[1] * 60 + t[2]
   end
 
   def search(input)
-    @text.include?(input)
+    terms = input.downcase.split /\s/
+    perms = terms.permutation.to_a
+    text = @text
+    k = @i + 1
+    while @soundtrack.sections.length() - 1 >= k
+      text += @soundtrack.sections[k].text
+      k += 1
+      break if k - i == 5
+    end
+    text = "" if text.nil?
+    text.downcase!
+    
+    #search permutations
+    perms.each do |perm|
+      return true unless text.match(".+#{perm.join ".+"}.+").nil?
+    end
+    return false
   end
 end
 

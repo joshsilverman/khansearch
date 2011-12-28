@@ -12,7 +12,7 @@ Dir.glob("../srt/**/*").each do |item|
     @title = item.gsub(/[^\/]*\/|\.en\.srt/, "").gsub(/_+/, " ")
     puts item
     if @videos[@title]
-      File.rename item, "../srt/khan/bio/#{@title}"
+      File.rename item, "../srt/khan/bio/#{@videos[@title]['youtube_id']}.srt"
       puts @videos[@title]['youtube_id']
     else
       puts @title
